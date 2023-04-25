@@ -4,6 +4,7 @@ belief - звычай
 charges - дзеяньні
 citizen - жыхар
 city - горад 
+city-state = горад-дзяржава
 civic - палітыка
 custom = уласны
 district - мястэчка
