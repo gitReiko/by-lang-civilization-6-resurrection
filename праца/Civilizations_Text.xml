@@ -210,153 +210,140 @@
 		</Row>
 		<!-- Adjectives -->
 		<Row Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
-			<Text>Амерыканскі|Амерыканскага|Амерыканскаму|Амерыканскага|Амерыканскім|Амерыканскім</Text>
-			<Gender>masculine</Gender>
-			<Plurality>1</Plurality>
+			<Text>амерыканск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_ARABIA_ADJECTIVE">
-			<Text>Arabian</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>арабск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE">
-			<Text>Barbarian</Text>
+			<Text>барбарск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE">
-			<Text>Brazilian</Text>
+			<Text>бразільск.</text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_CHINA_ADJECTIVE">
-			<Text>Chinese</Text>
+			<Text>кітайск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_EGYPT_ADJECTIVE">
-			<Text>Egyptian</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>егіпецк.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_ENGLAND_ADJECTIVE">
-			<Text>English</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>ангельск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_FRANCE_ADJECTIVE">
-			<Text>French</Text>
+			<Text>француск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_GERMANY_ADJECTIVE">
-			<Text>German</Text>
+			<Text>нямецк.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_GREECE_ADJECTIVE">
-			<Text>Greek</Text>
+			<Text>грэц.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_INDIA_ADJECTIVE">
-			<Text>Indian</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>індыйск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_JAPAN_ADJECTIVE">
-			<Text>Japanese</Text>
+			<Text>японск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_KONGO_ADJECTIVE">
-			<Text>Kongolese</Text>
+			<Text>конгаск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_NORWAY_ADJECTIVE">
-			<Text>Norwegian</Text>
+			<Text>нарвеск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_ROME_ADJECTIVE">
-			<Text>Roman</Text>
+			<Text>рымск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_RUSSIA_ADJECTIVE">
-			<Text>Russian</Text>
+			<Text>маскавіцк.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SCYTHIA_ADJECTIVE">
-			<Text>Scythian</Text>
+			<Text>скіфск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SPAIN_ADJECTIVE">
-			<Text>Spanish</Text>
+			<Text>гішпанск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SUMERIA_ADJECTIVE">
-			<Text>Sumerian</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>шумерск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
-			<Text>Amsterdamer</Text>
+			<Text>амстэрдамск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_ADJECTIVE">
-			<Text>Bandar Bruneian</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>бандар брунэйск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE">
-			<Text>Brussels</Text>
+			<Text>брусэльск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE">
-			<Text>Buenos Aires</Text>
+			<Text>буэнос айрэск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_CARTHAGE_ADJECTIVE">
-			<Text>Carthaginian</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>карфагенск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_GENEVA_ADJECTIVE">
-			<Text>Genevese</Text>
+			<Text>жэнеўск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_HATTUSA_ADJECTIVE">
-			<Text>Hattusa</Text>
+			<Text>хатуск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_HONG_KONG_ADJECTIVE">
-			<Text>Hongkongese</Text>
+			<Text>ганконск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_JAKARTA_ADJECTIVE">
-			<Text>Jakartan</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>джакарцк.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE">
-			<Text>Jerusalem</Text>
+			<Text>ерусалімск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_KABUL_ADJECTIVE">
-			<Text>Kabul</Text>
+			<Text>кабульск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_KANDY_ADJECTIVE">
-			<Text>Kandyan</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>кандзійск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_KUMASI_ADJECTIVE">
-			<Text>Kumasi</Text>
+			<Text>кумаск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_LA_VENTA_ADJECTIVE">
-			<Text>La Venta</Text>
+			<Text>ла-венцк.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_LISBON_ADJECTIVE">
-			<Text>Mogadishan</Text>
+			<Text>магадэск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE">
-			<Text>Mohenjo-Daro</Text>
+			<Text>мохэнджа-дарск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_PRESLAV_ADJECTIVE">
-			<Text>Preslav</Text>
+			<Text>праслаўск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_NAN_MADOL_ADJECTIVE">
-			<Text>Nan Madol</Text>
+			<Text>нан мадольск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_SEOUL_ADJECTIVE">
-			<Text>Seoulite</Text>
+			<Text>сеульск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_STOCKHOLM_ADJECTIVE">
-			<Text>Stockholmer</Text>
+			<Text>стакгольмск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_TORONTO_ADJECTIVE">
-			<Text>Torontonian</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>таронцк.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_VALLETTA_ADJECTIVE">
-			<Text>Valletta</Text>
+			<Text>валецк.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_VILNIUS_ADJECTIVE">
-			<Text>Vilnian</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>віленск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_YEREVAN_ADJECTIVE">
-			<Text>Yerevantsi</Text>
+			<Text>ерэванск.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_ZANZIBAR_ADJECTIVE">
-			<Text>Zanzibari</Text>
+			<Text>занзібарск.</Text>
 		</Row>
 		<!-- Civ Traits-->
 		<Row Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
-			<Text>Amazon</Text>
+			<Text>Амазонка</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
 			<Text>Rainforest tiles provide +1 adjacency bonus for Campus, Commercial Hub, Holy Site, and Theater Square districts, and grant +1 Appeal to adjacent tiles, instead of the usual -1.</Text>
