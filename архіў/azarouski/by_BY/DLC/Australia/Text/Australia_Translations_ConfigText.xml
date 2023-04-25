@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_IMPROVEMENT_OUTBACK_STATION_NAME" Language="en_US">
+			<Text>Гавядніцкая ферма|гавядніцкай фермы|гавядніцкай ферме|гавядніцкую ферму|гавядніцкай фермай|гавядніцкай ферме</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUSTRALIA_NAME" Language="en_US">
+			<Text>Аўстралія|Аўстраліі|Аўстраліі|Аўстралію|Аўстраліяй|Аўстраліі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_JOHN_CURTIN_NAME" Language="en_US">
+			<Text>Джон Кэрцін|Джона Кэрціна|Джону Кэрціну|Джона Кэрціна|Джонам Кэрцінам|Джону Кэрціну</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_ULURU_NAME" Language="en_US">
+			<Text>Улуру|Улуру|Улуру|Улуру|Улуру|Улуру</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_NAME" Language="en_US">
+			<Text>Зямля антыподаў</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_Housing] жытла ва ўзбярэжных гарадах. Пашы актывуюць культурны захоп. +1 прыбытку ад кампусаў, цэнтраў камерцыі, святых месцаў і тэатральных пляцоў на клетках з прыцягальным прэстыжам, +3 – на клетках з узрушальным прэстыжам.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_ULURU_DESCRIPTION" Language="en_US">
+			<Text>Дзіва прыроды на адну непраходную клетку. Дае +2 [ICON_CULTURE] культуры і +2 [ICON_FAITH] веры суседнім клеткам. Дае +4 адз. прэстыжу суседнім клеткам заміж звычайных двух.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_OUTBACK_STATION_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам будаваць унікальны аўстралійскі будынак – гавядніцкую ферму.[NEWLINE][NEWLINE]+1 [ICON_FOOD] ежы і +1 [ICON_PRODUCTION] вытворчасці. +1 [ICON_Food] ежы за кожную суседнюю пашу. Дадатковая [ICON_FOOD] ежа і [ICON_PRODUCTION] вытворчасць за суседнія гавядніцкія фермы і пашы па меры вашага пасоўвання па дрэве тэхналогій і сацыяльных інстытутаў. Можна будаваць толькі на клетках пустэльні, пустэльных узгоркаў, сенажацяў і раўнін.</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JOHN_CURTIN" Language="en_US">
+			<Text>Прэм'ер-міністр Кэрцін, вам выпаў гонар узначаліць Аўстралію ў цяжкі час, але выпрабаванні толькі зробяць ваш народ мацнейшым. Шмат каго прыцягне ваша сіла; выберыце надзейных сяброў, каб іх пэўнасць і ваша магутнасць зрабілі шлях лягчэйшым. І помніце: агрэсія – не лепшы выбар.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_NAME" Language="en_US">
+			<Text>Апора цывілізацыі</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_DESCRIPTION" Language="en_US">
+			<Text>+100% [ICON_Production] вытворчасці, калі Аўстраліі была абвешчана вайна на працягу апошніх 10 хадоў ці ж калі яны вызвалілі горад на працягу апошніх 20 хадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DIGGER_DESCRIPTION" Language="en_US">
+			<Text>Унікальны аўстралійскі юніт Новага часу, які замяняе пяхоту. +10 да [ICON_Strength] баявой моцы ў боі на ўзбярэжных клетках. +5 да [ICON_Strength] баявой моцы ў боі на нейтральнай ці чужой тэрыторыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DIGGER_NAME" Language="en_US">
+			<Text>Дыгер</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DIGGER_DESCRIPTION" Language="en_US">
+			<Text>+10 да [ICON_Strength] баявой моцы ў боі на ўзбярэжных клетках. +5 да [ICON_Strength] баявой моцы ў боі на нейтральнай ці чужой тэрыторыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>+100% [ICON_PRODUCTION] вытворчасці, калі атрымае паведамленне пра абвестку вайны і цягам 10 хадоў пасля вызвалення горада.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DIGGER_BONUS_ON_COAST_DESCRIPTION" Language="en_US">
+			<Text>+{1_Amount} да баявой моцы на ўзбярэжных клетках</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DIGGER_NON_DOMESTIC_BONUS_DESCRIPTION" Language="en_US">
+			<Text>+{1_Amount} да баявой моцы за межамі дружалюбнай тэрыторыі</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DIGGER_NAME" Language="en_US">
+			<Text>Дыгер|дыгера|дыгеру|дыгера|дыгерам|дыгеру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+	</LocalizedText>
+</GameData>

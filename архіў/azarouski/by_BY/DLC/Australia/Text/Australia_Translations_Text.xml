@@ -1,0 +1,626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CITY_NAME_CANBERRA" Language="en_US">
+			<Text>Канбера|Канберы|Канберы|Канберу|Канберай|Канберы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SYDNEY" Language="en_US">
+			<Text>Сіднэй|Сіднэя|Сіднэю|Сіднэй|Сіднэем|Сіднэі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MELBOURNE" Language="en_US">
+			<Text>Мельбурн|Мельбурна|Мельбурну|Мельбурн|Мельбурнам|Мельбурне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRISBANE" Language="en_US">
+			<Text>Брысбен|Брысбена|Брысбену|Брысбен|Брысбенам|Брысбене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ADELAIDE" Language="en_US">
+			<Text>Адэлаіда|Адэлаіды|Адэлаідзе|Адэлаіду|Адэлаідай|Адэлаідзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PERTH" Language="en_US">
+			<Text>Перт|Перта|Перту|Перт|Пертам|Перце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HOBART" Language="en_US">
+			<Text>Хобарт|Хобарта|Хобарту|Хобарт|Хобартам|Хобарце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GEELONG" Language="en_US">
+			<Text>Джылонг|Джылонга|Джылонгу|Джылонг|Джылонгам|Джылонзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LAUNCESTON" Language="en_US">
+			<Text>Лонсестан|Лонсестана|Лонсестану|Лонсестан|Лонсестанам|Лонсестане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BALLAARAT" Language="en_US">
+			<Text>Баларат|Баларата|Баларату|Баларат|Баларатам|Балараце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ROCKHAMPTON" Language="en_US">
+			<Text>Рокгемптан|Рокгемптана|Рокгемптану|Рокгемптан|Рокгемптанам|Рокгемптане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOOWOOMBA" Language="en_US">
+			<Text>Тувумба|Тувумбы|Тувумбе|Тувумбу|Тувумбай|Тувумбе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOWNSVILLE" Language="en_US">
+			<Text>Таўнсвіл|Таўнсвіла|Таўнсвілу|Таўнсвіл|Таўнсвілам|Таўнсвіле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BENDIGO" Language="en_US">
+			<Text>Бендыга|Бендыга|Бендыга|Бендыга|Бендыга|Бендыга</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BROKEN_HILL" Language="en_US">
+			<Text>Брокен-Хіл|Брокен-Хіла|Брокен-Хілу|Брокен-Хіл|Брокен-Хілам|Брокен-Хіле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MAITLAND" Language="en_US">
+			<Text>Мэйтленд|Мэйтленда|Мэйтленду|Мэйтленд|Мэйтлендам|Мэйтленду</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WOLLONGONG" Language="en_US">
+			<Text>Вуланганг|Вуланганга|Вулангангу|Вуланганг|Вулангангам|Вулангангу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CAIRNS" Language="en_US">
+			<Text>Кэрнс|Кэрнса|Кэрнсу|Кэрнс|Кэрнсам|Кэрнсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DARWIN" Language="en_US">
+			<Text>Дарвін|Дарвіна|Дарвіну|Дарвін|Дарвінам|Дарвіне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GOULBURN" Language="en_US">
+			<Text>Гоўлберн|Гоўлберна|Гоўлберну|Гоўлберн|Гоўлбернам|Гоўлберне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BUNDABERG" Language="en_US">
+			<Text>Бандаберг|Бандаберга|Бандабергу|Бандаберг|Бандабергам|Бандаберзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WAGGA_WAGGA" Language="en_US">
+			<Text>Ўога-Ўога|Ўога-Ўогі|Ўога-Ўозе|Ўога-Ўогу|Ўога-Ўогай|Ўога-Ўозе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LISMORE" Language="en_US">
+			<Text>Лісмар|Лісмара|Лісмару|Лісмар|Лісмарам|Лісмары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LITHGOW" Language="en_US">
+			<Text>Літгаў|Літгаў|Літгаў|Літгаў|Літгаў|Літгаў</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MARYBOROUGH" Language="en_US">
+			<Text>Мэрыбара |Мэрыбара |Мэрыбара |Мэрыбара |Мэрыбара |Мэрыбара</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALBURY" Language="en_US">
+			<Text>Олберы|Олберы|Олберы|Олберы|Олберы|Олберы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ORANGE" Language="en_US">
+			<Text>Орындж|Орынджа|Орынджу|Орындж|Орынджам|Орынджы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FREMANTLE" Language="en_US">
+			<Text>Фрымантл|Фрымантла|Фрымантлу|Фрымантл|Фрымантлам|Фрымантле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TWEED_HEADS" Language="en_US">
+			<Text>Цвід-Хэдс|Цвід-Хэдса|Цвід-Хэдсу|Цвід-Хэдс|Цвід-Хэдсам|Цвід-Хэдсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_COFFS_HARBOUR" Language="en_US">
+			<Text>Кофс-Харбар|Кофс-Харбара|Кофс-Харбару|Кофс-Харбар|Кофс-Харбарам|Кофс-Харбары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HERVEY_BAY" Language="en_US">
+			<Text>Харві-Бей|Харві-Бея|Харві-Бею|Харві-Бей|Харві-Беем|Харві-Бею</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KALGOORLIE" Language="en_US">
+			<Text>Калгурлі|Калгурлі|Калгурлі|Калгурлі|Калгурлі|Калгурлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PORT_MACQUARIE" Language="en_US">
+			<Text>Порт-Макуоры|Порт-Макуоры|Порт-Макуоры|Порт-Макуоры|Порт-Макуоры|Порт-Макуоры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ALICE_SPRINGS" Language="en_US">
+			<Text>Эліс-Спрынгс|Эліс-Спрынгса|Эліс-Спрынгсу|Эліс-Спрынгс|Эліс-Спрынгсам|Эліс-Спрынгсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BATHURST" Language="en_US">
+			<Text>Батэрст|Батэрста|Батэрсту|Батэрст|Батэрстам|Батэрсце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GLADSTONE" Language="en_US">
+			<Text>Гладстан|Гладстана|Гладстану|Гладстан|Гладстанам|Гладстану</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_QUEANBEYAN" Language="en_US">
+			<Text>Кўінбіян|Кўінбіяна|Кўінбіяну|Кўінбіян|Кўінбіянам|Кўінбіяне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PORT_PIRIE" Language="en_US">
+			<Text>Порт-Піры|Порт-Піры|Порт-Піры|Порт-Піры|Порт-Піры|Порт-Піры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOOMAHNOOMOONAH" Language="en_US">
+			<Text>Буманумуна|Буманумуны|Буманумуне|Буманумуну|Буманумунай|Буманумуне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUSTRALIA_DESCRIPTION" Language="en_US">
+			<Text>Аўстралійская імперыя|Аўстралійскай імперыі|Аўстралійскай імперыі|Аўстралійскую імперыю|Аўстралійскай імперыяй|Аўстралійскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUSTRALIA_ADJECTIVE" Language="en_US">
+			<Text>аўстралійск.|аўстралійск.|аўстралійск.|аўстралійск.|аўстралійск.|аўстралійск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>На «землю антиподов», заселенную поочередно аборигенами, каторжниками, бедняками, старателями и беглыми преступниками, первые люди пришли около 45 тыс. лет назад. Они мигрировали через индонезийские острова и высадились на северном побережье континента. Эти охотники и собиратели процветали в изоляции и создали богатую духовную культуру, а в 1770 году Джеймс Кук прошел вдоль этих берегов и объявил все эти земли собственностью Великобритании. Капитан Кук не был первооткрывателем Австралии – до него здесь побывали голландец Виллем Янсзон и англичанин Уильям Дэмпир – но он первым увидел здесь не только далекую и опасную территорию, но и новые возможности.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Когда молодая американская нация отказалась принимать корабли с английскими каторжниками, власти Англии пересмотрели свои планы. В то время считалось, что «проще всего избавляться от всякого сброда, отправляя его на другой конец света». Итак, командир эскадры Артур Филлип отправился из Англии во главе Первого флота, состоящего из 11 кораблей (два военных корабля сопровождения, шесть транспортов с заключенными и три грузовых судна), к берегам Нового Южного Уэльса. По прибытии в залив Ботани в январе 1788 года Филлип решил, что окружающая болотистая местность малопригодна для жизни колонистов, и перенес поселение на север – в удобную естественную гавань Порт-Джексон, сегодня известную под названием Сиднейской бухты.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Первые годы существования маленького городка Сидней были очень трудными. В конце XVIII столетия из опасных (и не очень) преступников редко получались хорошие фермеры, а транспорты со снабжением приходили редко. В 1788-1792 годах сюда прибыло для отбывания наказания 3546 мужчин и 766 женщин – в большинстве своем больных и негодных к тяжелой работе. В 1790 году прибыл Второй флот, потеряв в пути более четверти своих пассажиров, а ужасное состояние прибывших с Третьим флотом потрясло первых поселенцев. Но Филлип искренне заботился об успехе колонизации и благосостоянии колонистов – хоть и преступников. Он отправлял отряды на разведку территории в поисках лучших сельскохозяйственных угодий, приглашал торговые суда, учреждал программы здравоохранения, основал несколько поселений-спутников во избежание перенаселения и игнорировал бессмысленные распоряжения из Англии. Когда губернатор Филлип в 1792 году вернулся в Англию, колония достаточно окрепла и была готова к приему добровольных переселенцев.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Поначалу колонисты не обращали внимания на аборигенов, живших в каком-то сказочном мире грез. В конце XVIII века здесь насчитывалось около миллиона коренных австралийцев, разделенных на примерно 300 родов и говоривших на 250 языках и 700 диалектах. У каждого рода была духовная связь с определенной территорией – клочком пустыни, тропического леса или гор. По мнению аборигенов, духи предков создали жизнь во всем ее многообразии в эпоху творения («время сновидений») и сплели воедино прошлое, настоящее и будущее.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Хотя голландцы претендовали на западную часть континента, англичане основали поселения по всему побережью в свойственной национальным государствам пассивно-агрессивной манере. Земля Ван-Димена (ныне известная как Тасмания) была заселена в 1803 году. В 1824 году капитан Бремер основал недолго просуществовавшую колонию Форт-Дандас. В том же году было создано еще одно поселение каторжников в устье реки Брисбен, а в 1826 году майор Локайер основал поселение в заливе Короля Георга, и Великобритания полностью заняла весь континент.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Новые поселенцы все прибывали в поисках лучшей жизни или легкой наживы, и число колонистов стремительно росло. Бывшие солдаты и каторжники изгнали племя ягера и заняли их землю вблизи современного Брисбена. В 1829 году англичане основали город Перт. Еще одна группа переселенцев в 1835 году отправилась в залив Порт-Филлип и предположительно основала Мельбурн. Тем временем, Южно-австралийская компания при поддержке британской короны основала Аделаиду.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>По мнению историка Ллойда Робсона, в течение восьмидесяти лет (1788-1868) в разные австралийские колонии было отправлено около 161 700 заключенных. Примерно две трети от их количества составляли воры из бурно растущих, перенаселенных промышленных центров (преимущественно из северных и центральных районов). Помимо этого, корабли все чаще привозили сюда торговцев и квалифицированных специалистов (врачей, священников, юристов, инженеров), столь необходимых этой новой территории «старой доброй Англии» в мире антиподов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>С начала 20-х годов XIX века все большее количество людей самовольно занимало земли за пределами официальных поселений. На обширных фермах разводили овец, выращивали пшеницу и овес. Небольшие вложения давали немалую прибыль, и это побуждало других следовать их примеру. Шерсть стала основной – и наиболее доходной – статьей австралийского экспорта, и отправлялась она в основном на английские фабрики. К 1850 году 200 поселенцев заняли более 115 830 кв. миль (300 тыс. кв. км) земель и со временем образовали могущественный и «респектабельный» слой местного общества.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>Тем временем, британское министерство по делам колоний опубликовало декрет губернатора Берка, согласно которому Австралия признавалась «ничейной землей». Заявление о том, что территория Австралии не принадлежит никому, кроме британского монарха, не оставляло возможности заключения каких-либо договоров с аборигенами. Как бы то ни было, завезенные европейцами болезни уже фактически лишили смысла этот документ. Среди аборигенов свирепствовали оспа, грипп, корь, коклюш, туберкулез. Вскоре после основания колонии Сидней эпидемия оспы уничтожила половину коренного населения этой территории. Впрочем, и сами колонисты принимали активное участие в убийствах местных жителей: война на реке Хоксбери (1795-1816), война Пемалвая (1795-1802), война Тедбери (1808-1809) и война на реке Непин (1814-1816) надолго определили характер отношений между европейцами и аборигенами.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>В 1851 году в Новом Южном Уэльсе и центральной Виктории нашли золото. Это резко увеличило приток мигрантов, намного превзойдя взрывной прирост населения в Калифорнии во время «золотой лихорадки» 1848 года. Сюда прибывали корабли, битком набитые искателями (а порой – и искательницами) приключений из Китая, с калифорнийских приисков, из Ирландии, Британии, Индии – сумбурный карнавал актеров, мошенников, проходимцев, шулеров, трактирщиков, среди которых встречались и золотоискатели. Население колонии Виктория росло небывалыми темпами – с 76 тыс. жителей в 1850 году, до 530 тыс. в 1859. Правительство попыталось навести порядок с помощью лицензирования и полиции, но это лишь привело к всплеску насилия и закончилось побоищем в Балларате, в котором около 30 «копателей» погибли, многие были ранены. Спустя несколько месяцев королевская комиссия радикально реформировала управление растущими территориями приисков: отменила лицензии, реорганизовала полицию и предоставила право голоса старателям.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>Невзирая на кровопролитие на приисках и в малозаселенных районах, золото и шерсть привлекли инвестиции и цивилизацию в города наподобие Мельбурна, Виктории и Сиднея. К 80-м годам XIX века это были современные, развитые города на краю света, в которых уличные перестрелки уже стали редким явлением. К этому моменту большинство жителей континента являлись уроженцами Австралии и считали себя австралийцами. Специфический австралийский стиль проявлялся в местной литературе и искусстве. Прогресс и рост культуры неизбежно привел к тому, что австралийские колонисты стали подумывать об отделении от далекой Англии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_12" Language="en_US">
+			<Text>В 1890 году в Мельбурне собрались представители шести колоний (и поначалу несколько новозеландцев). Они обратились к колониям с призывом объединиться и избрать представителей в учредительное собрание. На следующий же год был созван «Национальная австралийская конвенция», после долгих дебатов подготовивший проект конституции. Среди всеобщего волнения австралийские делегаты с этим проектом отбыли в Лондон. В июле он был утвержден парламентом и вскоре после этого подписан королевой Викторией. В Австралию был направлен британский лорд для создания переходного кабинета министров, надзора за организацией содружества и проведения первых выборов. Так, 1 января 1901 года был создан Австралийский Союз.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_13" Language="en_US">
+			<Text>Несмотря на опустошительные засухи и нашествия кроликов, разорившие большую часть австралийских фермерских хозяйств, новая страна процветала и благоденствовала. Австралийский парламент принимал законы (некоторые из них – сомнительного характера, как, например, «Закон об ограничении иммиграции» 1901 года). Нация наскоро слепила вооруженные силы и военный флот из остатков колониальной армии, а затем «земля антиподов» и сама активно включилась в колониальные дела – Британская Новая Гвинея в 1906 году стала Территорией Папуа под управлением Австралии. Все было относительно тихо – до вступления страны в мировую войну.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_14" Language="en_US">
+			<Text>Добровольцем на Первую мировую войну пошел почти каждый десятый из 4,9 млн. австралийцев. Более 60 тысяч погибло на полуострове Галлиполли, на Западном фронте и на Ближнем Востоке. Взамен австралийским представителям было предоставлено место на Парижской мирной конференции, и Версальский договор оказался первым международным соглашением, подписанным Австралией. Страна заседала в Лиге Наций, получила несколько бывших колоний побежденной Германии: Германскую Новую Гвинею, архипелаг Бисмарка и Науру.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_15" Language="en_US">
+			<Text>20-е годы XX века принесли волнения рабочих, стремительную модернизацию, Великую депрессию и несколько политических кризисов. 30-е годы отметились столь сильным ростом международной напряженности, связанной с экспансией Японии в южной части Тихого океана, что и либералы, и лейбористы во время предвыборной кампании 1937 года сделали увеличение расходов на оборону своим главным лозунгом. Правительство придавало особое значение сотрудничеству с Великобританией в рамках «оборонной политики Империи», что неизбежно вовлекло Австралию в новую мировую войну в сентябре 1939 года. Австралийские части отличились в боях на Средиземном море, но в первые два года они были заняты преимущественно сдерживанием императорской Японии, захватившей обширные территории в Тихом океане, Юго-Восточной Азии, в Индонезии и на Филиппинах. В феврале 1942 года был совершен опустошительный авианалет на порт Дарвин – первый из более сотни на австралийском континенте.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_16" Language="en_US">
+			<Text>Под руководством премьер-министра Кэртина Австралия сражалась на нескольких фронтах. Особо стоит выделить джунгли Новой Гвинеи – стартовую площадку возможного японского вторжения. Правительство Кэртина поставило экономику всей страны на военные рельсы: вводило нормирование продуктов, принимало беженцев, строило заводы и верфи, призывало «стоять до конца». По итогам войны Австралия потеряла 27 тысяч солдат, летчиков и моряков.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AUSTRALIA_CHAPTER_HISTORY_PARA_17" Language="en_US">
+			<Text>После войны Австралия бурно развивалась: увеличивался экспорт, рос приток иммигрантов из Европы при поддержке правительства, разрастались пригороды, в искусстве царил «новый национализм», аборигенам были предоставлены гражданские права. Австралия воздержалась от активного участия в безумии «холодной войны». Прогнозы на XXI век еще более благоприятны для австралийцев.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOHN_CURTIN_QUOTE" Language="en_US">
+			<Text>Я ўпэўнены, што сёння ў Аўстраліі квітнее найяркі патрыятызм, якога мы не ведалі ні ў адзін з перыядаў гісторыі нашай краіны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOHN_CURTIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Жизнь Джона Джозефа Кэртина могла бы служить примером триумфа обычного человека – в том смысле, что ничем не выдающийся человек стал политическим деятелем, лидером партии и премьер-министром. С ним считались как политические союзники, так и противники. В немалой степени это было обусловлено тем, как он провел Австралию сквозь хаос Второй мировой войны, осознавая огромную опасность, нависшую над молодой державой.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOHN_CURTIN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Джон родился в январе 1885 года в Кресвике (Виктория), в семье ирландских иммигрантов Джона и Кэтрин. Джон-старший служил надзирателем в тюрьме Пентридж, солдатом, полицейским в Кресвике, работал администратором в отелях Мельбурна, Дроманы, Мэседона и других городов. Наконец, семья обосновалась в Брунсвике, где жила в бедности. Из-за постоянных переездов Джон-младший получил обрывочное образование – в основном, в католических школах. В 13-летнем возрасте он оставил учебу и стал работать курьером в кресвикской газете «Эйдж», затем – посыльным в «Рэмблере» и рабочим на гончарном заводе. Наконец, в 1903 году юный Джон получил работу с роскошной зарплатой (два фунта в неделю) на заводе компании «Титан». Это позволило ему проводить избыток свободного времени в публичной библиотеке, где он увлекся чтением «серьезных» книг и политических статей.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOHN_CURTIN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>К 1911 году он уже работал секретарем профсоюза лесорубов, много читал, отошел от католической религии, вступил в местный Политический трудовой совет и Социалистическую партию штата Виктория, заработал репутацию «оратора-лейбориста», начал писать статьи для радикальных и социалистических газет и играл в брунсвикском футбольном клубе. В 1917 году женился на Элси Нидхэм – сестре сенатора-лейбориста Теда Нидхэма – и переехал в Перт, где стал редактором газеты «Уэстрелиэн уоркер». На западе дела у него пошли хорошо, и вскоре его избрали президентом Ассоциации журналистов Австралии. Но до этого он был под судом по обвинению в уклонении от воинской службы во время Первой мировой войны и осужден на три месяца тюремного заключения, из которых отбыл три дня.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOHN_CURTIN_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>В 1924 году был делегатом Австралии на конференции Международной организации труда в Женеве, после чего этот «краснопузый с востока» получил место в парламенте от округа Фримантл в 1928 и 1929 годах. Мало кто из членов парламента имел столь богатый опыт общения с рабочим классом. Кэртин счел себя оскорбленным, не получив должность министра в правительстве Джеймса Скаллина. Разочарованный, мрачный, отчужденный и запойно пьющий Кэртин решил уйти из политики.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOHN_CURTIN_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Но вместо этого, когда в 1935 году оклеветанный Скаллин покинул пост лидера лейбористской партии, Кэртин решил участвовать в выборах на эту должность. Его главным оппонентом был Фрэнк Форд, чье имя было связано с провальной экономической политикой правительства Скаллина. Левые фракции и профсоюзы поддержали неопытного Кэртиса – при условии отказа от спиртного. Он победил Форда с отрывом в один голос и стал одновременно лидером лейбористской партии и парламентской оппозиции в Австралии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOHN_CURTIN_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Взявшись за объединение расколотой партии со своей обычной энергией, Кэртин постоянно посещал местные и государственные партийные центры и – по мнению политических экспертов – его «спокойная настойчивость и предельная ясность» способствовали возрождению лейбористов. Лейбористская партия зарабатывала очки, но начавшаяся война изменила все планы. Когда Великобритания объявила войну нацистской Германии, австралийский премьер Роберт Мензис объявил, что Австралия поддержит военные инициативы Содружества. К несчастью для Мензиса, его собственная партия лишила его поддержки, пока он находился в Англии. Ему пришлось подать в отставку.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOHN_CURTIN_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>Растущий милитаризм бряцающей оружием Японии вызывал озабоченность всех австралийцев. Парламент поддержал кандидатуру Кэртина на пост премьер-министра, поскольку прочие кандидаты не могли составить ему конкуренции. Кэртин был приведен к присяге в октябре 1941 года, в 56-летнем возрасте. А в декабре началось массированное японское наступление на всем тихоокеанском театре военных действий.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOHN_CURTIN_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>Уничтожение по меньшей мере двух британских линкоров в южной части Тихого океана, взятие Сингапура, японские авианалеты на север Австралии – все это вызывало страх перед возможным вторжением. Кэртин подчинил австралийские интересы Соединенным Штатам, провел закон, позволяющий австралийским призывникам воевать за пределами страны и укреплял независимость Австралийского доминиона от Великобритании. Хотя лейбористы встречали в штыки его военные инициативы, но прогрессивные социальные реформы устраивали всех, кроме ярых противников: работа для всех желающих, пенсии для нетрудоспособных, расширение прав аборигенов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOHN_CURTIN_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>Все четыре года войны Кэртин лавировал между подводными камнями общественного мнения, побед и поражений, сотрудничества с беспокойными союзниками. Он блестяще справился со своими задачами, но подорвал здоровье. В конце апреля 1945 года, когда война уже приближалась к концу, у него началась пневмония. Проведя несколько недель в больнице, Кэртин вернулся к работе. Он умер в июле, за полтора месяца до окончания Второй мировой войны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOHN_CURTIN_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Австралиец ищет территории с высокой привлекательностью и обширные пространства для разведения скота. Освоение земель, которые отпугивают остальных, позволяет австралийцам построить мощную цивилизацию, закаленную в оборонительных и освободительных войнах под предводительством Джона Кэртина.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOHN_CURTIN_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Австралийцу нравится побережье. Освоение этих территорий позволяет построить много жилья, а клетки с высоким престижем дают дополнительный доход городским районам. Австралийцы будут расселяться вглубь материка там, где можно разводить скот и использовать пастбища для культурного захвата и расширения территории, необходимой для строительства новых скотоводческих ферм. Благодаря умениям Джона Кэртина австралийцы на международной арене отлично умеют обороняться. Они не любят агрессивные цивилизации и при первой же возможности отправляют свои войска – особенно австралийских диггеров – для отражения агрессии и освобождения городов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DIGGER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В начале Первой мировой войны британская армия испытывала нехватку солдат, что привело к созданию Австралийских имперских сил (АИС). Чтобы упростить формальности, эти войска были объединены с новозеландскими. Новообразованный корпус прошел крещение огнем в Галлиполийском сражении, которое началось с высадки крупнейшего (на тот момент) морского десанта в современной истории. Эти солдаты, прозванные «диггерами» за то, что быстро окапывались (или потому, что англичане считают всех австралийцев шахтерами), неоднократно отличались в ходе войны и, невзирая на все трудности, заработали репутацию храбрых и неунывающих вояк. После войны этот корпус был расформирован, но формировался вновь для совместного участия Австралии и Новой Зеландии в масштабных конфликтах (например, во Второй мировой войне и войне во Вьетнаме).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_ULURU_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Массивное образование из песчаника в географическом центре Австралии – «скальный остров», возвышающийся над окружающим бушлендом. Аборигены называют эту гору «Улуру». На протяжении бесчисленных поколений ей было отведено особое место в духовной культуре народа анангу. В 1873 году некий колонист-исследователь назвал ее «Эрс-рок» в честь чиновника колониальной администрации Генри Эрса, чьим величайшим достижением было присвоение его имени большой скале, у которой уже было название. Гора Улуру знаменита своей первозданной красотой и меняющейся в течение дня окраской, особенно необычной на рассвете и закате.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_OUTBACK_STATION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Фермы в австралийской провинции – это огромные участки земли, отары скота и самодостаточность. Нечто вроде американских ранчо, но с тем отличием, что австралийские скотоводы ведут хозяйство в отдаленных и негостеприимных местах. Фермы часто занимают огромные территории, чтобы компенсировать низкую производительность пастбищ и частые засухи. Как нетрудно догадаться, на овцеводческих фермах разводят овец, а на фермах крупного рогатого скота – коров. Овцы – это легкая и вкусная добыча для диких собак динго, поэтому в районах массового обитания динго фермеры разводят более устойчивые к хищникам породы скота.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_1" Language="en_US">
+			<Text>Анатжары|Анатжары|Анатжары|Анатжары|Анатжары|Анатжары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_2" Language="en_US">
+			<Text>Коўлбі|Коўлбі|Коўлбі|Коўлбі|Коўлбі|Коўлбі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_3" Language="en_US">
+			<Text>Джалу|Джалу|Джалу|Джалу|Джалу|Джалу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_4" Language="en_US">
+			<Text>Гурумара|Гурумары|Гурумары|Гурумару|Гурумарай|Гурумары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_5" Language="en_US">
+			<Text>Джарлі|Джарлі|Джарлі|Джарлі|Джарлі|Джарлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_6" Language="en_US">
+			<Text>Мендэвай|Мендэвая|Мендэваю|Мендэвая|Мендэваем|Мендэвае</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_7" Language="en_US">
+			<Text>Тоба|Тобы|Тобе|Тобу|Тобам|Тобу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_8" Language="en_US">
+			<Text>Яра|Яры|Яру|Яру|Ярам|Яру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_9" Language="en_US">
+			<Text>Ўорын|Ўорына|Ўорыну|Ўорына|Ўорынам|Ўорыну</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MALE_10" Language="en_US">
+			<Text>Ваку|Ваку|Ваку|Ваку|Ваку|Ваку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_1" Language="en_US">
+			<Text>Біндзі|Біндзі|Біндзі|Біндзі|Біндзі|Біндзі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_2" Language="en_US">
+			<Text>Калінда|Калінды|Каліндзе|Калінду|Каліндай|Каліндзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_3" Language="en_US">
+			<Text>Кіра|Кіры|Кіры|Кіру|Кірай|Кіры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_4" Language="en_US">
+			<Text>Элін|Элін|Элін|Элін|Элін|Элін</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_5" Language="en_US">
+			<Text>Джэда|Джэды|Джэдзе|Джэду|Джэдай|Джэдзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_6" Language="en_US">
+			<Text>Лена|Лены|Лене|Лену|Ленай|Лене</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_7" Language="en_US">
+			<Text>Марында|Марынды|Марындзе|Марынду|Марындай|Марындзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_8" Language="en_US">
+			<Text>Парара|Парары|Парары|Парару|Парарай|Парары</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_9" Language="en_US">
+			<Text>Таталі|Таталі|Таталі|Таталі|Таталі|Таталі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_FEMALE_10" Language="en_US">
+			<Text>Вінтжыя|Вінтжыі|Вінтжыі|Вінтжыю|Вінтжыяй|Вінтжыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_1" Language="en_US">
+			<Text>Джэймс|Джэймса|Джэймсу|Джэймса|Джэймсам|Джэймсу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_2" Language="en_US">
+			<Text>Люк|Люка|Люку|Люка|Люкам|Люку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_3" Language="en_US">
+			<Text>Джэксан|Джэксана|Джэксану|Джэксана|Джэксанам|Джэксану</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_4" Language="en_US">
+			<Text>Кодзі|Кодзі|Кодзі|Кодзі|Кодзі|Кодзі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_5" Language="en_US">
+			<Text>Міч|Міча|Мічу|Міча|Мічам|Мічу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_6" Language="en_US">
+			<Text>Блэйк|Блэйка|Блэйку|Блэйка|Блэйкам|Блэйку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_7" Language="en_US">
+			<Text>Х'юга|Х'юга|Х'юга|Х'юга|Х'юга|Х'юга</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_8" Language="en_US">
+			<Text>Брэндэн|Брэндэна|Брэндэну|Брэндэна|Брэндэнам|Брэндэну</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_9" Language="en_US">
+			<Text>Джордан|Джордана|Джордану|Джордана|Джорданам|Джордану</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_MALE_10" Language="en_US">
+			<Text>Майкл|Майкла|Майклу|Майкла|Майклам|Майклу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_1" Language="en_US">
+			<Text>Ніколь|Ніколь|Ніколь|Ніколь|Ніколь|Ніколь</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_2" Language="en_US">
+			<Text>Алівія|Алівіі|Алівіі|Алівію|Алівіяй|Алівіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_3" Language="en_US">
+			<Text>Зоі|Зоі|Зоі|Зоі|Зоі|Зоі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_4" Language="en_US">
+			<Text>Холі|Холі|Холі|Холі|Холі|Холі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_5" Language="en_US">
+			<Text>Пэйдж|Пэйдж|Пэйдж|Пэйдж|Пэйдж|Пэйдж</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_6" Language="en_US">
+			<Text>Кэйтлін|Кэйтлін|Кэйтлін|Кэйтлін|Кэйтлін|Кэйтлін</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_7" Language="en_US">
+			<Text>Луіза|Луізы|Луізе|Луізу|Луізай|Луізе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_8" Language="en_US">
+			<Text>Мішэль|Мішэль|Мішэль|Мішэль|Мішэль|Мішэль</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_9" Language="en_US">
+			<Text>Элізабэт|Элізабэт|Элізабэт|Элізабэт|Элізабэт|Элізабэт</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_AUSTRALIA_MODERN_FEMALE_10" Language="en_US">
+			<Text>Алісія|Алісіі|Алісіі|Алісію|Алісіяй|Алісіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_NAME" Language="en_US">
+			<Text>Заўсёды на варце</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_PERPETUALLY_ON_GUARD_DESCRIPTION" Language="en_US">
+			<Text>Сімпатызуе цывілізацыям, якія вызваляюць гарады. Не любіць вайсковыя цывілізацыі, якія захопліваюць варожыя гарады.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_AUSTRALIA_LOCATION" Language="en_US">
+			<Text>Аўстралійскі кантынент</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_AUSTRALIA_SIZE" Language="en_US">
+			<Text>Прыкладна 7,7 млн кв.км</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_AUSTRALIA_POPULATION" Language="en_US">
+			<Text>Каля 24 мільёнаў (у 2017 г.)</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_AUSTRALIA_CAPITAL" Language="en_US">
+			<Text>раней Мельбурн, цяпер – Канбера</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_ULURU_QUOTE" Language="en_US">
+			<Text>«Наколькі велічным павінна быць гэта відовішча ў сезон дажджоў, калі паўсюль вадаспады!»[NEWLINE]– Ўільям Гос</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_OUTBACK_STATION_NAME" Language="en_US">
+			<Text>Унікальнае аўстралійскае паляпшэнне: гавядніцкая ферма</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Мы будзем рады моцнаму сяброўству паміж нашымі народамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Спадзяюся, вы разумееце, што мы пакуль не гатовы да якіх-небудзь афіцыйных дзеянняў.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Я ўпэўнены, што наша сяброўства заснавана на ўзаемнай зацікаўленасці ў захаванні стабільнасці і абароне бедных. Спадзяюся, вы з гэтым згодныя.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Я высока шаную тое, што вы робіце.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Непажаданы паварот.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Мы скарыстаем усе сродкі для спынення замахаў на нашу краіну!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Пасля працяглых дэбатаў Аўстралія апынулася на ростані. Рыхтуйцеся – набліжаецца вайна.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Аўстралія цёпла вітае вашу дэлегацыю, што прыбыла ў сталіцу. Я збіраюся зладзіць асабістую сустрэчу для абмеркавання нашых нядаўніх дзеянняў.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>З усёй належнай павагай я адсылаю вашу амбасаду назад.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Я адправіў да вас гандлёвую дэлегацыю з прадуктамі харчавання, якія вырабляюць нашы фермеры. Спадзяюся, вы прымеце іх разам з нашай шчырай падзякай.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Увесь свет даведаецца пра ваш паклёп на Аўстралію і аўстралійцаў, калі ваша нікчэмная краіна патрывае паразу!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Гэтыя ганебныя словы і дзеянні давядуць ваш народ толькі да невуцтва і галечы (асуджае вас).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Я, Джон Кэрцін, прэм'ер-міністр Аўстраліі. Ад імя аўстралійскага народа я шукаю хаўруснікаў у змаганні з падпальшчыкамі вайны.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Калі вы гатовы, мы прапануем вам наведаць блізкі горад. Ці не хочаце печаных арэхаў макадаміі?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Вядома.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Мяркую, памен ведамі – прыкладам, пра гісторыю нашых сталіц – значна ўмацуе наша зароджанае сяброўства.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Рады вас бачыць!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Мне падабаецца ваша настойлівасць. Мы падзяляем ваша імкненне абараніць тых, хто не можа сам сябе абараніць.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Вайна прынясе нам толькі страты. Мы страцім людзей, вытворчасць, нават нашу людскасць!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Хочаце скласці звяз?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Мы будзем рады доўгаму і трываламу міру паміж нашымі краінамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Не, так не пойдзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Краіны, якія хочуць жыць у міры, павінны плаціць за мір. Мы гатовы. А вы?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Пакуль вашы дзеянні дыктуюцца духам добрай волі, мы не пярэчым.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Пры бягучых пагодных умовах і стане аўстралійскага войска, баюся, гэта не самы разумны крок.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Дзеля захавання міру аўстралійскаму войску патрэбна права праходу па вашай тэрыторыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Як, па-вашаму, нам варта расцэньваць канцэнтрацыю вашых войскаў ля нашых меж? Мне здаецца, гэта няправільныя дзеянні.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Прынцыпы, за якія мы ваявалі, перажывуць кожную створаную вамі дзяржаву.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Непажаданы паварот.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JOHN_CURTIN_ANY" Language="en_US">
+			<Text>Мы згодны!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_ON_GUARD_LIBERATE" Language="en_US">
+			<Text>Джону Кэрціну падабаецца, што вы вызвалілі горад.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_ON_GUARD_OCCUPY" Language="en_US">
+			<Text>Джону Кэрціну не падабаецца, што вы захопліваеце варожыя гарады.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

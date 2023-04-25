@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_GAMEMODE_TREE_RANDOMIZER_NAME" Language="en_US">
+      <Text>Выпадковыя тэхналогіі і сац. інстытуты</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_TREE_RANDOMIZER_DESCRIPTION" Language="en_US">
+      <Text>У гэтым рэжыме ў рамках сваіх гістарычных перыядаў тэхналогіі і сацыяльныя інстытуты выпадковым чынам змешваюцца, таму змяняюцца як іх кошт, гэтак і ўмовы адкрыцця. Атрыманыя дрэвы аднолькавыя для ўсіх гульцоў. Тэхналогіі і інстытуты ўтоены да моманту дасягнення ўмоў адкрыцця, таму да самага канца гульні для ўсіх будзе загадкай, што ж адкрыецца далей.</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

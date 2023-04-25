@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME" Language="en_US">
+			<Text>Алькасар|алькасара|алькасару|алькасар|алькасарам|алькасары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME" Language="en_US">
+			<Text>Манастыр|манастыра|манастыру|манастыр|манастыром|манастыры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION" Language="en_US">
+			<Text>Дацкая імперыя|Дацкай імперыі|Дацкай імперыі|Дацкую імперыю|Дацкай імперыяй|Дацкай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION" Language="en_US">
+			<Text>Шведская імперыя|Шведскай імперыі|Шведскай імперыі|Шведскую імперыю|Шведскай імперыяй|Шведскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION" Language="en_US">
+			<Text>Халіфат Аль-Андалус|халіфата Аль-Андалус|халіфату Аль-Андалус|халіфат Аль-Андалус|халіфатам Аль-Андалус|халіфаце Аль-Андалус</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION" Language="en_US">
+			<Text>Візантыйская імперыя|Візантыйскай імперыі|Візантыйскай імперыі|Візантыйскую імперыю|Візантыйскай імперыяй|Візантыйскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION" Language="en_US">
+			<Text>Франкская імперыя|Франкскай імперыі|Франкскай імперыі|Франкскую імперыю|Франкскай імперыяй|Франкскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_NAME" Language="en_US">
+			<Text>Данія|Даніі|Даніі|Данію|Даніяй|Даніі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_NAME" Language="en_US">
+			<Text>Швецыя|Швецыі|Швецыі|Швецыю|Швецыяй|Швецыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_NAME" Language="en_US">
+			<Text>Аль-Андалус|Аль-Андалуса|Аль-Андалусу|Аль-Андалус|Аль-Андалусам|Аль-Андалусе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_NAME" Language="en_US">
+			<Text>Візантыя|Візантыі|Візантыі|Візантыю|Візантыяй|Візантыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_NAME" Language="en_US">
+			<Text>Франкія|Франкіі|Франкіі|Франкію|Франкіяй|Франкіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME" Language="en_US">
+			<Text>Аль-Хакам II|Аль-Хакама II|Аль-Хакаму II|Аль-Хакама II|Аль-Хакамам II|Аль-Хакаму ІІ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SCENARIO_BASIL_II_NAME" Language="en_US">
+			<Text>Васіль II|Васіля ІІ|Васілю ІІ|Васіля ІІ|Васілём ІІ|Васілю ІІ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SCENARIO_CHARLEMAGNE_NAME" Language="en_US">
+			<Text>Карл Вялікі|Карла Вялікага|Карлу Вялікаму|Карла Вялікага|Карлам Вялікім|Карлу Вялікім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SCENARIO_CNUT_NAME" Language="en_US">
+			<Text>Кнуд|Кнуда|Кнуду|Кнуда|Кнудам|Кнуду</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SCENARIO_OLOF_NAME" Language="en_US">
+			<Text>Олаф Шотконунг|Олафа Шотконунга|Олафу Шотконунгу|Олафа Шотконунга|Олафам Шотконунгам|Олафу Шотконунгу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_MAP_NAME" Language="en_US">
+			<Text>Мідгард</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION" Language="en_US">
+			<Text>Зямля вікінгаў</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME" Language="en_US">
+			<Text>Вальгала</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP" Language="en_US">
+			<Text>Хуткасць вечнага бою.</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME" Language="en_US">
+			<Text>Ліндысфарн</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION" Language="en_US">
+			<Text>Эпоха Ліндысфарна, світанак вікінгаў</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME" Language="en_US">
+			<Text>Русь|Русі|Русі|Русь|Руссю|Русі</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION" Language="en_US">
+			<Text>Эпоха Русі, росквіт вікінгаў</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME" Language="en_US">
+			<Text>Гастынгс</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION" Language="en_US">
+			<Text>Эпоха Гастынгса, заход вікінгаў</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SCENARIO_VIKING_NAME" Language="en_US">
+			<Text>Вікінг</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION" Language="en_US">
+			<Text>Юніты не атрымаюць штрафу да руху ад гружэння і выгрузкі з карабля.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME" Language="en_US">
+			<Text>Франкія</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION" Language="en_US">
+			<Text>Мон-Сэн-Мішэль – дзіва свету, змесцаванае ў Руане.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME" Language="en_US">
+			<Text>Маўры</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION" Language="en_US">
+			<Text>Альгамбра – дзіва свету, змесцаванае ў правінцыі Ішбілля.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME" Language="en_US">
+			<Text>Візантыя</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION" Language="en_US">
+			<Text>Сабор Святой Сафіі – дзіва свету, змесцаванае ў Канстанцінопалі.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME" Language="en_US">
+			<Text>Імперыя Паўночнага мора</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION" Language="en_US">
+			<Text>Мае дадатковае вочка вайсковага курса. Можа ствараць асаднікаў, дракары, місіянераў і гавань.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION" Language="en_US">
+			<Text>Марскія юніты маюць на 2 АР больш. Можа ствараць асаднікаў, дракары, місіянераў і гавань.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME" Language="en_US">
+			<Text>Цар скарбаў</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION" Language="en_US">
+			<Text>Мае дадатковае вочка эканамічнага курса. Можа ствараць асаднікаў, дракары, місіянераў і гавань.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_PIOUS_NAME" Language="en_US">
+			<Text>Набожнасць</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION" Language="en_US">
+			<Text>Пачынае з тэакратыяй і здольнасцю ствараць рыцараў.</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_NAME" Language="en_US">
+			<Text>Вікінгі, купцы і захопнікі!</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_TOOLTIP" Language="en_US">
+			<Text>Ці зможаце вы, кароль вікінгаў, назапасіць найвялікія багацці? Працягласць: 60 хадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_DESCRIPTION" Language="en_US">
+			<Text>У гэтым 60-хадовым сцэнары ваша заданне ў ролі правадыра вікінгаў – падначаліць Еўропу сваёй уладзе. Гуляйце за аднаго з траіх унікальных уладнікаў з Даніі, Нарвегіі ці Швецыі. Рабуйце і руйнуйце ўсё на сваім шляху па Еўропе. Выступіце ў марскі паход супраць Англіі, захапіце Парыж, прайдзіце праз Гібралтар і гаспадарце на Міжземным моры.[NEWLINE][NEWLINE]Вярнуўшыся дахаты, пракладзіце гандлёвыя шляхі ў найбагатыя гарады і пабудуйце гандлёвую імперыю. А калі вы – вернік якой-небудзь рэлігіі, то шырце добрую вестку і ўмацоўвайце [ICON_Faith] веру свайго народа.</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_VIKING_SCENARIO" Language="en_US">
+			<Text>Што значыць быць правадыром вікінгаў? Пад вашым камандаваннем – ваяры-маракі, якія рушаць услед за вамі праз усе акіяны вядомага свету. Вашы дракары ўсяляюць жах у сэрцы тых, чые багатыя гарады змесцаваны на марскім беразе. Але рабаванне дзеля рабавання – гэта ўсяго толькі разбой. А вы, валадар, не просты разбойнік. Адкрыйце ім суровую праўду: тое, што ты не ў сілах абараніць, табе не прыналежыць.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION" Language="en_US">
+			<Text>Унікальны юніт вікінгаў. 4 [ICON_Movement] АР, калі пачынае рух на варожай тэрыторыі. +10 да [ICON_Strength] баявой моцы ў атацы і -5 да [ICON_Strength] баявой моцы ў абароне. Дае ачкі выбітнага вайскавода, знішчаючы іншыя юніты.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION" Language="en_US">
+			<Text>Унікальны марскі юніт вікінгаў, які замяняе галеру. Рабуе ўзбярэжныя тэрыторыі і захоплівае суседніх жыхароў. Лечыцца на нейтральнай тэрыторыі. Дае ачкі выбітнага флатавода, знішчаючы іншыя юніты.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION" Language="en_US">
+			<Text>Унікальны юніт франкаў, які замяшчае рыцара. Не мае штрафу да моцы пасля пашкоджання.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION" Language="en_US">
+			<Text>Унікальная лёгкая кавалерыя Аль-Андалуса, якая лепш ваюе на сваёй тэрыторыі ці поруч з ёй. Калі засталіся АР, можа рухацца пасля атакі.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION" Language="en_US">
+			<Text>Унікальны юніт вікінгаў, можа будаваць новыя гарады.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION" Language="en_US">
+			<Text>Візантыйскі ўнікальны юніт. Першы марскі юніт далёкага бою.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION" Language="en_US">
+			<Text>Унікальны раён вікінгаў, што адказвае за марскія камунікацыі. На клетцы раёна не дзее [ICON_Movement] штраф за гружэнне на карабель і выгрузку з яго. Павінен быць пабудаваны на клетцы ўзбярэжжа ці возера, што прылягае да зямлі.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] даступны гандлёвы шлях, калі ў горадзе няма цэнтра камерцыі.[NEWLINE][NEWLINE]Суседства: стандартны бонус да [ICON_Gold] золата за суседства з берагавымі рэсурсамі. Невялікі бонус да [ICON_Gold] золата за суседства з іншымі гарадскімі раёнамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION" Language="en_US">
+			<Text>Паляпшэнне Аль-Андалуса. Дае ўмацаванні, ачкі [ICON_Faith] веры, і [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION" Language="en_US">
+			<Text>Паляпшэнне Франкіі, Візантыі і гарадоў-дзяржаў. Дае ачкі [ICON_Faith] веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME" Language="en_US">
+			<Text>Кабалары|кабалараў|кабаларам|кабалараў|кабаларамі|кабаларах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_NAME" Language="en_US">
+			<Text>Фарфаны|фарфанаў|фарфанам|фарфаны|фарфанамі|фарфанах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+	</LocalizedText>
+</GameData>

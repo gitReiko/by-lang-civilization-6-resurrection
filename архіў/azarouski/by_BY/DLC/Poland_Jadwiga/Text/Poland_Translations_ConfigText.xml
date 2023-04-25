@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_BUILDING_SUKIENNICE_NAME" Language="en_US">
+			<Text>Суконныя рады|суконных радоў|суконным радам|суконныя рады|суконнымі радамі|суконных радах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_POLAND_NAME" Language="en_US">
+			<Text>Польшча|Польшчы|Польшчы|Польшчу|Польшчай|Польшчы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_JADWIGA_NAME" Language="en_US">
+			<Text>Ядвіга|Ядвігі|Ядвізе|Ядвігу|Ядвігай|Ядвізе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME" Language="en_US">
+			<Text>Залатая вольнасць</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION" Language="en_US">
+			<Text>Вырабляе культурны захоп суседніх клетак пасля будавання вайсковага лагера ці форта на дружалюбнай тэрыторыі. Адно вочка вайсковага курса пры бягучай форме кіравання ператвараецца ва ўніверсальнае вочка.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME" Language="en_US">
+			<Text>Літоўскі звяз</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION" Language="en_US">
+			<Text>Рэлігія, заснаваная Польшчай, атрымае большасць у адным з суседніх гарадоў, які губляе клетку ў выніку культурнага захопу. Святыя месцы атрымаюць стандартны бонус веры ад суседства з раёнамі. Усе рэліквіі даюць бонус да веры (+2), культуры (+2) і золата (+4).</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION" Language="en_US">
+			<Text>Рэлігія, заснаваная Польшчай, атрымае большасць у адным з суседніх гарадоў, які губляе клетку ў выніку культурнага захопу. Святыя месцы атрымаюць павялічаны бонус веры ад суседства з вайсковымі лагерамі. Усе рэліквіі даюць бонус да веры (+2), культуры (+2) і золата (+4).</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION" Language="en_US">
+			<Text>Унікальны польскі будынак. Міжнародныя [ICON_TradeRoute] гандлёвыя шляхі з гэтага горада даюць +2 [ICON_Production] вытворчасці; унутраныя [ICON_TradeRoute] гандлёвыя шляхі даюць +4 [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION" Language="en_US">
+			<Text>Унікальны польскі юніт Сярэднявечча. Нападае і адкідае варожы юніт з занятай ім клеткі ў выпадку, калі нанясе больш шкоды, чым атрымае. Калі варожы юніт не можа адступіць, то атрымае дадатковую шкоду.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION" Language="en_US">
+			<Text>Унікальны польскі будынак. Міжнародныя [ICON_TradeRoute] гандлёвыя шляхі з гэтага горада даюць +2 [ICON_Production] вытворчасці; унутраныя [ICON_TradeRoute] гандлёвыя шляхі даюць +4 [ICON_Gold] золата. +1 [ICON_TradeRoute] даступны гандлёвы шлях, калі ў горадзе яшчэ няма маяка.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_POLISH_HUSSAR_NAME" Language="en_US">
+			<Text>Крылатыя гусары|крылатых гусараў|крылатым гусарам|крылатых гусараў|крылатымі гусарамі|крылатых гусарах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+	</LocalizedText>
+</GameData>

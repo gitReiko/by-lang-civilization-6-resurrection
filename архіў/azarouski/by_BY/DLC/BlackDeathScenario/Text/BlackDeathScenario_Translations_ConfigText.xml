@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_NAME" Language="en_US">
+			<Text>Францыя|Францыі|Францыі|Францыю|Францыяй|Францыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_DESCRIPTION" Language="en_US">
+			<Text>Каралеўства Францыя|Каралеўства Францыя|Каралеўству Францыя|Каралеўства Францыя|Каралеўствам Францыя|Каралеўстве Францыя</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_ADJECTIVE" Language="en_US">
+			<Text>французск.|французск.|французск.|французск.|французск.|французск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_ABILITY_NAME" Language="en_US">
+			<Text>Кіроўная роля Папы|Кіроўнай ролі Папы|Кіроўнай ролі Папы|Кіроўную ролю Папы|Кіроўнай роллю Папы|Кіроўнай ролі Папы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>Французскі ўладнік атрымае адменнае ўніверсальнае вочка «папскага палітычнага курса». Калі гэта вочка занята, то на яго ўтрыманне кожны ход выдаткуецца [ICON_Faith] вера.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_NAME" Language="en_US">
+			<Text>Англія|Англіі|Англіі|Англію|Англіяй|Англіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_DESCRIPTION" Language="en_US">
+			<Text>Каралеўства Англія|Каралеўства Англія|Каралеўству Англія|Каралеўства Англія|Каралеўствам Англія|Каралеўстве Англія</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_ADJECTIVE" Language="en_US">
+			<Text>ангельск.|ангельск.|ангельск.|ангельск.|ангельск.|ангельск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_ABILITY_NAME" Language="en_US">
+			<Text>Прымусовыя працы|Прымусовых прац|Прымусовым працам|Прымусовыя працы|Прымусовымі працамі|Прымусовых працах</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>Усе ангельскія гарады атрымаюць дзеянне «Прымусовыя працы»: выдаткаваць [ICON_Gold] золата, каб цягам 10 хадоў заражаную чумой клетку можна было апрацоўваць і забудоўваць.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_NAME" Language="en_US">
+			<Text>Святая Рымская імперыя|Святой Рымскай імперыі|Святой Рымскай імперыі|Святую Рымскую імперыю|Святой Рымскай імперыяй|Святой Рымскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_DESCRIPTION" Language="en_US">
+			<Text>Святая Рымская імперыя|Святой Рымскай імперыі|Святой Рымскай імперыі|Святую Рымскую імперыю|Святой Рымскай імперыяй|Святой Рымскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_ADJECTIVE" Language="en_US">
+			<Text>імперск.|імперск.|імперск.|імперск.|імперск.|імперск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_ABILITY_NAME" Language="en_US">
+			<Text>Тэўтонскі ордэн|Тэўтонскага ордэна|Тэўтонскаму ордэну|Тэўтонскі ордэн|Тэўтонскім ордэнам|Тэўтонскім ордэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>Унікальны юніт «тэўтонскія рыцары» замяняе мечнікаў. На ўтрыманне тэўтонскіх рыцараў не выдаткоўваецца [ICON_Gold] золата, у бойцы на варожай тэрыторыі юніт атрымае +8 да [ICON_Strength] баявой моцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_NAME" Language="en_US">
+			<Text>Кастылія|Кастыліі|Кастыліі|Кастылію|Кастыліяй|Кастыліі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_DESCRIPTION" Language="en_US">
+			<Text>Каралеўства Кастылія|Каралеўства Кастылія|Каралеўству Кастылія|Каралеўства Кастылія|Каралеўствам Кастылія|Каралеўстве Кастылія</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_ADJECTIVE" Language="en_US">
+			<Text>кастыльск.|кастыльск.|кастыльск.|кастыльск.|кастыльск.|кастыльск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_ABILITY_NAME" Language="en_US">
+			<Text>Меч веры|Мяча веры|Мячу веры|Меч веры|Мячом веры|Мячы веры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>Усе кастыльскія юніты атрымаюць дзеянне «Святы запал»: адзін раз за ход юніт можа выдаткаваць некаторую колькасць [ICON_Faith] веры на аднаўленне ачкоў руху і атакі.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BRAGA_NAME" Language="en_US">
+			<Text>Брага|Брагі|Бразе|Брагу|Брагай|Бразе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BRAGA_DESCRIPTION" Language="en_US">
+			<Text>Горад Брага|Горада Брагі|Гораду Бразе|Горад Брагу|Горадам Брагай|Горадзе Бразе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_LISBON_NAME" Language="en_US">
+			<Text>Лісабон|Лісабона|Лісабону|Лісабон|Лісабонам|Лісабоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_LISBON_DESCRIPTION" Language="en_US">
+			<Text>Горад Лісабон|Горада Лісабона|Гораду Лісабону|Горад Лісабон|Горадам Лісабонам|Горадзе Лісабоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FARO_NAME" Language="en_US">
+			<Text>Фара|Фара|Фара|Фара|Фара|Фара</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FARO_DESCRIPTION" Language="en_US">
+			<Text>Горад Фара|Горада Фара|Гораду Фара|Горад Фара|Горадам Фара|Горадзе Фара</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PAMPLONA_NAME" Language="en_US">
+			<Text>Памплона|Памплоны|Памплоне|Памплону|Памплонай|Памплоне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PAMPLONA_DESCRIPTION" Language="en_US">
+			<Text>Горад Памплона|Горада Памплоны|Гораду Памплоне|Горад Памплону|Горадам Памплонай|Горадзе Памплоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VALENCIA_NAME" Language="en_US">
+			<Text>Валенсія|Валенсіі|Валенсіі|Валенсію|Валенсіяй|Валенсіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VALENCIA_DESCRIPTION" Language="en_US">
+			<Text>Горад Валенсія|Горада Валенсіі|Гораду Валенсіі|Горад Валенсію|Горадам Валенсіяй|Горадзе Валенсіі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BARCELONA_NAME" Language="en_US">
+			<Text>Барселона|Барселоны|Барселоне|Барселону|Барселонай|Барселоне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BARCELONA_DESCRIPTION" Language="en_US">
+			<Text>Горад Барселона|Горада Барселоны|Гораду Барселоне|Горад Барселону|Горадам Барселонай|Горадзе Барселоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GRENADA_NAME" Language="en_US">
+			<Text>Гранада|Гранады|Гранадзе|Гранаду|Гранадай|Гранадзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GRENADA_DESCRIPTION" Language="en_US">
+			<Text>Горад Гранада|Горада Гранады|Гораду Гранадзе|Горад Гранаду|Горадам Гранадай|Горадзе Гранадзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PALMA_NAME" Language="en_US">
+			<Text>Пальма|Пальмы|Пальме|Пальму|Пальмай|Пальме</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CORK_NAME" Language="en_US">
+			<Text>Корк|Корка|Корку|Корк|Коркам|Корку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ABERDEEN_NAME" Language="en_US">
+			<Text>Абердын|Абердына|Абердыну|Абердын|Абердынам|Абердыне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_EDINBURGH_NAME" Language="en_US">
+			<Text>Эдынбург|Эдынбурга|Эдынбургу|Эдынбург|Эдынбургам|Эдынбургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MARSEILLES_NAME" Language="en_US">
+			<Text>Марсэль|Марсэлю|Марсэлю|Марсэль|Марсэлем|Марсэлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENEVA_NAME" Language="en_US">
+			<Text>Жэнева|Жэневы|Жэневе|Жэневу|Жэневай|Жэневе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MILAN_NAME" Language="en_US">
+			<Text>Мілан|Мілана|Мілану|Мілан|Міланам|Мілане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENOA_NAME" Language="en_US">
+			<Text>Генуя|Генуі|Генуі|Геную|Генуяй|Генуі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VENICE_NAME" Language="en_US">
+			<Text>Венецыя|Венецыі|Венецыі|Венецыю|Венецыяй|Венецыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PISA_NAME" Language="en_US">
+			<Text>Піза|Пізы|Пізе|Пізу|Пізай|Пізе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ROME_NAME" Language="en_US">
+			<Text>Рым|Рыма|Рыму|Рым|Рымам|Рыме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_NAPLES_NAME" Language="en_US">
+			<Text>Неапаль|Неапаля|Неапалю|Неапаль|Неапалем|Неапалі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_COPENHAGEN_NAME" Language="en_US">
+			<Text>Капенгаген|Капенгагена|Капенгагену|Капенгагена|Капенгагенам|Капенгагене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ALBORG_NAME" Language="en_US">
+			<Text>Ольбарг|Ольбарга|Ольбаргу|Ольбарг|Ольбаргам|Ольбаргу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STOCKHOLM_NAME" Language="en_US">
+			<Text>Стакгольм|Стакгольма|Стакгольму|Стакгольм|Стакгольмам|Стакгольме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_KALMAR_NAME" Language="en_US">
+			<Text>Кальмар|Кальмара|Кальмару|Кальмар|Кальмарам|Кальмары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_OSLO_NAME" Language="en_US">
+			<Text>Осла|Осла|Осла|Осла|Осла|Осла</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STAVANGER_NAME" Language="en_US">
+			<Text>Ставангер|Ставангера|Ставангеру|Ставангер|Ставангерам|Ставангеры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SPLIT_NAME" Language="en_US">
+			<Text>Спліт|Спліта|Спліту|Спліт|Сплітам|Спліце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_DUBROVNIK_NAME" Language="en_US">
+			<Text>Дуброўнік|Дуброўніка|Дуброўніку|Дуброўнік|Дуброўнікам|Дуброўніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ZAGREB_NAME" Language="en_US">
+			<Text>Заграб|Заграба|Заграбу|Заграб|Заграбам|Заграбе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PRAGUE_NAME" Language="en_US">
+			<Text>Прага|Прагі|Празе|Прагу|Прагай|Празе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VIENNA_NAME" Language="en_US">
+			<Text>Вена|Вены|Вене|Вену|Венай|Вене</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SZCZECIN_NAME" Language="en_US">
+			<Text>Шчэцін|Шчэціна|Шчэціну|Шчэцін|Шчэцінам|Шчэціне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GDANSK_NAME" Language="en_US">
+			<Text>Гданьск|Гданьска|Гданьску|Гданьск|Гданьскам|Гданьску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PALMA_DESCRIPTION" Language="en_US">
+			<Text>Горад Пальма|горада Пальмы|гораду Пальме|горад Пальму|горадам Пальмай|горадзе Пальме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CORK_DESCRIPTION" Language="en_US">
+			<Text>Горад Корк|горада Корка|гораду Корку|горад Корк|горадам Коркам|горадзе Корку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ABERDEEN_DESCRIPTION" Language="en_US">
+			<Text>Горад Абердын|горада Абердына|гораду Абердыну|горад Абердын|горадам Абердынам|горадзе Абердыне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_EDINBURGH_DESCRIPTION" Language="en_US">
+			<Text>Горад Эдынбург|горада Эдынбурга|гораду Эдынбургу|горад Эдынбург|горадам Эдынбургам|горадзе Эдынбургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MARSEILLES_DESCRIPTION" Language="en_US">
+			<Text>Горад Марсэль|горада Марсэля|гораду Марсэлю|горад Марсэль|горадам Марсэлем|горадзе Марсэлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENEVA_DESCRIPTION" Language="en_US">
+			<Text>Горад Жэнева|горада Жэневы|гораду Жэневе|горад Жэневу|горадам Жэневай|горадзе Жэневе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MILAN_DESCRIPTION" Language="en_US">
+			<Text>Горад Мілан|горада Мілана|гораду Мілану|горад Мілан|горадам Міланам|горадзе Мілане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENOA_DESCRIPTION" Language="en_US">
+			<Text>Горад Генуя|горада Генуі|гораду Генуі|горад Геную|горадам Генуяй|горадзе Генуі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VENICE_DESCRIPTION" Language="en_US">
+			<Text>Горад Венецыя|горада Венецыі|гораду Венецыі|горад Венецыю|горадам Венецыяй|горадзе Венецыі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PISA_DESCRIPTION" Language="en_US">
+			<Text>Горад Піза|горада Пізы|гораду Пізе|горад Пізу|горадам Пізай|горадзе Пізе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ROME_DESCRIPTION" Language="en_US">
+			<Text>Горад Рым|горада Рыма|гораду Рыму|горад Рым|горадам Рымам|горадзе Рыме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_NAPLES_DESCRIPTION" Language="en_US">
+			<Text>Горад Неапаль|горада Неапаля|гораду Неапалю|горад Неапаль|горадам Неапалем|горадзе Неапалі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_COPENHAGEN_DESCRIPTION" Language="en_US">
+			<Text>Горад Капенгаген|горада Капенгагена|гораду Капенгагену|горад Капенгаген|горадам Капенгагенам|горадзе Капенгагене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ALBORG_DESCRIPTION" Language="en_US">
+			<Text>Горад Ольбарг|горада Ольбарга|гораду Ольбаргу|горад Ольбарг|горадам Ольбаргам|горадзе Ольбаргу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STOCKHOLM_DESCRIPTION" Language="en_US">
+			<Text>Горад Стакгольм|горада Стакгольма|гораду Стакгольму|горад Стакгольм|горадам Стакгольмам|горадзе Стакгольме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_KALMAR_DESCRIPTION" Language="en_US">
+			<Text>Горад Кальмар|горада Кальмара|гораду Кальмару|горад Кальмар|горадам Кальмарам|горадзе Кальмары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_OSLO_DESCRIPTION" Language="en_US">
+			<Text>Горад Осла|горада Осла|гораду Осла|горад Осла|горадам Осла|горадзе Осла</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STAVANGER_DESCRIPTION" Language="en_US">
+			<Text>Горад Ставангер|горада Ставангера|гораду Ставангеру|горад Ставангер|горадам Ставангерам|горадзе Ставангеры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SPLIT_DESCRIPTION" Language="en_US">
+			<Text>Горад Спліт|горада Спліта|гораду Спліту|горад Спліт|горадам Сплітам|горадзе Спліце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_DUBROVNIK_DESCRIPTION" Language="en_US">
+			<Text>Горад Дуброўнік|горада Дуброўніка|гораду Дуброўніку|горад Дуброўнік|горадам Дуброўнікам|горадзе Дуброўніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ZAGREB_DESCRIPTION" Language="en_US">
+			<Text>Горад Заграб|горада Заграбу|гораду Заграбу|горад Заграб|горадам Заграбам|горадзе Заграбе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PRAGUE_DESCRIPTION" Language="en_US">
+			<Text>Горад Прага|горада Прагі|гораду Празе|горад Прагу|горадам Прагай|горадзе Празе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VIENNA_DESCRIPTION" Language="en_US">
+			<Text>Горад Вена|горада Вены|гораду Вене|горад Вену|горадам Венай|горадзе Вене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SZCZECIN_DESCRIPTION" Language="en_US">
+			<Text>Горад Шчэцін|горада Шчэціна|гораду Шчэціну|горад Шчэцін|горадам Шчэцінам|горадзе Шчэціне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GDANSK_DESCRIPTION" Language="en_US">
+			<Text>Горад Гданьск|горада Гданьска|гораду Гданьску|горад Гданьск|горадам Гданьскам|горадзе Гданьску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CITY_STATE_NAME" Language="en_US">
+			<Text>Уладнік горада-дзяржавы|уладніка горада-дзяржавы|уладніку горада-дзяржавы|уладніка горада-дзяржавы|уладнікам горада-дзяржавы|уладніку горада-дзяржавы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_BLACKDEATH_SCENARIO_FRANCE_NAME" Language="en_US">
+			<Text>Кароль Піліп VI|караля Піліпа VI|каралю Піліпу VI|караля Піліпа VI|каралём Піліпам VI|каралю Піліпу VI</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_BLACKDEATH_SCENARIO_ENGLAND_NAME" Language="en_US">
+			<Text>Кароль Эдуард III|караля Эдуарда ІІІ|каралю Эдуарду ІІІ|караля Эдуарда ІІІ|каралём Эдуардам ІІІ|каралю Эдуарду ІІІ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_NAME" Language="en_US">
+			<Text>Імператар Людовік IV|імператара Людовіка IV|імператару Людовіку IV|імператара Людовіка IV|імператарам Людовікам IV|імператару Людовіку IV</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_BLACKDEATH_SCENARIO_CASTILE_NAME" Language="en_US">
+			<Text>Альфонса XI|Альфонса XI|Альфонса XI|Альфонса XI|Альфонса XI|Альфонса XI</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_NAME" Language="en_US">
+			<Text>Чорная смерць</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_BLACKDEATH_SCENARIO" Language="en_US">
+			<Text>«Чорная смерць», што лютавала ў Еўропе і на Блізкім Усходзе ў сярэдзіне XIV стагоддзя, панесла больш чалавечых жыццяў, чым кожная іншая падзея ў гісторыі чалавецтва. Ахвярамі пандэміі сталі мільёны чалавек, з карты зніклі цэлыя краіны, перарваліся дынастыі ўладароў. Еўрапейская цывілізацыя змянілася назаўжды.[NEWLINE][NEWLINE]Ваша заданне – зберагчы сваю краіну ў гэты страшны перыяд. Сярод усеагульнай роспачы вельмі важна захаваць насельніцтва, не страціць багацце і ўмацаваць веру.</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_HOF_PLAGUE_DEATHS" Language="en_US">
+			<Text>Смяротнасць ад чумы</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_HOF_CITY_PLAGUE_DEATHS" Language="en_US">
+			<Text>Смяротнасць ад чумы ў горадзе</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_HOF_CITY_MOST_PLAGUE_DEATHS" Language="en_US">
+			<Text>Горад з найвышэйшым роўнем смяротнасці</Text>
+		</Replace>
+		<Replace Tag="LOC_VICTORY_BLACKDEATH_SCENARIO_NAME" Language="en_US">
+			<Text>Перамога ў «Чорнай смерці»</Text>
+		</Replace>
+		<Replace Tag="LOC_VICTORY_BLACKDEATH_SCENARIO_TEXT" Language="en_US">
+			<Text>Самае страшнае ў мінулым. Вы вытрымалі выпрабаванне чумой і сталі яшчэ мацнейшыя. Вашы тэхналагічныя і сацыяльныя дасягненні гэтага перыяду на многія стагоддзі вызначаць кірунак развіцця еўрапейскай цывілізацыі!</Text>
+		</Replace>
+		<Replace Tag="LOC_VICTORY_BLACKDEATH_SCENARIO_TT" Language="en_US">
+			<Text>Вы здабудзеце перамогу, калі да сканчэння сцэнара адкрыеце тэхналогію «Вынаходства» ці сацыяльны інстытут «Сярэдні клас».</Text>
+		</Replace>
+		<Replace Tag="LOC_MAPSIZE_BLACKDEATH_SCENARIO_NAME" Language="en_US">
+			<Text>Сярэднявечная Еўропа</Text>
+		</Replace>
+		<Replace Tag="LOC_MAPSIZE_BLACKDEATH_SCENARIO_DESCRIPTION" Language="en_US">
+			<Text>Маленькая карта, што паказвае Еўропу, якой яна магла б быць у сярэдзіне XIV стагоддзя.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TEUTONIC_KNIGHT_DESCRIPTION" Language="en_US">
+			<Text>Унікальны юніт Святой Рымскай імперыі, які замяняе мечніка. Не марнуецца [ICON_Gold] золата на ўтрыманне. +8 да [ICON_Strength] баявой моцы ў бойках на варожай тэрыторыі</Text>
+		</Replace>
+		<Replace Tag="LOC_OPTIONS_HOTKEY_LENSES_PLAGUE" Language="en_US">
+			<Text>Чума</Text>
+		</Replace>
+		<Replace Tag="LOC_OPTIONS_HOTKEY_LENSES_PLAGUE_HELP" Language="en_US">
+			<Text>Уключэнне/выключэнне лінзы па чуме.</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_HOF_CITY_MOST_PLAGUE_DEATHS_ANNOTATION" Language="en_US">
+			<Text>{Amount} {Amount: plural 1?смерць; 2?смерці; other?смерцяў;}</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TEUTONIC_KNIGHT_NAME" Language="en_US">
+			<Text>Тэўтонскі рыцар|тэўтонскага рыцара|тэўтонскаму рыцару|тэўтонскага рыцара|тэўтонскім рыцарам|тэўтонскім рыцару</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+	</LocalizedText>
+</GameData>

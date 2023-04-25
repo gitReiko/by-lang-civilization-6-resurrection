@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_IMPROVEMENT_ALCAZAR_NAME" Language="en_US">
+			<Text>Алькасар|алькасара|алькасару|алькасар|алькасарам|алькасары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MONASTERY_NAME" Language="en_US">
+			<Text>Манастыр|манастыра|манастыру|манастыр|манастыром|манастыры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AUCKLAND" Language="en_US">
+			<Text>Окленд|Окленда|Окленду|Окленд|Оклендам|Оклендзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ANTANANARIVO" Language="en_US">
+			<Text>Антананарыву|Антананарыву|Антананарыву|Антананарыву|Антананарыву|Антананарыву</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ARMAGH" Language="en_US">
+			<Text>Арма|Армы|Арме|Арму|Армай|Арме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GRANADA" Language="en_US">
+			<Text>Гранада|Гранады|Гранадзе|Гранаду|Гранадай|Гранадзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MUSCAT" Language="en_US">
+			<Text>Маскат|Маската|Маскату|Маскат|Маскатам|Маскаце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PALENQUE" Language="en_US">
+			<Text>Мітла|Мітлы|Мітле|Мітлу|Мітлай|Мітле</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUCKLAND_NAME" Language="en_US">
+			<Text>Окленд|Окленда|Окленду|Окленд|Оклендам|Оклендзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ANTANANARIVO_NAME" Language="en_US">
+			<Text>Антананарыву|Антананарыву|Антананарыву|Антананарыву|Антананарыву|Антананарыву</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ARMAGH_NAME" Language="en_US">
+			<Text>Арма|Армы|Арме|Арму|Армай|Арме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GRANADA_NAME" Language="en_US">
+			<Text>Гранада|Гранады|Гранадзе|Гранаду|Гранадай|Гранадзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MUSCAT_NAME" Language="en_US">
+			<Text>Маскат|Маската|Маскату|Маскат|Маскатам|Маскаце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MITLA_NAME" Language="en_US">
+			<Text>Мітла|Мітлы|Мітле|Мітлу|Мітлай|Мітле</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PALENQUE_NAME" Language="en_US">
+			<Text>Мітла|Мітлы|Мітле|Мітлу|Мітлай|Мітле</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUCKLAND_DESCRIPTION" Language="en_US">
+			<Text>горад-дзяржава Окленд|горада-дзяржавы Окленда|гораду-дзяржаве Окленду|горад-дзяржаву Окленд|горадам-дзяржавай Оклендам|горадзе-дзяржаве Оклендзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ANTANANARIVO_DESCRIPTION" Language="en_US">
+			<Text>горад-дзяржава Антананарыву|горада-дзяржавы Антананарыву|гораду-дзяржаве Антананарыву|горад-дзяржаву Антананарыву|горадам-дзяржавай Антананарыву|горадзе-дзяржаве Антананарыву</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ARMAGH_DESCRIPTION" Language="en_US">
+			<Text>горад-дзяржава Арма|горада-дзяржавы Армы|гораду-дзяржаве Арме|горад-дзяржаву Арму|горадам-дзяржавай Армай|горадзе-дзяржаве Арме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GRANADA_DESCRIPTION" Language="en_US">
+			<Text>горад-дзяржава Гранада|горада-дзяржавы Гранады|гораду-дзяржаве Гранадзе|горад-дзяржаву Гранаду|горадам-дзяржавай Гранадай|горадзе-дзяржаве Гранадзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MUSCAT_DESCRIPTION" Language="en_US">
+			<Text>горад-дзяржава Маскат|горада-дзяржавы Маската|гораду-дзяржаве Маскату|горад-дзяржаву Маскат|горадам-дзяржавай Маскатам|горадзе-дзяржаве Маскаце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MITLA_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Мітла|горада-дзяржавы Мітла|гораду-дзяржаве Мітла|горад-дзяржава Мітла|горадам-дзяржавай Мітла|горадзе-дзяржаве Мітла</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PALENQUE_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Мітла|горада-дзяржавы Мітла|гораду-дзяржаве Мітла|горад-дзяржава Мітла|горадам-дзяржавай Мітла|горадзе-дзяржаве Мітла</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUCKLAND_ADJECTIVE" Language="en_US">
+			<Text>оклендск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ANTANANARIVO_ADJECTIVE" Language="en_US">
+			<Text>антананарыўск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ARMAGH_ADJECTIVE" Language="en_US">
+			<Text>армск.|армск.|армск.|армск.|армск.|армск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GRANADA_ADJECTIVE" Language="en_US">
+			<Text>гранадск.|гранадск.|гранадск|гранадск.|гранадск.|гранадск.</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MUSCAT_ADJECTIVE" Language="en_US">
+			<Text>маскацк.|маскацк.|маскацк.|маскацк.|маскацк.|маскацк.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MITLA_ADJECTIVE" Language="en_US">
+			<Text>мітл.|мітл.|мітл.|мітл.|мітл.|мітл.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PALENQUE_ADJECTIVE" Language="en_US">
+			<Text>Мітл.|мітл.|мітл.|мітл.|мітл.|мітл.</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AUCKLAND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Поселившись на перешейке в северной части современной Новой Зеландии, маори обнаружили много плодородных земель, густые джунгли и спящие вулканы. Естественные бухты на обеих сторонах перешейка служили пристанями для рыбаков и боевых каноэ (вака). Поселенцы назвали это место «Тамаки Макаурау», что приблизительно можно перевести как «дева, которую желают сто любовников».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AUCKLAND_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>В 1840 году (примерно через 500 лет после прибытия сюда маори) новый британский губернатор Уильям Гобсон решил, что Тамаки Макаурау отлично подходит на роль колониальной столицы Новой Зеландии. Он назвал этот город «Окленд», что приблизительно можно перевести как «мой начальник – граф Окленд, и я хочу, чтобы он мне не отказал, когда я буду просить у него денег».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_AUCKLAND_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Впоследствии столицу перенесли в Веллингтон, и Окленд утратил политическое значение, но это ничуть не сказалось на его процветающей экономике. Даже военные конфликты решались с помощью денег: когда маори собирались напасть на Окленд в знак протеста против ареста вождя, жители откупились от них табаком. Открытие Панамского канала в начале XX в. еще более укрепило позиции Окленда как важного пункта на торговых путях в южной части Тихого океана.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTANANARIVO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Столица Мадагаскара была сонным горным селением племени вазимба, пока в начале XVII в. здесь не поселился имеринский царь Андрианджака. Из монаршей резиденции открывался прекрасный вид на бескрайние рисовые поля, которые кормили его народ. После периода расширения и порядка Имерия на несколько десятилетий погрузилась в гражданскую войну, и Антананариву стал одной из четырех ее столиц. Но как только все стихло, он снова стал политическим центром царства.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTANANARIVO_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>В начале XIX в. царь Радама I открыл город для европейцев. Экономический рост привлекал сюда ремесленников, промышленников и поселенцев. Производство процветало, город расширялся, инфраструктура развивалась. Своеобразный архитектурный стиль преобразил город. Наследники Радамы продолжали содействовать культурному и техническому развитию города. Был даже принят декрет об обязательном образовании.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTANANARIVO_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>В 1894 году Франция захватила остров. Мадагаскар вернул себе независимость в 1960 году, а вместе с ней – и современный Антананариву.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ARMAGH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ирландский город Арма – древний религиозный центр. Считается, что в давние времена здесь находились языческие святилища. В V в. христианский миссионер Св. Патрик построил и освятил на вершине холма каменную церковь. Вокруг церкви вырос монастырь и город, стал центром теологии и распространения христианства в Ирландии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ARMAGH_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Арма – вовсе не прибрежный город. Он расположен в Северной Ирландии, примерно в 40 километрах от моря. И все же находящаяся в нем резиденция Ирландской церкви привлекала многих искателей легкой наживы. В IX в. монастырь Арма дважды разоряли викинги, каждый раз совершая пеший переход и унося с собой церковные реликвии. Нормандский завоеватель Джон де Курси, разоривший город в начале XII в., был уверен, что всего лишь следует сложившейся традиции.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GRANADA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В VIII в. халифат Омейядов распространил свою власть на весь Пиренейский полуостров, быстро завоевав вестготскую Испанию. Гранада – укрепленное поселение на территории современной южной Испании – была сметена нашествием. В будущем (точнее – в конце XV в.) ее взятие Католическими королями (Los Reyes Católicos) поставит точку в Реконкисте. Но в течение семи веков Гранада принадлежала маврам.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GRANADA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Гранада находится у подножия горной цепи Сьерра-Невада. Расположенный на равнине город практически беззащитен. Это сразу поняли мавританские правители и перенесли свою резиденцию на господствующую над городом возвышенность. Там они построили крепости (алькасары), одну из которых позднее превратили в знаменитую Альгамбру.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GRANADA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>На протяжении веков маврийские правители сменялись. Альмохады унаследовали правление от альморавидов, а те, в свое время, сменили династию омейядов. Судьба города снова круто изменилась в XIII столетии с приходом династии Насридов, которые заключили союз с католической Кастилией и основали Гранадский эмират. Выход к африканским торговым центрам к югу от Сахары на какое-то время защитил Гранаду от Реконкисты.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MUSCAT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Торговые пути, проходящие через Маскат, вот уже две тысячи лет питают этот город. Он расположен у подножия гор Хаджар. Уже в I веке Птолемей называл его «Скрытый порт» (Cryptus Portus). К сожалению, город не был скрыт достаточно хорошо – благодаря выгодному расположению у входа в Персидский залив он всегда был лакомым куском для завоевателей.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MUSCAT_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>За свою долгую историю порт Маскат сменил немало правителей. Среди них Сасаниды, арабы (принесшие сюда ислам в VII в.), Аббасиды, Сельджукиды, персы... В начале XVI века некий португальский адмирал добился заключения торгового соглашения – с помощью пушек, при этом он сжег дотла большую часть города. Маскат был восстановлен и оставался под властью португальцев до 1650 года, пока оманцы не изгнали завоевателей и не вернули себе власть над городом.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MUSCAT_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Маскат долго вел войны с племенами внутренних регионов Омана – как правило, из-за самоуправления. В разгар одного из таких бурных периодов в XVIII в. возвысилась династия Аль Бу-Саид, чье правление не прерывалось по настоящее время. Современный Маскат – столица Омана и важный торговый порт.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PALENQUE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В самом сердце долины Оахака на территории современной Мексики сапотеки основали ряд городов. Самым значимым из них была Митла — огромный город, в котором на момент его захвата испанцами в XVI веке жило более полумиллиона человек. Жители Митлы составили солнечный календарь, отдельный ритуальный календарь, изобрели собственную систему письма, а также активно выращивали кабачки, перцы чили, маис и бобы. В засушливой долине Оахака сапотеки построили ирригационные системы, военные укрепления и великолепные религиозные и культурные сооружения, при этом успешно отражая периодические нападения со стороны соседних мезоамериканских племен. Они пережили и испанское завоевание: сегодня в Мексике живет почти миллион сапотеков.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PALENQUE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Название «Митла» — это испанское искажение слова из языка науатль, которое означает «место мертвых». Мертвых весьма почитали в Митле. Религия сапотеков разделяла живых и мертвых на две категории и каждой отводила своих богов. Погребение в Митле гарантировало усопшему соединение не с богами мертвых, а с богами живых — покровителями молний и землетрясений. Похороненные таким способом знатные люди попадали на облака и с небес помогали своим потомкам.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PALENQUE_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Хотя испанцы разграбили Митлу и попытались уничтожить ее как религиозный и культурный центр сапотеков, сухой климат сохранил оставленные ими развалины. Наиболее замечательны орнаменты, вырезанные на каменных стенах площадей города. Они представляют собой завораживающие узоры, напоминающие чешую огромной змеи (мифического чудовища из мезоамериканской легенды), которые во времена расцвета Митлы красили в насыщенный красный цвет.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_EYJAFJALLAJOKULL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Эйяфьядлайекюдль - это название исландского вулкана и ледниковой шапки на его жерле. Вулкан был активен в течение последнего тысячелетия, но стал известен после небольшого извержения в 2010 году. Выброшенный вулканический пепел на целую неделю парализовал воздушное сообщение над Европой и дал повод для тысяч часов взволнованных репортажей. Извержения Эйяфьядлайекюдля обычно предшествуют извержениям более активного подледного вулкана Катла – к огорчению европейских авиадиспетчеров.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_LYSEFJORDEN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ледниковая эрозия создала величественный Люсе-фьорд на юге нынешней Норвегии. Марафонская дистанция черной ледяной воды, зажатая между отвесными стенами из бледного гранита. Светлый оттенок скал дал название этому «яркому фьорду», несмотря на то, что вся вода в нем остается в тени. Гигантский утес «Скала-кафедра» (Прекестулен) представляет собой гладкую площадку на высоте шестисот метров около устья Люсе-фьорда, откуда очень удобно кричать что-нибудь проходящим внизу лодкам.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_GIANTS_CAUSEWAY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Вдоль побережья Северной Ирландии встречаются скопления геометрически правильных колонн, известные как «Дорога гигантов». Колонны различной высоты напоминают отдельно стоящие органные трубы. Ближайшие к берегу колонны исчезают в Северном проливе, а прочие возвышаются над поверхностью земли, словно базальтовый частокол. Легенды рассказывают, что эту дорогу построил герой Финн Маккул, когда был вызван на бой великаном Голлом мак Морна. Геологи не согласны - они связывают образование этих колонн с вулканической активностью 50 млн. лет назад.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_ALCAZAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Алькасары (своего рода последние прибежища) были крепостями или дворцами, построенными во многих мавританских городах Аль-Андалуса в VIII-XV вв. Часто их возводили в качестве резиденций мавританских правителей... но в результате, они оказались довольно удобными не только против непокорных соперников, но и запутанной христианской реконкисты. Многие из них до сих пор стоят и пользуются большой популярностью: например, в Сеговии, Толедо, Кордовк (знаменитый Алькасар де Лос Рейес Кристианос), Бургосе и Севильи. Последний из них был построен в 913 году в качестве крепости для правителя Кордовы; в XI веке его расширили до дворца, известного под названием Аль-Мубарак (“благословенный”). Христианский король Фернандо III сделал его королевской резиденцией, когда захватил Севилью в 1248 году. Сейчас это всего лишь очередная остановка для экскурсионных автобусов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_MONASTERY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В Римско-католической традиции монастырь представляет собой комплекс зданий, который служит общим домом и рабочим местом для монахов (и монахинь в современном употреблении термина “монастыри”). Также в нем имеются специально отведенные места для молитв, такие как часовня или церковь. В большинстве из них есть больницы, школы, винокурни и многое другое. Согласно легенде, христианское монашество зародилось в Египте, хотя первый монастырь в Европе был основан в 344 неподалеку от Чирпана (Болгария) святым Афанасием. Пару веков спустя, в 529 году, святой Бенедикт основал монастырь Монте-Кассино, который в дальнейшем служил примером для католического монашества. Вскоре монастыри стали появляться по всей Европе и за ее пределами.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_AUCKLAND_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Окленда|бонуса сюзерэна Окленда|бонусу сюзерэна Окленда|бонус сюзерэна Окленда|бонусам сюзерэна Окленда|бонусе сюзерэна Окленда</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_ANTANANARIVO_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Антананарыву|бонуса сюзерэна Антананарыву|бонусу сюзерэна Антананарыву|бонус сюзерэна Антананарыву|бонусам сюзерэна Антананарыву|бонусе сюзерэна Антананарыву</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_ARMAGH_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Армы|бонуса сюзерэна Армы|бонусу сюзерэна Армы|бонус сюзерэна Армы|бонусам сюзерэна Армы|бонусе сюзерэна Армы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_GRANADA_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Гранады|бонуса сюзерэна Гранады|бонусу сюзерэна Гранады|бонус сюзерэна Гранады|бонусам сюзерэна Гранады|бонусе сюзерэна Гранады</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_MUSCAT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Маската|бонуса сюзерэна Маската|бонусу сюзерэна Маската|бонус сюзерэна Маската|бонусам сюзерэна Маската|бонусе сюзерэна Маската</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_MITLA_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Мітлы|Бонуса сюзерэна Мітлы|Бонусу сюзерэна Мітлы|Бонус сюзерэна Мітлы|Бонусам сюзерэна Мітлы|Бонусе сюзерэна Мітлы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_EYJAFJALLAJOKULL_QUOTE" Language="en_US">
+			<Text>«Высокі, магутны слуп агню быў такі яркі, што жыхары Холта маглі чытаць ноччу, як пры святле дня».[NEWLINE]– «Ліверпул Мерк'юры»</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_GIANTS_CAUSEWAY_QUOTE" Language="en_US">
+			<Text>«Тут – цёмна-карычневы аморфны базальт, там – чырвоная вохра, а ніжэй – тонкія, але выразныя палосы бурага вугалю».[NEWLINE]– «Даблін пені джорнал»</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_LYSEFJORDEN_QUOTE" Language="en_US">
+			<Text>«І сярод гэтай воднай пустэльні – доўгая змрочная вуліца паміж скаламі. Яна нікому не патрэбна. Ніхто не ходзіць па ёй: паглыбіцца ў яе не адважыцца ніводны карабель».[NEWLINE]– Віктор Гюго</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_AUCKLAND_DESCRIPTION" Language="en_US">
+			<Text>Прыналежныя вам клеткі плыткаводдзя даюць +1 [ICON_Production] вытворчасці. Яшчэ +1 па дасягненні Прамысловай эры.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_ANTANANARIVO_DESCRIPTION" Language="en_US">
+			<Text>Ваша цывілізацыя атрымае +2% [ICON_Culture] культуры за кожнага атрыманага вамі выбітнага чалавека. Максімальны бонус: 30%.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_ARMAGH_DESCRIPTION" Language="en_US">
+			<Text>Зараз вашы будаўнікі могуць будаваць манастыры.[NEWLINE][NEWLINE]Манастыры даюць +2 [ICON_Faith] да веры. Дружалюбны рэлігійны юніт на гэтай клетцы аднаўляе +15 АЗ, калі на гэтым ходзе не быў атакаваны. Няможна пабудаваць поруч з іншым манастыром.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_GRANADA_DESCRIPTION" Language="en_US">
+			<Text>Зараз вашы будаўнікі могуць будаваць алькасары.[NEWLINE][NEWLINE]Алькасар прыносіць 2 [ICON_Culture] адз. культуры. Змешчаны тут юніт атрымае +4 да [ICON_Strength] абараназдольнасці і аўтаматычна атрымае ўмацаванне на 2 хады. Няможна пабудаваць поруч з іншым алькасарам.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_MUSCAT_DESCRIPTION" Language="en_US">
+			<Text>+1 да [ICON_Amenities] здаволення ў гарадах з цэнтрам камерцыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_MITLA_DESCRIPTION" Language="en_US">
+			<Text>Горад расце на 15% хутчэй, калі ёсць кампус.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SPEAR_OF_FIONN_NAME" Language="en_US">
+			<Text>Дзіда Фіна</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SPEAR_OF_FIONN_DESCRIPTION" Language="en_US">
+			<Text>Дзіда Фіна: +5 да баявой моцы</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_ALCAZAR_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам будаваць алькасары.[NEWLINE][NEWLINE]+2 да [ICON_Culture] культуры. Змешчаны тут юніт атрымае +4 да [ICON_Strength] абараназдольнасці і аўтаматычна атрымае ўмацаванне на 2 хады. Няможна пабудаваць поруч з іншым алькасарам.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MONASTERY_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам будаваць манастыры.[NEWLINE][NEWLINE]+2 да [ICON_Faith] веры. Дружалюбны рэлігійны юніт на гэтай клетцы аднаўляе 15 АЗ, калі на гэтым ходзе не быў атакаваны. Няможна пабудаваць поруч з іншым манастыром.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

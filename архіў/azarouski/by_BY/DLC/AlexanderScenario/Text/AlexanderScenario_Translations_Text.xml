@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_BABYLON" Language="en_US">
+			<Text>Вавілон|Вавілона|Вавілону|Вавілон|Вавілонам|Вавілоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_GAZA" Language="en_US">
+			<Text>Газа|Газы|Газе|Газу|Газай|Газе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_TYRE" Language="en_US">
+			<Text>Цір|Ціра|Ціру|Цір|Цірам|Ціры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_ARBELA" Language="en_US">
+			<Text>Арбела|Арбелы|Арбеле|Арбелу|Арбелай|Арбеле</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_TUSA" Language="en_US">
+			<Text>Тус|Туса|Тусу|Тус|Тусам|Тусе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_PATALA" Language="en_US">
+			<Text>Патала|Паталы|Патале|Паталу|Паталай|Патале</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_MARAKANDA_NAME" Language="en_US">
+			<Text>Мараканда|Мараканды|Маракандзе|Мараканду|Маракандай|Маракандзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PATALA_NAME" Language="en_US">
+			<Text>Патала|Паталы|Патале|Паталу|Паталай|Патале</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ATHENS_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Афіны|горада-дзяржавы Афіны|гораду-дзяржаве Афіны|горад-дзяржаву Афіны|горадам-дзяржавай Афіны|горадзе-дзяржаве Афіны</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_MARAKANDA_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Мараканда|горада-дзяржавы Мараканда|гораду-дзяржаве Мараканда|горад-дзяржаву Мараканда|горадам-дзяржавай Мараканда|горадзе-дзяржаве Мараканда</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PATALA_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Патала|горада-дзяржавы Патала|гораду-дзяржаве Патала|горад-дзяржаву Патала|горадам-дзяржавай Патала|горадзе-дзяржаве Патала</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ATHENS_ADJECTIVE" Language="en_US">
+			<Text>афінск.|афінск.|афінск.|афінск.|афінск.|афінск.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_MARAKANDA_ADJECTIVE" Language="en_US">
+			<Text>маракандск.|маракандск.|маракандск.|маракандск.|маракандск.|маракандск.</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PATALA_ADJECTIVE" Language="en_US">
+			<Text>паталск.|паталск.|паталск.|паталск.|паталск.|паталск.</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DARIUS_III_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Дарый III прыйшоў да ўлады, калі дзяржава Ахеменідаў больш за ўсё напамінала гружаную даверху калясніцу, што балансуе на адным коле на краі прорвы, тым часам як коні разбегліся ў розныя бакі. Дарыю давялося ўціхамірваць непакорлівых (а часам і мяцежных) сатрапаў, якія бравіруюць сваёй незалежнасцю ад далёкага Персепаля.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DARIUS_III_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>На няшчасце яму, неўзабаве прыбыў Аляксандр Вялікі, выцягнуў з калясніцы ўсё, што ў ёй было каштоўнага, і даў ёй добрага штурхяля. Пасля шэрага зневажальных параз Дарый стаў ахвярай палацавага перавароту і быў кінуты паміраць на возе, запрэжаным валамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ATHENS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Афіны – горад са старажытнай гісторыяй, які зрабіў неацэнны ўнёсак у развіццё заходняй цывілізацыі. Афіны былі зыбкай дэмакратыі з V стагоддзя да н.э. і люта баранілі сваю незалежнасць, але ў перыяды крызісаў ядналіся з іншымі грэцкімі полісамі. Пасля знакамітай перамогі над персідскім царом Ксерксам Афіны ненадоўга трапілі пад уладу Спарты падчас Пелапанэскай вайны, а ў 338 годзе да н.э. Філіп II на доўгія часы перапыніў афінскую незалежнасць. Але яшчэ на працягу многіх стагоддзяў Афіны заставаліся цэнтрам культуры і вучонасці.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MARAKANDA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Сталіца персідскай Сагдыянскай сатрапіі, вядомая македонцам пад назвай Мараканда (цяпер гэта ўзбекскі горад Самарканд), была заваявана Аляксандрам Вялікім у 329 годзе да н.э. Адноўлены новымі ўладнікамі Марканд стаў другім домам для войска Аляксандра ў перыяд здушэння паўстання сагдыйцаў. У Маркандзе Аляксандр абвясціў пра хуткі паход у Індыю. Тут жа ён у п'янай бойцы працяў дзідай аднаго са сваіх вайскаводаў, Кліта Чорнага. Няўдачлівае месца і для Кліта, і для Індыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PATALA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Старажытны горад Патала знаходзіўся на тэрыторыі сучаснага Пакістану, але пра яго месцазнаходжанне ў эпоху Аляксандра Вялікага адной думкі няма – гэта маглі быць і Хайдарабад, і Тата. Старажытныя тэксты паведамляюць, што горад знаходзіўся на беразе Інда, непадалёк ад месца яго ўпадзення ў Аравійскае мора (змены рэчышча Інда за апошнія два тысячагоддзі ствараюць блытаніну ў геаграфічных дадзеных). Горад быў сталіцай вобласці Паталена ў дэльце Інда. Мясцовы ўладнік разважліва падначаліўся Аляксандру, які змесцаваў тут сваё войска падчас пошукаў шляху да Аравійскага мора – паўднёвай мяжы імперыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ANTIGENES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Аднавокі Антыген пайшоў на службу пры Філіпу II, быў адданым вайскаводам Аляксандра ўва ўсіх яго паходах, за што яму ўрэшце была падаравана сатрапія Сузіяна. На няшчасце, Антыген у вайне дыядохаў выступіў не на тым боку і быў спалены жыўцом у яме.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COENUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Кен быў надзейным вайскаводам, ён любіў весці салдатаў за сабой асабістым прыкладам. Напэўна, з-за падабенства характараў Аляксандр даручыў яму камандаванне правым флангам – ключавым для македонскай тактыкі «молат і кавадла». Кен карыстаўся такім аўтарытэтам, што яму атрымалася пераканаць Аляксандра адмовіцца ад заваёвы Індыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CRATERUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Таленавіты Кратар быў адным з самых давераных вайскаводаў Аляксандра. Поспехі пры Ісе і Ціры прынеслі яму пасаду вярхоўнага вайскавода пры Аляксандру ў персідскім паходзе. Ён не цураўся палітыкі і звінаваціў свайго суперніка Філота ў здрадзе, але быў непахісны ў сваёй пэўнасці цару.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MELEAGER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Хоць Мелеагр гэтак і не ўвайшоў у лік найвысокіх вайскаводаў пры Аляксандру, ён быў адданым камандзірам і вёў у бой адзін з атрадаў фалангі ўва ўсіх паходах цара. Па характары, напэўна, быў залішне просталінейны – калі яму загадалі супакоіць незадаволеных салдатаў пасля смерці Аляксандра, ён далучыўся да мяцяжу супраць сваіх жа начальнікаў, а потым і ўзначаліў яго.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_POLYPERCHON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Паліперхан камандаваў фалангай пры Аляксандру да самай смерці цара, але вядомы ён хутчэй сваім удзелам у войнах дыядохаў. Паліперхан паспяхова лавіраваў паміж бесперапыннымі здрадамі на працягу, сама меней, трох войн і, як лічаць, дажыў да канца IV стагоддзя да н.э.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SELEUCUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Селеўк быў сучаснікам Аляксандра, навучаўся ў лепшых настаўнікаў пры Філіпу II. У паходах Аляксандра камандаваў элітнымі атрадамі гіпаспістаў («шчытаносцаў») і бараніў флангі войска цара яшчэ доўга пасля яго смерці. Урэшце Селеўк заснаваў імперыю Селеўкідаў, што займала тэрыторыю ад сучаснай Турцыі да Афганістана.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CLEITUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Кліт Чорны камандаваў конніцай у войску Аляксандра Вялікага. У адным з першых паходаў Кліт выратаваў жыццё юнага цара, за што ў канчатковым выніку Аляксандр адплаціў яму, працяўшы грудзі дзідай у п'янай бойцы, пра што пасля шкадаваў.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ERIGYIUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Эрыгій быў гэткі адданы Аляксандру, што падазроны Філіп II выгнаў яго з Македоніі. Пасля смерці старога цара новаму запатрабаваўся камандзір конніцы – і Эрыгій узяўся за гэту працу. Ён аддана служыў Аляксандру ўва ўсіх паходах і загінуў у боі з бактрыйцамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HEPHAESTION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Гефестыён, найблізкі сябар Аляксандра з ранняга дзяцінства, быў камандзірам гетайраў у яго паходах – не як царскі ўлюбёнчык, а як бясспрэчна бліскучы вайскавод. Яго раптоўная смерць у выніку хваробы стала цяжкім ударам для Аляксандра, які не паскупіўся на пахаванні і збіраўся аказваць яму доўгія пасмяротныя ўшанаванні.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_LEONNATUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Леанат быў камандзірам кавалерыі ў войску Аляксандра Македонскага, за адданасць і майстэрства ганараваўся пасадай быць асабістым целаахоўнікам цара. Браў удзел ува ўсіх паходах Аляксандра. Пасля смерці Аляксандра Леанат увязаўся ў вайну дыядохаў. Загінуў у боі з афінянамі падчас Ламійскай вайны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PERDICCAS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Пердыка пачаў вайсковую службу ў пасадзе камандзіра фалангі, але пасля смерці Гефестыёна Аляксандр Вялікі ўзвысіў яго да камандзіра гетайраў («атрада сяброў»). На божай пасцелі Аляксандр прызначыў Пердыку вярхоўным вайскаводам і ўладнікам, але той выпусціў свой шанец па прычыне бясталентнай палітыкі, што і давяло да першай вайны дыядохаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PHILOTAS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Вайскавод Філіпа Парменіён падтрымаў Аляксандра ў змаганні за ўладу. Новы цар у знак падзякі ўзвысіў Філота, сына Парменіёна, да камандзіра гетайраў. Філота быў умелым ваяром, але непакорлівы нораў прывёў яго да змовы супраць цара, што прынесла смерць і яму, і яго бацьку.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ALEXANDER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Пра Аляксандра расказвалі, што ён ваюе ў першых шэрагах, і ваяры шануюць яго за тое, што ён трапляе пад такую ж (калі не большую) небяспеку, што і яны. Ён часта вёў у бой гетайраў («атрад сяброў»), а аднойчы так спяшаўся ўлезці на сцяну абложанага горада, што апынуўся адрэзаным ад свайго войска, адзін у атачэнні ворагаў. Ён быў цяжка паранены, але выбраўся жывым з, здавалася б, безнадзейнай сітуацыі, і ваяры сталі яшчэ больш шанаваць яго за адвагу. Аляксандр асабістым прыкладам прымушаў іх здзяйсняць немагчымае.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_ALEXANDER_NAME" Language="en_US">
+			<Text>Аляксандр Вялікі|Аляксандра Вялікага|Аляксандру Вялікаму|Аляксандра Вялікага|Аляксандрам Вялікім|Аляксандру Вялікім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_COENUS_NAME" Language="en_US">
+			<Text>Кен|Кена|Кену|Кена|Кенам|Кену</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SELEUCUS_NAME" Language="en_US">
+			<Text>Селеўк|Селеўка|Селеўку|Селеўка|Селеўкам|Селеўку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_CRATERUS_NAME" Language="en_US">
+			<Text>Кратар|Кратара|Кратару|Кратара|Кратарам|Кратары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_MELEAGER_NAME" Language="en_US">
+			<Text>Мелеагр|Мелеагра|Мелеагру|Мелеагра|Мелеаграм|Мелеагру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_POLYPERCHON_NAME" Language="en_US">
+			<Text>Паліперхан|Паліперхана|Паліперхану|Паліперхана|Паліперханам|Паліперхану</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANTIGENES_NAME" Language="en_US">
+			<Text>Антыген|Антыгена|Антыгену|Антыгена|Антыгенам|Антыгену</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_HEPHAESTION_NAME" Language="en_US">
+			<Text>Гефестыён|Гефестыёна|Гефестыёну|Гефестыёна|Гефестыёнам|Гефестыёну</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLEITUS_NAME" Language="en_US">
+			<Text>Кліт Чорны|Кліта Чорнага|Кліту Чорнаму|Кліта Чорнага|Клітам Чорным|Кліту Чорным</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_PERDICCAS_NAME" Language="en_US">
+			<Text>Пердыка|Пердыкі|Пердыку|Пердыку|Пердыкам|Пердыку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_PHILOTAS_NAME" Language="en_US">
+			<Text>Філота|Філоты|Філоту|Філота|Філотам|Філоту</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEONNATUS_NAME" Language="en_US">
+			<Text>Леанат|Леаната|Леанату|Леаната|Леанатам|Леанату</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ERIGYIUS_NAME" Language="en_US">
+			<Text>Эрыгій|Эрыгія|Эрыгію|Эрыгія|Эрыгіем|Эрыгію</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREATPERSON_SINGLE_COMBAT_STRENGTH_AOE_LAND_MODIFIER" Language="en_US">
+			<Text>Баявы бонус +5 [ICON_Strength] ад вялікага вайскавода.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATPERSON_SINGLE_COMBAT_STRENGTH_AOE_LAND" Language="en_US">
+			<Text>+5 да [ICON_Strength] баявой моцы і +2 [ICON_Movement] АР усім юнітам у межах 2 клетак.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATPERSON_SINGLE_MOVEMENT_AOE_LAND_MODIFIER" Language="en_US">
+			<Text>+1 [ICON_Movement] АР усім юнітам.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATPERSON_DOUBLE_COMBAT_STRENGTH_AOE_LAND_MODIFIER" Language="en_US">
+			<Text>Баявы бонус +10 [ICON_Strength] ад вялікага вайскавода.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATPERSON_DOUBLE_COMBAT_STRENGTH_AOE_LAND" Language="en_US">
+			<Text>+10 да [ICON_Strength] баявой моцы і +1 [ICON_Movement] АР усім юнітам у межах 2 клетак.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATPERSON_DOUBLE_MOVEMENT_AOE_LAND_MODIFIER" Language="en_US">
+			<Text>+2 [ICON_Movement] АР усім юнітам.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATPERSON_TRIPLE_COMBAT_STRENGTH_AOE_LAND_MODIFIER" Language="en_US">
+			<Text>Баявы бонус +15 [ICON_Strength] ад вялікага вайскавода.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATPERSON_TRIPLE_COMBAT_STRENGTH_AOE_LAND" Language="en_US">
+			<Text>+15 да [ICON_Strength] баявой моцы і +3 [ICON_Movement] АР усім юнітам у межах 2 клетак.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATPERSON_TRIPLE_MOVEMENT_AOE_LAND_MODIFIER" Language="en_US">
+			<Text>+3 [ICON_Movement] АР усім юнітам.</Text>
+		</Replace>
+		<Replace Tag="LOC_ROUTE_SCENARIO_ANCIENT_ROAD_DESCRIPTION" Language="en_US">
+			<Text>Павялічвае хуткасць [ICON_Movement] руху ўсіх юнітаў пры перасоўванні паміж клеткамі дарогі.</Text>
+		</Replace>
+		<Replace Tag="LOC_ROUTE_SCENARIO_MEDIEVAL_ROAD_DESCRIPTION" Language="en_US">
+			<Text>Павялічвае хуткасць [ICON_Movement] руху ўсіх юнітаў пры перасоўванні паміж клеткамі дарогі.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_GREEK_HOPLITE_DESCRIPTION" Language="en_US">
+			<Text>Унікальны грэцкі юніт Старажытнага свету, які замяшчае капейшчыка. Не атрымвае штрафу да моцы пасля пашкоджання.</Text>
+		</Replace>
+		<Replace Tag="LOC_ALEXANDER_SCENARIO_WORLD_RANKING_1" Language="en_US">
+			<Text>Правілы адмысловага сцэнара:</Text>
+		</Replace>
+		<Replace Tag="LOC_ALEXANDER_SCENARIO_WORLD_RANKING_2" Language="en_US">
+			<Text>Ні дрэва тэхналогій, ні сацыяльных інстытутаў, ні палітычных курсаў, ні дыпламатыі, ні рэлігіі. Македонія ваюе з усімі. Мір немагчымы, штраф за захоп горада дзее на працягу ўсяго сцэнара.</Text>
+		</Replace>
+		<Replace Tag="LOC_ALEXANDER_SCENARIO_WORLD_RANKING_3" Language="en_US">
+			<Text>Калі вялікі вайскавод Аляксандр загіне, сцэнар будзе прайграны. Калі загіне кожны іншы вялікі вайскавод, ён проста знікае з гульні. [ICON_GreatGeneral] Ачкі вялікіх вайскаводаў налічаюцца толькі за знішчэнне юнітаў гіпаспістамі і гетайрамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_ALEXANDER_SCENARIO_WORLD_RANKING_4" Language="en_US">
+			<Text>Дармовыя юніты пасля захопу гарадоў з палацам ці дзівам свету, калі Аляксандр знаходзіцца ў межах адной клеткі:</Text>
+		</Replace>
+		<Replace Tag="LOC_ALEXANDER_SCENARIO_WORLD_RANKING_5" Language="en_US">
+			<Text>[NEWLINE][ICON_Bullet]Афіны: 2 гопліты[NEWLINE][ICON_Bullet]Вавілон: 1 лучнік[NEWLINE][ICON_Bullet]Галікарнас: 1 галера[NEWLINE][ICON_Bullet]Мараканда: 1 конны лучнік-сака[NEWLINE][ICON_Bullet]Мемфіс: 1 лучнік на калясніцы мар'яну[NEWLINE][ICON_Bullet]Парса: 2 несмяротных[NEWLINE][ICON_Bullet]Патала: 1 вару</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ALEXANDER_SCENARIO_WALLS_DESCRIPTION" Language="en_US">
+			<Text>Стварае сцены вакол цэнтра горада і вайсковага лагера. Сцены дазваляюць [ICON_Ranged] страляць па ворагу з цэнтра горада і лагера і павінны быць знішчаны, перш чым вораг зможа штурмаваць горад. Няможна пабудаваць у гэтым сцэнары. Сцены месцяцца да пачатку сцэнара.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ALEXANDER_SCENARIO_WONDERS_DESCRIPTION" Language="en_US">
+			<Text>Не дзее ў гэтым сцэнары, за выняткам здольнасці ўладніка Аляксандра.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ALEXANDER_SCENARIO_BASILIKOI_PAIDES_DESCRIPTION" Language="en_US">
+			<Text>Унікальны македонскі будынак. +25% досведу за бой сухапутным войскам блізкага і далёкага бою, а таксама гетайрам, створаным у гэтым горадзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ALEXANDER_SCENARIO_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам будаваць пайрыдаэзу (унікальна для Персіі).[NEWLINE][NEWLINE]+1 [ICON_CULTURE] культуры і +2 [ICON_GOLD] золата. +2 прэстыжу. +1 [ICON_CULTURE] культуры за кожнае суседняе святое месца і тэатральны пляц. +1 [ICON_GOLD] золата за кожны суседні цэнтр камерцыі і цэнтр горада.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_POINTS_NAME" Language="en_US">
+			<Text>Ачкі выбітных вайскаводаў</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_POINTS_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_GreatGeneral] ачкоў выбітных вайскаводаў за кожны пераможаны юніт.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_SINGLE_STRENGTH_NAME" Language="en_US">
+			<Text>Адно ачко моцы</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_SINGLE_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>Баявы бонус +5 [ICON_Strength] ад выбітнага вайскавода.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_DOUBLE_STRENGTH_NAME" Language="en_US">
+			<Text>Два ачкі моцы</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_DOUBLE_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>Баявы бонус +10 [ICON_Strength] ад выбітнага вайскавода.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_TRIPLE_STRENGTH_NAME" Language="en_US">
+			<Text>Тры ачкі моцы</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_TRIPLE_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>Баявы бонус +15 [ICON_Strength] ад выбітнага вайскавода.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_SINGLE_MOVEMENT_NAME" Language="en_US">
+			<Text>Адно АР</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_SINGLE_MOVEMENT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Movement] АР за выбітнага вайскавода.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_DOUBLE_MOVEMENT_NAME" Language="en_US">
+			<Text>Два АР</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_DOUBLE_MOVEMENT_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Movement] АР за выбітнага вайскавода.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_TRIPLE_MOVEMENT_NAME" Language="en_US">
+			<Text>Тры АР</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_TRIPLE_MOVEMENT_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_Movement] АР за выбітнага вайскавода.</Text>
+		</Replace>
+		<Replace Tag="LOC_ALEXANDER_SCENARIO_WORLD_RANKING_6" Language="en_US">
+			<Text>Засталося заваяваць гарадоў: {1_Cities}</Text>
+		</Replace>
+		<Replace Tag="LOC_ALEXANDER_SCENARIO_WORLD_RANKING_7" Language="en_US">
+			<Text>Складанасць: {1_DifficultyName}</Text>
+		</Replace>
+		<Replace Tag="LOC_ALEXANDER_SCENARIO_WORLD_RANKING_8" Language="en_US">
+			<Text>Лік: {1_Score}. [5 ачкоў за кожны горад.]</Text>
+		</Replace>
+		<Replace Tag="LOC_ALEXANDER_SCENARIO_WORLD_RANKING_9" Language="en_US">
+			<Text>Бонусны лік: {1_Bonus} бон. ачкоў за датэрміновае сканчэнне сцэнара, калі вы выйграеце на гэтым ходзе.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

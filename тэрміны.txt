@@ -1,0 +1,37 @@
+amenities - дабрабыт
+appeal = прывабнасьць
+belief - звычай
+charges - дзеяньні
+citizen - жыхар
+city - горад 
+civic - палітыка
+custom = уласны
+district - мястэчка
+faith - вера
+formation - шыхт
+great admiral - выбітны адмірал
+great artist - выбітны мастак
+great general - выбітны генерал
+great musician - выбітны музыка
+great people - выбітны дзеяч
+great scientist - выбітны навуковец
+great trader - выбітны гандляр
+great writer - выбітны пісьменьнік
+greatwork writing - літаратурны твор
+host - майстар гульні
+housing - жытло
+melee - блізкі бой
+natural wonder = дзіва прыроды
+plot - пяцікутнік
+production - вытворчасьць
+range - далёкі бой
+room - пакой
+specialist = адмысловец
+spreads - распаўсюды
+terrain - пляцоўка
+terrain feature - забудова
+unique - асаблівы
+unit - адзінка
+wonder = цуда сьвету
+yield - прыбытак
+ок - добра

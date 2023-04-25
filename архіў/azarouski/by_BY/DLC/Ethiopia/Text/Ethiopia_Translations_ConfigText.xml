@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME" Language="en_US">
+      <Text>Скальны храм|скальнага храма|скальнаму храму|скальны храм|скальным храмам|скальным храме</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_NAME" Language="en_US">
+      <Text>Эфіёпія|Эфіёпіі|Эфіёпіі|Эфіёпію|Эфіёпіяй|Эфіёпіі</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="en_US">
+      <Text>Эфіёпская імперыя|Эфіёпскай імперыі|Эфіёпскай імперыі|Эфіёпскую імперыю|Эфіёпскай імперыяй|Эфіёпскай імперыі</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE" Language="en_US">
+      <Text>Эфіёпск.|эфіёпск.|эфіёпск.|эфіёпск.|эфіёпск.|эфіёпск.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_MENELIK_NAME" Language="en_US">
+      <Text>Менелік II|Менеліка II|Менеліку II|Менеліка II|Менелікам II|Менеліку II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME" Language="en_US">
+      <Text>Рэжым «Таемныя суполкі»</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION" Language="en_US">
+      <Text>Гэты рэжым дадае ў гульню чатыры магутных, загадкавых і часцяком заганных таемных суполкі, кожная з якіх заснаваная на выдуманых ці міфічных суполках мінулага. Шукайце іх сляды ў лагерах барбараў і племянных селішчах ці адпраўляйце амбасадараў у гарады-дзяржавы і адшуквайце дзівы прыроды. Калі іншыя лідары ўжо ўступілі ў кантакт з таемнымі суполкамі, можна ўкласціся ў дыпламатычную бачнасць і даведацца пра гэтыя суполкі болей.[NEWLINE][NEWLINE]Калі вы знайшлі таемную суполку, то гэта яшчэ не значыць, што ў яе можна будзе адразу ўступіць. Аднак гэтым вы адкрыеце губернатара, якога нават не патрэбна прызначаць у горад. Каб уступіць у суполку, трэба даць губернатару тытул, пасля чаго вы атрымаеце магутныя бонусы. Абірайце з розумам: прызначыўшы губернатара, вы заявіце пра падтрымку абранай суполкі, і іншыя лідары адрэагуюць на гэта. Скарыстайце дадатковыя тытулы губернатара, каб давесці суполцы сваю адданасць і адкрыць новыя таямніцы.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME" Language="en_US">
+      <Text>Аксумская спадчына</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION" Language="en_US">
+      <Text>Міжнародныя гандлёвыя шляхі Эфіёпіі даюць +0,5 адз. [ICON_Faith] веры на пачатковым этапе. Палепшаныя рэсурсы даюць +1 адз. [ICON_Faith] веры за кожную копію, што ёсць у горада. За [ICON_Faith] веру можна купляць археалагічныя музеі і археолагаў.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION" Language="en_US">
+      <Text>Адкрывае здольнасць «Будаўнік», каб пабудаваць скальны храм (унікальна для Эфіёпіі).[NEWLINE][NEWLINE]+1 адз. [ICON_Faith] веры. +1 адз. [ICON_Faith] веры за кожную суседнюю гару і ўзгорак. Дае [ICON_TOURISM] турызм пасля даследавання «Авіяцыі» праз [ICON_FAITH] веру. +1 да прэстыжу. Можна будаваць толькі на ўзгорках, не побач з іншым скальным храмам.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION" Language="en_US">
+      <Text>Адкрывае здольнасць «Будаўнік», каб пабудаваць скальны храм (унікальна для Эфіёпіі).[NEWLINE][NEWLINE]+1 адз. [ICON_Faith] веры. +1 адз. [ICON_Faith] веры за кожную суседнюю гару і ўзгорак. Дае [ICON_TOURISM] турызм пасля даследавання «Авіяцыі» праз [ICON_FAITH] веру. +1 да прэстыжу. Можа быць спустошана, але не знішчана стыхійнымі бедствамі. Можна будаваць толькі на ўзгорках, не побач з іншым скальным храмам.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_NAME" Language="en_US">
+      <Text>Рада міністраў</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION" Language="en_US">
+      <Text>Бонус да [ICON_SCIENCE] навукі і [ICON_CULTURE] культуры ў памеры 15% ад [ICON_FAITH] вытворчасці веры ў гарадах, пабудаваных на ўзгорках. Юніты атрымаюць +4 да [ICON_STRENGTH] баявой моцы на ўзгорках.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME" Language="en_US">
+      <Text>Эфіёпскае сугор'е</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION" Language="en_US">
+      <Text>+4 [ICON_Strength] да баявой моцы на ўзгорках (рада міністраў).</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="en_US">
+      <Text>Эфіёпскі ўнікальны лёгкі кавалерыйскі юніт эпохі Сярэднявечча. Валодае дадатковым аглядам і не атрымае штрафу да АР за рух па ўзгорках.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION" Language="en_US">
+      <Text>Эфіёпскі ўнікальны лёгкі кавалерыйскі юніт эпохі Сярэднявечча. Мацнейшы і зырчэйшы замененага лёткага атрада. Не мае штрафу да АР за рух па ўзгорках.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="en_US">
+      <Text>Кавалерыя арома</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION" Language="en_US">
+      <Text>Не атрымае штрафу да АР за рух па ўзгорках.</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS" Language="en_US">
+      <Text>Менелік не хоча, каб вы будавалі гарады поруч з узгоркамі</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE" Language="en_US">
+      <Text>Менелік рады таму, што вы пакідаеце ўзгоркі яму</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE" Language="en_US">
+      <Text>Менелік незадаволены тым, што вы змагаецеся з ім за ўзгоркі</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS" Language="en_US">
+      <Text>Любіць тых, хто селіцца далёка ад узгоркаў</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME" Language="en_US">
+      <Text>Эфіёпскае сугор'е</Text>
+    </Replace>
+    <Replace Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION" Language="en_US">
+      <Text>Пераважна засноўвае селішчы на ўзгорках і поруч з імі. Любіць цывілізацыі, якія дазваляюць яму сяліцца на ўзгорках. Не любіць цывілізацыі, якія таксама селяцца на ўзгорках і поруч з імі.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_MENELIK" Language="en_US">
+      <Text>Менелік II, негус-негесці, вярхоўны ўладнік, вы прадбачыце хвалебную будучыню для свайго народа. Развівайце адносіны і складайце альянсы, будуйце фабрыкі і чыгункі і сваёй кемлівасцю і мудрасцю вядзіце Эфіёпію да светлай, вольнай будучыні.</Text>
+    </Replace>
+    <Replace Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP" Language="en_US">
+      <Text>{Value : number +#.#;-#.#} ад рэсурсаў</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION" Language="en_US">
+      <Text>+{1_Amount} да [ICON_Strength] баявой моцы (рада міністраў)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME" Language="en_US">
+      <Text>Кавалерыя арома|кавалерыі арома|кавалерыі арома|кавалерыю арома|кавалерыяй арома|кавалерыі арома</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+  </LocalizedText>
+</GameData>

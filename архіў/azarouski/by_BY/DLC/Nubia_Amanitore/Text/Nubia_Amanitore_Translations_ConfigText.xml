@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_IMPROVEMENT_PYRAMID_NAME" Language="en_US">
+			<Text>Нубійская піраміда|нубійскай піраміды|нубійскай пірамідзе|нубійскую піраміду|нубійскай пірамідай|нубійскай пірамідзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NUBIA_NAME" Language="en_US">
+			<Text>Нубія|Нубіі|Нубіі|Нубію|Нубіяй|Нубіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_AMANITORE_NAME" Language="en_US">
+			<Text>Аманіторэ|Аманіторэ|Аманіторэ|Аманіторэ|Аманіторэ|Аманіторэ</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME" Language="en_US">
+			<Text>Та-сеці</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION" Language="en_US">
+			<Text>+50% [ICON_Production] вытворчасці падчас стварэння юнітаў далёкага бою. Усе дальнабойныя юніты атрымаюць + 50% да баявога досведу. Рудні на стратэгічных рэсурсах даюць +1 [ICON_Production] прадукцыі. Рудні на бонусных і рэдкіх рэсурсах даюць +2 [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION" Language="en_US">
+			<Text>Паляпшэнне, даступнае пасля вывучэння каменнага муру. Можна пабудаваць толькі ў пустэльні, на ўзгорках у пустэльні ці ў абалоне ракі. +1 [ICON_Faith] веры. Дадатковыя бонусы ад суседніх раёнаў. +1 [ICON_Food] ежы, калі мяжуе з цэнтрам горада. Для астатніх раёнаў з бонусамі за суседства: +1 адз. адпаведнага рэсурсу пры суседстве з раёнам.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME" Language="en_US">
+			<Text>Кандакія з Мероэ</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION" Language="en_US">
+			<Text>+20% [ICON_Production] вытворчасці падчас будавання ўсіх раёнаў; +40% – калі па суседстве з цэнтрам горада знаходзіцца нубійская піраміда.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION" Language="en_US">
+			<Text>Унікальны нубійскі юніт Старажытнага свету, які замяняе лучнікаў. Мацнейшы за лучнікаў, мае больш ачкоў [ICON_Movement] руху. Паляпшаецца да арбалетчыкаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION" Language="en_US">
+			<Text>+50% досведу ў баях (Та-сеці).</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUBIAN_PITATI_NAME" Language="en_US">
+			<Text>Лучнікі-пітаці|лучнікаў-пітаці|лучнікам-пітаці|лучнікаў-пітаці|лучнікамі-пітаці|лучніках-пітаці</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+	</LocalizedText>
+</GameData>

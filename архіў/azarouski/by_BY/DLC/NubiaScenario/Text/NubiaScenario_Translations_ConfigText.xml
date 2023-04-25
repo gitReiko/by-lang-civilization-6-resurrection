@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_HYKSOS_NAME" Language="en_US">
+			<Text>Гіксосы|гіксосаў|гіксосам|гіксосаў|гіксосамі|гіксосах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_LIBYANS_NAME" Language="en_US">
+			<Text>Лівія|Лівіі|Лівіі|Лівію|Лівіяй|Лівіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_ASSYRIA_NAME" Language="en_US">
+			<Text>Асірыя|Асірыі|Асірыі|Асірыю|Асірыяй|Асірыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME" Language="en_US">
+			<Text>Персія|Персіі|Персіі|Персію|Персіяй|Персіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME" Language="en_US">
+			<Text>Македонія|Македоніі|Македоніі|Македонію|Македоніяй|Македоніі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_NUBIA_SCENARIO_HYKSOS_NAME" Language="en_US">
+			<Text>Сакархер|Сакархера|Сакархеру|Сакархера|Сакархерам|Сакархеру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_NUBIA_SCENARIO_LIBYANS_NAME" Language="en_US">
+			<Text>Асоркан|Асоркана|Асоркану|Асоркана|Асорканам|Асоркану</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ASSYRIA_NAME" Language="en_US">
+			<Text>Ашурбанапал|Ашурбанапала|Ашурбанапалу|Ашурбанапала|Ашурбанапалам|Ашурбанапалу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_NUBIA_SCENARIO_PERSIA_NAME" Language="en_US">
+			<Text>Камбіс II|Камбіса ІІ|Камбісу ІІ|Камбіса ІІ|Камбісам ІІ|Камбісу ІІ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_NUBIA_SCENARIO_MACEDON_NAME" Language="en_US">
+			<Text>Аляксандр|Аляксандра|Аляксандру|Аляксандра|Аляксандрам|Аляксандру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ROME_NAME" Language="en_US">
+			<Text>Актавіян Аўгуст|Актавіяна Аўгуста|Актавіяну Аўгусту|Актавіяна Аўгуста|Актавіянам Аўгустам|Актавіяну Аўгусту</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_NAME" Language="en_US">
+			<Text>Дарункі Ніла</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_TOOLTIP" Language="en_US">
+			<Text>Сутычка на берагах Ніла паміж Егіптам і Нубіяй. Працягласць: да 125 хадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_DESCRIPTION" Language="en_US">
+			<Text>Жыхары даліны Ніла лічаць сямёрку самым шчаслівым лікам.[NEWLINE][NEWLINE]І знакам дасканаласці...[NEWLINE][NEWLINE]...і знакам цэласці.[NEWLINE][NEWLINE]Таму той гулец, які пабудуе 7 храмаў Амона за адведзены час (125 хадоў), заслужыць прыхільнасць божышча і пераможа ў сутычцы за ўладу над Нілам.[NEWLINE][NEWLINE][NEWLINE]АДМЕННЫЯ ПРАВІЛЫ:[NEWLINE]— Егіпет і Нубія не могуць абвясціць адзін аднаму вайну да 20-га ходу.[NEWLINE]— Абвешчаныя войны няможна спыніць.[NEWLINE]— У святым месцы будынкі можна набыць толькі за [ICON_Faith] веру.</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_MAP_NAME" Language="en_US">
+			<Text>Карта Нубіі</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_MAP_DESCRIPTION" Language="en_US">
+			<Text>Гістарычная карта басейна Ніла.</Text>
+		</Replace>
+		<Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_NAME" Language="en_US">
+			<Text>Перамога ў сцэнары «Дарункі Ніла»</Text>
+		</Replace>
+		<Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_TT" Language="en_US">
+			<Text>Для перамогі вам трэба першым з гульцоў пабудаваць 7 храмаў вялікага Амона.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_ITERU_DESCRIPTION" Language="en_US">
+			<Text>+15% [ICON_Production] вытворчасці падчас будавання раёнаў і дзіваў свету каля клетак з вадой. Рачныя абалоны не перашкаджаюць будаванню раёнаў і дзіваў свету. На пачатак гульні ўжо вывучаны рыбацтва і мараходства.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_TA_SETI_DESCRIPTION" Language="en_US">
+			<Text>+50% [ICON_Production] вытворчасці падчас будавання юнітаў далёкага бою. Усе дальнабойныя юніты атрымаюць +50% да баявога досведу. На момант пачатку гульні ўжо вывучана горная справа. Рудні на стратэгічных рэсурсах даюць +1 [ICON_Production] прадукцыі. Рудні на бонусных і рэдкіх рэсурсах даюць +2 [ICON_Gold] золата.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

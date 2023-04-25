@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="en_US">
+			<Text>Чола|Чолы|Чоле|Чолу|Чолай|Чоле</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="en_US">
+			<Text>Дзяржава Чола|Дзяржавы Чола|Дзяржаве Чола|Дзяржаву Чола|Дзяржавай Чола|Дзяржаве Чола</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE" Language="en_US">
+			<Text>чольск.|чольск.|чольск.|чольск.|чольск.|чольск.</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="en_US">
+			<Text>Газневіды|Газневідаў|Газневідам|Газневідаў|Газневідамі|Газневідах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="en_US">
+			<Text>Газневідская дзяржава|Газневідскай дзяржавы|Газневідскай дзяржаве|Газневідскую дзяржаву|Газневідскай дзяржавай|Газневідскай дзяржаве</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE" Language="en_US">
+			<Text>газневідск.</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME" Language="en_US">
+			<Text>Пала|Палы|Пале|Палу|Палай|Пале</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="en_US">
+			<Text>Дзяржава Пала|Дзяржавы Пала|Дзяржаве Пала|Дзяржаву Пала|Дзяржавай Пала|Дзяржаве Пала</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE" Language="en_US">
+			<Text>пальск.|пальск.|пальск.|пальск.|пальск.|пальск.</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="en_US">
+			<Text>Туфань|Туфані|Туфані|Туфань|Туфанню|Туфані</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="en_US">
+			<Text>Царства Туфань|Царства Туфань|Царству Туфань|Царства Туфань|Царствам Туфань|Царстве Туфань</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE" Language="en_US">
+			<Text>туфаньск.|туфаньск.|туфаньск.|туфаньск.|туфаньск.|туфаньск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME" Language="en_US">
+			<Text>Дарога да нірваны</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP" Language="en_US">
+			<Text>Святло якой веры заззяе ярчэй усіх над Азіяй? Доўжыцца 50 хадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME" Language="en_US">
+			<Text>Усходняя Азія</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION" Language="en_US">
+			<Text>Карта, падобная на Ўсходнюю Азію</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION" Language="en_US">
+			<Text>Землі вакол Індыйскага акіяна – гэта пярэстая мазаіка народаў і рэлігій. Неба ўсклала на вас вялікую місію – прынесці святло ў гэты край. Ці моцная ваша вера? Ці зможаце вы навярнуць усе народы Паўднёва-ўсходняй Азіі ў праўдзівую рэлігію?[NEWLINE][NEWLINE]У гэтым 50-хадовым сцэнары ваша заданне - набраць як мага больш вернікаў вашай [ICON_Religion] рэлігіі, ачкоў [ICON_FAITH] веры за ход і замежных гарадоў, што перайшлі ў вашу [ICON_Religion] рэлігію.</Text>
+		</Replace>
+		<Replace Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION" Language="en_US">
+			<Text>Для дасягнення нірваны трэба набраць як мага больш ачкоў за пэўны лік хадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO" Language="en_US">
+			<Text>Няхай будзе з табой дабраславенне нябёс, о ўладнік! Мноства рэлігій існуе на гэтых землях, і шмат хто абяцае выратаванне. Ці дастукаешся ты да сэрцаў чалавечых? Або дазволіш іншым зацягнуць усе гэтыя душы на дарогу падману? Хай твае памагатыя займаюцца справамі дзяржавы, а ты прысвяці ўсю сілу свайго спагадлівага сэрца місіі прасвятлення.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME" Language="en_US">
+			<Text>Даасізм|даасізму|даасізму|даасізм|даасізмам|даасізме</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION" Language="en_US">
+			<Text>Адразу атрымае рэлігію «даасізм». Гэта рэлігія ўлучае наступныя вераванні:[NEWLINE][ICON_Bullet]Рачная багіня: +1 [ICON_Amenities] здаволення ў гарадах са святым месцам ля ракі.[NEWLINE][ICON_Bullet]Накармі свет: свяцілішчы і храмы вырабляюць [ICON_Food] ежы столькі ж, як і [ICON_Faith] веры.[NEWLINE][ICON_Bullet]Пагада: можна будаваць пагады (+3 [ICON_Faith] веры). Святары атрымаюць +1 дзеянне «Ачысціць ад ерасі», а гуру атрымаюць +1 зарад лячэння. Даступна пасля вывучэння друкарства.[NEWLINE][ICON_Bullet]Манаства: паразы ў тэалагічных баталіях не адбіваюцца на роўні ўплыву вашай рэлігіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME" Language="en_US">
+			<Text>Сацыяльны інстытут</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION" Language="en_US">
+			<Text>Адразу атрымае сацыяльны інстытут «Ранняя імперыя».</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="en_US">
+			<Text>Шываізм</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="en_US">
+			<Text>Адразу атрымае рэлігію «шываізм». Гэта рэлігія ўлучае наступныя вераванні:[NEWLINE][ICON_Bullet]Святая дарога: святыя месцы атрымваюць +1 [ICON_Faith] веры ад суседніх клетак трапічнага лесу.[NEWLINE][ICON_Bullet]Лінгам: можна купляць цэнтр камерцыі і гавань за [ICON_Faith] веру.[NEWLINE][ICON_Bullet]Апека: кожны цэнтр камерцыі ці гавань у горадзе з гэтай рэлігіяй вырабляе +1 [ICON_FAITH] веры.[NEWLINE][ICON_Bullet]Ёга: можна купляць грамадзянскія юніты за [ICON_Faith] веру.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME" Language="en_US">
+			<Text>Сацыяльны інстытут</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION" Language="en_US">
+			<Text>Адразу атрымае сацыяльны інстытут «Навігацыя па зорках».</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="en_US">
+			<Text>Іслам|ісламу|ісламу|іслам|ісламам|ісламе</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="en_US">
+			<Text>Адразу атрымае рэлігію «іслам». Гэта рэлігія ўлучае наступныя вераванні:[NEWLINE][ICON_Bullet]Легенды пустэльні: святыя месцы атрымаюць +1 [ICON_Faith] веры ад суседніх клетак пустэльні.[NEWLINE][ICON_Bullet]Рэлігійная супольнасць: свяцілішчы і храмы даюць +1 [ICON_Housing] жытла.[NEWLINE][ICON_Bullet]Мячэць: можна будаваць мячэці (+3 [ICON_Faith] веры). Місіянеры і манахі атрымаюць +1 да шырання рэлігіі. Даступна пасля вывучэння друкарства.[NEWLINE][ICON_Bullet]Паломніцтва: +2 [ICON_Faith] веры за кожны горад, што вызнае гэту рэлігію, у іншых цывілізацыях і гарадах-дзяржавах.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME" Language="en_US">
+			<Text>Сацыяльныя інстытуты</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION" Language="en_US">
+			<Text>Адразу атрымае сацыяльныя інстытуты «Навігацыя па зорках», «Грошы» і «Ранняя імперыя».</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME" Language="en_US">
+			<Text>Індуізм</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION" Language="en_US">
+			<Text>Адразу атрымае рэлігію «індуізм». Гэта рэлігія ўлучае наступныя вераванні:[NEWLINE][ICON_Bullet]Бог мора: +1 [ICON_Production] вытворчасці ад рыбацкіх лодак.[NEWLINE][ICON_Bullet]Вялікая Нусантара: клеткі ўзбярэжжа і азёр даюць невялікі бонус за суседства святому месцу.[NEWLINE][ICON_Bullet]Кампанг: вашы будаўнікі могуць будаваць кампангі. Даступна пасля вывучэння гільдый.[NEWLINE][ICON_Bullet]Вандроўныя прапаведнікі: рэлігія шырыцца ў гарадах, што знаходзяцца на 30% далей.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME" Language="en_US">
+			<Text>Сацыяльны інстытут</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION" Language="en_US">
+			<Text>Адразу атрымае сацыяльны інстытут «Навігацыя па зорках».</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME" Language="en_US">
+			<Text>Будызм Тхеравады</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION" Language="en_US">
+			<Text>Адразу атрымае рэлігію «будызм Тхеравады». Гэта рэлігія ўлучае наступныя вераванні:[NEWLINE][ICON_Bullet]Кромлехі: +2 [ICON_Faith] веры і +2 [ICON_Production] вытворчасці ад каменяломняў.[NEWLINE][ICON_Bullet]Дана: свірны вырабляюць +3 [ICON_FAITH] веры. +1 [ICON_Amenities] здаволення ўва ўсіх гарадах.[NEWLINE][ICON_Bullet]Ват: можна будаваць ваты (+3 [ICON_Faith] веры, +1 [ICON_Housing] жытла). Даступна пасля вывучэння друкарства.[NEWLINE][ICON_Bullet]Сусветная царква: +1 [ICON_Culture] культуры за кожныя 5 паслядоўнікаў гэтай рэлігіі ў іншых цывілізацыях.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME" Language="en_US">
+			<Text>Сацыяльныя інстытуты</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION" Language="en_US">
+			<Text>Адразу атрымае сацыяльныя інстытуты «Ранняя імперыя», «Інжынерная справа» і «Містыцызм».</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME" Language="en_US">
+			<Text>Будызм Махаяны</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="en_US">
+			<Text>Адразу атрымае рэлігію «будызм Махаяны». Гэта рэлігія ўлучае наступныя вераванні:[NEWLINE][ICON_Bullet]Багіня зямлі: +1 [ICON_Faith] веры ад клетак з прэстыжам «прыцягальны» і вышэйшым. [NEWLINE][ICON_Bullet]Працоўная дысцыпліна: +1% [ICON_Production] вытворчасці за кожнага паслядоўніка.[NEWLINE][ICON_Bullet]Ступа Махаяны: можна будаваць ступы (+3 [ICON_Faith] веры, +1 [ICON_Amenities] здаволення). Даступна пасля вывучэння друкарства.[NEWLINE][ICON_Bullet]Святы ордэн: Кошт місіянераў і манахаў  зніжаны на 30%.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME" Language="en_US">
+			<Text>Сацыяльны інстытут</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION" Language="en_US">
+			<Text>Адразу атрымае сацыяльны інстытут «Містыцызм».</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="en_US">
+			<Text>Будызм Ваджраяны</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="en_US">
+			<Text>Адразу атрымае рэлігію «будызм Ваджраяны». Гэта рэлігія ўлучае наступныя вераванні:[NEWLINE][ICON_Bullet]Бог адкрытага неба: +2 [ICON_FOOD] ежы ад паш.[NEWLINE][ICON_Bullet]Медытацыя дзэн: +1 [ICON_Amenities] здаволення ў гарадах з двума спецыялізаванымі раёнамі.[NEWLINE][ICON_Bullet]Ступа Ваджраяны: можна будаваць ступы (+3 [ICON_Faith] веры, +1 [ICON_Amenities] здаволення). Даступна пасля вывучэння друкарства.[NEWLINE][ICON_Bullet]Фанатычныя прапаведнікі: рэлігійныя юніты ігнаруюць [ICON_Movement] кошт руху па кожным ландшафце і паляпшэннях.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME" Language="en_US">
+			<Text>Сацыяльны інстытут</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION" Language="en_US">
+			<Text>Адразу атрымае сацыяльны інстытут «Містыцызм».</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

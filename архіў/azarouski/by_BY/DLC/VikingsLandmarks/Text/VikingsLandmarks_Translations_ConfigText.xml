@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_FEATURE_EYJAFJALLAJOKULL_NAME" Language="en_US">
+      <Text>Эйяф'ядлаёкюдль|Эйяф'ядлаёкюдля|Эйяф'ядлаёкюдлю|Эйяф'ядлаёкюдль|Эйяф'ядлаёкюдлем|Эйяф'ядлаёкюдлі</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_GIANTS_CAUSEWAY_NAME" Language="en_US">
+      <Text>Дарога гігантаў|Дарогі гігантаў|Дарозе гігантаў|Дарогу гігантаў|Дарогай гігантаў|Дарозе гігантаў</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_LYSEFJORDEN_NAME" Language="en_US">
+      <Text>Люсе-фіёрд|Люсе-фіёрда|Люсе-фіёрду|Люсе-фіёрд|Люсе-фіёрдам|Люсу-фіёрдзе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_EYJAFJALLAJOKULL_DESCRIPTION" Language="en_US">
+      <Text>Суседнія клеткі зямлі дадуць +1 [ICON_Culture] культуры і +2 [ICON_Food] ежы.</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_GIANTS_CAUSEWAY_DESCRIPTION" Language="en_US">
+      <Text>Наземныя баявыя юніты, якія апынуліся на суседніх клетках, атрымаюць здольнасць «Дзіда Фіна» (+5 да баявой моцы).</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_LYSEFJORDEN_DESCRIPTION" Language="en_US">
+      <Text>Марскія баявыя юніты, якія апынуліся на суседніх клетках, атрымаюць падвышэнне.</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

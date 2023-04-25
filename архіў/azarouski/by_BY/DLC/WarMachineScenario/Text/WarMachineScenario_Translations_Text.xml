@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_BUILDING_STAR_FORT_NAME" Language="en_US">
+			<Text>Крэпасць|Крэпасці|Крэпасці|Крэпасць|Крэпасцю|Крэпасці</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_HEADQUARTERS_NAME" Language="en_US">
+			<Text>Штаб|Штаба|Штабу|Штаб|Штабам|Штабе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LILLE" Language="en_US">
+			<Text>Ліль|Ліля|Лілю|Ліль|Лілем|Лілі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_REIMS" Language="en_US">
+			<Text>Рэймс|Рэймса|Рэймсу|Рэймс|Рэймсам|Рэймсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NANCY" Language="en_US">
+			<Text>Нансі|Нансі|Нансі|Нансі|Нансі|Нансі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BELFORT" Language="en_US">
+			<Text>Бельфор|Бельфора|Бельфору|Бельфор|Бельфорам|Бельфоры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ORLEANS" Language="en_US">
+			<Text>Арлеан|Арлеана|Арлеану|Арлеан|Арлеанам|Арлеане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHARTES" Language="en_US">
+			<Text>Шартр|Шартра|Шартру|Шартр|Шартрам|Шартры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KOLN" Language="en_US">
+			<Text>Кёльн|Кёльна|Кёльну|Кёльн|Кёльнам|Кёльне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KOBLENZ" Language="en_US">
+			<Text>Кобленц|Кобленца|Кобленцу|Кобленц|Кобленцам|Кобленцы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MANNHEIM" Language="en_US">
+			<Text>Мангейм|Мангейма|Мангейму|Мангейм|Мангеймам|Мангейме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STRASSBURG" Language="en_US">
+			<Text>Германскі Страсбург|Германскага Страсбурга|Германскаму Страсбургу|Германскі Страсбург|Германскім Страсбургам|Германскім Страсбургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_COLMAR" Language="en_US">
+			<Text>Кальмар|Кальмара|Кальмару|Кальмар|Кальмарам|Кальмары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ANTWERP" Language="en_US">
+			<Text>Антвэрпэн|Антвэрпэна|Антвэрпэну|Антвэрпэн|Антвэрпэнам|Антвэрпэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LIEGE" Language="en_US">
+			<Text>Льеж|Льежа|Льежу|Льеж|Льежам|Льежы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NAMUR" Language="en_US">
+			<Text>Намюр|Намюра|Намюру|Намюр|Намюрам|Намюры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONS" Language="en_US">
+			<Text>Монс|Монса|Монсу|Монс|Монсам|Монсу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LUXEMBOURG" Language="en_US">
+			<Text>Люксембург|Люксембурга|Люксембургу|Люксембург|Люксембургам|Люксембургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_HEAVY_ARTILLERY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Нямецкія інжынеры стварылі адмысловыя аблогавыя гарматы для разбурэння фартоў, з якіх складалася абарончая сістэма Бельгіі. Гэтыя гарматы зарэкамендавалі сябе з самага лепшага боку: пад іх агнём бельгійскія фарты трымаліся нашмат менш, чым было агадана праектам. Французы, у сваю чаргу, распрацавалі магутную 75-мм пушку. Але артылерыі гэтак і не атрымалася прадраць эшаланаваную траншэйную абарону. Для гэтага запатрабаваліся прынцыпова новыя роды войскаў: танкі і авіяцыя.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_LOGISTICS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Лагістыка – гэта сістэма забеспячэння войска, што папаўняе страты асабовага складу, тэхнікі і матэрыялаў. Поспех кожнай вайсковай аперацыі шмат у чым залежыць ад незаўважных працавікоў тылу. Аматары вывучаюць тактыку, адмыслоўцы – лагістыку.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_COMMAND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Пасля напалеонаўскіх войнаў вайскаводы ўсіх краін навучыліся спалучаць прынцыпы тактычнага і стратэгічнага планавання. Зараз функцыя камандавання – ператвараць палітычныя мэты ў баявыя заданні.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_INDUSTRIAL_WARFARE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ва ўмовах татальнай вайны ўсе сілы і рэсурсы дзяржавы падначальваюцца адной мэце – дасягненню перамогі. У індустрыйным грамадстве гэта азначае перавод усёй прамысловасці на вайсковыя рэйкі, масавую вайсковую рыхтоўлю насельніцтва, мабілізацыю і падначаленне эканомікі палітычным мэтам. Усё грамадства змяняецца, і часам гэтыя змены незваротныя.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_FORTIFICATIONS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Вынаходства кулямёта і фугасных артылерыйскіх снарадаў унесла істотныя змены ў будову абарончых збудаванняў. Развітая сістэма траншэй на Заходнім фронце з'яўляецца пераканаўчай дэманстрацыяй перавагі абарончай тактыкі над наступальнай. Сучасная тактыка бою пяхотных і бранятанкавых злучэнняў – чарговая спроба пераадолець гэта перавагу.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_AIRCRAFT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Напачатку Першай сусветнай вайны авіяцыя была яшчэ ў пялюшках. Аэрапланы былі дарагімі і не вельмі надзейнымі машынамі і выкарыстоўваліся галоўным чынам для выведкі. Ужо да канца вайны лятальныя апараты сталі грознай вайсковай сілай і шырока ўжываліся для тактычных аперацый і стратэгічных бамбаванняў. Авіяцыйныя распрацоўкі патрабавалі столькі сродкаў, што фінансаваліся дзяржавай цалкам або супольна з прыватнымі фундатарамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Пасля бойкі пры Седане (таксама вядомай як «Седанская катастрофа») у 1870 г. французскаму войску давялося прайсці цяжкі перыяд аднаўлення, каб урэшце ператварыцца ў адну з наймагутных вайсковых сіл Еўропы. У процівагу германскай традыцыі да дэталёвага планавання французскія вайскаводы развівалі дактрыну гнуткай атакі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Паводле гэтай дактрыны, заданне войска складалася ў тым, каб бесперапынна атакаваць пазіцыі непрыяцеля і карыстацца кожнай яго слабасцю. Супернік не паспее перахапіць ініцыятыву, і перавага заўсёды будзе на боку французаў, а няўхільнае пасоўванне германскага войска будзе стрымана імгненнымі контрударамі. Асноўная тактыка вайсковых частак і злучэнняў ад батальёна і вышэй была простая: шукаць слабыя месцы суперніка і атакаваць.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Адной з галоўных нечаканасцяў жніўня 1914 года было тое, што фронт у Бельгіі трашчаў па ўсіх швах, а ў той жа час даводзілася стрымваць наступ суперніка на Эльзас і Латарынгію і збіраць падмацаванні, каб выратаваць Парыж. Да канца года тактыка «бесперапыннай атакі» сябе вычарпала, і на Заходнім фронце пачалася пазіцыйная вайна.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Поспехі прускага войска падчас франка-прускай вайны 1870–1871 г. былі абумоўлены дэталёвым планаваннем вайсковых аперацый, аж да дакладнага раскладу войскаў на маршы і руху чыгуначных саставаў. Прадбачачы няўхільнасць новай вайны, начальнік германскага генштаба Альфрэд фон Шліфэн склаў план будучага ўварвання ў Францыю праз Бельгію і Люксембург з наступным пасоўваннем на поўдзень, да Парыжа. Гэты план патрабаваў засяроджвання ўсіх германскіх сіл на заходніх межах, але яму гэтак і не наканавана было здзейсніцца.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Ведучы вайну на два франты, германскае камандаванне перакінула частку сіл на ўсход. Паспяховае пасоўванне немцаў у Бельгіі вымусіла французаў перайсці да абароны, а частка французскага фронту, якая выступала, здалася германскаму генштабу лёгкай здабычай. З шэрагу чыннікаў – у тым ліку і з-за перакідання часткі сіл на Ўсходні фронт, патрэбы імправізаваць у адказ на выбегі французаў і бязлітаснага супраціву французскіх і брытанскіх войскаў – немцам гэтак і не атрымалася нанесці меркаваны хуткі разбуральны ўдар.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Германія рызыкнула і прайграла. План Шліфэна быў сарваны, а вайна ператварылася ў расцягнуты на чатыры гады кашмар.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_BRITAIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Брытанскія экспедыцыйныя сілы (БЭС) – частка брытанскага войска, што прымала ўдзел у баявых дзеяннях падчас Першай сусветнай вайны. Размешчаныя на Заходнім фронце брытанскія часткі спачатку ўспрымаліся як нейкі палітычны рэверанс, а не як рэальная вайсковая сіла. Але падчас пасоўвання немцаў праз Бельгію да Парыжа БЭС нанеслі германскаму войску значныя страты ў бітве пры Монсу і, хоць і былі змушаны адступіць (таксама з вялікімі стратамі), выратавалі французскае войска ад поўнага знішчэння. Бітва пры Монсу – прадмет адменнага гонару брытанскіх вайскоўцаў, знакавая падзея для БЭС.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Бельгія як самастойная дзяржава паўстала ў 1830 г. у выніку палітычных змен, выкліканых напалеонаўскімі войнамі, і доўгі час была адданым хаўруснікам Вялікабрытаніі. Германія напала на Францыю праз бельгійскую тэрыторыю. У выточным варыянце плана нападу на Францыю германскі штаб адводзіў бельгійскаму войску ролю ганаровай варты падчас праходжання германскіх войскаў праз Бельгію. Як паказалі далейшыя падзеі, такі падыход стаўся хібным.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Горад Льеж, абаронены магутнымі ўмацаваннямі, быў першай значнай перашкодай на шляху германскага войска. Але хоць фарты добра зарэкамендавалі сябе ў войнах старога тыпу, яны не змаглі выстаяць перад найновымі ўзорамі аблогавай артылерыі. Узяцце Льежа і жорсткасць нямецкага войска ў адносінах да бельгійскага насельніцтва настроіла грамадскую думку – асабліва ў Вялікабрытаніі – супраць Германіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Вялікае Герцагства Люксембург – еўрапейская карлікавая дзяржава, змесцаваная паміж Бельгіяй, Францыяй і Германіяй, буйны чыгуначны вузел. Захоп чыгунак быў важнай часткай германскага плана ў вайне з Францыяй, таму акупацыя Люксембурга ў 1914 г. стала адным з першых падзей сусветнай вайны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Францыя пачала рыхтавацца да новай вайны з Германіяй адразу пасля знішчальнай паразы ў франка-прускай вайне ў 1871 г., калі прускае войска фактычна знішчыла французскія ўзброеныя сілы, узяло ў палон імператара і навязала мір на зневажальных умовах. Згодна з умовамі мірнай дамовы Францыя страціла Эльзас і Латарынгію. Цэлае пакаленне французскіх вайскоўцаў вырасла ў цені гэтай катастрофы і прагнула помсты.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Галоўнымі хаўруснікамі Францыі былі Расія і Вялікабрытанія. Менавіта абвешчанне Расіяй вайны Аўстра-Венгрыі паскорыла ўступ Францыі ў вайну. Але Францыя фактычна вяла сваю ўласную вайну супраць Германіі. Французскае войска адразу пачало наступ на Эльзас і Латарынгію, каб хутчэй адваяваць гэтыя тэрыторыі. Паўночная мяжа з Бельгіяй і Люксембургам засталася практычна не абароненай. Французскае камандаванне недаацаніла сілы германскаму войска і не агадала магчымасці ўдару з гэтага кірунку (меркавалася, што немцы пойдуць праз Ардэны). З-за гэтага ўжо на першым этапе вайны давялося кардынальна змяняць планы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Менш чым за паўстагоддзя да Першай сусветнай прускае войска нанесла французам найвялікую з часоў Напалеона вайсковую паразу. У гэты перыяд сфармавалася сучасная нямецкая нацыя. Германскія палітыкі ясна разумелі, што ў пераможанай Францыі спее насенне рэваншызму, і рыхтаваліся да вайны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Стварэнне Антанты (вайсковага звязу Францыі, Вялікабрытаніі і Расіі) паставіла Германію ў нявыгаднае становішча: зараз яна была аточана ворагамі і з захаду, і з усходу. Грунтам распрацаванай стратэгіі было нанясенне рэзкага, агаламшальнага ўдару па Францыі, пакуль Расія не паспела сабраць сваё магутнае войска. Такі падыход лёг у грунт плана Шліфэна.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Напярэдадні Першай сусветнай вайны нешматлікія войскі маглі прыраўнацца да германскага. І ўсё ж ні выдатная рыхтоўля, ні добрае забеспячэнне не дапамаглі германскаму камандаванню ўжыццявіць свае планы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Удзел Вялікабрытаніі ў Антанце (вайсковым звязе Францыі, Вялікабрытаніі і Расіі) быў дальнабачным развязкам. Даўняе суперніцтва паміж Англіяй і Францыяй, дынастычныя сувязі паміж Англіяй і Германіяй – усё гэта павінна было прывесці Вялікабрытанію ў звяз Цэнтральных дзяржаў. Але ўзрастанне напружанасці ў германа-брытанскіх стасунках і імкненне ўтаймаваць імклівы ўзрост германскай магутнасці ў выніку прывялі Вялікабрытанію да пастановы пра ўдзел у Антанце.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Напярэдадні Першай сусветнай вайны не было ўпэўненасці, што Вялікабрытанія пашле свае войскі ў кантынентальную Еўропу. Невялікія, але актыўныя групоўкі ў брытанскім і французскім штабах шырылі думку пра тое, што Вялікабрытанія абмяжуецца адпраўленнем у Францыю невялікага кантынгенту. Нават кайзер быў здзіўлены, калі Брытанія абвясціла вайну Германіі, і назваў гэта «дурной абмылай».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Бельгія як самастойная дзяржава паўстала ў 1830 г. у выніку палітычных змен, выкліканых напалеонаўскімі войнамі, і доўгі час была адданым хаўруснікам Вялікабрытаніі. Германія напала на Францыю праз бельгійскую тэрыторыю. У выточным варыянце плана нападу на Францыю германскі штаб адводзіў бельгійскаму войску ролю ганаровай варты падчас праходжання германскіх войскаў праз Бельгію. Як паказалі далейшыя падзеі, такі падыход стаўся хібным.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Горад Льеж, абаронены магутнымі ўмацаваннямі, быў першай значнай перашкодай на шляху германскага войска. Але хоць фарты добра зарэкамендавалі сябе ў войнах старога тыпу, яны не змаглі выстаяць перад найновымі ўзорамі аблогавай артылерыі. Узяцце Льежа і жорсткасць нямецкага войска ў адносінах да бельгійскага насельніцтва настроіла грамадскую думку – асабліва ў Вялікабрытаніі – супраць Германіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREAT_GENERAL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Камандуючы войскам – гэта вайскавод, у падначаленні якога знаходзіцца значная частка ўзброеных сіл краіны. Ён павінен быць гатовы распрацаваць аператыўныя планы для свайго войска і аператыўна ўносіць у іх змены. Яму дапамагаюць у гэтым афіцэры штаба і іншыя падначаленыя, але ў цэлым поспех ці правал аперацыі залежыць ад асабістых пастановаў камандуючага.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_1_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Камандуючы войскам – гэта вайскавод, у падначаленні якога знаходзіцца значная частка ўзброеных сіл краіны. Ён павінен быць гатовы распрацаваць аператыўныя планы для свайго войска і аператыўна ўносіць у іх змены. Яму дапамагаюць у гэтым афіцэры штаба і іншыя падначаленыя, але ў цэлым поспех ці правал аперацыі залежыць ад асабістых пастановаў камандуючага.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_2_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Камандуючы войскам – гэта вайскавод, у падначаленні якога знаходзіцца значная частка ўзброеных сіл краіны. Ён павінен быць гатовы распрацаваць аператыўныя планы для свайго войска і аператыўна ўносіць у іх змены. Яму дапамагаюць у гэтым афіцэры штаба і іншыя падначаленыя, але ў цэлым поспех ці правал аперацыі залежыць ад асабістых пастановаў камандуючага.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_3_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Камандуючы войскам – гэта вайскавод, у падначаленні якога знаходзіцца значная частка ўзброеных сіл краіны. Ён павінен быць гатовы распрацаваць аператыўныя планы для свайго войска і аператыўна ўносіць у іх змены. Яму дапамагаюць у гэтым афіцэры штаба і іншыя падначаленыя, але ў цэлым поспех ці правал аперацыі залежыць ад асабістых пастановаў камандуючага.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_4_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Камандуючы войскам – гэта вайскавод, у падначаленні якога знаходзіцца значная частка ўзброеных сіл краіны. Ён павінен быць гатовы распрацаваць аператыўныя планы для свайго войска і аператыўна ўносіць у іх змены. Яму дапамагаюць у гэтым афіцэры штаба і іншыя падначаленыя, але ў цэлым поспех ці правал аперацыі залежыць ад асабістых пастановаў камандуючага.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_HEADQUARTERS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Штаб – гэта цэнтр кіравання войскамі. Тут распрацоўваюцца планы аперацый, адгэтуль аддаюць загады дзейнаму войску. Дырэктывы са штаба на перадавую дастаўляюцца з дапамогай сродкаў сувязі ці праз сігнальных. Ва ўмовах зменлівага ваеннага становішча важна, каб штаб знаходзіўся паблізу з лініяй фронту і быў мабільным.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_GENERAL_DEFAULT_NAME" Language="en_US">
+			<Text>Камандуючы войскам|камандуючага войскам|камандуючаму войскам|камандуючага войскам|камандуючым войскам|камандуючым войскам</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION" Language="en_US">
+			<Text>Павялічвае абараназдольнасць вонкавых умацаванняў – зараз іх можна ўзяць толькі масіраваным штурмам.</Text>
+		</Replace>
+		<Replace Tag="LOC_WORLD_RANKINGS_SCORE_VICTORY" Language="en_US">
+			<Text>Перамога ў «Вайсковай машыне»</Text>
+		</Replace>
+		<Replace Tag="LOC_WORLD_RANKINGS_SCORE_DETAILS" Language="en_US">
+			<Text>Гуляючы за Германію, вы павінны захапіць Парыж за абмежаваны лік хадоў. Гуляючы за Францыю, вы павінны ўтрымаць Парыж і не дапусціць яго захопу.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_WARMACHINE_GREAT_GENERAL_STRENGTH" Language="en_US">
+			<Text>+3 да [ICON_Strength] баявой моцы наземных юнітаў Інфармацыйнай эры ў межах 2 клетак.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_WARMACHINE_GREAT_GENERAL_STRENGTH_MODIFIER" Language="en_US">
+			<Text>Баявы бонус +3 [ICON_Strength] ад вялікага вайскавода.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_FORTIFICATIONS_DESCRIPTION" Language="en_US">
+			<Text>+100 АЗ ува ўсіх гарадах.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_HEAVY_ARTILLERY_DESCRIPTION" Language="en_US">
+			<Text>+6 [ICON_Strength] да баявой моцы артылерыйскіх юнітаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_LOGISTICS_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе ствараць і рыхтаваць войскі.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_COMMAND_DESCRIPTION" Language="en_US">
+			<Text>У [ICON_Capital] сталіцы задарма з'яўляюцца 2 [ICON_GreatGeneral] вялікіх вайскаводы.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_INDUSTRIAL_WARFARE_DESCRIPTION" Language="en_US">
+			<Text>+5 да [ICON_Strength] баявой моцы ўсіх юнітаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MILITARY_ENGINEER_WARMACHINE_DESCRIPTION" Language="en_US">
+			<Text>Юніт падтрымкі Сярэднявечча. Для стварэння патрабуецца збройня. Будуе чыгункі, фарты і ўзлётныя палосы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_CATEGORY_CONTROL_OF_PARIS_NAME" Language="en_US">
+			<Text>Кантроль над Парыжам</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_LINE_ITEM_CONTROL_OF_PARIS_NAME" Language="en_US">
+			<Text>Кантроль над Парыжам</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_1_NAME" Language="en_US">
+			<Text>Фельдмаршал</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_1_QUOTE" Language="en_US">
+			<Text>Вайсковае майстэрства выяўляецца не ў зацяжных кампаніях, а ў наважнай перамозе.</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_2_NAME" Language="en_US">
+			<Text>Генерал</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_2_QUOTE" Language="en_US">
+			<Text>Камандаванне – гэта мастацтва паспяховага і нязмушанага кіравання вайсковай сілай.</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_3_NAME" Language="en_US">
+			<Text>Палкоўнік</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_3_QUOTE" Language="en_US">
+			<Text>Тонкую мяжу, што адлучае перамогу ад паразы, лёгка намацае той, хто давярае сваёй інтуіцыі і ўмела карыстаецца інфармацыяй.</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_4_NAME" Language="en_US">
+			<Text>Маёр</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_4_QUOTE" Language="en_US">
+			<Text>Адвага – грунт дзёрзкасці. Дзёрзкасць – грунт напору. Напор – грунт перамогі.</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_5_NAME" Language="en_US">
+			<Text>Капітан</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_5_QUOTE" Language="en_US">
+			<Text>Перамога важная, але гонар найвышэй за ўсё.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_AIRCRAFT_NAME" Language="en_US">
+			<Text>Самалёты|самалётаў|самалётам|самалёты|самалётамі|самалётах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_FORTIFICATIONS_NAME" Language="en_US">
+			<Text>Умацаванні|умацаванняў|умацаванням|умацаванні|умацаваннямі|умацаваннях</Text>
+			<Gender>neuter</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_HEAVY_ARTILLERY_NAME" Language="en_US">
+			<Text>Цяжкая артылерыя|цяжкай артылерыі|цяжкай артылерыі|цяжкую артылерыю|цяжкай артылерыяй|цяжкай артылерыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_LOGISTICS_NAME" Language="en_US">
+			<Text>Лагістыка|лагістыкі|лагістыцы|лагістыку|лагістыкай|лагістыцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_COMMAND_NAME" Language="en_US">
+			<Text>Камандаванне|камандавання|камандаванню|камандаванне|камандаваннем|камандаванні</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_INDUSTRIAL_WARFARE_NAME" Language="en_US">
+			<Text>Прамысловая вайна|прамысловай вайны|прамысловай вайне|прамысловую вайну|прамысловай вайной|прамысловай вайне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_CALENDAR_AUGUST" Language="en_US">
+			<Text>{1_Day} жніўня 1914 г.</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_CALENDAR_SEPT" Language="en_US">
+			<Text>{1_Day} верасня 1914 г.</Text>
+		</Replace>
+		<Replace Tag="LOC_INDUSTRIAL_WARFARE_COMBAT_STRENGTH_PREVIEW_TEXT" Language="en_US">
+			<Text>Прамысловая вайна: +{1_Amount}</Text>
+		</Replace>
+		<Replace Tag="LOC_HEAVY_ARTILLERY_COMBAT_STRENGTH_PREVIEW_TEXT" Language="en_US">
+			<Text>+{1_Amount} да цяжкай артылерыі</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

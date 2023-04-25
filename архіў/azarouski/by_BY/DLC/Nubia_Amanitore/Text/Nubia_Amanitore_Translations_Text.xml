@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_BUILDING_JEBEL_BARKAL_NAME" Language="en_US">
+			<Text>Джэбель-Баркал|Джэбель-Баркала|Джэбель-Баркалу|Джэбель-Баркал|Джэбель-Баркалам|Джэбель-Баркале</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MEROE" Language="en_US">
+			<Text>Мероэ|Мероэ|Мероэ|Мероэ|Мероэ|Мероэ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KERMA" Language="en_US">
+			<Text>Керма|Кермы|Керме|Керму|Кермай|Керме</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NAPATA" Language="en_US">
+			<Text>Напата|Напаты|Напаце|Напату|Напатай|Напаце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NURI" Language="en_US">
+			<Text>Нуры|Нуры|Нуры|Нуры|Нуры|Нуры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_EL_KURRU" Language="en_US">
+			<Text>Эль-Куру|Эль-Куру|Эль-Куру|Эль-Куру|Эль-Куру|Эль-Куру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KAWA" Language="en_US">
+			<Text>Кава|Кавы|Каве|Каву|Кавай|Каве</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SEDEINGA" Language="en_US">
+			<Text>Седэінга|Седэінгі|Седэінзе|Седэінгу|Седэінгай|Седэінзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HEH" Language="en_US">
+			<Text>Хех|Хеха|Хеху|Хех|Хехам|Хеху</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_QASR_IBRIM" Language="en_US">
+			<Text>Каср-Ібрым|Каср-Ібрыма|Каср-Ібрыму|Каср-Ібрым|Каср-Ібрымам|Каср-Ібрыме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_FARAS" Language="en_US">
+			<Text>Фарас|Фараса|Фарасу|Фарас|Фарасам|Фарасе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SHAAT" Language="en_US">
+			<Text>Шаат|Шаата|Шаату|Шаат|Шаатам|Шааце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_IKEN" Language="en_US">
+			<Text>Ікен|Ікена|Ікену|Ікен|Ікенам|Ікене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ABU_SIMBEL" Language="en_US">
+			<Text>Абу-Сімбел|Абу-Сімбела|Абу-Сімбелу|Абу-Сімбел|Абу-Сімбелам|Абу-Сімбеле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BUHEN" Language="en_US">
+			<Text>Бухен|Бухена|Бухену|Бухен|Бухенам|Бухене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DANGEIL" Language="en_US">
+			<Text>Дангейль|Дангейля|Дангейлю|Дангейль|Дангейлем|Дангейлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MIAM" Language="en_US">
+			<Text>Міям|Міяма|Міяму|Міям|Міямам|Міяме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOMBOS" Language="en_US">
+			<Text>Тамбас|Тамбаса|Тамбасу|Тамбас|Тамбасам|Тамбасе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KURGUS" Language="en_US">
+			<Text>Кургус|Кургуса|Кургусу|Кургус|Кургусам|Кургусе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TOSHKA" Language="en_US">
+			<Text>Тошка |Тошкі |Тошцы |Тошку |Тошкай |Тошцы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SOLEB" Language="en_US">
+			<Text>Салеб|Салеба|Салебу|Салеб|Салебам|Салебе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WAD_BAN_NAQA" Language="en_US">
+			<Text>Вад-Бэн-Нака|Вад-Бэн-Накі|Вад-Бэн-Нацы|Вад-Бэн-Наку|Вад-Бэн-Накай|Вад-Бэн-Нацы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DEBBA" Language="en_US">
+			<Text>Дэба|Дэбы|Дэбе|Дэбу|Дэбай|Дэбе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BUGDUMBUSH" Language="en_US">
+			<Text>Бугдумбуш|Бугдумбуша|Бугдумбушу|Бугдумбуш|Бугдумбушам|Бугдумбушы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BAKI" Language="en_US">
+			<Text>Кубан|Кубану|Кубану|Кубан|Кубанам|Кубане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMARA" Language="en_US">
+			<Text>Амара|Амары|Амары|Амару|Амарай|Амары</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MUSAWWARAT_ES_SUFRA" Language="en_US">
+			<Text>Мусаварат-эс-Суфра|Мусаварата-эс-Суфры|Мусаварату-эс-Суфры|Мусаварат-эс-Суфру|Мусаваратам-эс-Суфрой|Мусавараце-эс-Суфры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_EL_FURA" Language="en_US">
+			<Text>Эль-Фура|Эль-Фуры|Эль-Фуры|Эль-Фуру|Эль-Фурай|Эль-Фуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_UKMA" Language="en_US">
+			<Text>Укма|Укмы|Укме|Укму|Укмай|Укме</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PEDEME" Language="en_US">
+			<Text>Педэме|Педэме|Педэме|Педэме|Педэме|Педэме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DEFEIA" Language="en_US">
+			<Text>Дэфея|Дэфеі|Дэфеі|Дэфею|Дэфеяй|Дэфеі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NUBIA_DESCRIPTION" Language="en_US">
+			<Text>Нубійская імперыя|Нубійскай імперыі|Нубійскай імперыі|Нубійскую імперыю|Нубійскай імперыяй|Нубійскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NUBIA_ADJECTIVE" Language="en_US">
+			<Text>нубійск.|нубійск.|нубійск.|нубійск.|нубійск.|нубійск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Нубия находилась в северной Африке, в районе большого изгиба Нила. Здесь проходил путь от Красного моря к дельте Нила – центру торговли, из которого можно было путешествовать от истоков великой реки до места ее впадения в Средиземное море. К несчастью для нубийцев, у них были воинственные северные соседи – египтяне. Обе цивилизации в течение тысячелетий по очереди выступали в роли агрессора, завоевателя и вассала, пока новые захватчики из далеких земель не положили конец их соперничеству.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Первые нубийские цивилизации возникли на территории современного Судана. Город-государство Керма располагался в плодородном бассейне к югу от третьего порога Нила. Выгодное географическое положение превратило Керму в центр торговли с доступом как по суше, так и по воде. Расцвету Кермы способствовала торговля черным деревом и золотом. С торговлей пришло богатство, а с ним – набеги тех, кто тоже желал разбогатеть, но не путем торговли.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Керма укрепляла город и торговые пути, постепенно распространяя свое влияние вдоль Нила, и в итоге союзнические поселения, крепости и торговые посты растянулись почти на 1300 км – это примерно равно расстоянию от первого до пятого порога Нила. В этот период Керма по территории и значению была равна Египту.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Со второго тысячелетия до н. э. от Кермы мало что сохранилось. Если здесь и была письменность, то она утрачена. Записи об этом царстве встречаются в основном в египетских текстах – речь идет, как правило, о стычках с соседями-нубийцами. О Керме сообщают, что это было централизованное государство, но управление большой территорией без письменности – непосильная задача.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Египтяне называли Нубию «Страной Луков» – в честь искусных нубийских лучников, составлявших основу войска Кермы. Чтобы понять, какое впечатление производили эти воины на противника, достаточно знать, что одна из египетских крепостей на нубийской территории называлась «Защита от луков» – в этом названии были и приказ, и надежда.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Керма достигла пика своего могущества в 1580 году до н. э., но неудачный союз с гиксосами привел к ее упадку. Гиксосы пришли с востока в середине XVII в. до н. э. и захватили часть египетской территории, но наткнулись на отчаянное сопротивление местного населения и египетской династии, находившейся в Фивах. Правители Кермы стремились захватить то, что осталось от Египта, и сокрушить его раз и навсегда.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>И это им почти удалось. На тридцать лет Керма заняла большую часть египетской территории, захватила религиозные и культурные артефакты, но затем Египет изгнал гиксосских правителей. Вторжение Кермы было столь сокрушительным и болезненным, что египтяне тщательно уничтожали всякое упоминание о нем, как и о гиксосской «XV династии». Но они не могли уничтожить накопленные в Керме египетские ценности.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>И все же фараоны помнили о причиненном им унижении. Тутмос I отомстил спустя столетие, захватив Керму. Его потомок Тутмос III вторгся еще глубже в Нубию и объявил гору Джебель-Баркал и город Напату новой южной границей Египта.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>Около четырех столетий находилась Нубия под властью египтян. Было много восстаний, но с течением времени происходило смешение египетской и нубийской культур. Царство Керма исчезло, а провинция Нубия стала источником золота для Египта и его выходом к Красному морю. Нубийские лучники теперь несли смерть врагам Египта.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>В X в. до н. э. Египет сосредоточился в основном на средиземноморских делах. Этот факт (а также последующий упадок Нового царства) способствовал тому, что нубийцев оставили в покое. За несколько столетий в царстве Куш наступил расцвет, в то время как ливийские правители покоряли чрезмерно разросшийся Египет.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>По странной прихоти судьбы кушитский царь Пианхи провозгласил себя наместником египетского бога Амона (храм которого в Джебель-Баркале был построен египетским фараоном Тутмосом III), чтобы освободить Нижний Египет от непрошеных гостей из Ливии. После этого он занял дельту Нила, основал XXV династию и попытался восстановить былое величие Египта.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_12" Language="en_US">
+			<Text>На какое-то время это ему удалось. Пианхи и его наследники в первую очередь восстанавливали памятники, храмы и общественные постройки, пришедшие в упадок под иноземным владычеством. Возрождение египетской культуры было самым важным – хоть и недолгим – достижением XXV династии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_13" Language="en_US">
+			<Text>Пусть осиное гнездо на вид небольшое, но лучше его не пинать. Фараоны XXV династии забыли об этом и решили расширить свое влияние на Ближний Восток. Так они вступили в конфликт с могущественным Новоассирийским царством, которое считало Ближний Восток своими владениями. Пианхи в свое время поддержал восстание ханаанцев против ассирийцев, что тоже не способствовало улучшению отношений. Ассирийский царь Асархаддон с предельной ясностью заявил о своих намерениях в 674 году до н. э., вторгнувшись в Египет. Всего за три года он низложил XXV династию и навсегда покончил с имперскими амбициями нубийцев.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_14" Language="en_US">
+			<Text>Уход нубийцев из Египта, в конечном итоге, пошел им на пользу. По примеру ассирийцев, другие средиземноморские державы стали рассматривать Египет как потенциального вассала. Перенос столицы Нубии из Напаты в отдаленный город Мероэ облегчил контакты с греческими торговцами на Красном море, что приносило большую прибыль, чем торговый путь вдоль Нила. Кроме того, это осложняло вторжение с севера – ни Персия, ни Македония, ни Египет при Птолемеях не предпринимали серьезных попыток захватить Мероитское царство.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_15" Language="en_US">
+			<Text>В 25 году до н. э. Нубия столкнулась с Римом. Римский военачальник Петроний воевал с одноглазой нубийской кандакией (царицей) Аманиреной. Когда римляне разорили Напату и до основания разрушили храм Амона, Аманирена начала сражаться с таким ожесточением, что Петронию пришлось предпочесть мир войне. Октавиан Август подписал с Кушитским царством мирный договор на неожиданно благоприятных для Нубии условиях. Отношения с Римом сменились с враждебных на дружественно-покровительские.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUBIA_CHAPTER_HISTORY_PARA_16" Language="en_US">
+			<Text>После разрушительной войны с Римом наступил период расцвета мероитских строителей, начавшийся в 1 году до н. э. при кандакии Аманиторе (о ней мы еще расскажем). Этот период закончился, когда в I в. с северо-востока напала и захватила Мероэ династия Бежа. Вопреки попыткам Бежа расширить владения Нубии, гражданская война и конфликт с Аксумским царством привел к окончательному покорению Нубии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMANITORE_QUOTE" Language="en_US">
+			<Text>Дайце людзям тое, чаго не дае зямля, – і яны вас палюбяць.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMANITORE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Кандакия Аманиторе правила Нубией в самом начале новой эры. Могущественная царица внушала страх врагам и уважение – своему народу. Она была одной из последних великих строительниц царства Куш. После периода потрясений Аманиторе вернула Стране Луков былое величие. Ее правление было долгим, а наследие осталось в веках.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMANITORE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>По крайней мере, это то, что удалось установить историкам. Прошло два тысячелетия, и мертвый язык мало что сохранил из записей об Аманиторе в виде свитков и других документов. То, что дошло до нас, высечено в камне на построенных ею зданиях.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMANITORE_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Кем была Аманиторе до того, как стала царицей, – тайна, покрытая мраком. Ее личность – загадка. О многом можно только догадываться. Одно из абстрактных описаний кандакии изображает, как она безжалостно убивает покоренных врагов. Основано ли это на реальном событии, когда она приказала казнить мятежников, или же это просто призыв к праведному отмщению врагам государства?</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMANITORE_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Факты ее жизни в период правления тоже непросто установить. Противоречивые сообщения о ее соправителе Натакамани называют его то мужем, то сыном (хорошо, что не тем и другим одновременно). Кроме того, Аманиторе унаследовала власть от Аманишакете, которая приходилась ей то ли свекровью (если Натакамани был мужем Аманиторе), то ли матерью (если Натакамани был сыном Аманиторе), то ли кем-то еще.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMANITORE_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Противоречивость сведений о происхождении Аманиторе не умаляет важности ее положения. Титул «кандакия» можно приблизительно перевести как «царица-мать», но он не подразумевает регентства при малолетнем правителе. Кандакии были самостоятельными правительницами и царствовали вместе с мужьями-консортами или другими царями.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMANITORE_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Аманиторе правила на равных с Натакамани. Данные о ее жизни до восхождения на трон (около 1 года н. э.) очень скудны. И все же памятники изображают соправителей уже взрослыми, поэтому, скорее всего, к началу царствования она уже не была ребенком. Аманиторе и Натакамани во всех описаниях предстают равными, особенно в религиозных зданиях, что было необычно для того времени.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMANITORE_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>Египет попал в зависимость к Риму, с которым Нубия находилась в дружественных отношениях, и региональные конфликты больше не угрожали царству Аманиторе. Относительно спокойное время и разумное распределение обязанностей между соправителями позволило Аманиторе сосредоточиться на том, что станет ее наследием – начался продолжительный период строительства, принесший процветание Мероитскому царству. Среди прочего можно вспомнить нубийские пирамиды и гробницы, восстановление храма Амона в Мероэ и инфраструктурные проекты – например, водохранилища около столицы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMANITORE_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>Кроме того, Аманиторе заново отстроила храм Амона в Напате – тот самый, который был разрушен римлянами за два десятилетия до этого. Поскольку имя Амона было частью имени Аманиторе, то можно предположить, что восстановление храма было делом чести для царицы. Ее усилия помогли вернуть Джебель-Баркалу частицу былой славы этого города.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMANITORE_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>У царицы были дружественные отношения с Римом, но имевшие место несколько десятилетий назад набеги на египетскую (то есть, римскую) территорию принесли трофеи: бронзовые изваяния Октавиана Августа. В одном из рассказов описано, как Аманиторе закапывает отрубленную голову одной из этих статуй под храмовой лестницей в Мероэ, чтобы нубийцы попирали ногами римского императора, виновного в разорении Напаты (хотя, скорее всего, это сделала кандакия Аманирена – предшественница Аманиторе). Так или иначе, «голова Августа из Мероэ» была обнаружена в начале XX века под храмовыми ступенями.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMANITORE_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>Нам мало что известно и о восхождении Аманиторе на трон, и о конце ее правления. Есть основания полагать, что она умерла около 20 года н. э. Ее гробницу в Мероэ уже давно разграбили охотники за сокровищами.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMANITORE_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>В наших сведениях об Аманиторе много «белых пятен», но известно, что она вела интенсивное строительство, а наследницы продолжили ее труд. Во 2 веке это привело страну к культурному и экономическому подъему. Археологи до сих пор находят свидетельства влияния Аманиторе – в том числе ряд недавно раскопанных нубийских пирамид, построенных при ее правлении.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMANITORE_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Нубія – Краіна Лукаў, а таму яе лучнікі не ведаюць роўных. Аманіторэ разгарнула самае маштабнае будаванне ў гісторыі Нубіі, і зараз больш чым гатова заняцца гарадскім планаваннем і стварэннем раёнаў у вашай імперыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AMANITORE_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Уладніку Нубіі варта актыўна даследаваць клеткі пустэльні і як мага хутчэй вывучыць каменны мур. Асвоіўшы гэту тэхналогію, нубійцы могуць засноўваць гарады з пірамідамі ў цэнтры. Дзякуючы высокай прадукцыйнасці раёнаў, змесцаваных па суседстве з пірамідамі, цывілізацыя будзе бурна развівацца. Іншае падставовае заданне – пошук рудняў. Гістарычна ўсе мінеральныя багацці Старажытнага Егіпта паступалі з Нубіі. Калі ж нубійцам давядзецца абараняць свае гарады, то ў іх веданні – лепшыя дальнабойныя юніты Старажытнага свету, якія лёгка дадуць рады гэтаму заданню.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_JEBEL_BARKAL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Посреди гладкой суданской пустыни к западу от изгиба Нила возвышается одинокая гора. У ее подножия некогда стоял дворец, где веками жили правители древних царств. Сейчас он лежит в руинах.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_JEBEL_BARKAL_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Гору Джебель-Баркал легко узнать издали по плоской, как бы срезанной вершине. В древние времена она служила ориентиром для путешественников. Она указывала место относительно безопасного перехода через Нил (сразу после 4-го порога). Начиная с XV в. до н. э. эта гора также обозначала местонахождение Напаты – самого южного города Египта, ставшего спустя 500 лет столицей нубийского царства Куш.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_JEBEL_BARKAL_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Начиная с XIX века археологи обнаружили около Джебель-Баркала большое количество исторических памятников: развалин храмов, резьбы по камню и древних надписей, относящихся к периоду египетского правления. Позже в нубийских пирамидах у подножия этой горы хоронили мероитских царей и цариц.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_NUBIAN_PITATI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Мастерство нубийских лучников было общеизвестно и внушало страх всем жителям долины Нила. Воины из Страны Луков веками доставляли немало неприятностей египтянам, пока египтяне не решили эту проблему с помощью денег.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_NUBIAN_PITATI_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Так появились «питати», нубийские наемники, получавшие большие деньги за охрану интересов своих нанимателей – как египтян, так и нубийцев. Мобильные отряды лучников-питати были защищены легкой броней и использовали обычные для своей местности луки. Их особенностью были кольца для натягивания тетивы на большом пальце, значительно снижавшие усталость, и малахитовая краска под глазами, позволявшая метко стрелять против солнца.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_PYRAMID_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>За время то и дело вспыхивавших конфликтов с Египтом культура Нубии испытала огромное влияние египетских династий из низовьев Нила. Погребальные обряды нубийцев постепенно приобрели черты сходства с египетскими. В первом тысячелетии до н. э. в нубийском царстве Куш стали хоронить правителей в пирамидах.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_PYRAMID_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Нубийцы подошли к постройке пирамид иначе, нежели египтяне. Они не возводили разорительные для государства огромные погребальные комплексы, а строили небольшие пирамиды со стороной основания не более 8 м, с крутыми боковыми гранями, соединяющимися в остроконечную вершину, и с украшенным входным коридором, являющимся продолжением погребальной камеры. Хотя охотники за сокровищами после падения Нубии разграбили большую часть пирамид, эти постройки до сих пор служат ярким свидетельством нубийской культуры.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MALE_1" Language="en_US">
+			<Text>Алара|Алары|Алару|Алару|Аларам|Алару</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MALE_2" Language="en_US">
+			<Text>Аманісла|Аманісла|Аманісла|Аманісла|Аманісла|Аманісла</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MALE_3" Language="en_US">
+			<Text>Апедэмак|Апедэмака|Апедэмаку|Апедэмака|Апедэмакам|Апедэмаку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MALE_4" Language="en_US">
+			<Text>Арэнснуфіс|Арэнснуфіса|Арэнснуфісу|Арэнснуфіса|Арэнснуфісам|Арэнснуфісу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MALE_5" Language="en_US">
+			<Text>Аркамані|Аркамані|Аркамані|Аркамані|Аркамані|Аркамані</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MALE_6" Language="en_US">
+			<Text>Дэдун|Дэдуна|Дэдуну|Дэдуна|Дэдунам|Дэдуну</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MALE_7" Language="en_US">
+			<Text>Мандуліс|Мандуліса|Мандулісу|Мандуліса|Мандулісам|Мандулісу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MALE_8" Language="en_US">
+			<Text>Мут|Мута|Муту|Мута|Мутам|Муту</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MALE_9" Language="en_US">
+			<Text>Піянхі|Піянхі|Піянхі|Піянхі|Піянхі|Піянхі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MALE_10" Language="en_US">
+			<Text>Себуімекер|Себуімекера|Себуімекеру|Себуімекера|Себуімекерам|Себуімекеру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_FEMALE_1" Language="en_US">
+			<Text>Аманікаташан|Аманікаташан|Аманікаташан|Аманікаташан|Аманікаташан|Аманікаташан</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_FEMALE_2" Language="en_US">
+			<Text>Аманірэна|Аманірэны|Аманірэне|Аманірэну|Аманірэнай|Аманірэне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_FEMALE_3" Language="en_US">
+			<Text>Аманішакетэ|Аманішакетэ|Аманішакетэ|Аманішакетэ|Аманішакетэ|Аманішакетэ</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_FEMALE_4" Language="en_US">
+			<Text>Аменірдыс|Аменірдыс|Аменірдыс|Аменірдыс|Аменірдыс|Аменірдыс</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_FEMALE_5" Language="en_US">
+			<Text>Амесемі|Амесемі|Амесемі|Амесемі|Амесемі|Амесемі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_FEMALE_6" Language="en_US">
+			<Text>Кадымала|Кадымала|Кадымала|Кадымала|Кадымала|Кадымала</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_FEMALE_7" Language="en_US">
+			<Text>Халесе|Халесе|Халесе|Халесе|Халесе|Халесе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_FEMALE_8" Language="en_US">
+			<Text>Насала|Насалы|Насале|Насалу|Насалай|Насале</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_FEMALE_9" Language="en_US">
+			<Text>Шанакдакетэ|Шанакдакетэ|Шанакдакетэ|Шанакдакетэ|Шанакдакетэ|Шанакдакетэ</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_FEMALE_10" Language="en_US">
+			<Text>Табіру|Табіру|Табіру|Табіру|Табіру|Табіру</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_1" Language="en_US">
+			<Text>Баршанбу|Баршанбу|Баршанбу|Баршанбу|Баршанбу|Баршанбу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_2" Language="en_US">
+			<Text>Дудзіл|Дудзіла|Дудзілу|Дудзіла|Дудзілам|Дудзілу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_3" Language="en_US">
+			<Text>Эйрпаном|Эйрпанома|Эйрпаному|Эйрпанома|Эйрпаномам|Эйрпаному</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_4" Language="en_US">
+			<Text>Машуда|Машуды|Машуду|Машуду|Машудам|Машуду</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_5" Language="en_US">
+			<Text>Арынурта|Арынурты|Арынурту|Арынурту|Арынуртам|Арынурту</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_6" Language="en_US">
+			<Text>Калідурут|Калідурута|Калідуруту|Калідурута|Калідурутам|Калідуруту</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_7" Language="en_US">
+			<Text>Семамон|Семамона|Семамону|Семамона|Семамонам|Семамону</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_8" Language="en_US">
+			<Text>Шэканда|Шэканды|Шэканду|Шэканду|Шэкандам|Шэканду</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_9" Language="en_US">
+			<Text>Сіці|Сіці|Сіці|Сіці|Сіці|Сіці</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_10" Language="en_US">
+			<Text>Тапара|Тапары|Тапару|Тапару|Тапарам|Тапару</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_1" Language="en_US">
+			<Text>Эдэоса|Эдэосы|Эдэосе|Эдэосу|Эдэосай|Эдэосе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_2" Language="en_US">
+			<Text>Антэлія|Антэліі|Антэліі|Антэлію|Антэліяй|Антэліі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_3" Language="en_US">
+			<Text>Дамасці|Дамасці|Дамасці|Дамасці|Дамасці|Дамасці</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_4" Language="en_US">
+			<Text>Эйкір|Эйкір|Эйкір|Эйкір|Эйкір|Эйкір</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_5" Language="en_US">
+			<Text>Эйту|Эйту|Эйту|Эйту|Эйту|Эйту</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_6" Language="en_US">
+			<Text>Генсева|Генсевы|Генсеве|Генсеву|Генсевай|Генсеве</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_7" Language="en_US">
+			<Text>Есусіка|Есусіка|Есусіка|Есусіка|Есусіка|Есусіка</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_8" Language="en_US">
+			<Text>Кель|Кель|Кель|Кель|Кель|Кель</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_9" Language="en_US">
+			<Text>Уарэна|Уарэна|Уарэна|Уарэна|Уарэна|Уарэна</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_10" Language="en_US">
+			<Text>Пангіта|Пангіты|Пангіце|Пангіту|Пангітай|Пангіце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_JEBEL_BARKAL_QUOTE" Language="en_US">
+			<Text>«З паўднёва-заходняга боку велізарны прастакутны кавалак пясчаніку быў адсечаны ад самой гары глыбокай расколінай... Ён напамінае манументальную статую».[NEWLINE]– Э. А. Ўоліс Бадж</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_NUBIA_LOCATION" Language="en_US">
+			<Text>Афрыка</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_NUBIA_SIZE" Language="en_US">
+			<Text>На піку магутнасці - каля 1,26 млн. кв.км</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_NUBIA_POPULATION" Language="en_US">
+			<Text>Прыкладна 1,15 млн. (на піку магутнасці)</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_NUBIA_CAPITAL" Language="en_US">
+			<Text>Керма, Напата, Мероэ</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_AMANITORE" Language="en_US">
+			<Text>Аманіторэ, пільная царыца Нубіі, пад тваёй рукой мяжой імперыі стане сам гарызонт. Хай не страшаць цябе тыя, хто прагне залатых скарбаў, бо твае лучнікі заўсёды на варце тваёй бяспекі. Няхай прыйдуць у твае гарады набожнасць і росквіт, о мудрая каралева, бо краіна лучнікаў паважае сваё мінулае, клапоцячыся пра будучыню.</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_CITY_PLANNER_NAME" Language="en_US">
+			<Text>Будаўнік горада</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_CITY_PLANNER_DESCRIPTION" Language="en_US">
+			<Text>Імкнецца мець як мага больш раёнаў у кожным горадзе. Шануе цывілізацыі, якія развіваюць свае гарады ў тым жа кірунку.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_JEBEL_BARKAL_DESCRIPTION" Language="en_US">
+			<Text>Дае 2 [ICON_RESOURCE_IRON] жалеза. Вырабляе +4 [ICON_Faith] веры ўва ўсіх гарадах на адлегласці да 6 клетак.[NEWLINE][NEWLINE]Можна пабудаваць толькі ў пустэльні (узгоркі).</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_CITY_PLANNER_LEADING" Language="en_US">
+			<Text>Аманіторэ задаволена тым, як вы забудоўваеце свае гарады раёнамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_CITY_PLANNER_LAGGING" Language="en_US">
+			<Text>Аманіторэ незадаволена тым, як вы затрымваецеся з забудовай раёнаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Вашы цёплыя словы падобныя вечароваму сонцу. Мы шчаслівыя быць вам сябрам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Можа, некалі, калі вы прыкладзяце досыць высілкаў, Нубія зможа лічыць вас сваім сябрам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Народ Нубіі вельмі пахвальна пра вас адклікаецца. Давайце змацуем наша сяброўства, публічна абвясціўшы пра яго!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Вельмі ласкава з вашага боку.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Вельмі шкада.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Як і меркавалася, вы ўмееце толькі браць. Ну ж, выберыце, як вы хочаце прайграць гэту вайну.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>У нас ёсць вострыя стрэлы. Яны пратнуць ваша горла.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Наша дэлегацыя прынесла вам ліст добрай волі. І свежую вярблюджую печань. Ні ў якім разе не варыце яе!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Мы змушаны адмовіць. Разводдзе ракі – няўдалы час для прыёму гасцей.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Ваша дэлегацыя паспяхова прыбыла на месца. Мы з задавальненнем правялі вашых пасланцоў па нашай сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Не буду пытаць, як вы смееце прамаўляць падобную дзёрзкасць. Ад вас заўсёды варта чакаць горшага.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Вы – горшая з усіх паводак. Варта вам з'явіцца – і ўсё, што вы кранеце, пакрываецца брудам. (Асуджае вас)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Я – Аманіторэ з Нубіі. Я рада вітаць усіх у нашых велічных гарадах. Пры ўмове, што вы прыйшлі як сябры.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Калі будзеце ў нашым краю, можа, наведаеце наш горад? Досвіткам адкрываецца выдатны краявід на піраміды.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Прымальная прапанова.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Я раскажу вам пра нашу славутую сталіцу, калі вы раскажаце мне пра сваю.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Можаце казаць.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Вашы гарады вельмі слушна пабудаваны. Для кожнага тыпу дзейнасці ёсць сваё месца.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_AMANITORE_REASON_ANY" Language="en_US">
+			<Text>(Усе пляцоўкі ў вашых гарадах забудаваны раёнамі)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Вашы гарады патанаюць у гразі. Чаму вы не скарыстаеце землі па прызначэнні?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_AMANITORE_REASON_ANY" Language="en_US">
+			<Text>(Вы не забудавалі свае гарады ўсімі магчымымі раёнамі)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Так. Зашмат разбурэнняў. Кожны з нас павінен заняцца аднаўленнем таго, што знішчана.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Гэтаму не бываць.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Наш народ стаміўся ад бітваў. Ён жадае скончыць гэту вайну.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Вядома. Пераймайце нашы прынцыпы гарадскога ўладкавання.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Нубійская зямля недатыкальная. Падазроны ўладнік вырашыў бы, што вы рыхтуеце ўварванне.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Калі мы адкрыем межы, то зможам вывучыць падыходы адзін аднаго да праектавання гарадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Краіна Лукаў з насцярогай назірае за вашым надыходным войскам. Я патрабую, каб вы адвялі войскі.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Нубійскія найміты ідуць куды хочуць. Я іх не кантралюю!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Вельмі ласкава з вашага боку паведаміць мне пра гэта непаразуменне. У імя добрай волі я адвяду свае атрады.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Хай Нубія зрынута, але нашы піраміды будуць стаяць яшчэ доўга пасля таго, як твае планы зробяцца пылам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Які жаль.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_AMANITORE_ANY" Language="en_US">
+			<Text>Вельмі міла з вашага боку.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

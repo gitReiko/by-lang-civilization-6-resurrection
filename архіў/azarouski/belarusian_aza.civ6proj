@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Belarusian</Name>
+    <Guid>8c6ec7f2-cd10-4632-b083-21ba4106a248</Guid>
+    <ProjectGuid>9ff73315-39e9-4204-88fb-5ebcdfa73bf7</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Translation of the game into Belarusian.</Teaser>
+    <Description>Translation of the game into Belarusian.</Description>
+    <Authors>Aleg Azarouski</Authors>
+    <SpecialThanks>Merri</SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <AssemblyName>belarusian_aza</AssemblyName>
+    <RootNamespace>belarusian_aza</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="by_BY" />
+    <Folder Include="by_BY\Base\" />
+    <Folder Include="by_BY\Base\Assets\" />
+    <Folder Include="by_BY\Base\Assets\Text\" />
+    <Folder Include="by_BY\DLC\" />
+    <Folder Include="by_BY\DLC\AlexanderScenario\" />
+    <Folder Include="by_BY\DLC\AlexanderScenario\Text\" />
+    <Folder Include="by_BY\DLC\AustraliaScenario\" />
+    <Folder Include="by_BY\DLC\AustraliaScenario\Text\" />
+    <Folder Include="by_BY\DLC\Australia\" />
+    <Folder Include="by_BY\DLC\Australia\Text\" />
+    <Folder Include="by_BY\DLC\BlackDeathScenario\" />
+    <Folder Include="by_BY\DLC\BlackDeathScenario\Text\" />
+    <Folder Include="by_BY\DLC\CatherineDeMedici\" />
+    <Folder Include="by_BY\DLC\CatherineDeMedici\Text\" />
+    <Folder Include="by_BY\DLC\CivRoyaleScenario\" />
+    <Folder Include="by_BY\DLC\CivRoyaleScenario\Text\" />
+    <Folder Include="by_BY\DLC\Ethiopia\" />
+    <Folder Include="by_BY\DLC\Ethiopia\Text\" />
+    <Folder Include="by_BY\DLC\Expansion1\" />
+    <Folder Include="by_BY\DLC\Expansion1\Text\" />
+    <Folder Include="by_BY\DLC\Expansion2\" />
+    <Folder Include="by_BY\DLC\Expansion2\Text\" />
+    <Folder Include="by_BY\DLC\GranColombia_Maya\" />
+    <Folder Include="by_BY\DLC\GranColombia_Maya\Text\" />
+    <Folder Include="by_BY\DLC\Indonesia_KhmerScenario\" />
+    <Folder Include="by_BY\DLC\Indonesia_KhmerScenario\Text\" />
+    <Folder Include="by_BY\DLC\Indonesia_Khmer\" />
+    <Folder Include="by_BY\DLC\Indonesia_Khmer\Text\" />
+    <Folder Include="by_BY\DLC\Macedonia_Persia\" />
+    <Folder Include="by_BY\DLC\Macedonia_Persia\Text\" />
+    <Folder Include="by_BY\DLC\NubiaScenario\" />
+    <Folder Include="by_BY\DLC\NubiaScenario\Text\" />
+    <Folder Include="by_BY\DLC\Nubia_Amanitore\" />
+    <Folder Include="by_BY\DLC\Nubia_Amanitore\Text\" />
+    <Folder Include="by_BY\DLC\PolandScenario\" />
+    <Folder Include="by_BY\DLC\PolandScenario\Text\" />
+    <Folder Include="by_BY\DLC\Poland_Jadwiga\" />
+    <Folder Include="by_BY\DLC\Poland_Jadwiga\Text\" />
+    <Folder Include="by_BY\DLC\TeddyRoosevelt\" />
+    <Folder Include="by_BY\DLC\TeddyRoosevelt\Text\" />
+    <Folder Include="by_BY\DLC\TreeRandomizer\" />
+    <Folder Include="by_BY\DLC\TreeRandomizer\Text\" />
+    <Folder Include="by_BY\DLC\VikingsLandmarks\" />
+    <Folder Include="by_BY\DLC\VikingsLandmarks\Text\" />
+    <Folder Include="by_BY\DLC\VikingsScenario\" />
+    <Folder Include="by_BY\DLC\VikingsScenario\Text\" />
+    <Folder Include="by_BY\DLC\WarMachineScenario\" />
+    <Folder Include="by_BY\DLC\WarMachineScenario\Text\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="by_BY.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="belarusian_aza.modinfo">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="LocalizationDatabase_Data.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- Vanilla -->
+    <Content Include="by_BY\Base\Assets\Text\StartupErrorMessages.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\Base\Assets\Text\Vanilla_ru_RU.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- Rise & Fall -->
+    <Content Include="by_BY\DLC\Expansion1\Text\Expansion1_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\Expansion1\Text\Expansion1_Translations_Major_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\Expansion1\Text\Expansion1_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- Gathering Storm -->
+    <Content Include="by_BY\DLC\Expansion2\Text\Expansion2_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\Expansion2\Text\Expansion2_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- AlexanderScenario -->
+    <Content Include="by_BY\DLC\AlexanderScenario\Text\AlexanderScenario_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\AlexanderScenario\Text\AlexanderScenario_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- Australia -->
+    <Content Include="by_BY\DLC\Australia\Text\Australia_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\Australia\Text\Australia_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- AustraliaScenario -->
+    <Content Include="by_BY\DLC\AustraliaScenario\Text\AustraliaScenario_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\AustraliaScenario\Text\AustraliaScenario_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- BlackDeathScenario -->
+    <Content Include="by_BY\DLC\BlackDeathScenario\Text\BlackDeathScenario_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\BlackDeathScenario\Text\BlackDeathScenario_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- CatherineDeMedici -->
+    <Content Include="by_BY\DLC\CatherineDeMedici\Text\CatherineDeMedici_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\CatherineDeMedici\Text\CatherineDeMedici_Translations_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\CatherineDeMedici\Text\CatherineDeMedici_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- CivRoyaleScenario -->
+    <Content Include="by_BY\DLC\CivRoyaleScenario\Text\CivRoyaleScenario_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\CivRoyaleScenario\Text\CivRoyaleScenario_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- Ethiopia -->
+    <Content Include="by_BY\DLC\Ethiopia\Text\Ethiopia_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\Ethiopia\Text\Ethiopia_Translations_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\Ethiopia\Text\Ethiopia_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- GranColombia_Maya -->
+    <Content Include="by_BY\DLC\GranColombia_Maya\Text\GranColombia_Maya_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\GranColombia_Maya\Text\GranColombia_Maya_Translations_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\GranColombia_Maya\Text\GranColombia_Maya_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- Indonesia_Khmer -->
+    <Content Include="by_BY\DLC\Indonesia_Khmer\Text\Indonesia_Khmer_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\Indonesia_Khmer\Text\Indonesia_Khmer_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- Indonesia_KhmerScenario -->
+    <Content Include="by_BY\DLC\Indonesia_KhmerScenario\Text\Indonesia_KhmerScenario_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\Indonesia_KhmerScenario\Text\Indonesia_KhmerScenario_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- Macedonia_Persia -->
+    <Content Include="by_BY\DLC\Macedonia_Persia\Text\Macedonia_Persia_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\Macedonia_Persia\Text\Macedonia_Persia_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- Nubia_Amanitore -->
+    <Content Include="by_BY\DLC\Nubia_Amanitore\Text\Nubia_Amanitore_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\Nubia_Amanitore\Text\Nubia_Amanitore_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- NubiaScenario -->
+    <Content Include="by_BY\DLC\NubiaScenario\Text\NubiaScenario_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\NubiaScenario\Text\NubiaScenario_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- Poland_Jadwiga -->
+    <Content Include="by_BY\DLC\Poland_Jadwiga\Text\Poland_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\Poland_Jadwiga\Text\Poland_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- PolandScenario -->
+    <Content Include="by_BY\DLC\PolandScenario\Text\PolandScenario_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\PolandScenario\Text\PolandScenario_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- TeddyRoosevelt -->
+    <Content Include="by_BY\DLC\TeddyRoosevelt\Text\TeddyRoosevelt_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\TeddyRoosevelt\Text\TeddyRoosevelt_Translations_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\TeddyRoosevelt\Text\TeddyRoosevelt_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- TreeRandomizer -->
+    <Content Include="by_BY\DLC\TreeRandomizer\Text\TreeRandomizer_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\TreeRandomizer\Text\TreeRandomizer_Translations_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\TreeRandomizer\Text\TreeRandomizer_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- VikingsLandmarks -->
+    <Content Include="by_BY\DLC\VikingsLandmarks\Text\VikingsLandmarks_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\VikingsLandmarks\Text\VikingsLandmarks_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- VikingsScenario -->
+    <Content Include="by_BY\DLC\VikingsScenario\Text\VikingsScenario_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\VikingsScenario\Text\VikingsScenario_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <!-- WarMachineScenario -->
+    <Content Include="by_BY\DLC\WarMachineScenario\Text\WarMachineScenario_Translations_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="by_BY\DLC\WarMachineScenario\Text\WarMachineScenario_Translations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

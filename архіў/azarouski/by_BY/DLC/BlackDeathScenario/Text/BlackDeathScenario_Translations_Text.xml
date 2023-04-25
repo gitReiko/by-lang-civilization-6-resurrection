@@ -1,0 +1,756 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_DISTRICT_WALLED_QUARTER_NAME" Language="en_US">
+			<Text>Абгароджаны квартал|абгароджанага квартала|абгароджанаму кварталу|абгароджаны квартал|абгароджаным кварталам|абгароджаным квартале</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_GUILDHALL_NAME" Language="en_US">
+			<Text>Кіраванне гільдыі|Кіравання гільдыі|Кіраванню гільдыі|Кіраванне гільдыі|Кіраваннем гільдыі|Кіраванні гільдыі</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MASS_GRAVE_NAME" Language="en_US">
+			<Text>Масавае пахаванне|Масавага пахавання|Масаваму пахаванню|Масавае пахаванне|Масавым пахаваннем|Масавым пахаванні</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_PLAGUE_HOSPITAL_NAME" Language="en_US">
+			<Text>Чумны шпіталь|Чумнога шпіталя|Чумному шпіталю|Чумны шпіталь|Чумным шпіталем|Чумным шпіталі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_KEEP_NAME" Language="en_US">
+			<Text>Данжон|Данжона|Данжону|Данжон|Данжонам|Данжоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BREST" Language="en_US">
+			<Text>Брэст|Брэста|Брэсту|Брэст|Брэстам|Брэсце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ANGERS" Language="en_US">
+			<Text>Анжэ|Анжэ|Анжэ|Анжэ|Анжэ|Анжэ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LANCASTER" Language="en_US">
+			<Text>Ланкастар|Ланкастара|Ланкастару|Ланкастар|Ланкастарам|Ланкастару</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DUBLIN" Language="en_US">
+			<Text>Дублін|Дубліна|Дубліну|Дублін|Дублінам|Дубліне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MUNICH" Language="en_US">
+			<Text>Мюнхен|Мюнхена|Мюнхену|Мюнхен|Мюнхенам|Мюнхене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STRASBOURG" Language="en_US">
+			<Text>Страсбург|Страсбурга|Страсбургу|Страсбург|Страсбургам|Страсбургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BRANDENBURG" Language="en_US">
+			<Text>Брандэнбург|Брандэнбурга|Брандэнбургу|Брандэнбург|Брандэнбургам|Брандэнбургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LEON" Language="en_US">
+			<Text>Ляон|Ляона|Ляону|Ляон|Ляонам|Ляону</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_UTRECHT" Language="en_US">
+			<Text>Утрэхт|Утрэхта|Утрэхту|Утрэхт|Утрэхтам|Утрэхце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GOVERNMENT_MONARCHY_NAME" Language="en_US">
+			<Text>Каталіцкая манархія|каталіцкай манархіі|каталіцкай манархіі|каталіцкую манархію|каталіцкай манархіяй|каталіцкай манархіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_WAGE_REFORM_NAME" Language="en_US">
+			<Text>Рэформа аплаты|рэформы аплаты|рэформе аплаты|рэформу аплаты|рэформай аплаты|рэформе аплаты</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_HIGHER_LEARNING_NAME" Language="en_US">
+			<Text>Вышэйшая адукацыя|вышэйшай адукацыі|вышэйшай адукацыі|вышэйшая адукацыя|вышэйшай адукацыяй|вышэйшай адукацыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_LABOR_ECONOMY_NAME" Language="en_US">
+			<Text>Эканоміка працы|эканомікі працы|эканоміцы працы|эканоміку працы|эканомікай працы|эканоміцы працы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_URBANIZATION_NAME" Language="en_US">
+			<Text>Урбанізацыя|Урбанізацыі|Урбанізацыі|Урбанізацыю|Урбанізацыяй|Урбанізацыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_MIDDLE_CLASS_NAME" Language="en_US">
+			<Text>Сярэдні клас|Сярэдняга класа|Сярэдняму класу|Сярэдні клас|Сярэднім класам|Сярэднім класе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_FEALTY_NAME" Language="en_US">
+			<Text>Фуа|фуа|фуа|фуа|фуа|фуа</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_UNDERCLASS_NAME" Language="en_US">
+			<Text>Гарадское саслоўе|гарадскога саслоўя|гарадскому саслоўю|гарадское саслоўе|гарадскім саслоўем|гарадскім саслоўі</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_STUDIA_GENERALIA_NAME" Language="en_US">
+			<Text>Studia Generalia|Studia Generalia|Studia Generalia|Studia Generalia|Studia Generalia|Studia Generalia|</Text>
+			<Gender>neuter</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_COTTAGE_INDUSTRIES_NAME" Language="en_US">
+			<Text>Саматужная вытворчасць|саматужнай вытворчасці|саматужнай вытворчасці|саматужную вытворчасць|саматужнай вытворчасцю|саматужнай вытворчасці</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SKILLED_TRADES_NAME" Language="en_US">
+			<Text>Умелыя рамеснікі|умелых рамеснікаў|умелым рамеснікам|умелых рамеснікаў|умелымі рамеснікамі|умелых рамесніках</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_PUBLIC_SERVANTS_NAME" Language="en_US">
+			<Text>Слугі народа|Слугаў народа|Слугам народа|Слугаў народа|Слугамі народа|Слугах народа</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SPECIALIZATION_NAME" Language="en_US">
+			<Text>Спецыялізацыя|Спецыялізацыі|Спецыялізацыі|Спецыялізацыю|Спецыялізацыяй|Спецыялізацыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_COMMERCIAL_LEAGUE_NAME" Language="en_US">
+			<Text>Гандлёвы звяз|Гандлёвага звязу|Гандлёваму звязу|Гандлёвы звяз|Гандлёвым звязам|Гандлёвым звязе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_LABOR_MARKET_NAME" Language="en_US">
+			<Text>Рынак працы|рынку працы|рынку працы|рынак працы|рынкам працы|рынку працы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_CIVIL_QUARANTINE_NAME" Language="en_US">
+			<Text>Карантын для насельніцтва|Карантыну для насельніцтва|Карантыну для насельніцтва|Карантын для насельніцтва|Карантынам для насельніцтва|Карантыне для насельніцтва</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_POGROM_NAME" Language="en_US">
+			<Text>Пагром|Пагрому|Пагрому|Пагром|Пагромам|Пагроме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_PATRONAGE_NAME" Language="en_US">
+			<Text>Мецэнацтва|мецэнацтва|мецэнацтву|мецэнацтва|мецэнацтвам|мецэнацтве</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_NOBLESSE_OBLIGE_NAME" Language="en_US">
+			<Text>Noblesse Oblige</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SCHOLAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Пандемии чумы в Европе предшествовал период расцвета наук и образования. С возникновением университетов в обществе появились образованные специалисты: эрудиты. Многие эрудиты занимались практической деятельностью (например, юриспруденцией), но постоянно росло число тех, кого больше привлекали вопросы эпистемологии и натурфилософии. Так были заложены основы Возрождения.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PLAGUE_DOCTOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Пожалуй, самая колоритная фигура периода «Черной смерти» – врачеватель чумы. Он был одет в особый защитный костюм с «носатой» маской, похожей на клюв птицы. В этом «клюве» помещались благовония, поскольку в Средневековье ошибочно полагали, что их аромат отпугивает чуму. Врачевателей чумы приглашали в дом к больному (или уже умершему) с подозрительными симптомами. При осмотре пациента врач пользовался тростью, не прикасаясь к нему руками, после чего ставил диагноз.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FLAGELLANT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Религия была основой жизни средневекового человека. Поэтому пандемия чумы воспринималась как наказание за грехи человечества. Появились группы людей, устраивавших сеансы публичного покаяния с самобичеванием. Их называли «флагелланты» («бичующиеся», от лат. flagellum — «бич, кнут»). Поначалу церковь благосклонно относилась к флагеллантству как к одному из видов аскезы, но вскоре осудила и запретила эти практики исступленного самоистязания. Впрочем, запрет не положил конец деятельности флагеллантов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TEUTONIC_KNIGHT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Тевтонский орден – один из духовно-рыцарских орденов Средневековья. Один из главных участников Северных крестовых походов против финских, балтийских и славянских народов. Прославился агрессивностью, непримиримостью и значительным богатством при весьма аскетическом (даже по сравнению с другими орденами) образом жизни простых рыцарей.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_WALLED_QUARTER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Жители средневековых городов не имели представления о возбудителе бубонной чумы, но препятствовали распространению болезни, помещая больных в бессрочный карантин. Эта жестокая мера обрекала жертв на мучительную смерть, но в некоторых случаях помогала остановить эпидемию. Некоторые здоровые горожане добровольно удалялись в карантин, надеясь таким образом снизить вероятность распространения чумы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GUILDHALL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Правление гильдии – это здание, в котором проводятся собрания членов гильдии. Оно должно демонстрировать богатство и влияние организации. Правления гильдий, как правило, размещались в богато украшенных зданиях, утопавших в роскоши и помпезности.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_MASS_GRAVE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Во время эпидемий чумы пришлось отказаться от индивидуальных захоронений и хоронить умерших в общих могилах. Иногда для экономии места уже похороненные тела извлекали из-под земли, чтобы сложить в общих могилах. Часто кладбища переполнялись настолько, что покойников складывали в кучи и засыпали землей. При этом не все массовые захоронения отмечались, поэтому их продолжают находить до сих пор.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_PLAGUE_HOSPITAL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В городах заболевшим старались оказать посильную медицинскую помощь или хотя бы облегчить их страдания. Чумные госпитали не могли излечить своих пациентов, но, по крайней мере, обеспечивали им некоторый уход и давали иллюзию надежды.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_KEEP_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Главная башня замка или крепости. Последний рубеж обороны при прорыве врага через внешнюю стену. У донжона, как правило, узкие ворота, что позволяет небольшому числу защитников отбиваться от превосходящих сил противника.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_CIVIL_ENGINEERING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Средневековье – это период бурного развития технологий капитального строительства. Причин тому несколько – это и постройка прочных замков, способных выдерживать осады и штурмы, и рост городов, вызвавший необходимость организовать проживание больших масс людей на ограниченной площади так, чтобы они не утонули в собственных отходах.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_INVENTION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Мастера и ремесленники заново открыли многие позабытые античные технологии. В условиях нехватки рабочих рук после эпидемий чумы востребованность машин и механизмов возросла.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_MEDICINE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Медицина – это искусство уравновешивания четырех жидкостей, циркулирующих в человеческом организме: крови, желчи, черной желчи и слизи. Так утверждал Гиппократ. Врач должен разбираться в астрологии (поскольку небесные светила влияют на движение жидкостей) и в четырех первоэлементах (огонь, вода, воздух, земля). Для тех, кто не может освоить высшие науки – логику и философию, – медицина является подходящим занятием.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_WAGE_REFORM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Нехватка рабочих рук после эпидемий чумы в Европе привела к упадку традиционной системы серважа. Теперь сельскохозяйственные и иные работники трудились только за плату.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_HIGHER_LEARNING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ученые Высокого Средневековья заново открыли позабытые к тому времени древнеримские тексты, и это отчасти послужило причиной возникновения университетов в Болонье, Париже и формированию других университетских центров. Развитие светского образование заложило основы Ренессанса.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_LABOR_ECONOMY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Нехватка рабочих рук после эпидемий чумы вызвала рост стоимости рабочей силы. Теперь феодал уже не мог просто заставить крестьян работать: эти неблагодарные наглецы соглашались служить кому угодно, но только за деньги.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_MIDDLE_CLASS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Рост городов в Европе означал также появление нового сословия вне традиционной системы «аристократия–духовенство–крестьянство». Многие правители увидели в этом сословии перспективных налогоплательщиков.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FEALTY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Фуа – это клятва верности сеньору в феодальной системе. Например, рыцарь клянется в верности барону, барон – королю.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_UNDERCLASS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Рост городов привел к тому, что, с появлением большого числа торговцев и ремесленников, становилось все многочисленнее сословие, не вписывавшееся в традиционную феодальную систему и потому подвергавшееся дискриминации. Пережитки подобного отношения кое-где заметны и в наши дни.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_STUDIA_GENERALIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Первоначально университет назывался studium generale (studia generalia во множественном числе), что в переводе с латыни означает «общее изучение». В отличие от школ «семи свободных искусств», в таких заведениях отсутствовала четкая программа обучения, поэтому университеты выдавали дипломы как подтверждение того, что студент прошел полный курс обучения и чему-то научился.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_COTTAGE_INDUSTRIES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Кустарное производство – это мелкосерийное производство с использованием ручного труда. Такие небольшие предприятия типичны для переходного периода между феодализмом и рыночной экономикой.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SKILLED_TRADES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Высокая квалификация в ремесле достигается только долгим, упорным трудом. Особенно это касается производства товаров, сложных в изготовлении: серебряных изделий, тканей, стекла или механизмов. Ремесленники селятся в городах, где у них есть возможность вместе работать, готовить себе смену, устанавливать сообща цены и контролировать рынок сбыта. Квалифицированные ремесленники – первые в истории представители «среднего класса».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PUBLIC_SERVANTS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Со временем росло понимание того, что государство и правитель – не одно и то же, а вместе с этим увеличивалось число людей, считавших, что они служат стране, а не правителю. Это позволяло им беспристрастно работать на благо государства, но не прибавляло народной любви во время сбора налогов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SPECIALIZATION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Если при изготовлении сложных изделий каждый из специалистов занимается своим этапом производства, темп такой работы будет значительно выше, чем у ремесленника-одиночки, который сам проходит весь процесс от начала до конца. Так работали в Средние века и в начале Нового времени, в том числе и при производстве оружия и брони. Специализация получила широкое распространение в Промышленную эру. Ее наиболее ярким выражением стал более поздний конвейер.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_COMMERCIAL_LEAGUE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Торговцы объединялись для проведения совместных коммерческих операций. Такие торговые союзы стали прародителями современной банковской и финансовой системы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_LABOR_MARKET_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Было время, когда «рынок труда» представлял собой в буквальном смысле площадку на рынке, где собирались неквалифицированные рабочие в ожидании работодателей. Кое-где так происходит до сих пор.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_CIVIL_QUARANTINE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Карантин – это ограничительная мера, направленная на изоляцию переносчиков болезни. Цель карантина – препятствовать распространению инфекции. Со времен средневековых эпидемий чумы для обозначения карантина используется желтый флаг.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_POGROM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Погром – это массовые насильственные действия, направленные против какой-либо группы населения. Жертвами погрома, как правило, становятся меньшинства (например, евреи на протяжении значительного периода европейской истории). Погром обычно начинается с (как правило) обложных обвинений в каких-либо преступлениях. У погромов долгая и ужасная история. Несмотря на заверения, что «этого больше не повторится», они повторяются вновь и вновь и по сей день.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PATRONAGE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Меценатство – это материальная поддержка деятелей искусства. Часто меценатами становятся, чтобы подчеркнуть социальный статус, но порой и из благородных побуждений. Многие шедевры были созданы только благодаря поддержке богатых покровителей.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_NOBLESSE_OBLIGE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Это выражение переводится с французского как «благородное происхождение обязывает». То есть, знатный человек обязан быть великодушным и заботиться о подданных. Хотя непрошенные благодеяния далеко не всегда находят у облагодетельствованных тот отклик, на который рассчитывал благодетель.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Французский король Филипп VI – родоначальник династии Валуа. Именно в его правление началась Столетняя война с Англией. Вступив на престол, он подавил восстание во Фландрии и восстановил власть графа Людовика Фландрского. Поначалу его отношения с королем Англии Эдуардом III складывались неплохо, но испортились из-за спора о статусе Аквитании и о том, является ли Эдуард вассалом Филиппа. Эти и другие разногласия стали предпосылками Столетней войны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Филипп изматывал Эдуарда постоянными набегами, а богатая французская казна давала ему определенное преимущество, но в решающих сражениях победа была на стороне англичан. После битвы при Креси (1346 г.) французские рыцари и их союзники понесли столь тяжелые потери, что Генеральные штаты (французский парламент) отказались давать деньги на продолжение этой войны. В 1348 г. началась эпидемия чумы, последствия которой были катастрофическими. Эта эпидемия унесла жизнь супруги короля Жанны Бургундской.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_ENGLAND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Возможно, самый успешный английский король Средневековья. За 50 лет правления Эдуарда III произошло немало событий: войны, эпидемия чумы, расширение парламента... Когда Эдуарду III было 15 лет, его отец, Эдуард II, был свергнут в результате мятежа баронов, но молодой король быстро взял в свои руки всю полноту власти.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_ENGLAND_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Эдуард III вел войны с Шотландией и Францией. Вместе со своими военачальниками, среди которых был и его старший сын – Эдуард Черный Принц – одержал выдающиеся победы в Столетней войне, в том числе в морской битве при Слейсе. Эдуард III лично командовал войсками в битве при Креси, в которой английские лучники за несколько часов уничтожили весь цвет французского рыцарства.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_ENGLAND_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Эпидемия чумы 1361 года ознаменовала начало упадка. Высокая смертность среди населения лишила короля необходимых для ведения войны ресурсов, а обострение социальных противоречий вынудило сосредоточиться на внутренних проблемах страны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_CASTILE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Король Кастилии и Леона Альфонсо XI, прозванный Справедливым, унаследовал трон от отца, Фернандо IV, в возрасте одного года. По достижении совершеннолетия в 1325 г. он жестко и решительно покончил с распрями между дворянскими семействами и подавил беспорядки. В 1348 г. Альфонсо принял новый свод законов «Кодекс Алькала» (Ordenamiento de Alcalá). Он успешно вел войны против берберской династии Маринидов и одержал важную для Реконкисты победу в битве при Саладо.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_CASTILE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Альфонсо XI умер от чумы во время осады Гибралтара в 1350 г. Трон унаследовал его сын Педро I Жестокий.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Людовик IV был первым королем Германии и императором Священной Римской империи из династии Виттельсбахов. Его путь к престолу отмечен упорной борьбой за власть с Габсбургами и Люксембургами. Этот конфликт вылился в противостояние с папой, который в 1325 г. объявил Людовика IV еретиком и отлучил от церкви. Это выглядит тем более странным, что спустя три года Людовик короновался в Риме как император Священной Римской империи. Его коронация объяснялась смертью всех его главных соперников и усталости политических элит империи от бесконечных междоусобиц.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Людовик вступил в союз с королем Англии Эдуардом III против Франции (и авиньонских пап), что обострило внутренние политические противоречия. К моменту своей смерти в 1347 г. ему так и не удалось закрепить свою династию на троне Священной Римской империи.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Политическая карта Центральной Европы во время чумы – это многоязычная и разнородная мозаика королевств, княжеств, епископств, герцогств, вольных городов, спорных территорий, баронств и приходов, формально объединенных под властью императора. Между могущественными правителями и папой то и дело вспыхивала борьба за контроль над отдельными территориями.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Историческая область Кастилия занимает центральную часть современной Испании. В Средние века это королевство вело непрерывные войны с мусульманскими государствами на юге Пиренейского полуострова. Присоединение Леона к Кастилии сделало это королевство сильнейшей державой региона.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Династия Плантагенетов, правившая Англией в период эпидемий чумы, имела претензии не только на английскую, но и на французскую корону. Плантагенеты завоевали Шотландию и Уэльс. Со временем королю пришлось уступить часть полномочий парламенту и дворянам, вследствие чего у английских монархов было существенно меньше прав, чем у монархов континентальной Европы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В Средние века Франция была одной из богатейших держав Европы. В этот период большая часть страны находилась в личном владении короля, что делало Францию одной из наиболее централизованных монархий своего времени.</Text>
+		</Replace>
+		<Replace Tag="LOC_PRODUCTION_ITEM_DECONTAMINATE" Language="en_US">
+			<Text>(Заражэнне чумой)</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY" Language="en_US">
+			<Text>+3 [ICON_Faith] веры ўва ўсіх гарадах. Бонус да [ICON_Faith] веры, роўны 50% моцы кожнага знішчанага варожага юніта.</Text>
+		</Replace>
+		<Replace Tag="LOC_HUD_CITY_PURCHASE_TILE" Language="en_US">
+			<Text>Прымусовыя працы</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCHOLAR_DESCRIPTION" Language="en_US">
+			<Text>Грамадзянскі юніт, які генеруе [Icon_Science] навуку ў заражаных чумой гарадах. Эрудыта можна скарыстаць 2 разы. Палітычны курс «Studia generalia» дазваляе павялічыць гэты паказнік.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PLAGUE_DOCTOR_DESCRIPTION" Language="en_US">
+			<Text>Грамадзянскі юніт, які можа скарачаць працягласць эпідэміі на заражаных чумой клетках і аднаўляць лаяльнасць у гарадах. Лекара чумы можна скарыстаць 2 разы. Палітычны курс Studia generalia дазваляе павялічыць гэты паказнік.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FLAGELLANT_DESCRIPTION" Language="en_US">
+			<Text>Грамадзянскі юніт, які генеруе [Icon_Faith] веру, [Icon_Culture] культуру і лаяльнасць у заражаных чумой гарадах.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_STUDY_NAME" Language="en_US">
+			<Text>Даследаваць чуму</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_STUDY_DISABLED_TT" Language="en_US">
+			<Text>[COLOR:Civ6Red]Можна скарыстаць толькі ў заражаных чумой гарадах. Няможна скарыстаць у горадзе, дзе ўжо адбываліся даследаванні.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_MINISTER_NAME" Language="en_US">
+			<Text>Догляд за хворымі</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_MINISTER_DESCRIPTION" Language="en_US">
+			<Text>Скарачае працягласць заражэння чумой на гэтай клетцы на 50%.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_MINISTER_DISABLED_TT" Language="en_US">
+			<Text>[COLOR:Civ6Red]Можна скарыстаць толькі на заражаных чумой клетках.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_PACIFY_NAME" Language="en_US">
+			<Text>Супакоіць горад</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_PACIFY_DISABLED_TT" Language="en_US">
+			<Text>[COLOR:Civ6Red]Можна скарыстаць толькі ў гарадах.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_PURGE_NAME" Language="en_US">
+			<Text>Ачысціць ад граху</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_PURGE_DISABLED_TT" Language="en_US">
+			<Text>[COLOR:Civ6Red]Можна скарыстаць толькі ў заражаных чумой гарадах.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_HOLY_FERVOR_NAME" Language="en_US">
+			<Text>Святы запал</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_HOLY_FERVOR_DISABLED_TT" Language="en_US">
+			<Text>[COLOR:Civ6Red]Можна скарыстаць толькі пасля руху ці дзеяння.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TEUTONIC_KNIGHT_NAME" Language="en_US">
+			<Text>Запал крыжака</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TEUTONIC_KNIGHT_DESCRIPTION" Language="en_US">
+			<Text>+8 [ICON_Strength] да баявой моцы на варожай тэрыторыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_WALLED_QUARTER_DESCRIPTION" Language="en_US">
+			<Text>Імавернасць унікнуць смяротнасці ад чумы: 15% на кожным ходзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MASS_GRAVE_DESCRIPTION" Language="en_US">
+			<Text>Змяншае працягласць эпідэміі ў горадзе на 2 хады (мін. працягласць – 1 ход).</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SCENARIO_SEWER_DESCRIPTION" Language="en_US">
+			<Text>Імавернасць унікнуць смяротнасці ад чумы: 20% на кожным ходзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_PLAGUE_HOSPITAL_DESCRIPTION" Language="en_US">
+			<Text>Дае +50% [ICON_Production] да вытворчасці пры стварэнні эрудытаў і лекараў чумы.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_KEEP_DESCRIPTION" Language="en_US">
+			<Text>Змяншае працягласць эпідэміі ў горадзе на 1 ход (мін. працягласць – 1 ход).</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_INVENTION_DESCRIPTION" Language="en_US">
+			<Text>Перамога ў сцэнары.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_FEUDALISM_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Food] ежы ад фермаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_MIDDLE_CLASS_DESCRIPTION" Language="en_US">
+			<Text>Перамога ў сцэнары.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_POLICY_CHIVALRY_DESCRIPTION" Language="en_US">
+			<Text>+50% [ICON_Production] вытворчасці для вайсковых юнітаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_POLICY_SERFDOM_DESCRIPTION" Language="en_US">
+			<Text>Фермы атрымаюць +1 [ICON_Food] ежы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_POLICY_TOWN_CHARTERS_DESCRIPTION" Language="en_US">
+			<Text>Бонусы ад суседства для цэнтра камерцыі: +100%.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_POLICY_MERITOCRACY_DESCRIPTION" Language="en_US">
+			<Text>Бонусы ад суседства для кампуса: +100%.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_FEALTY_DESCRIPTION" Language="en_US">
+			<Text>+50% [ICON_Production] вытворчасці для грамадзянскіх юнітаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_UNDERCLASS_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Gold] золата і +2 [ICON_Faith] веры ўва ўсіх гарадах.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_STUDIA_GENERALIA_DESCRIPTION" Language="en_US">
+			<Text>Новыя эрудыты атрымаюць 2 дадатковыя зарады. Новыя лекары чумы атрымаюць 1 дадатковы зарад.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_COTTAGE_INDUSTRIES_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_Gold] золата ад будынкаў майстэрні.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SKILLED_TRADES_DESCRIPTION" Language="en_US">
+			<Text>Бонусы ад суседства для прамысловай зоны: +100%.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_PUBLIC_SERVANTS_DESCRIPTION" Language="en_US">
+			<Text>Зніжка 50% пры куплі будынкаў і юнітаў за [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SPECIALIZATION_DESCRIPTION" Language="en_US">
+			<Text>+4 [ICON_Production] вытворчасці ад фабрык.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_COMMERCIAL_LEAGUE_DESCRIPTION" Language="en_US">
+			<Text>+4 [ICON_Gold] золата ад будынкаў кіраўніцтва гільдыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_LABOR_MARKET_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Housing] да жытла за кожны раён, +2 [ICON_Gold] золата ўва ўсіх гарадах.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_CIVIL_QUARANTINE_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Science] навукі ад кампусаў. На кожным ходзе ёсць імавернасць 10%, што гарады з эпідэміяй чумы не страцяць [ICON_Citizen] насельніцтва.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_POGROM_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Culture] культуры, +4 [ICON_Gold] золата ўва ўсіх гарадах.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_PATRONAGE_DESCRIPTION" Language="en_US">
+			<Text>Бонусы ад суседства для тэатральнага пляца: +100%.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_NOBLESSE_OBLIGE_DESCRIPTION" Language="en_US">
+			<Text>Утрыманне юнітаў змяншаецца на 1 [ICON_Gold] адз. золата за ход на кожны юніт.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_GOVT_INHERENT_BONUS_MONARCHY" Language="en_US">
+			<Text>Нічога.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_HUD_CHARGES" Language="en_US">
+			<Text>Зарады</Text>
+		</Replace>
+		<Replace Tag="LOC_FLYOVER_HOLY_FERVOR" Language="en_US">
+			<Text>[COLOR_FLOAT_FAITH] Святы запал![ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVT_PAPAL_SLOT_NAME" Language="en_US">
+			<Text>Папскі курс</Text>
+		</Replace>
+		<Replace Tag="LOC_HUD_PLAGUE_LENS" Language="en_US">
+			<Text>Чума</Text>
+		</Replace>
+		<Replace Tag="LOC_HUD_PLAGUE_LENS_TT" Language="en_US">
+			<Text>Паказвае клеткі, заражаныя Чорнай смерцю (сінія клеткі не заражаны, чырвоныя – максімальнае заражэнне).</Text>
+		</Replace>
+		<Replace Tag="LOC_HUD_PLAGUE_LENS_KEY_MIN" Language="en_US">
+			<Text>Выпадкі чумы</Text>
+		</Replace>
+		<Replace Tag="LOC_HUD_PLAGUE_LENS_KEY_MAX" Language="en_US">
+			<Text>Эпідэмія чумы</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_NOTIFICATION_PLAGUE_RUMOR_MESSAGE" Language="en_US">
+			<Text>Чуткі пра чуму</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_NOTIFICATION_PLAGUE_OUTBREAK_MESSAGE" Language="en_US">
+			<Text>Эпідэмія чумы!</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_NOTIFICATION_FRANCE_PAPAL_SLOT_SUMMARY" Language="en_US">
+			<Text>Не хапае [ICON_Faith] веры, каб працягваць выкарыстанне вочка папскага палітычнага курса.</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_NOTIFICATION_FRANCE_PAPAL_SLOT_MESSAGE" Language="en_US">
+			<Text>Папскі палітычны курс скасаваны!</Text>
+		</Replace>
+		<Replace Tag="LOC_WORLD_RANKINGS_BLACKDEATH_SCENARIO_RULES" Language="en_US">
+			<Text>В этом сценарии вам предстоит возглавить средневековую державу в страшные дни «Черной смерти». Постарайтесь сохранить культурные и научные достижения среди смерти, хаоса и безверия. Для победы вам необходимо открыть последнюю технологию («Изобретения») или последний социальный институт («Средний класс»), чтобы заложить основы будущей эпохи Просвещения.[NEWLINE][NEWLINE]ЧУМА[NEWLINE][NEWLINE]В течение 85 ходов «Черная смерть» будет появляться в разных регионах по всему континенту. Чума вспыхивает в портовых городах всех стран и распространяется по всей территории по клеткам любого типа, кроме гор. Города, дороги, побережье с гаванями и сельские улучшения ускоряют ее распространение. Когда на клетке появляется чума, клетка на определенное число ходов получает статус [COLOR:Red]«заражение чумой»[ENDCOLOR]. По окончании заражения клетка восстанавливает свои свойства, а во время заражения действуют следующие эффекты:[NEWLINE][NEWLINE][COLOR:Red][ICON_BULLET]На зараженных клетках не могут работать жители, там нельзя строить или ремонтировать улучшения, нельзя строить районы или здания в существующих районах.[NEWLINE][NEWLINE][ICON_BULLET]Если заражен центр города, то высока вероятность того, что в период заражения с каждым ходом будет умирать одна единица населения. Эту вероятность можно снизить, строя определенные здания и принимая определенные политические курсы.[NEWLINE][NEWLINE][ICON_BULLET]Юнит, завершивший ход на зараженной клетке, получает 20 ед. урона.[ENDCOLOR][NEWLINE][NEWLINE]Чтобы победить «Черную смерть», старайтесь продолжать развитие городов, несмотря на бедствие. Везде, где это возможно, стройте необходимые районы. Экономьте запасы [ICON_Gold] золота и [ICON_Faith] веры, чтобы покупать здания и юниты в городах с парализованным производством. Как можно раньше начинайте постройку научных и культурных центров и защищайте их, насколько это возможно. Когда у вас появятся врачеватели чумы, используйте их для защиты наиболее уязвимых районов и укрепления пошатнувшейся лояльности.[NEWLINE][NEWLINE]Уровень сложности влияет на [ICON_GOLD] золото и [ICON_FAITH] веру.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_BANNER_PLAGUE_TT" Language="en_US">
+			<Text>У горадзе лютуе чума. Пакуль доўжыцца эпідэмія, горад губляе лаяльнасць і можа губляць [ICON_Citizen] насельніцтва на кожным ходзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_1_NAME" Language="en_US">
+			<Text>Бязгрэшнасць</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_1_QUOTE" Language="en_US">
+			<Text>Калі ж святар прыйдзе і ўбачыць, што язва на хаце не пашырылася пасля таго, як абшмаравалі хату, то святар абвесціць хату чыстай, таму што язва прайшла.</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_2_NAME" Language="en_US">
+			<Text>Лекар чумы</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_2_QUOTE" Language="en_US">
+			<Text>Лекары, як і прадстаўнікі ўсіх іншых рамёстваў, адрозніваюцца паміж сабою ў майстэрстве і ведах.</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_3_NAME" Language="en_US">
+			<Text>Трэцяе саслоўе</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_3_QUOTE" Language="en_US">
+			<Text>Півавары і пекары, / Мяснікі і прадзільнікі, / І ткачы, і краўцы, / І простыя лудзільнікі, / З імі зборшчыкі падаткаў, / І шахцёры, і муляры, / І рамеснік кожны...</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_4_NAME" Language="en_US">
+			<Text>Філосаф</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_4_QUOTE" Language="en_US">
+			<Text>Хай чалавечы розум і не прымае таго, што ляжыць за межамі яго разумення, ён лёгка прымае на веру тое, што падаецца як боская шчырота.</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_5_NAME" Language="en_US">
+			<Text>Згалелы манах</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_5_QUOTE" Language="en_US">
+			<Text>Сустрэў я там братоў / З чатырох ордэнаў. / Навучаючы складна, / Клалі грошы ў кішэнь.</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_6_NAME" Language="en_US">
+			<Text>Пацукалоў</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_6_QUOTE" Language="en_US">
+			<Text>Навошта жывуць сабакі, конь, пацук – у табе ж дыхання няма?</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_7_NAME" Language="en_US">
+			<Text>Далакоп</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_7_QUOTE" Language="en_US">
+			<Text>...Якія, не турбуючы сябе задоўгай ці ўрачыстай службай, з дапамогай паказаных бекінаў клалі цела ў першую натрапленую незанятую магілу.</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_8_NAME" Language="en_US">
+			<Text>Флагелант</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_8_QUOTE" Language="en_US">
+			<Text>Літасцівы Божа Ісусе, даруй ім супакой!</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_GENERIC_WHICH_PATH" Language="en_US">
+			<Text>Які шлях выбераце вы?</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_PLAGUE_APPEARS_TITLE" Language="en_US">
+			<Text>Узнікла новая хвароба</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_PLAGUE_APPEARS_DESCRIPTION" Language="en_US">
+			<Text>Ходзяць чуткі пра тое, што ў людных партах Міжземнамор'я лютуе смяротная хвароба. Магчыма, яна ўжо набліжаецца і да вашых земляў у трумах караблёў, у вазах гандляроў.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_PLAGUE_APPEARS_EFFECT" Language="en_US">
+			<Text>Рэгулярна правярайце парты і дарогі на азнакі эпідэміі. Калі хвароба прыйдзе, дзейце хутка, інакш яе шырання ўжо не стрымаць.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_OUTBREAK_TITLE" Language="en_US">
+			<Text>Эпідэмія!</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_OUTBREAK_EFFECT" Language="en_US">
+			<Text>Ад смерці не ўцячэш, але мы павінны рабіць усё магчымае, каб замарудзіць далейшае шыранне мору.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_OUTBREAK_REPEAT_EFFECT" Language="en_US">
+			<Text>Як і падчас мінулай эпідэміі, вытворчасць у горадзе спадзе з-за немагчымасці апрацоўваць заражаныя клеткі і страты насельніцтва. Будзьце гатовы да пагрозы голаду і зніжэння лаяльнасці.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_NOBILITY_FLEES_TITLE" Language="en_US">
+			<Text>Арыстакраты разбягаюцца</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_NOBILITY_FLEES_DESCRIPTION" Language="en_US">
+			<Text>Багатыя землеўласнікі ўпэўнены, што мор выкліканы міязмамі – смуроднымі выпарэннямі, што насычылі густанаселеныя гарады. Яны бяруць сваю чэлядзь і бягуць у загарадныя маёнткі, пакінуўшы бедных і бяздомных паміраць на вуліцах.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_NOBILITY_FLEES_EFFECT" Language="en_US">
+			<Text>Страх гоніць адных людзей у вашы гарады, іншых – прочкі з гарадскіх сцен. Новыя палітычныя курсы дазволяць вам падтрымаць тых ці іншых.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_FALSE_CURES_TITLE" Language="en_US">
+			<Text>Ілжывыя лекі, пустыя абяцанні</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_FALSE_CURES_DESCRIPTION" Language="en_US">
+			<Text>Шмат хто сцвярджае, што ведаюць, як спыніць эпідэмію. Але чума адольвае ўсіх: і шарлатанаў, і святароў, і лекараў, і каралёў. Людзі ў роспачы, ім патрэбныя адказы на пытанні.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_FALSE_CURES_EFFECT" Language="en_US">
+			<Text>Новыя палітычныя курсы дазваляюць прымаць наважныя меры каб зменшыць сацыяльную напружанасць.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_ALL_FALL_DOWN_TITLE" Language="en_US">
+			<Text>Мы ўсе памром</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_ALL_FALL_DOWN_DESCRIPTION" Language="en_US">
+			<Text>Чума непадзельна пануе паўсюль. Вакол толькі смерць. Які сэнс імкнуцца да нечага, калі перад смерцю ўсе роўныя: шляхціч і прастак, багацей і бядняк?</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_ALL_FALL_DOWN_EFFECT" Language="en_US">
+			<Text>-30% [ICON_Food] узросту насельніцтва, -3 [ICON_Production] вытворчасці, -3 [ICON_Gold] золата і -3 [ICON_Faith] веры ўва ўсіх гарадах.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_SICK_IN_BODY_TITLE" Language="en_US">
+			<Text>Хвароба ў целе і ў душы</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_SICK_IN_BODY_DESCRIPTION" Language="en_US">
+			<Text>Мор пануе ва ўсёй краіне. Нашы стагадовыя традыцыі забыты, спакой парушаны. Уладаносцы падаюць прыклад таго, як паводзіць сябе ва ўмовах абурвання ўсіх грамадскіх інстытутаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_SICK_IN_BODY_CHOICE_A" Language="en_US">
+			<Text>Заклік да каяння</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_SICK_IN_BODY_CHOICE_A_EFFECT" Language="en_US">
+			<Text>-2 [ICON_Production] вытворчасці, +3 [ICON_Faith] веры ўва ўсіх гарадах</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_SICK_IN_BODY_CHOICE_B" Language="en_US">
+			<Text>Пачатак бясчынства</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_SICK_IN_BODY_CHOICE_B_EFFECT" Language="en_US">
+			<Text>-20% [ICON_Food] павелічэння насельніцтва, +3 [ICON_Gold] золата ўва ўсіх гарадах</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_HEAL_THYSELF_TITLE" Language="en_US">
+			<Text>Лекару, вылечыся сам</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_HEAL_THYSELF_DESCRIPTION" Language="en_US">
+			<Text>Смяротнасць расце, і людзі звяртаюцца за дапамогай да ўлад. Адны спадзяюцца на навуку і наймаюць лекараў для дапамогі пацярпелым. Іншыя западаюць у фанатызм і патрабуюць каяння перад Богам, каб спыніць мор.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_HEAL_THYSELF_CHOICE_A" Language="en_US">
+			<Text>Лячэнне хворых</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_HEAL_THYSELF_CHOICE_B" Language="en_US">
+			<Text>Пасарамленне грэшнікаў</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_END_OF_THE_WORLD_TITLE" Language="en_US">
+			<Text>Канец свету</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_END_OF_THE_WORLD_DESCRIPTION" Language="en_US">
+			<Text>Смяротнасць дасягае нязнаных памераў. Усюды пануе роспач, вера ў сэрцах людзей слабее. Жыццё змянілася, прыйшоў час зменаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_END_OF_THE_WORLD_CHOICE_A" Language="en_US">
+			<Text>Спадзяванне на Бога</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_END_OF_THE_WORLD_CHOICE_A_EFFECT" Language="en_US">
+			<Text>-3 усіх тыпаў прадукцыі, апроч [ICON_Faith] веры, ува ўсіх гарадах</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_END_OF_THE_WORLD_CHOICE_B" Language="en_US">
+			<Text>Адмова ад Бога</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_END_OF_THE_WORLD_CHOICE_B_EFFECT" Language="en_US">
+			<Text>-10 [ICON_Faith] веры ўва ўсіх гарадах.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_GODS_JUDGEMENT_TITLE" Language="en_US">
+			<Text>Прыйшоў час Страшнага суда?</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_GODS_JUDGEMENT_DESCRIPTION" Language="en_US">
+			<Text>Трупы ляжаць на вуліцах гарадоў, іх ужо няма дзе хаваць. І нават скептыкі, бачачы гэткае жудаснае спусташэнне, ставяць сабе пытанне: ці не Боская гэта кара за грахі чалавецтва?</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_GODS_JUDGEMENT_CHOICE_A" Language="en_US">
+			<Text>Заняпад духу</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_GODS_JUDGEMENT_CHOICE_A_EFFECT" Language="en_US">
+			<Text>-1 [ICON_Culture] культуры, -1 [ICON_Faith] веры ўва ўсіх гарадах</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_GODS_JUDGEMENT_CHOICE_B" Language="en_US">
+			<Text>Марнасць высілкаў</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_GODS_JUDGEMENT_CHOICE_B_EFFECT" Language="en_US">
+			<Text>-1 [ICON_Science] навукі, -10% [ICON_Food] узросту насельніцтва ўва ўсіх гарадах</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_CIVIL_ENGINEERING_NAME" Language="en_US">
+			<Text>Будаўнічая інжынерыя|будаўнічай інжынерыі|будаўнічай інжынерыі|будаўнічую інжынерыю|будаўнічай інжынерыяй|будаўнічай інжынерыі</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_MEDICINE_NAME" Language="en_US">
+			<Text>Медыцына|медыцыны|медыцыне|медыцыну|медыцынай|медыцыне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_INVENTION_NAME" Language="en_US">
+			<Text>Вынаходствы|Вынаходстваў|Вынаходствам|Вынаходствы|Вынаходствамі|Вынаходствах</Text>
+			<Gender>neuter</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TOOLTIP_PLOT_CONTAMINATED_TEXT" Language="en_US">
+			<Text>[COLOR:Civ6Red]ЗАРАЖЭННЕ ЧУМОЙ: {1_Turns} х.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_STUDY_DESCRIPTION" Language="en_US">
+			<Text>Дае {1_Num} [ICON_Science] навукі.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_PACIFY_DESCRIPTION" Language="en_US">
+			<Text>Дае гораду {1_Num} адз. лаяльнасці.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_PURGE_DESCRIPTION" Language="en_US">
+			<Text>Дае {1_Num} [ICON_Faith] адз. веры і {2_Num} [ICON_Culture] адз. культуры. Дае гораду {3_Num} адз. лаяльнасці. Пасля гэтага дзеяння юніт флагелантаў знікае.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNITCOMMAND_HOLY_FERVOR_DESCRIPTION" Language="en_US">
+			<Text>Выдаткаваць {1_Num} [ICON_Faith] адз. веры на аднаўленне ачкоў руху і атакі гэтага юніта. Можна скарыстаць толькі адзін раз за ход.</Text>
+		</Replace>
+		<Replace Tag="LOC_COMBAT_PREVIEW_SCENARIO_ABILITY_TEUTONIC_KNIGHT_STRENGTH_ENEMY_TERRITORY_DESCRIPTION" Language="en_US">
+			<Text>+{1_Amount} да баявой моцы на варожай тэрыторыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_THEATER_CULTURE" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] да культуры за суседства з тэатрам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_COMMERCIAL_GOLD" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] да золата за суседства з цэнтрам камерцыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_HOLY_SITE_FAITH" Language="en_US">
+			<Text>+{1_num} [ICON_Faith] да веры за суседства са святым месцам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_CAMPUS_SCIENCE" Language="en_US">
+			<Text>+{1_num} [ICON_Science] да навукі за суседства з кампусам.</Text>
+		</Replace>
+		<Replace Tag="LOC_FLYOVER_PLAGUE_POS" Language="en_US">
+			<Text>[COLOR:FoodDark]+{1_Num} адз. чумы[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_FLYOVER_PLAGUE" Language="en_US">
+			<Text>[COLOR:FoodDark]{1_Num} адз. чумы[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_FLYOVER_LOYALTY_POS" Language="en_US">
+			<Text>[COLOR:Happiness]+{1_Num} адз. лаяльнасці[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_FLYOVER_LOYALTY" Language="en_US">
+			<Text>[COLOR:Happiness]{1_Num} адз. лаяльнасці[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVT_PAPAL_SLOT_DESC" Language="en_US">
+			<Text>Стаіць: {1_Num} [ICON_Faith] адз. веры за ход</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVT_PAPAL_SLOT_FAITH_TT" Language="en_US">
+			<Text>{1_Num} ад папскага палітычнага курса</Text>
+		</Replace>
+		<Replace Tag="LOC_PLOTINFO_COERCE_LABEL" Language="en_US">
+			<Text>Прымусовыя працы ({1_Num} [ICON_Gold] золата)</Text>
+		</Replace>
+		<Replace Tag="LOC_PLOTINFO_COERCE_TT" Language="en_US">
+			<Text>Арганізаваць прымусовыя працы на гэтай клетцы на {1_NumTurns} {1_NumTurns: plural1?ход;2?хады;other?хадоў;}. Такія клеткі можна апрацоўваць ці забудоўваць як звычайна, нават калі яны заражаны чумой.</Text>
+		</Replace>
+		<Replace Tag="LOC_PLOTINFO_YOU_NEED_MORE_GOLD_TO_COERCE" Language="en_US">
+			<Text>Для прымусовых прац на гэтай клетцы трэба яшчэ {1_num} [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Tag="LOC_PLOTINFO_COERCED_TURNS_LABEL" Language="en_US">
+			<Text>Прымусовыя працы: {1_Num} х.</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_NOTIFICATION_PLAGUE_RUMOR_SUMMARY" Language="en_US">
+			<Text>Кажуць, што «Чорная смерць» лютуе ў {1_CityName[6]}.</Text>
+		</Replace>
+		<Replace Tag="LOC_BLACKDEATH_NOTIFICATION_PLAGUE_OUTBREAK_SUMMARY" Language="en_US">
+			<Text>«Чорная смерць» прыйшла ў наш горад {1_CityName[4]}!</Text>
+		</Replace>
+		<Replace Tag="LOC_NOTIFICATION_UNIT_LOST_TO_RADIATION_POISONING" Language="en_US">
+			<Text>Вы страцілі {1_UnitName[4]} з-за чумы.</Text>
+		</Replace>
+		<Replace Tag="LOC_VICTORY_BLACKDEATH_REQUIRES_PLAYER_HAS_FINAL_CIVIC_PROGRESS" Language="en_US">
+			<Text>Сац. інстытуты: {NumCompleted}/{NumTotal} (~{EstimatedTurns}[ICON_Turn])</Text>
+		</Replace>
+		<Replace Tag="LOC_VICTORY_BLACKDEATH_REQUIRES_PLAYER_HAS_FINAL_TECH_PROGRESS" Language="en_US">
+			<Text>Тэхналогіі: {NumCompleted}/{NumTotal} (~{EstimatedTurns}[ICON_Turn])</Text>
+		</Replace>
+		<Replace Tag="LOC_WORLD_RANKINGS_VICTORY_BLACKDEATH_SCENARIO" Language="en_US">
+			<Text>Сац. інстытуты: {1_CompletedCivics}/{2_TotalCivics}, тэхналогіі: {3_CompletedTechs}/{4_TotalTechs}</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_CULTURE_THEATER" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] да культуры за суседства з тэатрам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_GOLD_COMMERCIAL_HUB" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] да золата за суседства з цэнтрам камерцыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_FAITH_HOLY_SITE" Language="en_US">
+			<Text>+{1_num} [ICON_Faith] да веры за суседства са святым месцам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_SCIENCE_CAMPUS" Language="en_US">
+			<Text>+{1_num} [ICON_Science] да навукі за суседства з кампусам.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_OUTBREAK_DESCRIPTION" Language="en_US">
+			<Text>У [COLOR:Civ6Yellow]{1_CityName[4]}[ENDCOLOR] прыйшла чума! Гэта ўжо не чуткі. Мор пачаўся, жыхары ахоплены страхам і панікай.</Text>
+		</Replace>
+		<Replace Tag="LOC_POPUP_SCENARIO_OUTBREAK_REPEAT_DESCRIPTION" Language="en_US">
+			<Text>У [COLOR:Civ6Yellow]{1_CityName[4]}[ENDCOLOR] прыйшла чума!</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCHOLAR_NAME" Language="en_US">
+			<Text>Эрудыт|эрудыта|эрудыту|эрудыта|эрудытам|эрудыце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PLAGUE_DOCTOR_NAME" Language="en_US">
+			<Text>Лекар чумы|лекара чумы|лекару чумы|лекара чумы|лекарам чумы|лекару чумы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FLAGELLANT_NAME" Language="en_US">
+			<Text>Флагелант|флагеланта|флагеланту|флагеланта|флагелантам|флагеланту</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+	</LocalizedText>
+</GameData>

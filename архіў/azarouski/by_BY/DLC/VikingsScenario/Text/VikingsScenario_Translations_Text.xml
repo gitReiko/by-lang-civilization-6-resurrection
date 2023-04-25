@@ -1,0 +1,1434 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_ODENSE" Language="en_US">
+			<Text>Одэнсэ|Одэнсэ|Одэнсэ|Одэнсэ|Одэнсэ|Одэнсэ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_RIBE" Language="en_US">
+			<Text>Рыбе|Рыбе|Рыбе|Рыбе|Рыбе|Рыбе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_ROSKILDE" Language="en_US">
+			<Text>Роскіле|Роскіле|Роскіле|Роскіле|Роскіле|Роскіле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_CAEN" Language="en_US">
+			<Text>Кан|Кана|Кану|Кан|Канам|Кану</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_LUND" Language="en_US">
+			<Text>Лунд|Лунда|Лунду|Лунд|Лундам|Лундзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_KOPINGSVIK" Language="en_US">
+			<Text>Шопінгсвік|Шопінгсвіка|Шопінгсвіку|Шопінгсвік|Шопінгсвікам|Шопінгсвіку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_BIRKA" Language="en_US">
+			<Text>Бірка|Біркі|Бірцы|Бірку|Біркай|Бірцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_LADOGA" Language="en_US">
+			<Text>Ладага|Ладагі|Ладазе|Ладагу|Ладагай|Ладазе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_KIEV" Language="en_US">
+			<Text>Кіеў|Кіева|Кіеву|Кіеў|Кіевам|Кіеве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_GNEZDOVO" Language="en_US">
+			<Text>Гнёздава|Гнёздава|Гнёздава|Гнёздава|Гнёздава|Гнёздава</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_CONSTANTINOPLE" Language="en_US">
+			<Text>Канстанцінопаль|Канстанцінопаля|Канстанцінопалю|Канстанцінопаль|Канстанцінопалем|Канстанцінопалі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_ATTALEIA" Language="en_US">
+			<Text>Аталея|Аталеі|Аталеі|Аталею|Аталеяй|Аталеі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_DYRRACHIUM" Language="en_US">
+			<Text>Дырахій|Дырахія|Дырахію|Дырахій|Дырахіем|Дырахіі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_PHILIPPOPOLIS" Language="en_US">
+			<Text>Філіпопаль|Філіпопаля|Філіпопалю|Філіпопаль|Філіпопалем|Філіпопалі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_TREBIZOND" Language="en_US">
+			<Text>Трапезунд|Трапезунда|Трапезунду|Трапезунд|Трапезундам|Трапезундзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_SEVILLE" Language="en_US">
+			<Text>Ішбілія|Ішбіліі|Ішбіліі|Ішбілію|Ішбіліяй|Ішбіліі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_AACHEN" Language="en_US">
+			<Text>Э-ла-Шапель|Э-ла-Шапеля|Э-ла-Шапелю|Э-ла-Шапель|Э-ла-Шапелем|Э-ла-Шапелі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_NARBONNE" Language="en_US">
+			<Text>Нарбона|Нарбоны|Нарбоне|Нарбону|Нарбонай|Нарбоне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_POITIERS" Language="en_US">
+			<Text>Пуацье|Пуацье|Пуацье|Пуацье|Пуацье|Пуацье</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_RUSTRINGEN" Language="en_US">
+			<Text>Рустрынген|Рустрынгена|Рустрынгену|Рустрынген|Рустрынгенам|Рустрынгене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_UTRECHT" Language="en_US">
+			<Text>Утрэхт|Утрэхта|Утрэхту|Утрэхт|Утрэхтам|Утрэхце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_APUOLE" Language="en_US">
+			<Text>Апуоле|Апуоле|Апуоле|Апуоле|Апуоле|Апуоле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_ARLES" Language="en_US">
+			<Text>Арль|Арля|Арлю|Арль|Арлем|Арлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_ASILAH" Language="en_US">
+			<Text>Асіла|Асілы|Асіле|Асілу|Асілай|Асіле</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_BALARM" Language="en_US">
+			<Text>Палерма|Палерма|Палерма|Палерма|Палерма|Палерма</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_DUMBARTON" Language="en_US">
+			<Text>Дамбартан|Дамбартана|Дамбартану|Дамбартан|Дамбартанам|Дамбартане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_GIJON" Language="en_US">
+			<Text>Хіхон|Хіхона|Хіхону|Хіхон|Хіхонам|Хіхоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_KAIROUAN" Language="en_US">
+			<Text>Кайруан|Кайруана|Кайруану|Кайруан|Кайруанам|Кайруане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_PAMPLONA" Language="en_US">
+			<Text>Ірунья|Іруньі|Іруньі|Ірунью|Іруньяй|Іруньі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_PISA" Language="en_US">
+			<Text>Піза|Пізы|Пізе|Пізу|Пізай|Пізе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_ROME" Language="en_US">
+			<Text>Рым|Рыма|Рыму|Рым|Рымам|Рыме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_TAMWORTH" Language="en_US">
+			<Text>Тамўарт|Тамўарта|Тамўарту|Тамўарт|Тамўартам|Тамўарце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_THETFORD" Language="en_US">
+			<Text>Тэтфард|Тэтфарда|Тэтфарду|Тэтфард|Тэтфардам|Тэтфардзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_TMUTARAKAN" Language="en_US">
+			<Text>Тмутаракань|Тмутаракані|Тмутаракані|Тмутаракань|Тмутараканню|Тмутаракані</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_VENICE" Language="en_US">
+			<Text>Венецыя|Венецыі|Венецыі|Венецыю|Венецыяй|Венецыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_WINCHESTER" Language="en_US">
+			<Text>Вінчэстар|Вінчэстара|Вінчэстару|Вінчэстар|Вінчэстарам|Вінчэстары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_WOLIN" Language="en_US">
+			<Text>Волін|Воліна|Воліну|Волін|Волінам|Воліне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_YORK" Language="en_US">
+			<Text>Ёрк|Ёрка|Ёрку|Ёрк|Ёркам|Ёрку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_TORSHAVN" Language="en_US">
+			<Text>Торсхаўн|Торсхаўна|Торсхаўну|Торсхаўн|Торсхаўнам|Торсхаўне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_FUNNINGUR" Language="en_US">
+			<Text>Фунінгур|Фунінгура|Фунінгуру|Фунінгур|Фунінгурам|Фунінгуры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_LEIRVIK" Language="en_US">
+			<Text>Лейрвіг|Лейрвіга|Лейрвігу|Лейрвіг|Лейрвігам|Лейрвігу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_BRATTAHLID" Language="en_US">
+			<Text>Браталід|Браталіда|Браталіду|Браталід|Браталідам|Браталідзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_HVALSEY" Language="en_US">
+			<Text>Хвалсі|Хвалсі|Хвалсі|Хвалсі|Хвалсі|Хвалсі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_SANDNAES" Language="en_US">
+			<Text>Санес|Санеса|Санесу|Санес|Санесам|Санесе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_GARDAR" Language="en_US">
+			<Text>Гардар|Гардара|Гардару|Гардар|Гардарам|Гардары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_HERJOLFSNES" Language="en_US">
+			<Text>Хер'ёльфснес|Хер'ёльфснеса|Хер'ёльфснесу|Хер'ёльфснес|Хер'ёльфснесам|Хер'ёльфснесе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_SKID" Language="en_US">
+			<Text>Скай|Скай|Скай|Скай|Скай|Скай</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_MYL" Language="en_US">
+			<Text>Міл|Міла|Мілу|Міл|Мілам|Мілі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_BARR_OY" Language="en_US">
+			<Text>Б'ярнарэй|Б'ярнарэя|Б'ярнарэю|Б'ярнарэй|Б'ярнарэем|Б'ярнарэі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_REYKJAVIK" Language="en_US">
+			<Text>Рэйк'явік|Рэйк'явіка|Рэйк'явіку|Рэйк'явік|Рэйк'явікам|Рэйк'явіку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_HUSAVIK" Language="en_US">
+			<Text>Хусавік|Хусавіка|Хусавіку|Хусавік|Хусавікам|Хусавіку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_AKRANES" Language="en_US">
+			<Text>Акранэс|Акранэса|Акранэсу|Акранэс|Акранэсам|Акранэсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_SKALHOLT" Language="en_US">
+			<Text>Скаўльхальт|Скаўльхальта|Скаўльхальту|Скаўльхальт|Скаўльхальтам|Скаўльхальце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_DYFLIN" Language="en_US">
+			<Text>Дублін|Дубліна|Дубліну|Дублін|Дублінам|Дубліне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_INIS_SIBHTONN" Language="en_US">
+			<Text>Ініс-Шыўтан|Ініс-Шыўтана|Ініс-Шыўтану|Ініс-Шыўтан|Ініс-Шыўтанам|Ініс-Шыўтане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_VEDRAFJORDR" Language="en_US">
+			<Text>Ведраф'ёрд|Ведраф'ёрда|Ведраф'ёрду|Ведраф'ёрд|Ведраф'ёрдам|Ведраф'ёрдзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_VEISAFJORDR" Language="en_US">
+			<Text>Вейзаф'ёрд|Вейзаф'ёрда|Вейзаф'ёрду|Вейзаф'ёрд|Вейзаф'ёрдам|Вейзаф'ёрдзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_KIRKJUVAGR" Language="en_US">
+			<Text>Керкўал|Керкўала|Керкўалу|Керкўал|Керкўалам|Керкўале</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_SKALAVAGR" Language="en_US">
+			<Text>Скалавагр|Скалавагра|Скалавагру|Скалавагр|Скалаваграм|Скалавагры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_BIRGISHERD" Language="en_US">
+			<Text>Бірсей|Бірсея|Бірсею|Бірсей|Бірсеем|Бірсеі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_EID" Language="en_US">
+			<Text>Эйд|Эйда|Эйду|Эйд|Эйдам|Эйдзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_NAVAL_EMPIRE_NAME" Language="en_US">
+			<Text>Марская імперыя|марской імперыі|марской імперыі|марскую імперыю|марской імперыяй|марской імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_MONOTHEISM_NAME" Language="en_US">
+			<Text>Монатэізм|монатэізму|монатэізму|монатэізм|монатэізмам|монатэізме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_VIKING_NAME" Language="en_US">
+			<Text>Вікінг|вікінга|вікінгу|вікінга|вікінгам|вікінгу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_LEIDANGR_NAME" Language="en_US">
+			<Text>Лейданг|лейдангу|лейдангу|лейдангу|лейдангам|лейдангу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_VOLLEY_NAME" Language="en_US">
+			<Text>Залп|залпа|залпу|залп|залпам|залпе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_THING_NAME" Language="en_US">
+			<Text>Тынг|тынга|тынгу|тынг|тынгам|тынзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_TRAVELING_MONKS_NAME" Language="en_US">
+			<Text>Вандроўныя манахі|вандроўных манахаў|вандроўным манахам|вандроўных манахаў|вандроўнымі манахамі|вандроўных манахах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_APUOLE_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Апуоле|горада-дзяржавы Апуоле|гораду-дзяржаве Апуоле|горад-дзяржаву Апуоле|горадам-дзяржавай Апуоле|горадзе-дзяржаве Апуоле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ARLES_DESCRIPTION" Language="en_US">
+			<Text>Каралеўства Арль|каралеўства Арль|каралеўству Арль|каралеўства Арль|каралеўствам Арль|каралеўстве Арль</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ASILAH_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Асіла|горада-дзяржавы Асіла|гораду-дзяржаве Асіла|горад-дзяржаву Асіла|горадам-дзяржавай Асіла|горадзе-дзяржаве Асіла</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_BALARM_DESCRIPTION" Language="en_US">
+			<Text>Сіцылійскі эмірат|Сіцылійскага эмірата|Сіцылійскаму эмірату|Сіцылійскі эмірат|Сіцылійскім эміратам|Сіцылійскім эміраце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_DUMBARTON_DESCRIPTION" Language="en_US">
+			<Text>Альт Клут|Альта Клута|Альту Клуту|Альт Клут|Альтам Клутам|Альце Клуце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_GIJON_DESCRIPTION" Language="en_US">
+			<Text>Каралеўства Астурыя|каралеўства Астурыя|каралеўству Астурыя|каралеўства Астурыя|каралеўствам Астурыя|каралеўстве Астурыя</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_KAIROUAN_DESCRIPTION" Language="en_US">
+			<Text>Дынастыя Зірыдаў|дынастыі Зірыдаў|дынастыі Зірыдаў|дынастыю Зірыдаў|дынастыяй Зірыдаў|дынастыі Зірыдаў</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PAMPLONA_DESCRIPTION" Language="en_US">
+			<Text>Каралеўства Навара|каралеўства Навара|каралеўству Навара|каралеўства Навара|каралеўствам Навара|каралеўстве Навара</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PISA_DESCRIPTION" Language="en_US">
+			<Text>Пізанская рэспубліка|Пізанскай рэспублікі|Пізанскай рэспубліцы|Пізанскую рэспубліку|Пізанскай рэспублікай|Пізанскай рэспубліцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PRESLAV_DESCRIPTION" Language="en_US">
+			<Text>Балгарскі каганат|Балгарскага каганата|Балгарскаму каганату|Балгарскі каганат|Балгарскім каганатам|Балгарскім каганаце</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ROME_DESCRIPTION" Language="en_US">
+			<Text>Папская дзяржава|Папскай дзяржавы|Папскай дзяржаве|Папскую дзяржаву|Папскай дзяржавай|Папскай дзяржаве</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_TAMWORTH_DESCRIPTION" Language="en_US">
+			<Text>Каралеўства Мерсія|каралеўства Мерсія|каралеўству Мерсія|каралеўства Мерсія|каралеўствам Мерсія|каралеўстве Мерсія</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_THETFORD_DESCRIPTION" Language="en_US">
+			<Text>Каралеўства Ўсходняя Англія|каралеўства Ўсходняя Англія|каралеўству Ўсходняя Англія|каралеўства Ўсходняя Англія|каралеўствам Усходняя Англія|каралеўстве Ўсходняя Англія</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_TMUTARAKAN_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Тмутаракань|горада-дзяржавы Тмутаракань|гораду-дзяржаве Тмутаракань|горад-дзяржаву Тмутаракань|горадам-дзяржавай Тмутаракань|горадзе-дзяржаве Тмутаракань</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_VENICE_DESCRIPTION" Language="en_US">
+			<Text>Венецыянская рэспубліка|Венецыянскай рэспублікі|Венецыянскай рэспубліцы|Венецыянскую рэспубліку|Венецыянскай рэспублікай|Венецыянскай рэспубліцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_WINCHESTER_DESCRIPTION" Language="en_US">
+			<Text>Каралеўства Ўэсэкс|каралеўства Ўэсэкс|каралеўству Ўэсэкс|каралеўства Ўэсэкс|каралеўствам Ўэсэкс|каралеўстве Ўэсэкс</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_WOLIN_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Волін|горада-дзяржавы Воліна|гораду-дзяржаве Воліну|горад-дзяржаву Волін|горадам-дзяржавай Волінам|горадзе-дзяржаве Воліне</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_YORK_DESCRIPTION" Language="en_US">
+			<Text>Каралеўства Нортумбрыя|каралеўства Нортумбрыя|каралеўству Нортумбрыя|каралеўства Нортумбрыя|каралеўствам Нортумбрыя|каралеўстве Нортумбрыя</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_APUOLE_NAME" Language="en_US">
+			<Text>Апуоле|Апуоле|Апуоле|Апуоле|Апуоле|Апуоле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ARLES_NAME" Language="en_US">
+			<Text>Арль|Арля|Арлю|Арль|Арлем|Арлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ASILAH_NAME" Language="en_US">
+			<Text>Асіла|Асілы|Асіле|Асілу|Асілай|Асіле</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_BALARM_NAME" Language="en_US">
+			<Text>Сіцылія|Сіцыліі|Сіцыліі|Сіцылію|Сіцыліяй|Сіцыліі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_DUMBARTON_NAME" Language="en_US">
+			<Text>Дамбартан|Дамбартана|Дамбартану|Дамбартан|Дамбартанам|Дамбартане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_GIJON_NAME" Language="en_US">
+			<Text>Астурыя|Астурыі|Астурыі|Астурыю|Астурыяй|Астурыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_KAIROUAN_NAME" Language="en_US">
+			<Text>Зірыды|зірыдаў|зірыдам|зірыдаў|зірыдамі|зірыдах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PAMPLONA_NAME" Language="en_US">
+			<Text>Навара|Навары|Навары|Навару|Наварай|Навары</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PISA_NAME" Language="en_US">
+			<Text>Піза|Пізы|Пізе|Пізу|Пізай|Пізе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PRESLAV_NAME" Language="en_US">
+			<Text>Балгарыя|Балгарыі|Балгарыі|Балгарыю|Балгарыяй|Балгарыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ROME_NAME" Language="en_US">
+			<Text>Рым|Рыма|Рыму|Рым|Рымам|Рыме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_TAMWORTH_NAME" Language="en_US">
+			<Text>Мерсія|Мерсіі|Мерсіі|Мерсію|Мерсіяй|Мерсіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_THETFORD_NAME" Language="en_US">
+			<Text>Усходняя Англія|Усходняй Англіі|Усходняй Англіі|Усходнюю Англію|Усходняй Англіяй|Усходняй Англіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_TMUTARAKAN_NAME" Language="en_US">
+			<Text>Тмутаракань|Тмутаракані|Тмутаракані|Тмутаракань|Тмутараканню|Тмутаракані</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_VENICE_NAME" Language="en_US">
+			<Text>Венецыя|Венецыі|Венецыі|Венецыю|Венецыяй|Венецыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_WINCHESTER_NAME" Language="en_US">
+			<Text>Ўэсэкс|Ўэсэкса|Ўэсэксу|Ўэсэкс|Ўэсэксам|Ўэсэксе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_WOLIN_NAME" Language="en_US">
+			<Text>Волін|Воліна|Воліну|Волін|Воліным|Воліну</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_YORK_NAME" Language="en_US">
+			<Text>Нортумбрыя|Нортумбрыі|Нортумбрыі|Нортумбрыю|Нортумбрыяй|Нортумбрыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_ADJECTIVE" Language="en_US">
+			<Text>дацк.|дацк.|дацк.|дацк.|дацк.|дацк.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_ADJECTIVE" Language="en_US">
+			<Text>шведск.|шведск.|шведск.|шведск.|шведск.|шведск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_ADJECTIVE" Language="en_US">
+			<Text>андалузск.|андалузск.|андалузск.|андалузск.|андалузск.|андалузск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_ADJECTIVE" Language="en_US">
+			<Text>візантыйск.|візантыйск.|візантыйск.|візантыйск.|візантыйск.|візантыйск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_ADJECTIVE" Language="en_US">
+			<Text>франкск.|франкск.|франкск.|франкск.|франкск.|франкск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_APUOLE_ADJECTIVE" Language="en_US">
+			<Text>куршск.|куршск.|куршск.|куршск.|куршск.|куршск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ARLES_ADJECTIVE" Language="en_US">
+			<Text>арлійск.|арлійск.|арлійск.|арлійск.|арлійск.|арлійск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ASILAH_ADJECTIVE" Language="en_US">
+			<Text>асільск.|асільск.|асільск.|асільск.|асільск.|асільск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_BALARM_ADJECTIVE" Language="en_US">
+			<Text>сіцылійск.|сіцылійск.|сіцылійск.|сіцылійск.|сіцылійск.|сіцылійск..</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_DUMBARTON_ADJECTIVE" Language="en_US">
+			<Text>дамбартанск.|дамбартанск.|дамбартанск.|дамбартанск.|дамбартанск.|дамбартанск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_GIJON_ADJECTIVE" Language="en_US">
+			<Text>астурыйск.|астурыйск.|астурыйск.|астурыйск.|астурыйск.|астурыйск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_KAIROUAN_ADJECTIVE" Language="en_US">
+			<Text>зірыдск.|зірыдск.|зірыдск.|зірыдск.|зірыдск.|зірыдск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PAMPLONA_ADJECTIVE" Language="en_US">
+			<Text>ірунск.|ірунск.|ірунск.|ірунск.|ірунск.|ірунск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PISA_ADJECTIVE" Language="en_US">
+			<Text>пізанск.|пізанск.|пізанск.|пізанск.|пізанск.|пізанск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ROME_ADJECTIVE" Language="en_US">
+			<Text>рымск.|рымск.|рымск.|рымск.|рымск.|рымск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PRESLAV_ADJECTIVE" Language="en_US">
+			<Text>балгарск.|балгарск.|балгарск.|балгарск.|балгарск.|балгарск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_TAMWORTH_ADJECTIVE" Language="en_US">
+			<Text>мерсійск.|мерсійск.|мерсійск.|мерсійск.|мерсійск.|мерсійск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_THETFORD_ADJECTIVE" Language="en_US">
+			<Text>усходнеанг.|усходнеанг.|усходнеанг.|усходнеанг.|усходнеанг.|усходнеанг.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_TMUTARAKAN_ADJECTIVE" Language="en_US">
+			<Text>тмутараканьск.|тмутараканьск.|тмутараканьск.|тмутараканьск.|тмутараканьск.|тмутараканьск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_VENICE_ADJECTIVE" Language="en_US">
+			<Text>венецыянск.|венецыянск.|венецыянск.|венецыянск.|венецыянск.|венецыянск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_WINCHESTER_ADJECTIVE" Language="en_US">
+			<Text>ўэсэкс.|ўэсэкс.|ўэсэкс.|ўэсэкс.|ўэсэкс.|ўэсэкс.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_WOLIN_ADJECTIVE" Language="en_US">
+			<Text>волінск.|волінск.|волінск.|волінск.|волінск.|волінск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_YORK_ADJECTIVE" Language="en_US">
+			<Text>нортумберлендск.|нортумберлендск.|нортумберлендск.|нортумберлендск.|нортумберлендск.|нортумберлендск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CNUT_TITLE" Language="en_US">
+			<Text>Кнуд</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CNUT_SUBTITLE" Language="en_US">
+			<Text>Кароль Даніі</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CNUT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Кнуд – некоторые историки пишут его имя как &quot;Кнут&quot; – в разные периоды времени был королем Дании, Норвегии, Англии и даже части Швеции. Разумеется, в те времена, когда границы между странами еще были размыты. В изменчивой Северной Европе XI века он имел власть и уважение как со стороны Императора, так и Папы римского.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CNUT_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Никто точно не знает, где и когда он родился, но Кнуд точно был сыном Свейна Вилобородого, короля Дании и сопровождал старого воина во время вторжения в Англию 1013 года. Оставшись в Линкольншире во главе флота, он женился на Эльгифе, которая родила ему двух сыновей. Свейн был принят как король Англии, но в 1014 году умер, и британцы снова посадили на трон Этельреда. В течение года Кнуд вернулся чтобы вернуть себе корону. К концу ноября 1016 года все было кончено, и Кнуд стал правителем всей Англии. Большую часть оставшейся жизни (он умер в 1035 году) он отражал угрозы датской короне с помощью, как правило, английских войск.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OLOF_TITLE" Language="en_US">
+			<Text>Олаф Шотконунг</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OLOF_SUBTITLE" Language="en_US">
+			<Text>Кароль Швецыі</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OLOF_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Олаф III – при рождении Олаф Эрикссон (сын Эрика VI Победоносного, “короля” свеев, более известных сегодня как шведов) также известный как Олаф Шетконунг – провел лучшие годы своей жизни в борьбе с королем Норвегии Трюггвасоном. Взошел на трон Швеции в 993 году. Все, что на сегодняшний день о нем известно историки почерпнули из записей Снорри Стурлусона и Адама Бременского.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OLOF_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>По словам Адама, Свейн Вилобородый был вынужден защищать датский престол от притязаний Олафа, но стычка разрешилась довольно быстро, когда Свейн женился на матери Олафа - Сигрид “Гордой.” Кроме того, как утверждал Снорри, вскоре они объединились, чтобы разгромить норвежского короля Олафа Трюггвасона в морской битве у Свольдера в 999 или 1000 годах. (Снорри не знал точного года, но был уверен, что дело происходило в сентябре). Впоследствии Свейн и Олаф разделили Норвегию между собой.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OLOF_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Его усилия по обращению шведов к истиной вере успехом не увенчались. Приняв примерно в 1008 году христианство благодаря Святому Зигфриду, Олаф попытался навязать новую религию своим подданных. Это у него не слишком хорошо получилось, так как в 1021 году, по словам Адама, он был убит в Стокгольме мятежными ярлами, когда отказался приносить жертву языческим идолам.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AL_HAKAM_II_TITLE" Language="en_US">
+			<Text>Аль-Хакам II</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AL_HAKAM_II_SUBTITLE" Language="en_US">
+			<Text>Халіф Аль-Андалуса</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AL_HAKAM_II_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Второй Омейядский халиф Аль-Андалус, сын великого Абд аль-Рахмана III, родился в ноябре 915 года в великом городе Кордову. Скончался он там же в октябре 976 года, а под его великим княжением халифат пережил свои самые величественные дни. Под его личным патронажем мавританское искусство и науки достигли своего золотого века в Аль-Андалусе.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AL_HAKAM_II_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Аль-Хакам II стремился улучшить жизнь своего народа, несмотря на настырных христиан. Будучи правителем уже богатого королевства, Аль-Хакам спонсировал проекты орошения для повышения сельскохозяйственного производства, расширл улицы в своих городах, и приказывал строить новые рынки. Он собрал большую личную библиотеку для и ученых, которых приглашал из разных мусульманских и христианских стран. Коллекция якобы состояла из 600 тысяч книг (многие историки не согласны с такой оценкой и полагают, что в библиотеке было лишь 400 тысяч томов). Строительные проекты включали в себе расширение мечети в Кордове и завершение работ над королевской резиденцией Медина аз-Захара.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AL_HAKAM_II_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Но не все было так прекрасно; в начале своего царствования Аль-Хакам вел успешные войны против вторжения христианских королей из Наварры, Кастилии и Леона. Его морские силы разгромили морских разбойников и норманнских пиратов. В 973 году его армия взяла Танжер у последних Идрисидов, тем самым успев перед самой смертью Аль-Хакама присоединить Марокко.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_II_TITLE" Language="en_US">
+			<Text>Васіль II</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_II_SUBTITLE" Language="en_US">
+			<Text>Імператар Візантыі</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_II_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Василий II, также известный как Василий Багрянородный (“рожденный в пурпуре”) и Василий Болгаробойца (“убийца Булгар”) был старшим сыном византийского императора Романа II и родился в 958 году. Сам правил как император с 976 по 1025 гг. Первые годы правления Василию предстояла затяжная гражданская война. Он обратился за помощью к Владимиру в киевское поселение викингов, в награду предложив руку своей сестры Анны (при условии, что Владимир примет христианство). После того, как бои отгремели, многие северяне остались в Византийской службе, сформировав первый отряд знаменитой Варяжской гвардии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BASIL_II_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>После победы в гражданской войне примерно в 989 году, остальное его правление прошло в состоянии почти постоянной войны. Василий II, стремился расширять и объединять свои земли, выстраивая буферные города вокруг своей шаткой империи. Поля действия время от времени находились то в Сирии, то в Армении или на востоке Грузии. Однако прославился император своими упорными и победоносными походами против возрожденного королевства Болгарии под правлением своего последнего царя Самуила. С падением столицы, Охриды, Болгария была включена в империю. Василий умер в процессе подготовки Византийского завоевания Сицилии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHARLEMAGNE_TITLE" Language="en_US">
+			<Text>Карл Вялікі</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHARLEMAGNE_SUBTITLE" Language="en_US">
+			<Text>Кароль Франкіі</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHARLEMAGNE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Карл I – Карл Великий – одна из величайших фигур средневековой истории, рыцарства и самой цивилизации. К моменту своей смерти в январе 814 года, он был правителем земель, которые сегодня принадлежат Франции, Германии, Нидерландам, Италии, а также отчасти Иберии и Восточной Европе. В 768 году он стал “совместным” королем франков со своим братом Карломаном I после смерти их отца, Пипина Короткого, но в 771 году Карломан умер при “неясных” обстоятельствах.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHARLEMAGNE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>В 774 году, по просьбе папы Адриана, Карл Великий напал на лангобардского короля Дезидерия и таким образом стал королем его обширных владений. Вмешавшись в борьбу с саксами в 776 году, он бросился обратно в Северную Италию, чтобы там подавить мятежных герцогов Сполето и Фриули. В то же время его походы против саксов продлившееся около 30 лет, представляли собой круговорот из покорений и бунтов, который закончится лишь в 804 году. С распадом Саксонских королевств, в 794 году под правление Карла Великого отошла Бавария.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHARLEMAGNE_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Вдобавок ко всему этому Карл (сегодня его называют “великим”) периодически боролся с язычниками аварцами, которые решили обосноваться в Венгрии; возглавив большую армию, он, наконец, заставил аварцев принять его (и христианство) в качестве своего нового правителя. Изгнав мавров обратно в Иберию, и прижав южан к берегам Эбро в 811 году, Карл великий был объявлен Императором Священной Римской Империи за всю эту «работу Господа»  Папой Львом III в рождество 800 года.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_DENMARK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>С конца VIII века каждую весну ярлы датских викингов собирали своих людей и пересекали Северное море, чтобы разорять Британию и земли по ту сторону Ла-Манша. В 793 году скандинавы напали на остров Линдисфарн, положив начало эпохе викингов в Европе. Эти набеги были столь ужасающими, что некоторые небольшие королевства готовы были платить огромную дань, известную как «Датские деньги», только чтобы их оставили в покое. Эти ежегодные поборы в свое время заложили основу датского благополучия.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_DENMARK_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Старый король Горм (известный как «Горм Старый») заложил основы для создания государства, с 936 года и до своей смерти в 958 году он занимался объединением датских викингов. Его дело продолжили Харальд I Синезубый, Кнуд Великий и Свен I Вилобородый. Благодаря усилиям Свена II, среди викингов распространилось христианство. Все 27 лет его правления в Дании активно строили церкви, а казна выделяла деньги на обучение детей латыни. Свен был отцом более чем 20-и детей, так что следующие 60 лет его потомки правили Данией, сделав ее одной из ведущих стран средневековой Европы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SWEDEN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Пока их датские коллеги разоряли земли Англии и Франции, а норвежцы развлекались в Северной Атлантике, шведские викинги облюбовали Балтийское море и реки, ведущие на территорию Руси. На протяжении всей «эпохи викингов» они пользовались торговыми путями, ведущими вглубь страны, и добирались даже до загадочной Византии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SWEDEN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>В IX веке шведские викинги стали активно осваивать земли на территории современной России, Белоруссии и Украины. Многие из них обосновались на берегах Волги, и поселения эти стали называть Русь. В 850 году войско Руси захватило Киев, так образовалась так называемая Киевская Русь – государство, просуществовавшее почти 400 лет (до нашествия монголов).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SWEDEN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>На протяжении всего первого тысячелетия Швеция была союзом независимых провинций, весьма слабо связанных между собой. В различных сагах есть немало упоминаний о древних шведских королях, но правду в этих историях трудно отличить от вымысла, и потому их происхождение и порядок прихода к власти несколько туманны. Первым правителем, действительно объединившим шведские племена, считается Олаф Шетконунг сын Эрика VI Победоносного, который правил Свеаландом и Геталандом с 995 по 1022 годы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AL_ANDALUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В апреле 711 года берберский военачальник Тарик ибн Зияд, по приказу халифа из династии Омейядов Аль-Вади I, вместе с небольшим отрядом пересек Гибралтар и оказался за пределом мусульманских земель. Решительно разгромив войско короля вестготов Родериха, мавры захватили большую часть Иберии. Так началась история Аль-Андалус, отправной точки, из которой будет расти империя Омейядов. В 756 году изгнанный Аббасидами Абд ар-Рахман I из династии Омейядов сверг правителя Аль-Андалуса и провозгласил себя эмиром этого государства со столицей в Кордове.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AL_ANDALUS_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Великий Абд ар-Рахман III, который пришел к власти в 912 году, не только быстро восстановил влияние и престиж королевства после нескольких десятилетий упадка, но и увеличил его территорию за счет завоеванных земель. В 929 году он провозгласил себя «халифом», тем самым возвысив Аль-Андалус среди других великих исламских государств. Его сын Аль-Хакам II продолжил дело отца. Контроль над торговыми путями в Средиземном море позволил королевству вступить в золотой век расцвета науки и культуры, а захватив Танжер, Аль-Андалус приобрел земли в Северной Африке.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AL_ANDALUS_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Однако из-за кровопролитной гражданской войны, которая бушевала с 1009 по 1013 год, Кордовский халифат пришел в упадок. Хотя Аль-Андалус и продержался до 1031 года, он представлял собой уже не единое государство, а мешанину небольших королевств и городов, конфликтующих друг с другом. Этим хаосом не могли не воспользоваться христиане, так начался процесс изгнания мавров – Реконкиста.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Во времена правления Македонской династии (867 – 1057 годы) Византийская империя смогла восстановить силы после нескольких столетий упадка. Грозная, как Рим, и утонченная, как Греция, она достигла пика своего могущества. Василий I и несколько его одаренных преемников смогли разгромить арабов и булгар и вернуть в лоно империи утраченные территории в Сирии и на Балканах. Помимо военных успехов Византия могла похвастаться развивающейся экономикой, расцветом искусства, науки и религии. С последней связано важнейшее событие: «Великая схизма» – раскол между Православием и Римско-католической церковью в 1054 году.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BYZANTIUM_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Начиная с 850 года, между византийскими правителями и Киевской Русью развивалась знаменитая история «любви и ненависти». Империя быстро стала главным торговым партнером Киева, обменивая предметы роскоши на различное сырье, в изобилии добываемое в землях к северу от Черного моря. После крещения Руси князь Владимир Великий отправил в Византию архитекторов и художников, занимавшихся религиозным искусством. В течение следующих нескольких столетий наследники киевской и византийской правящих династий неоднократно вступали в брак. Византия смогла найти применение и свирепым северным воинам: они нередко были наемниками при дворе (например, служили в знаменитой варяжской гвардии). Но отношения между государствами не всегда были столь теплыми: на протяжении десятилетий Русь не раз и не два нападала на византийские поселения.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_FRANCIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>На заре Темных веков, когда римляне отказались от попыток покорить земли галлов, возникло множество франкских королевств, большинство из которых просуществовали совсем не долго. Наконец, Хлодвиг I объединил племена франков и в 496 году был провозглашен их королем. Так появилось средневековое Франкское государство. Следующие несколько поколений франков практически постоянно воевали, особенно активно в период правления Карла Великого, благодаря этому к началу IX века Франкское государство упрочило свои позиции и обезопасило себя от набегов соседей. Однако после смерти Людовика I Благочестивого в 840 году, страна была разделена между тремя его сыновьями.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_FRANCIA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Очень «вовремя»: именно тогда датские викинги начали разорять прибрежные города франков и, в конце концов, захватили Париж в 845 году... ушли они только после того, как правитель Западно-Франкского королевства Карл Лысый заплатил им 7 тысяч ливров золотом и серебром. Французы еще не раз платили выкуп захватчикам, пока, наконец, зимой 885 года, не смогли отразить атаку северян.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_FRANCIA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>После смерти последнего Каролинга, чтобы уберечь страну, и так находившуюся под постоянной угрозой со стороны викингов, от кровопролитной гражданской войны, архиепископ Реймса созвал великих франкских лордов, чтобы избрать нового правителя. Герцог Гуго Капет из региона Иль-де-Франс был избран королем и коронован в июле 987 года. Вот так, в один момент, образовалась Франция в нынешних ее границах, как раз, когда набеги викингов сошли на нет.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FRANKISH_CABALLARII_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Во время правления династии Каролингов подавляющее большинство французских отрядов составляли копейщики – задолго до этого франки пользовались метательными топорами «францисками» – но король также содержал элитную тяжелую кавалерию... знаменитых кабалариев. Изначально они жили в дворце или неподалеку от него, но со временем стали появляться и у многих феодалов. В то время как большая часть войск призывалась только во время войны, эти воинны были “профессионалами” и даже временно возглавляли менее вышколенные отряды франков. Они подразделялись на «скары» (нестандартизированные полки). Среди кабаллариев Карла Великого, существовала три ранга престижа, а сколары были личной охраной короля. Видимо, будучи верхом рыцари использовались как настоящие ударные войска, а спешившись сражались в строю. Но в любом случае они были очень эффективны</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MOORISH_FARFANES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Использование наемников было вполне приемлемым в средневековом мире, а в мусульманских государствах было целое разнообразие этих воинов. В частности, мавританские халифы Аль-Андалуса использовали фарфанов – наемников из противоборствующих Иберийских христианских королевств – для сражений в плотном строю в Европейской моде, как верхом так и пешком. Причин, которые вели этих христианских воинов в бой под знаменами Ислама, было много. В некоторых случаях, как например у знаменитого Эль Сида, они воевали, потому что были сосланы или изгнаны из родных мест. Другие, возможно, были новообращенными в ислам из числа покоренных народов, или христианскими рабами или военнопленными, которым была обещана свобода. Независимо от причин, фарфанов боялись больше всех мавританских солдат... и платили соответствующе.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HUSCARL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Хускарлы – это элитные солдаты, впервые появившиеся в армии Кнуда; он смоделировал эти войска на основе полулегендарных скандинавских воинских братств, известных как йомсвикинги. Якобы оригинальное формирование хускарлов было создано благодаря одному из йомсвикингов, который приехал в Англию под именем знаменитого Торелля. С поддержкой специально введенного налога Кнуд содержал три “отряда” (состоящих в общей сложности из 3000-4000 мужчин) – два близ Лондона и третий неподалеку от Йорка. Вооруженные стандартным набором оружия и доспехов хускарлы были особенно искусны в тактике «стена щитов», которая требовала как дисциплины и силы духа в строю. Кнуд и другие правители викингов, как правило, помещали своих хускарлов в центре линии, чтобы укрепить остальную  армию, или распределяли их по всему фронту, чтобы сдержать первый натиск. Подвиги в бою сделали их легендами; так, например, хускарлы образовали железное ядро армии Годвинсона на &quot;Стэмфорд Бридж&quot; и в Гастингсе.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_APUOLE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Апуоле – крошечная литовская деревня (даже в наши дни согласно переписи 2011 года там проживает только 119 жителей), в раннем Средневековье была городищем небольшого прибалтийского народа курши. Согласно хронике католического миссионера Римберта в 854 году н.э. курши отказался платить ежегодную дань шведским викингам за то, чтобы те на них не нападали. После этого на городище напали датские викинги, желавшие получать дань вместо шведов. Курши разгромили датские войска и захватили много трофеев. Узнав об этом, король Швеции Олаф собрал большой флот и осадил Апуоле. По словам Римберта, 15 тысяч местных воинов восемь дней держались против захватчиков. Считается, что после этого вождь куршей заплатил выкуп серебром за каждого человека в крепости, поклялся в преданности Олафу и отдал 30 заложников, как гарантию последующих выплат дани.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ARLES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Расположенный на берегах реки Роны город Арль достиг расцвета на закате Римской империи. В 395 году он стал местом пребывания преторианского префекта Галлии, а Император Константин I построил в городе бани, частично сохранившиеся до наших дней. В период с V по VIII век город неоднократно страдал от набегов вестготов, сарацин и даже северных варваров. Наконец, в 739 году Карл Мартелл навел в регионе порядок и Арль начал возрождаться. В 855 году город стал столицей могущественного Арльского королевства. В 933 году Гуго Арльский передал эти земли королю Верхней Бургундии Рудольфу II, который присоединил их своим владениям. После смерти последнего из потомков Рудольфа, королевство перешло к императору КонрадуII из Салической династии. В последующие годы королевство все больше утрачивало свою независимость и к 1600-м годам было окончательно поглощено Францией.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ASILAH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>История финикийского города Асила начинается примерно в VIII веке с крепости, построенной под властью династии Идрисидов для защиты прибрежных торговых путей. Около 860 года Бьерн Железнобокий и его брат (или, возможно, сводный брат) Гастинг привели свой флот из 62 драккаров, чтобы разграбить средиземноморское побережье. Плавание началось не очень удачно: их флот был разбит сначала астурийцами, а затем силами Кордовского халифата. Однако викингам удалось захватить богатые трофеи в городе Альхесирасе, еще больше добычи они получили, добравшись до Африки, где опустошили прибрежные города Идрисидского халифата и владения Омейядов на Балеарских островах. Хотя Асила и устояла тогда (историки не уверены), несколько нападений сицилийских норманнов в X веке практически полностью уничтожили то, что оставалось от города-крепости.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BALARM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Город, ныне известный как Палермо, переименовывался при каждом завоевании, а их было немало. Он был основан финикийцами под названием Сус (по-финикийски — «цветок») в 754 году до н. э., после чего перешел во владение Карфагена, затем Рима, затем вандалов, остготов и, наконец, Византии. Когда мусульмане, после ожесточенных боев, захватили остров в 904 году н.э., они переименовали город в Баларм и сделали его столицей Сицилийского эмирата. В течение следующих десятилетий Баларм процветал, говорят, он мог померяться с Кордовой и Каиром влиянием и красотой. Под властью халифов Фатимидов этот богатый порт стал центром торговли (в основном сельскохозяйственными товарами: апельсинами, лимонами, фисташками и сахарным тростником) и культуры. Однако из-за династических распрей между мусульманскими правителями Сицилия была захвачена европейскими наемниками, в числе которых был нормандец Роберт Гвискар, в 1072 году.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DUMBARTON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Решающую роль в истории Дамбартона – по крайней мере, по мнению местных историков – сыграла скала вулканического происхождения с двойной вершиной, расположенная подле него. Еще в начале железного века люди поняли важность ее стратегического положения. Впервые поселение Дамбартон упоминается в письме Святого Патрика к Керетику Землевладельцу, королю Альт Клуита, в 450 году. О событиях, происходивших в городе, в течение нескольких следующих веков сохранилось мало информации. Однако известно, что к 870 году Дамбартон Рок был относительно благополучным и мирным британским городом-крепостью. Так продолжалось до тех пор, пока на него не напали викинги. На пути из захваченного Йорка Ивар Бескостный объединил свои войска с Олафом Белым, приплывшим из Ирландии, и осадил город. После 15 недель осады викинги, наконец, захватили Дамбартон, сожгли его, и на двух сотнях драккаров вывезли все, что к полу не прикручено – в том числе и выживших горожан – в Ирландию.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GIJON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Хихон – это невзрачный городок на северном побережье Иберии. Известно, что несколько раз жители покидали его, например, в IX веке, когда туда прибыл флот нормандцев, объявивших город заброшенным («civitas deserta»). От существовавших ранее на месте Хихона варварских поселений также ничего не осталось. В VII веке король вестготов Сисебут, преодолев достаточно слабое сопротивление, вытеснил оттуда римлян. В течение примерно ста лет Хихон являлся столицей мусульманских владений в Бискайском заливе. Однако в 722 году вестгот Пелайо разгромил арабов в долине Ковадонги и стал первым королем Астурии. После этого Хихон снова исчез из летописей до1270 года, когда Альфонсо X пожаловал ему официальный статус города(«Carta Pueblo»). В период между битвой при Ковадонги и получением статуса «Carta» Хихон упоминается лишь в паре датских саг.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KAIROUAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Кайруан – город на побережье Северной Африки, который в 670 году основал арабский завоеватель Окба ибн Нафи. Со временем он стал главным образовательным и научным центром мусульман суннитов, а в университете Кайруана бывали ведущие ученые арабского мира. Слухи о богатстве города достигли даже Северной Европы, хотя и были сильно преувеличены. В 745 году произошло восстание покоренных арабами берберов, и роскошные сады и безбрежные оливковые рощи Кайруана наводнили захватчики. Началась борьба за власть, правители, великодушные и не очень, менялись один за другим. Под властью имама Сахнуна и арабского наместника Асада ибн аль-Фурата возводились дворцы, укрепления и гидротехнические сооружения, которые прославили город еще сильнее. Послы Карла Великого и Священной Римской империи, возвращавшиеся из Кайруана, рассказывали невероятные истории о его прекрасных садах и библиотеках. В 909 году к власти пришла династия Фатимидов, и город утратил свое значение и влияние, так как новые правители решили перенести столицу в более безопасное место.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PAMPLONA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Памплона расположена у подножия Западных Пиренеев в долине Наварра. Город то становился самостоятельным владением вестготов, то переходил под власть франкского сюзерена на протяжении всего IX века. Все это время он рос и искал союзников, так, например, правитель Королевства Памплона Гарсия Иньигес объединился с христианским государством Астурия, чтобы вместе бороться с засильем мавров. Впрочем, это не сильно помогло ему, когда приплыли викинги. Они захватили короля в плен в 859 году и отпустили его, только получив огромный выкуп (по преданию, около 70 тысяч золотых динаров). Историк Энн Кристи однако ставит под сомнение достоверность этой истории, так как никакие хроники ее не подтверждают. Когда король Гарсия освободился, он в союзе с Ордоньо I королем Астурии победил арабского завоевателя Мусу ибн Мусу и разгромил армию Кордовского халифата в битве при Альбельде, что позволило сохранить в Памплоне власть христиан.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PISA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В последние годы империи Пиза меньше других римских городов пострадала от упадка цивилизации. В середине 700-х годов этот город был крупным портом и процветающим торговым центром. Но затем пришли викинги: Бьорн Железнобокий и Гастинг, ранее грабившие средиземноморские мусульманские города, теперь обратили внимание и на христианские. Разорив южную Францию и перезимовав там, в 861 году они подошли к незащищенной Пизе, захватили и разграбили ее. Викинги проследовали вглубь страны и хитростью заняли укрепленный город Луни, который, согласно легендам, неграмотные дикари приняли за Рим. Среди уцелевших викингов началось недовольство - и, поскольку конечной целью похода считался Рим, они повернули обратно к Гибралтару... где потерпели сокрушительное поражение (потеряв около 40 кораблей с воинами) в морском бою с сарацинским флотом из Аль-Андалуса. Пизу восстановили, и викинги больше никогда не беспокоили этот город.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В эпоху викингов ключевую роль в истории Рима сыграло создание Папской области. Она являлась культурным центром, достопримечательности которого приезжали посмотреть даже русские и датчане. Когда викинги Бьорн и Гастинг вторглись в Италию, они по ошибке разграбили город Луни, который приняли за Рим. Так Вечный город избежал гнева грозных норманнов. В основном взаимодействие между Римом и викингами сводилось к попыткам различных понтификов обратить северян в «Истинную веру».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TAMWORTH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Королевство Мерсия появилось в начале 600-х годов нашей эры, главным его городом считался Тамуорт, а первым упомянутым в летописях королем был Пенда. Во времена правления короля Оффы город был официальной столицей самого большого государства в центре Англии. Однако его размер и местоположение не сильно помогли, когда началось вторжение датских викингов. В 868 году викинги захватили важнейший город Мерсии Ноттингем и решили там задержаться. В 874 году викинги разграбили Тамуорт, чтобы выбить из Мерсии ее тогдашнего короля Бургреда. Город лежал в руинах до 913 года, когда Этельфледа – так называемая «Леди Мерсии» – отстроила его заново и сделала своей главной резиденцией. В 926 году в соборе Тамуорта обвенчались сестра короля Этельстана и Ситрик Слепой скандинавский король Дублина и Нортумбрии. В 1016 году Мерсия, чьи славные дни давно прошли, оказалась под властью короля Кнуда.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_THETFORD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Тетфорд был основан на стратегически важной переправе через реку Литл Аус еще до наступления Железного века. В период своего расцвета Тетфорд был саксонской столицей Восточной Англии. В ноябре 869 года викинги под предводительством Ивара Бескостного и его брата Уббы разгромили войско англов и убили их последнего короля не иноземного происхождения – Эдмунда Мученика. Город оказался на территории Данелага – части Англии, которой правили викинги. Для Тетфорда все сложилось не так уж плохо: близость брода через судоходную реку позволила ему процветать даже под властью иноземных захватчиков, обосновавшихся там в X веке. Город стал центром торговли и ремесла (особенно гончарного дела). Однако активно воевавший с викингами и англичанами датский король Свен Вилобородый напал на город в 1004 году и снова разграбил его в 1010. В 1013 году Свен стал королем Англии и в регионе воцарился мир.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TMUTARAKAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Княжество Киевской Руси Тмутаракань находилось на Крымском перешейке между Черным и Азовским морем и было важнейшим центром торговли. В VII веке хазары построили там «великую» крепость, но к концу X века город находился под властью русских, хотя точная дата и обстоятельства его захвата неизвестны. Незадолго до своей смерти в 1015 году, Великий князь Владимир передал этот международный рынок, торговавший всем, от специй до рабов, своим сыновьям. После смерти сына Владимира, Мстислава, в Тмутаракани правила череда самодуров, каждый из которых надолго не задерживался. Город успел даже побывать под властью Византии. В конце концов, в 1083 году, Олег Святославович вернул город русским, и его жители занялись любимым делом... погоней за прибылью.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VENICE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Точно не известно, когда люди впервые поселились в болотистой долине между устьями рек По и Пьяве, но некоторые археологические находки показывают, что первыми жителями Венеции были римские беженцы, спасавшиеся от нашествий германцев и гуннов. С течением времени небольшое поселение выросло и заняло 118 островов, связанных сетью каналов и мелководных речушек. В конце VIII века в Венеции возвели великолепный собор Святого Марка, также туда была перенесена резиденция дожей, и город по праву стал считаться «Королевой Адриатики». В Средние века город процветал за счет торговли между Европой и остальным миром, а стратегическое положение, развитая экономика и мощный флот позволили ему безраздельно властвовать в регионе.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WINCHESTER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Судя по всему, когда римляне прибыли в Британию, племена белгов, проживавшие на территории современного Винчестера, приняли захватчиков с распростертыми объятиями. Построенный римлянами город стал важным торговым и военным центром, которым оставался и после того, как римляне ушли. В 871 году Альфред Великий разгромил орды викингов в битве при Эшдауне и стал правителем западных саксов, сделав Винчестер столицей возрожденного Уэссекса. Прошло совсем немного времени, и король стал готовиться к новому вторжению датчан. В Винчестере активно велись градостроительные работы: укреплялись крепостные стены, а улицы, для более удобного продвижения войск, размечались согласно координатной сетке. Альфред также организовал местное ополчение в «силы быстрого реагирования»… После битвы при Гастингсе, вдова короля Гарольда, скрывавшаяся в Винчестере, без боя сдала город-крепость норманнами.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WOLIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Волин – остров в Балтийском море, расположенный недалеко от побережья Померании, где реки Свина и Дзивна впадают в море. Поскольку остров соединен с большой землей бродом через Дзивну, можно с уверенностью сказать, что люди основались на нем еще в доисторические времена. В IX веке здесь поселились племена скандинавов и славян, примерно в то же время на острове построили укрепления, и он стал центром торговли и рыбной ловли. В эпоху викингов он был их вторым по значимости рынком, уступая лишь Хедебю. Историки полагают, что именно здесь находился Йомсборг — полулегендарная крепость, существовавшая с 960-х по 1043 год. Согласно сагам йомсвикинги были братством элитных воинов, которые следовали особому кодексу и подчинялись лишь их лидеру. Считается, что когда их последний ярл Сигвальд умер, большинство йомсвикингов последовали за его братом Торкеллом в Англию, где пополнили ряды кровожадных хускарлов на службе короля Кнута.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_YORK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Когда саксы захватили северную Англию, Йорк стал столицей королевства Дейра, а затем Нортумбрии. Впервые викинги захватили город в 866 году, когда на Британию двинулась «Великая языческая армия» под предводительством Ивара Бескостного, получившего свое прозвище или за необычайную гибкость в бою, или за импотенцию или за некое увечье (историки не знают точно). В 875 году орды захватчиков пришли снова, и их лидер Халфдан сделал Йорк центром нового королевства викингов, известного как Йорвик. Около 75 лет спустя последний король Йорвика Эрик I Кровавая Секира был изгнан и его земли вошли в состав Англии, установившей местное правительство в графстве Йорк. Под властью графов город стал политическим и религиозным центром. Некоторые графы были норвежцами, некоторые англичанами. Войскам Вильгельма Завоевателя, вторгнувшимся в Британию, однако, не было до этого дела. Викинги еще не раз пытались воссоздать Йорвик на этих землях, но безуспешно.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SIEGE_TACTICS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Учитывая, что в большинстве городов, на которые они нападали либо не было ни стен, ни простых деревянных палисад, а викинги делали ставку на мобильность, свирепость и фактор внезапности, их “осадными орудиями”, в лучшем сдучае, были самодельные тараны и башни. В записях Аббона об осаде Парижа в 845 году, лишь вскользь упоминались грубо сделанные баллисты... кроме этого, упоминаний об осадных оружиях викингам найдено не было; скорее всего, они просто использовали лестницы, чтобы пробираться за стены.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_VOLLEY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Лук часто использовался норманнами для охоты или войны. Они изготавливались из тиса, ясеня или вяза, и а сила натяжения составляла примерно 40 килограмм. Впрочем, обнаруженные боевые луки были еще тяжелей; наконечники для стрел делались из металла или кости. В поздний период эпохи викингов, законы в Швеции и Норвегии гласили, что свободные землевладельцы на общий сбор должны были приходить не только с мечом или топором и щитом, но также с луком и стрелами.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TRAVELING_MONKS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В то время как большинство христианских монахов жили в крепких монашеских общинах, нищенствующие ордены принял образ жизни в бедности, странствиях, проповедях и служениях особенно для простолюдинов. По этой причине, поскольку они не имели земель или торговли, эти “странствующие монахи” зависели от доброй воли тех, кому они читали проповеди о благосостояния, хотя это и не всегда срабатывали.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_BJARNI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Некоторые считают, что получить славу за “открытие” Северной Америки должен был Бьярни Херюльфссон, а не Лейф Эриксон. Он был капитаном исландского торгового судна, и как послушный сын, каждое лето плавал в Норвегию, в гости к отцу. Обнаружив, что тот ушел в плавание в Гренландию с Эриком Рыжим, Бьярни отправился на его поиски, но сбился с курса и нашел необитаемые холмистые берега, покрытые деревьями. Хотя его команда захотела их исследовать, капитан отказался и уплыл в Гренландию. Это произошло в 986 году. В Гренландии его рассказы о богатой земле на западе услышал краем уха Лейф, который и решил повторить путешествие Бьярни.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ERIK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Эрик Торвальдсон, более известный как Эрик Рыжий, был норвежцем, изгнанным за «убийства», из общества «цивилизованных людей» в Исландию и основавшим первое норвежское поселение в Гренландии. (В этом плане он повторил судьбу своего отца, который был изгнан из Норвегии за убийство.) Несмотря на то, что другие викинги тоже бывали в Гренландии, согласно сагам, три года в изгнании Эрик посвятил изучению этих земель. Затем, после зимовки в Исландии, он собрал множество переселенцев, вернулся в 985 году и основал два поселения, которым приходилось непросто. Во время малого Ледникового периода норманны оставили Гренландию.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_INGVAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В X-XI веках викинги с севера и русы начали набеги на Каспийское море против сарацин и прочих племен. Последние, под руководством Ингвара Путешественника, в 1036 году отошел Швеции, возможно, под эгидой старого короля Анунда Якоба. Экспедиции плыли вниз по Волге на земли сарацинов, где армия Ингвара приняла участие Сасиретской битве. Однако в дошедших до нас скандинавских сагах о путешествие Ингвара упоминаний нет, единственным источником этой обрывочной истории являются 26 рунических камней, разбросанных по Уппланду в Швеции.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_FREYDIS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Фрейдис предположительно родилась 970 году и была дочерью Эрика Рыжего и сестрой (или сводной сестрой) Лейфа Эриксона. Будучи женщиной, она упоминается лишь в двух древних сагах: «Саге о гренландцах» и «Саге об Эрике Рыжем». Хотя детали различаются, обе они рассказывают о ее путешествии в Винланд в поисках славы, и о том, что она была жестокой и волевой женщиной. Однако в одной саге она помогает отбить нападение “красных скинов”, а в другой она планирует нападение на вражеский лагерь викингов, убивая других женщин топором. В обеих историях она возвращается в Гренландию и затем исчезает из сказаний.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_LEIF_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>На древнескандинавском его имя звучит как Лейфр; в Исландии, где он родился его зовут Лейфур; в Норвегии – земле его предков – он Лейв. Но как бы ни писалось его имя, примерно в 970 году в Исландии в семье Эрика Рыжего родился Лейф Эриксон. Согласно сагам Исландии, он был величайшим из норманнских покорителей земель. Многие считают его первым европейцем, который ступил на берега Северной Америки еще задолго до Колумба. Хотя история открытия Лейфом Винланд предсказуемо туманна, согласно сагам он основал на северной возвышенности Ньюфаундленда норвежские поселения (которые, впрочем, долго не прожили).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_HALFDAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Хальфдан Рагнарссон наиболее известен как один из лидеров Великой языческой армии, которая в 865-878 гг. пробила свой путь через всю Англию. В конце концов Хальфдан стал на пару лет спорным королем Дублина и на год бесспорным королем Йорвика (Йорк). Но в основном он мотался по всей Англии со своей армией, вторгшейся в Восточную Англию в 865 году, затем в Нортумбрию в 866 году, после в Мерсию... потом снова в Восточную Англию... Уэссекс... и так далее. Согласно “Анналам Ульстера” король Дублина был убит в 875 году и каким-то образом Хальфдан захватил трон. Но когда он вернулся из Юрвика, в Дублине его свергли с трона. Он вернулся в Ирландию в 877 году, и был убит в бою при Странгфорд-Лохе.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_RORIK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>За пособничество Лотару I в борьбе против своего отца Людовика Благочестивого, в 841 году нескольким мелким норманнским лордам были выданы кусочки земли во Фризии, принадлежавшие погибшему королю, в том числе и викингу по имени Рерик. На своей земле он основал островную базу для налетов Виринген. Его влияние распространилось до самого Дорестада... по крайней мере, он так считал. В 850 году Рерик официально захватил в свое владение Дорестад и Утрехт. Поскольку викинг готов был присягнуть ему на верность и собирать налоги, Лотар признал его как правителя Фрисландии. К тому времени значение торгового порта Дорестад уже начало снижаться, а значит, это была не большая жертва. Когда в 882 году Рерик умер его земли были отданы в руки “морскому королю” Годфриду.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SVIATOSLAV_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Святослав был великим князем киевским с 945 года до самой смерти в 972 году. Это первый из правителей Руси, который носит славянское, а не скандинавское имя. И действительно, его правление означает конец варяжского влияния на Русь, чьи интересы и культура уже далеки от викингов. У Святослава было типичное для викинга отношение к жизни: его правление отмечено постоянными войнами с хазарами, болгарами, различными восточнославянскими племенами, аланами и волжскими булгарами. Он то начинал войну, то заключал союз с печенегами и венграми. Святослав оставил после себя крупнейшее в Европе государство... на то время.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_OLAF_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Олаф, внук Харальда Прекрасноволосого и сын вождя Трюггви (который был убит как раз перед рождением мальчика – обычный профессиональный риск у викингов) пробыл королем Норвегии пять насыщенных лет (с 995 по 1000 гг.). Согласно легенде, мать Олафа, Астрид взяла ребенка и сбежала в Киев, где мальчик обучался как будущий викинг. Присоединившись к набегам на Англию, Олаф узнал о восстании в Норвегии против короля Хокона; вернувшись оттуда, он был провозглашен королем после смерти Хокона в 995 году. Король пытался насильственно навязать христианство своим подданным, но особого успеха добиться не успел, так как был убит в битве у Свольдера.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_WILLIAM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Уильям I – также, не без причин, известный как Вильгельм Бастард и Вильгельм Завоеватель – в нежном возрасте восьми лет, будучи потомком викингов, стал герцогом Нормандии. Опираясь на короля Франции Генриха I, Уильям сумел сохранять свои герцогство и жизнь, пока не достиг совершеннолетия. Будучи амбициозным человеком, уже к 1064 году. Уильям смог добавить соседние провинции Бретани и Мена к своим норманнским владениям. В 1066 году Уильям перебрался через Ла-Манш, где предъявил свои довольно шаткие права на английский престол. Всю оставшуюся жизнь он укреплял свою власть над Англией, отражал угрозы на материковых землях и воспитывал своего трудного старшего сына.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_THORFIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Торфинн был самым младшим из пяти сыновей Сигурда Хлодвирссона, ярла Оркни... и единственным ребенком его жены, которая была дочерью Малькольма II, короля Шотландии. Когда Сигурд был убит в Ирландии в 1011 году, земли Оркни разделились между четырьмя уцелевшими братьями с двухлетним Торфинном, которому достались остатки. При поддержке короля Малькольма и норвежского короля Олафа, к 1030 году юный Торфинн захватил Оркни в свое владение. Он провел остаток своей жизни, завоевывая Гебриды, разграбляя Ирландию, помогая двоюродному брату Макбету получить шотландский трон и крестя своих подчиненных.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ROGER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Роджер (также известный как ярл Роджер) был самозваным норманном и графом Сицилии - от первых же усилий, чтобы освободить остров от мусульман и до своей смерти 29 лет спустя. Роджер впервые попал в Италию в 1057 году, чтобы помочь своему жадному брату Роберту Гвискару отбить Калабрию у византийцев. В мае 1061 года братья решили завоевать всю Сицилию. После того, как они взяли Палермо в январе 1072 года, Роберт, как сюзерен, отдал Роджеру титул “графа Сицилии”. В 1098 году Папа узаконил Роджера и его наследников в «Сицилийской легации».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_VIKING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В настоящее время большинство историков-лингвистов используют термин «викинг» в значении «пират», имея в виду норвежских викингов. Но на самом деле «быть викингом» означало не только совершать грабительские набеги (хотя и этим они занимались нередко), но также исследовать дальние моря и земли, торговать или служить в качестве наемника.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_NAVAL_EMPIRE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Набеги викингов на прибрежные города во многом были столь успешны, потому что лишь несколько королевств имели постоянный флот. Когда короли начали создавать военно-морские силы, господству викингов пришел конец. Флоты викингов были огромны, но им не хватало сплоченности, четкости построения и координации, ведь по сути они состояли из отдельных небольших флотов, во главе каждого из которых стоял свой вождь или клан.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_MONOTHEISM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Монотеизм – вера в то, что есть только один бог (или богиня). Первой такой религией можно назвать зороастризм. Ныне монотеизма придерживаются христиане, сикхи и другие.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_GREAT_HEATHEN_ARMY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В 865 году многотысячная армия викингов под предводительством трех мстительных сыновей легендарного Рагнара Лодброка причалила к берегам Восточной Англии. В течение следующих 14 лет эта «Великая языческая армия» бродила по всей стране, захватывая все, что могла унести, и уничтожая все, что не могла. В 878 году король англо-саксов Альфред, вошедший в историю как Альфред Великий, разбил это войско. В результате мирного договора у викингов осталась часть Северной и Восточной Англии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_KNARRS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Кнорры – это тяжелые грузовые корабли викингов, которые были способны перевозить примерно двадцать тонн груза и экипажа и выдерживать долгие морские переходы. Кнорры регулярно отправлялись в торговые плавания через Средиземное, Балтийское и Северное моря, а также перевозили колонистов на берега Исландии, Гренландии и Винланда. Несмотря на то, что эти корабли не были ни быстрыми, ни живописными, как драккары, они были настоящими рабочими лошадками викингов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_LONGSHIPS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Внешний вид драккаров развивался на протяжении столетий, начиная с умиаков доисторической Скандинавии, заканчивая судном из Нидама VI века, которое построено из досок, положенных внакрой. Свою окончательную форму драккар принял только в IX веке. Изящный, длинный и узкий, с малой осадкой (чтобы перемещаться вверх по рекам), легкий (для перемещения волоком) и быстрый драккар позволял викингам царить в морях и внушал страх Европе вплоть до XIII века.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_PORTAGE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Техника перетаскивания волоком (перемещение судна и груза по суше от одного водоема к другому) существует с тех пор, как пещерный человек втащил свой плот вверх на гору. Очевидно, в некоторых местах это сделать легче, чем в других – викинги умели отыскивать подходящие места и перетаскивали свои драккары. В VIII-IX веках викинги использовали целую сеть волоков, соединяющих Волгу, Двину, Днепр и Дон, для того, чтобы крепла и процветала Русь. Никаких особых методов или технологий для этого процесса не требовалось, только крепкая спина.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_HACKSILVER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Викинги не слишком много знали о чеканке монет. Вместо этого скандинавы предпочитали копить свои богатства в кусочках серебра, награбленных или купленных. Поскольку для того, чтобы нарубить столовое серебро, ювелирные изделия и распятия (после того, как с них смывалась кровь), требовалось меньше усилий, чем литье настоящих монет, такой метод получил широкое распространение и использовался викингами на протяжении целых поколений.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_LANCES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Пика – длинный шест с острым концом, служащий для проделывания дырок в людях – было основным оружием тяжелой кавалерии во времена викингов. Немногие норманны сами использовали их, скорее, их соперники. Византийская конница применяла копья (известные как контарионы) практически только в этот период, и держала их поверх рыки или подмышкой. Но до совершенства технику галопа и закрытых рядов, которые были так эффективны против вражеской пехоты (или любого, кто встретится на пути), довели европейцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_MEAD_HALLS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В V-XI веках медовые залы в древней Скандинавии служили помещением для племенных праздников, а иногда и резиденциями королей викингов и их слуг. Скандинавские саги и легенды часто упоминают о медовом зале как месте для праздников, обрядов, пиров, военных советов и даже убийств (как в «Саге об Инглингах», где король Ингьяльд строит огромный зал, в котором сжигает спящих конунгов). И, конечно, величайшие медовые залы есть в Вальгалле и Сессрумнире, потому что веселье должно продолжаться даже после смерти.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_SHIELDWALL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Стена щитов упоминается в скандинавских сагах и христианских хрониках. Она появилась еще в греческих и рисских армиях и представляла собой простую тактику сражения с перекрывающимися щитами, чтобы защититься от обстрела, пехоты и даже конницы. Это был любимый строй у некоторых кланов викингов, кроме того он использовался их саксонскими и германскими врагами. Хотя викинги любили топоры потому, что ими удобно было рубить ноги солдатам которые применяли стену щитов, в эпоху позднего средневековья, от тактики отказались в пользу длинных пик, которые требовали двух рук, и были более эффективными в устрашении пехоты и конницы.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_SCENARIO_VINLAND_NAME" Language="en_US">
+			<Text>Вінланд|Вінланда|Вінланду|Вінланд|Вінландам|Вінландзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_1" Language="en_US">
+			<Text>Магнус|Магнуса|Магнусу|Магнуса|Магнусам|Магнусу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_2" Language="en_US">
+			<Text>Б'ёрк|Б'ёрка|Б'ёрку|Б'ёрка|Б'ёркам|Б'ёрку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_3" Language="en_US">
+			<Text>Хрольф|Хрольфа|Хрольфу|Хрольфа|Хрольфам|Хрольфу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_4" Language="en_US">
+			<Text>Горм|Горма|Горму|Горма|Гормам|Горму</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_5" Language="en_US">
+			<Text>Фродзі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_1" Language="en_US">
+			<Text>Хельга|Хельгі|Хельзе|Хельгу|Хельгай|Хельзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_2" Language="en_US">
+			<Text>Тофа|Тофы|Тофе|Тофу|Тофай|Тофе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_3" Language="en_US">
+			<Text>Веалтоў|Веалтоў|Веалтоў|Веалтоў|Веалтоў|Веалтоў</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_4" Language="en_US">
+			<Text>Аслаўг</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_5" Language="en_US">
+			<Text>Ціра|Ціры|Ціры|Ціру|Цірай|Ціры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SWEDEN_MALE_1" Language="en_US">
+			<Text>Эрык|Эрыка|Эрыку|Эрыка|Эрыкам|Эрыку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SWEDEN_SCENARIO_MALE_2" Language="en_US">
+			<Text>Хокан|Хокана|Хокану|Хокана|Хоканам|Хокану</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SWEDEN_SCENARIO_MALE_3" Language="en_US">
+			<Text>Анун|Ануна|Ануну|Ануна|Анунам|Ануну</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SWEDEN_SCENARIO_MALE_4" Language="en_US">
+			<Text>Свен|Свена|Свену|Свена|Свенам|Свену</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SWEDEN_SCENARIO_MALE_5" Language="en_US">
+			<Text>Альф|Альфа|Альфу|Альфа|Альфам|Альфу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_1" Language="en_US">
+			<Text>Астрыд|Астрыд|Астрыд|Астрыд|Астрыд|Астрыд</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_2" Language="en_US">
+			<Text>Гунхільдр</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_3" Language="en_US">
+			<Text>Інгеборг</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_4" Language="en_US">
+			<Text>Тора|Торы|Торы|Тору|Торай|Торы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_5" Language="en_US">
+			<Text>Хрысціна|Хрысціны|Хрысціне|Хрысціну|Хрысцінай|Хрысціне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_BJARNI_NAME" Language="en_US">
+			<Text>Б'ярні Хер'юльфсан|Б'ярні Хер'юльфсана|Б'ярні Хер'юльфсану|Б'ярні Хер'юльфсана|Б'ярні Хер'юльфсанам|Б'ярні Хер'юльфсану</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_ERIK_NAME" Language="en_US">
+			<Text>Эрык Руды|Эрыка Рудага|Эрыку Рудаму|Эрыка Рудага|Эрыкам Рудым|Эрыку Рудым</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_INGVAR_NAME" Language="en_US">
+			<Text>Інгвар Вандроўнік|Інгвара Вандроўніка|Інгвару Вандроўніку|Інгвара Вандроўніка|Інгварам Вандроўнікам|Інгвару Вандроўніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_FREYDIS_NAME" Language="en_US">
+			<Text>Фройдзіс Эйрыксдатыр</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_HALFDAN_NAME" Language="en_US">
+			<Text>Хальфдан Рагнарсан|Хальфдана Рагнарсана|Хальфдану Рагнарсану|Хальфдана Рагнарсана|Хальфданам Рагнарсанам|Хальфдану Рагнарсану</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_RORIK_NAME" Language="en_US">
+			<Text>Рэрык Ютландскі|Рэрыка Ютландскага|Рэрыку Ютландскаму|Рэрыка Ютландскага|Рэрыкам Ютландскім|Рэрыку Ютландскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_SVIATOSLAV_NAME" Language="en_US">
+			<Text>Святаслаў Адважны|Святаслава Адважнага|Святаславу Адважнаму|Святаслава Адважнага|Святаславам Адважным|Святаславу Адважным</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_OLAF_NAME" Language="en_US">
+			<Text>Олаф Тругвасан|Олафа Тругвасана|Олафу Тругвасану|Олафа Тругвасана|Олафам Тругвасанам|Олафу Тругвасану</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_WILLIAM_NAME" Language="en_US">
+			<Text>Вільгельм Заваёўнік|Вільгельма Заваёўніка|Вільгельму Заваёўніку|Вільгельма Заваёўніка|Вільгельмам Заваёўнікам|Вільгельму Заваёўніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_THORFIN_NAME" Language="en_US">
+			<Text>Торфін Магутны|Торфіна Магутнага|Торфіну Магутнаму|Торфіна Магутнага|Торфінам Магутным|Торфіну Магутным</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_ROGER_NAME" Language="en_US">
+			<Text>Роджар I, Сіцылійскі|Роджара І, Сіцылійскага|Роджару І, Сіцылійскаму|Роджара І, Сіцылійскага|Роджарам І, Сіцылійскім|Роджару І, Сіцылійскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_ODIN_NAME" Language="en_US">
+			<Text>Одзін|Одзіна|Одзіну|Одзіна|Одзінам|Одзіну</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_POPULATION_GROWTH_NAME" Language="en_US">
+			<Text>Узрост насельніцтва|узросту насельніцтва|узросту насельніцтва|узрост насельніцтва|узростам насельніцтва|узросце насельніцтва</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_ALCAZAR_NAME" Language="en_US">
+			<Text>Унікальнае паляпшэнне Андалуса: алькасар</Text>
+		</Replace>
+		<Replace Tag="TRAIT_CIVILIZATION_UNIT_MOORISH_FARFANES_NAME" Language="en_US">
+			<Text>Унікальны юніт Андалусіі: фарфаны</Text>
+		</Replace>
+		<Replace Tag="TRAIT_CIVILIZATION_IMPROVEMENT_MONASTERY_NAME" Language="en_US">
+			<Text>Унікальнае паляпшэнне: манастыр</Text>
+		</Replace>
+		<Replace Tag="TRAIT_CIVILIZATION_UNIT_QUADRIREME_NAME" Language="en_US">
+			<Text>Візантыйскі ўнікальны юніт: квадрырэма</Text>
+		</Replace>
+		<Replace Tag="TRAIT_CIVILIZATION_UNIT_FRANKISH_CABALLARII_NAME" Language="en_US">
+			<Text>Унікальны юніт франкаў: кабалары</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATPERSON_ADJACENT_PIOPIOTAHI_GOLD" Language="en_US">
+			<Text>Поруч з Вінландам дае +500 [ICON_Gold] золата і ачкі перамогі ў залежнасці ад парадку актывацыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATPERSON_HALFDAN_ACTIVE" Language="en_US">
+			<Text>Дае 1 берсерка.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATPERSON_OLAF_ACTIVE" Language="en_US">
+			<Text>Дае 1 місіянера.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATPERSON_WILLIAM_ACTIVE" Language="en_US">
+			<Text>+1 [ICON_TradeRoute] гандлёвы шлях. Дае гандлёвы юніт.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATPERSON_ROGER_ACTIVE" Language="en_US">
+			<Text>Дае 1 катапульту з 1 роўнем падвышэння.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_SAILING_DESCRIPTION" Language="en_US">
+			<Text>Усе марскія юніты атрымаюць +1 да руху, і на іх могуць грузіцца ўсе наземныя юніты.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_PORTAGE_DESCRIPTION" Language="en_US">
+			<Text>На пераход праз раку не марнуюцца дадатковыя АР.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_KNARRS_DESCRIPTION" Language="en_US">
+			<Text>Усе юніты могуць рухацца па акіяне.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_HACKSILVER_DESCRIPTION" Language="en_US">
+			<Text>Цэнтры камерцыі і гавані атрымаюць на 1 гандлёвы шлях больш.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_PORTAGE" Language="en_US">
+			<Text>Стварыце 2 лучнікі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_STIRRIPS" Language="en_US">
+			<Text>Разрабуйце клетку.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_SHIELDWALL" Language="en_US">
+			<Text>Стварыце юніт асаднікаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_KNARRS" Language="en_US">
+			<Text>Адкрыйце сац. інстытут «Марская дзяржава».</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING" Language="en_US">
+			<Text>Пабудуйце 5 гарадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_LANCES" Language="en_US">
+			<Text>Знішчыце рыцара.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_GREAT_HEATHEN_ARMY" Language="en_US">
+			<Text>Стварыце 3 дракары.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_HACKSILVER" Language="en_US">
+			<Text>Стварыце 4 гандлёвыя шляхі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_MACHINERY" Language="en_US">
+			<Text>Пабудуйце 2 стайні.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_TACTICS" Language="en_US">
+			<Text>Стварыце 2 рыцары.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_SHIPBUILDING" Language="en_US">
+			<Text>Атрымайце выбітнага флатавода.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_MEDIEVAL_FAIRES" Language="en_US">
+			<Text>Валодайце горадам з насельніцтвам 12.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_ENGINEERING" Language="en_US">
+			<Text>Захапіце горад.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_CASTLES" Language="en_US">
+			<Text>Стварыце 2 арбалетчыкі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_PORTAGE" Language="en_US">
+			<Text>Пасля стварэння лучнікаў ваша магутнае войска жадае даведацца, што знаходзіцца за рэкамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_STIRRIPS" Language="en_US">
+			<Text>Магчыма, кавалерыя дапаможа разрабаваць больш клетак?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SHIELDWALL" Language="en_US">
+			<Text>Новыя гарады ствараюць новыя юніты для абароны.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_KNARRS" Language="en_US">
+			<Text>Ці можна выйсці ў акіян, маючы большы вайсковы флот?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ENGINEERING" Language="en_US">
+			<Text>Інжынеры распрацоўваюць палепшаны вадавод для вялікай колькасці гарадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_LANCES" Language="en_US">
+			<Text>Зараз, калі варожыя рыцары пераможаны, ці змогуць яны дапамагчы вам заваёўваць землі?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GREAT_HEATHEN_ARMY" Language="en_US">
+			<Text>З 3 дракарамі ваша войска можа ўварвацца ў кожны горад.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_HACKSILVER" Language="en_US">
+			<Text>Як будзе развівацца ваша гандлёвая імперыя зараз, калі вы стварылі чатыры гандлёвыя шляхі?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_TACTICS" Language="en_US">
+			<Text>У вашым войску шмат кавалерыстаў, магчыма, варта дадаць да іх пяхотнікаў?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SHIPBUILDING" Language="en_US">
+			<Text>Выбітны флатавод натхніў ваш народ на вывучэнне новых метадаў караблебудавання.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MEDIEVAL_FAIRES" Language="en_US">
+			<Text>У вас стала больш жыхароў. Ці не трэба іх пацешыць?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_ENGINEERING" Language="en_US">
+			<Text>Пасля ўражальнага штурму ваш народ натхніўся на стварэнне больш эфектыўных сродкаў аблогі.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_VIKING_DESCRIPTION" Language="en_US">
+			<Text>Дае бонусы за атаку з фланга і падтрымку ўсім юнітам блізкага бою.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_FEUDALISM_DESCRIPTION" Language="en_US">
+			<Text>Фермы атрымаюць бонус да [ICON_Food] ежы, калі 3 фермы знаходзяцца побач адна з адной.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_NAVAL_TRADITION" Language="en_US">
+			<Text>Пабудуйце 3 гавані.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_TRADITION" Language="en_US">
+			<Text>Забіце ворага з дапамогай берсерка.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_NAVAL_EMPIRE" Language="en_US">
+			<Text>Перамажыце ў боі з дапамогай дракара вікінгаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_TRAINING" Language="en_US">
+			<Text>Стварыце 6 сухапутных юнітаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_MONOTHEISM" Language="en_US">
+			<Text>Ваша рэлігія павінна дамінаваць.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_VIKING" Language="en_US">
+			<Text>Стварыце 2 хускарлы.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_FEUDALISM" Language="en_US">
+			<Text>Пабудуйце 6 фермаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_THEOLOGY" Language="en_US">
+			<Text>Пабудуйце 2 святыя месцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_MERCENARIES" Language="en_US">
+			<Text>Стварыце 10 сухапутных юнітаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_RECORDED_HISTORY" Language="en_US">
+			<Text>Даследуйце машынабудаванне</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_GUILDS" Language="en_US">
+			<Text>Пабудуйце 4 рынкі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_DIVINE_RIGHT" Language="en_US">
+			<Text>Стварыце ўрад з 4 вочкамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_EXPLORATION" Language="en_US">
+			<Text>Знайдзіце дзіва прыроды.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_REFORMED_CHURCH" Language="en_US">
+			<Text>Стварыце 2 місіянеры.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_TRADITION" Language="en_US">
+			<Text>Зараз, калі вы знішчылі ворага з дапамогай берсерка, ці зможаце павялічыць сваё войска?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_NAVAL_TRADITION" Language="en_US">
+			<Text>Пасля будавання гаваняў ваш вайсковы флот узмацніўся.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_TRAINING" Language="en_US">
+			<Text>Зараз, калі ў вас шмат сродкаў вядзення вайны, войску патрэбна разнастайнасць.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MONOTHEISM" Language="en_US">
+			<Text>Ваш народ паступова адыходзіць ад паганства. Ён пачынае будаваць драўляныя цэрквы.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_VIKING" Language="en_US">
+			<Text>Ваша войска стала большым, і зараз свет даведаецца, хто такія вікінгі!</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_THEOLOGY" Language="en_US">
+			<Text>Са стварэннем большай колькасці святых месцаў вашы тэолагі пачалі разыходзіцца па розных землях.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_RECORDED_HISTORY" Language="en_US">
+			<Text>Дзякуючы машынабудаванню вы можаце супернічаць з забытымі царкоўнымі тэхналогіямі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_EXPLORATION" Language="en_US">
+			<Text>Як вы зменіце форму кіравання пасля адкрыцця Вінланда?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_REFORMED_CHURCH" Language="en_US">
+			<Text>Са з'яўленнем тэолагаў сярод вашых грамадзянаў шырацца новыя рэлігійныя рытуалы.</Text>
+		</Replace>
+		<Replace Tag="LOC_CATEGORY_SCENARIO_VINLAND_NAME" Language="en_US">
+			<Text>Вінланд</Text>
+		</Replace>
+		<Replace Tag="LOC_LINE_ITEM_PLUNDER_NAME" Language="en_US">
+			<Text>Рабаванне</Text>
+		</Replace>
+		<Replace Tag="LOC_LINE_ITEM_TRADE_NAME" Language="en_US">
+			<Text>Гандаль</Text>
+		</Replace>
+		<Replace Tag="LOC_LINE_ITEM_VINLAND_NAME" Language="en_US">
+			<Text>Вінланд</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_RELIGION_DESCRIPTION" Language="en_US">
+			<Text>Ачкі [ICON_Faith] веры ў гэтым сцэнары вы атрымаеце галоўным чынам за рабаванне святых месцаў, алькасараў, манастыроў і плантацый. Штораз, атрымваючы ачкі [ICON_Faith] веры, вы павялічваеце ўплыў каталіцызму на свае гарады.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_SCENARIO_VINLAND_DESCRIPTION" Language="en_US">
+			<Text>Ачкі перамогі: 1000 для першага, 500 для другога, 300 для трэцяга, 100 для чацвёртага і 100 для пятага.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_CARAVANSERIES_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Gold] золата за міжнародныя [ICON_TradeRoute] гандлёвыя шляхі.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_CHIVALRY_DESCRIPTION" Language="en_US">
+			<Text>+100% [ICON_Production] вытворчасці пры стварэнні кавалерыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_FEUDAL_CONTRACT_DESCRIPTION" Language="en_US">
+			<Text>+50% [ICON_Production] вытворчасці пры стварэнні юнітаў блізкага бою.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_MARITIME_INDUSTRIES_DESCRIPTION" Language="en_US">
+			<Text>+100% [ICON_Production] вытворчасці пры стварэнні марскіх юнітаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_MERITOCRACY_DESCRIPTION" Language="en_US">
+			<Text>Кожны горад атрымае +1 [ICON_Faith] веры за кожны спецыялізаваны раён у ім.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_NATURAL_PHILOSOPHY_DESCRIPTION" Language="en_US">
+			<Text>+100% [ICON_Science] навукі за вайсковы лагер.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_SIEGE_TACTICS_DESCRIPTION" Language="en_US">
+			<Text>+100% [ICON_Production] вытворчасці падчас стварэння аблогавых юнітаў і юнітаў падтрымкі.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_TRADE_CONFEDERATION_DESCRIPTION" Language="en_US">
+			<Text>+4 [ICON_Gold] золата за міжнародныя [ICON_TradeRoute] гандлёвыя шляхі.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_TRAVELING_MONKS_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Faith] веры за ўнутраныя [ICON_TradeRoute] гандлёвыя шляхі.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_VOLLEY_DESCRIPTION" Language="en_US">
+			<Text>+100% [ICON_Production] вытворчасці падчас стварэння юнітаў далёкага бою.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_HUSCARL_DESCRIPTION" Language="en_US">
+			<Text>Юніт блізкага бою, добра абаронены ад дальнабойнай атакі. Нізкі кошт [ICON_Production] вытворчасці.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_MISSIONARY_DESCRIPTION" Language="en_US">
+			<Text>Унікальны юніт вікінгаў, які можа звяртаць [ICON_Citizen] жыхароў у сваю рэлігію.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_POINTS_DESCRIPTION" Language="en_US">
+			<Text>+10 ачкоў вялікіх вайскаводаў за кожны знішчаны юніт.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_ADMIRAL_POINTS_DESCRIPTION" Language="en_US">
+			<Text>+10 ачкоў вялікіх флатаводаў за кожны знішчаны юніт.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_RANGED_DEFENSE_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] да баявой моцы пры абароне ад далёкабойных атак.</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_SCENARIO_BRITAIN_DESCRIPTION" Language="en_US">
+			<Text>Вялікабрытанія</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_SCENARIO_FAROE_DESCRIPTION" Language="en_US">
+			<Text>Фарэрскія выспы</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_SCENARIO_GREENLAND_DESCRIPTION" Language="en_US">
+			<Text>Грэнландыя</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_SCENARIO_HEBRIDES_DESCRIPTION" Language="en_US">
+			<Text>Гебрыдскія выспы</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_SCENARIO_ICELAND_DESCRIPTION" Language="en_US">
+			<Text>Ісландыя</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_SCENARIO_IRELAND_DESCRIPTION" Language="en_US">
+			<Text>Ірландыя</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_SCENARIO_NORTHERN_ISLES_DESCRIPTION" Language="en_US">
+			<Text>Паўночныя выспы</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_SCENARIO_SCANDINAVIA_DESCRIPTION" Language="en_US">
+			<Text>Скандынавія</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_SCENARIO_VINLAND_DESCRIPTION" Language="en_US">
+			<Text>Вінланд</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_ODIN_DESCRIPTION" Language="en_US">
+			<Text>+100 [ICON_Gold] золата за рабаванне клеткі, калі ваша рэлігія не дамінантная.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_POPULATION_GROWTH_DESCRIPTION" Language="en_US">
+			<Text>Падвойвае ачкі перамогі за насельніцтва, калі гэта рэлігія дамінуе ў рэгіёне.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SCENARIO_HAGIA_SOPHIA_DESCRIPTION" Language="en_US">
+			<Text>Унікальнае дзіва свету Візантыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SCENARIO_ALHAMBRA_DESCRIPTION" Language="en_US">
+			<Text>Унікальнае дзіва свету Аль-Андалуса.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SCENARIO_MONT_ST_MICHEL_DESCRIPTION" Language="en_US">
+			<Text>Унікальнае дзіва свету Франкіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PILLAGE_GOLD_DESCRIPTION" Language="en_US">
+			<Text>+100 [COLOR_FLOAT_GOLD]золата[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_VINLAND_GOLD_DESCRIPTION" Language="en_US">
+			<Text>+500 [COLOR_FLOAT_GOLD]золата[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_SCENARIO_ENCAMPMENT_DESCRIPTION" Language="en_US">
+			<Text>Раён горада, у якім знаходзяцца вайсковыя збудаванні. Таксама вырабляе навуку.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_SCENARIO_HOLY_SITE_DESCRIPTION" Language="en_US">
+			<Text>Раён, што адказвае за рэлігійныя абрады. Таксама вырабляе культуру.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_LONGSHIPS_NAME" Language="en_US">
+			<Text>Дракары|дракараў|дракарам|дракары|дракарамі|дракарах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_MEAD_HALLS_NAME" Language="en_US">
+			<Text>Мядовыя залы|Мядовых залаў|Мядовым залам|Мядовыя залы|Мядовымі заламі|Мядовых залах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_PORTAGE_NAME" Language="en_US">
+			<Text>Пераправа|пераправы|пераправе|пераправу|пераправай|пераправе</Text>
+			<Gender>femenine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_SHIELDWALL_NAME" Language="en_US">
+			<Text>Сцяна шчытоў|сцяны шчытоў|сцяне шчытоў|сцяну шчытоў|сцяной шчытоў|сцяне шчытоў</Text>
+			<Gender>femenine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_KNARRS_NAME" Language="en_US">
+			<Text>Кноры|кнораў|кнорам|кноры|кнорамі|кнорах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_LANCES_NAME" Language="en_US">
+			<Text>Пікі|пік|пікам|пікі|пікамі|піках</Text>
+			<Gender>femenine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_GREAT_HEATHEN_ARMY_NAME" Language="en_US">
+			<Text>Вялікае паганскае войска|Вялікага паганскага войска|Вялікаму паганскаму войску|Вялікае паганскае войска|Вялікім паганскім войскам|Вялікім паганскім войску</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCENARIO_HACKSILVER_NAME" Language="en_US">
+			<Text>Срэбны крышан|срэбнага крышана|срэбнаму крышану|срэбны крышан|срэбным крышаном|срэбным крышане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION1" Language="en_US">
+			<Text>Няможна бурыць гарады. Гандляроў і флатаводаў няможна перасоўваць з горада ў горад. Ачкі перамогі прысуджаюцца наступным чынам:[NEWLINE][ICON_Bullet]Імперыя: {1_CityVP} АП за горад. {2_PopVP} АП за насельніцтва.[NEWLINE][ICON_Bullet]Прэстыж: {3_GPVP} АП за кожнага атрыманага выбітнага чалавека.[NEWLINE][ICON_Bullet]Гандаль: {4_TradeVP} АП за даступны гандлёвы шлях.[NEWLINE][ICON_Bullet]Рабаванне: {5_PillageVP} АП за разрабаваную клетку.</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION2" Language="en_US">
+			<Text>[NEWLINE][ICON_Bullet]Вінланд: {1_VinlandA} АП за першую актывацыю выбітнага флатавода поруч з Вінландам, {2_VinlandB} – за другую, {3_VinlandC} – за трэцюю, {4_VinlandD} – за наступныя.</Text>
+		</Replace>
+		<Replace Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION3" Language="en_US">
+			<Text>[NEWLINE][ICON_Bullet]Рэлігія: {1_PillageEarly} АП за [ICON_Faith] веру, здабытую падчас рабавання клеткі, калі менш паловы вашых гарадоў прыналежаць да той жа рэлігіі. {2_PopLate} АП за адз. насельніцтва, калі не менш паловы вашых гарадоў прыналежаць да той жа рэлігіі.[NEWLINE][ICON_Bullet]Бонус: у апошні ход {3_GoldEnd} АП за кожныя {4_GoldPer} [ICON_Gold] золата ў скарбе гульца-вікінга і {5_FaithEnd} АП за кожныя {6_FaithPer} ачк. [ICON_Faith] веры ў веданні гульца-вікінга.</Text>
+		</Replace>
+		<Replace Tag="LOC_WORLD_POINTS_FLOATER" Language="en_US">
+			<Text>[COLOR_GREEN]+{1_Num} ачк.[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_HUSCARL_NAME" Language="en_US">
+			<Text>Хускарлы|хускарлаў|хускарлам|хускарлаў|хускарламі|хускарлах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PRESLAV_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Праслаў – невялікае славянскае селішча, абнесенае ўмацаваннямі, што ўзвысілася напачатку IX стагоддзя. Блізкасць да балгарскай сталіцы Плісцы спрыяла ўзросту і ўзмацненню гэтага горада пры ханах Круму і Амуртагу. Пасля хрышчэння Балгарыі ў 864 годзе ўсярэдзіне і звонку гарадскіх сцен было пабудавана некалькі сабораў і манастыроў. Праслаў быў важным вайсковым і рэлігійным цэнтрам, што і прывяло яго да згубы. У 960-х гадах і ў наступныя дзесяцігоддзі ў выніку вайсковых канфліктаў паміж Візантыяй і Кіеўскай Руссю ён некалькі разоў быў спустошаны і спалены. Захопнікі неаднаразова рабавалі яго скарбніцу, выкрадалі царскія рэгаліі і вывезлі вялікую частку знакамітай бібліятэкі цара Сімяона. На ўскраінах і ў манастырах панавала запусценне. У перыяд Другога Балгарскага царства горад вярнуў сабе былую веліч, але неўзабаве даканцова страціў свой уплыў.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ILKUM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Лейданг быў нечым накшталт закліку на вайсковую службу для камплектацыі карабельных камандаў, што ідуць у набегі, ці для абароны тэрыторыі. Служба на караблі доўжылася звычайна два-тры летнія месяцы. Лейданг згадваецца толькі ў сярэднявечных крыніцах, таму цяжка сказаць, калі гэта практыка з'явілася і наколькі была пашырана. Па непацверджаных дадзеных, кожны раён (скіпрэйд) быў абавязаны па вымозе ўладніка выставіць карабель з камандай.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MEDINA_QUARTER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Тынг (слова можа пісацца і прамаўляцца па-рознаму) быў «агульным сходам» скандынаўскага селішча (а то і цэлай правінцыі ці краіны), у якім бралі ўдзел вольныя мужчыны (а часам і кабеты). На сходзе абіралі правадыроў, уладжвалі спрэчкі, прымалі законы, каралі парушальнікаў і ўвогуле не дазвалялі вікінгам перарэзаць адзін аднаго. Тынг, зазвычай, служыў культурнай процівагай кланавым войнам і крэўнай варожасці.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

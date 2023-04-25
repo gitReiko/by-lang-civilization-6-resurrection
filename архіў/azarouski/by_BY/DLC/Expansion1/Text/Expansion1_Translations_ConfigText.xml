@@ -1,0 +1,529 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_NAME" Language="en_US">
+			<Text>Капакабана|Капакабаны|Капакабане|Капакабану|Капакабанай|Капакабане</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_CHEMAMULL_NAME" Language="en_US">
+			<Text>Чэмамюль|Чэмамюля|Чэмамюлю|Чэмамюль|Чэмамюлем|Чэмамюлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MEKEWAP_NAME" Language="en_US">
+			<Text>Вігвам|Вігвама|Вігваму|Вігвам|Вігвамам|Вігваме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_GOLF_COURSE_NAME" Language="en_US">
+			<Text>Поле для гольфа|Поля для гольфа|Полю для гольфа|Поле для гольфа|Полем для гольфа|Поле для гольфа</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_SEOWON_NAME" Language="en_US">
+			<Text>Савон|савона|савону|савон|савонам|савоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ORDU_NAME" Language="en_US">
+			<Text>Арда|Арды|Ардзе|Арду|Ардой|Ардзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_IKANDA_NAME" Language="en_US">
+			<Text>Іканда|Іканды|Ікандзе|Іканду|Ікандай|Ікандзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TSIKHE_NAME" Language="en_US">
+			<Text>Цыхе|Цыхе|Цыхе|Цыхе|Цыхе|Цыхе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_POLDER_NAME" Language="en_US">
+			<Text>Польдар|Польдара|Польдару|Польдар|Польдарам|Польдары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MAPUCHE_NAME" Language="en_US">
+			<Text>Мапучэ|мапучэ|мапучэ|мапучэ|мапучэ|мапучэ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MAPUCHE_ADJECTIVE" Language="en_US">
+			<Text>мапучск.|мапучск.|мапучск.|мапучск.|мапучск.|мапучск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MAPUCHE_DESCRIPTION" Language="en_US">
+			<Text>Імперыя мапучэ|Імперыі мапучэ|Імперыі мапучэ|Імперыю мапучэ|Імперыяй мапучэ|Імперыі Мапучэ</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CREE_NAME" Language="en_US">
+			<Text>Кры|кры|кры|кры|кры|кры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CREE_ADJECTIVE" Language="en_US">
+			<Text>крыйск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CREE_DESCRIPTION" Language="en_US">
+			<Text>Імперыя кры|Імперыі кры|Імперыі кры|Імперыю кры|Імперыяй кры|Імперыі кры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCOTLAND_NAME" Language="en_US">
+			<Text>Шатландыя|Шатландыі|Шатландыі|Шатландыю|Шатландыяй|Шатландыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCOTLAND_ADJECTIVE" Language="en_US">
+			<Text>шатландск.|шатландск.|шатландск.|шатландск.|шатландск.|шатландск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCOTLAND_DESCRIPTION" Language="en_US">
+			<Text>Шатландская імперыя|Шатландскай імперыі|Шатландскай імперыі|Шатландскую імперыю|Шатландскай імперыяй|Шатландскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KOREA_NAME" Language="en_US">
+			<Text>Карэя|Карэі|Карэі|Карэю|Карэяй|Карэі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KOREA_ADJECTIVE" Language="en_US">
+			<Text>карэйск.|карэйск.|карэйск.|карэйск.|карэйск.|карэйск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KOREA_DESCRIPTION" Language="en_US">
+			<Text>Карэйская імперыя|Карэйскай імперыі|Карэйскай імперыі|Карэйскую імперыю|Карэйскай імперыяй|Карэйскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MONGOLIA_NAME" Language="en_US">
+			<Text>Манголія|Манголіі|Манголіі|Манголію|Манголіяй|Манголіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MONGOLIA_ADJECTIVE" Language="en_US">
+			<Text>мангольск.|мангольск.|мангольск.|мангольск.|мангольск.|мангольск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_MONGOLIA_DESCRIPTION" Language="en_US">
+			<Text>Мангольская імперыя|Мангольскай імперыі|Мангольскай імперыі|Мангольскую імперыю|Мангольскай імперыяй|Мангольскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ZULU_NAME" Language="en_US">
+			<Text>Зулусы|зулусаў|зулусам|зулусаў|зулусамі|зулусах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ZULU_ADJECTIVE" Language="en_US">
+			<Text>зулуск.|зулуск.|зулуск.|зулуск.|зулуск.|зулуск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_ZULU_DESCRIPTION" Language="en_US">
+			<Text>Зулуская імперыя|Зулускай імперыі|Зулускай імперыі|Зулускую імперыю|Зулускай імперыяй|Зулускай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GEORGIA_NAME" Language="en_US">
+			<Text>Грузія|Грузіі|Грузіі|Грузію|Грузіяй|Грузіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GEORGIA_ADJECTIVE" Language="en_US">
+			<Text>грузінск.|грузінск.|грузінск.|грузінск.|грузінск.|грузінск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GEORGIA_DESCRIPTION" Language="en_US">
+			<Text>Грузінская імперыя|Грузінскай імперыі|Грузінскай імперыі|Грузінскую імперыю|Грузінскай імперыяй|Грузінскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NETHERLANDS_NAME" Language="en_US">
+			<Text>Нідэрланды|Нідэрландаў|Нідэрландам|Нідэрланды|Нідэрландамі|Нідэрландах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NETHERLANDS_ADJECTIVE" Language="en_US">
+			<Text>галандск.|галандск.|галандск.|галандск.|галандск.|галандск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NETHERLANDS_DESCRIPTION" Language="en_US">
+			<Text>Галандская імперыя|Галандскай імперыі|Галандскай імперыі|Галандскую імперыю|Галандскай імперыяй|Галандскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_CHANDRAGUPTA_NAME" Language="en_US">
+			<Text>Чандрагупта|Чандрагупты|Чандрагупту|Чандрагупту|Чандрагуптам|Чандрагупту</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_LAUTARO_NAME" Language="en_US">
+			<Text>Лаўтара|Лаўтара|Лаўтара|Лаўтара|Лаўтара|Лаўтара</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_POUNDMAKER_NAME" Language="en_US">
+			<Text>Паўндмэйкер|Паўндмэйкера|Паўндмэйкеру|Паўндмэйкера|Паўндмэйкерам|Паўндмэйкеру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_POUNDMAKER_ABILITY_NAME" Language="en_US">
+			<Text>Спрыяльныя ўмовы|Спрыяльных умоў|Спрыяльным умовам|Спрыяльныя ўмовы|Спрыяльнымі ўмовамі|Спрыяльных умовах</Text>
+			<Gender>neuter</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_ROBERT_THE_BRUCE_NAME" Language="en_US">
+			<Text>Роберт Брус|Роберта Бруса|Роберту Брусу|Роберта Бруса|Робертам Брусам|Роберту Брусу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SEONDEOK_NAME" Language="en_US">
+			<Text>Сандок|Сандок|Сандок|Сандок|Сандок|Сандок</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_GENGHIS_KHAN_NAME" Language="en_US">
+			<Text>Чынгісхан|Чынгісхана|Чынгісхану|Чынгісхана|Чынгісханам|Чынгісхану</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SHAKA_NAME" Language="en_US">
+			<Text>Чака|Чакі|Чаку|Чаку|Чакам|Чаку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TAMAR_NAME" Language="en_US">
+			<Text>Тамара|Тамары|Тамары|Тамару|Тамарай|Тамары</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_WILHELMINA_NAME" Language="en_US">
+			<Text>Вільгельміна|Вільгельміны|Вільгельміне|Вільгельміну|Вільгельмінай|Вільгельміне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_DELICATE_ARCH_NAME" Language="en_US">
+			<Text>Вытанчаная арка|Вытанчанай аркі|Вытанчанай арцы|Вытанчаную арку|Вытанчанай аркай|Вытанчанай арцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_NAME" Language="en_US">
+			<Text>Вока Сахары|Вока Сахары|Воку Сахары|Вока Сахары|Вокам Сахары|Воку Сахары</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_MATTERHORN_NAME" Language="en_US">
+			<Text>Матэрхорн|Матэрхорна|Матэрхорну|Матэрхорн|Матэрхорнам|Матэрхорне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_RORAIMA_NAME" Language="en_US">
+			<Text>Гара Рарайма|гары Рарайма|гары Рарайма|гару Рарайма|гарой Рарайма|гары Рарайма</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_UBSUNUR_HOLLOW_NAME" Language="en_US">
+			<Text>Убсунурская катлавіна|Убсунурскай катлавіны|Убсунурскай катлавіне|Убсунурскую катлавіну|Убсунурскай катлавінай|Убсунурскай катлавіне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_ZHANGYE_DANXIA_NAME" Language="en_US">
+			<Text>Чжан'е Данься|Чжан'е Данься|Чжан'е Данься|Чжан'е Данься|Чжан'е Данься|Чжан'е Данься</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_LAKE_RETBA_NAME" Language="en_US">
+			<Text>Возера Рэтба|Возера Рэтба|Возеру Рэтба|Возера Рэтба|Возерам Рэтба|Возеры Рэтба</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_EXPANSION1_NAME" Language="en_US">
+			<Text>Дадатак: Rise and Fall</Text>
+		</Replace>
+		<Replace Tag="LOC_EXPANSION1_DESCRIPTION" Language="en_US">
+			<Text>У гульні выкарыстоўваецца дадатак Rise and Fall. Гэты дадатак уводзіць у гульню новыя вякі, катэгорыю лаяльнасці, губернатараў і крызісы. Ці прыведзяце вы свой народ да залатога веку росквіту? А можа, ваша імперыя загразне ў праблемах цёмнага стагоддзя?</Text>
+		</Replace>
+		<Replace Tag="LOC_MAP_ARCHIPELAGO_NAME" Language="en_US">
+			<Text>Архіпелагі</Text>
+		</Replace>
+		<Replace Tag="LOC_TSLEUROPE_NAME" Language="en_US">
+			<Text>Паліт. карта Еўропы</Text>
+		</Replace>
+		<Replace Tag="LOC_TSLEUROPE_DESCRIPTION" Language="en_US">
+			<Text>Цывілізацыі пачынаюць гульню на месцы гістарычных сталіц на карце Еўропы.</Text>
+		</Replace>
+		<Replace Tag="LOC_MAP_EUROPE_NAME" Language="en_US">
+			<Text>Еўропа</Text>
+		</Replace>
+		<Replace Tag="LOC_MAP_EUROPE_DESCRIPTION" Language="en_US">
+			<Text>Карта Еўропы з рэсурсамі, ландшафтамі і асаблівасцямі на сваіх гістарычных месцах.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_DELICATE_ARCH_DESCRIPTION" Language="en_US">
+			<Text>Дзіва прыроды. Займае адну непраходную клетку. Дае +2 [ICON_FAITH] веры і +1 [ICON_GOLD] золата суседнім клеткам.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_DESCRIPTION" Language="en_US">
+			<Text>Дзіва прыроды. Займае тры клеткі. Дае +1 [ICON_PRODUCTION] вытворчасці. Пасля пераходу ў Эпоху атама дае дадаткова +1 [ICON_PRODUCTION] вытворчасці і +3 [ICON_SCIENCE] навукі.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_MATTERHORN_DESCRIPTION" Language="en_US">
+			<Text>Дзіва прыроды. Займае адну непраходную клетку. Выглядае як гара і дае +1 [ICON_CULTURE] культуры суседнім клеткам. Наземныя вайсковыя юніты, якія прайшлі поруч з гарой Матэрхорн, ігнаруюць узгоркі да канца гульні і атрымаюць +3 да [ICON_Strength] баявой моцы на ўзгорках.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_RORAIMA_DESCRIPTION" Language="en_US">
+			<Text>Дзіва прыроды. Займае чатыры непраходныя клеткі. Выглядае як гара, дае +1 [ICON_FAITH] веры і +1 [ICON_SCIENCE] навукі суседнім клеткам.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_UBSUNUR_HOLLOW_DESCRIPTION" Language="en_US">
+			<Text>Дзіва прыроды. Займае чатыры клеткі. Уяўляе сабою балота і дае +2 [ICON_FAITH] веры, +1 [ICON_FOOD] ежы, і +1 [ICON_PRODUCTION] вытворчасці.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_ZHANGYE_DANXIA_DESCRIPTION" Language="en_US">
+			<Text>Дзіва прыроды. Займае тры непраходныя клеткі. Выглядае як гара, дае +2 [ICON_GREATGENERAL] ачкі выбітнага вайскавода і 2 [ICON_GREATMERCHANT] ачкі выбітнага гандляра, калі вам належыць хаця б адна з гэтых трох клетак.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_LAKE_RETBA_DESCRIPTION" Language="en_US">
+			<Text>Дзіва прыроды. Займае дзве клеткі. Выглядае як возера і дае +2 [ICON_CULTURE] культуры, +2 [ICON_GOLD] золата і +1 [ICON_PRODUCTION] вытворчасці. Не з'яўляецца крыніцай прэснай вады.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_DESCRIPTION" Language="en_US">
+			<Text>Унікальны раён Бразіліі. Замяняе сабой аквапарк і дае +2 [ICON_Amenities] здаволення. Адкрывае доступ да карнавалу, які прыносіць дадаткова +1 [ICON_Amenities] здаволення падчас стварэння і ачкі розных [ICON_GreatPerson] выбітных людзей пасля завяршэння. Няможна пабудаваць у горадзе з вулічным карнавалам. Няможна пабудаваць на рыфе.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION1_DESCRIPTION" Language="en_US">
+			<Text>Унікальны раён Бразіліі. Замяняе сабой забаўляльны комплекс і дае +2 [ICON_Amenities] здаволення. Адкрывае доступ да карнавалу, які прыносіць дадаткова +1 [ICON_Amenities] здаволення падчас стварэння і ачкі розных [ICON_GreatPerson] выбітных людзей пасля завяршэння. Няможна пабудаваць у горадзе з Капакабанай.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ZULU_IMPI_DESCRIPTION" Language="en_US">
+			<Text>Унікальны юніт зулусаў Сярэднявечча, які замяняе пікінёраў. Павялічаны бонус за атаку з флангаў, нізкі кошт стварэння і ўтрымання. Хутчэй атрымвае досвед.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_KOREAN_HWACHA_DESCRIPTION" Language="en_US">
+			<Text>Унікальны карэйскі юніт эпохі Адраджэння. Замяняе палявую гармату. Магутныя [ICON_Ranged] далёкабойныя атакі. Не можа рухацца і атакаваць у адзін ход.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_DESCRIPTION" Language="en_US">
+			<Text>Унікальны шатландскі выведкавы юніт Новага часу, які замяняе рэйнджара. Моцны выведкавы юніт. +5 да [ICON_Strength] баявой моцы ў бітвах на ўзгорках і ў лясах.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_DESCRIPTION" Language="en_US">
+			<Text>Унікальны нідэрландскі юніт эпохі Адраджэння. Замяшчае фрэгат. +7 [ICON_Strength] да баявой моцы падчас атакі абароненага раёна.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MONGOLIAN_KESHIG_DESCRIPTION" Language="en_US">
+			<Text>Унікальны мангольскі кавалерыйскі далёкабойны юніт Сярэднявечча. Можа суправаджаць мангольскія грамадзянскія і дапаможныя юніты з падвышанай [ICON_Movement] хуткасцю.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_DESCRIPTION" Language="en_US">
+			<Text>Унікальны сярэднявечны юніт Грузіі. +7 [ICON_Strength] да баявой моцы ў бітвах на ўзгорках. Няма штрафу за [ICON_Movement] руху па ўзгорках.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_DESCRIPTION" Language="en_US">
+			<Text>Унікальны юніт мапучэ Новага часу. Бонус +5 [ICON_Strength] да баявой моцы ў межах 4 клетак ад дружалюбнай тэрыторыі. Рабаванне каштуе 1 [ICON_Movement] АР.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CREE_OKIHTCITAW_DESCRIPTION" Language="en_US">
+			<Text>Унікальны юніт кры эпохі Старажытнага свету, які замяняе выведнікаў. Моцны выведкавы юніт. Пачынае з 1 падвышэннем.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION1_DESCRIPTION" Language="en_US">
+			<Text>Усе вочкі дыпламатычнага курса пры бягучым урадзе ператвараюцца ва ўніверсальныя вочкі.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION1_DESCRIPTION" Language="en_US">
+			<Text>[ICON_TechBoosted] Азарэнне і [ICON_CivicBoosted] натхненне даюць 50% да атрымання сацыяльных інстытутаў і тэхналогій заміж 40%.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION1_DESCRIPTION" Language="en_US">
+			<Text>Вашы [ICON_TradeRoute] гандлёвыя шляхі з іншымі цывілізацыямі прыносяць Егіпту +4 [ICON_Gold] золата. Прыналежныя іншым цывілізацыям [ICON_TradeRoute] гандлёвыя шляхі ў Егіпет даюць +2 [ICON_Food] ежы для іх і +2 [ICON_Gold] золата Егіпту. Гандаль з хаўруснікамі падвойвае колькасць бонусных ачкоў звязу.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_NAME" Language="en_US">
+			<Text>Артхашастра</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_DESCRIPTION" Language="en_US">
+			<Text>Можна абвяшчаць вайну за пашырэнне тэрыторыі пасля даследавання сацыяльнага інстытута «Вайсковая рыхтоўля». +2 [ICON_Movement] АР і +5 да [ICON_Strength] баявой моцы цягам першых 10 хадоў пасля абвесткі вайны за пашырэнне тэрыторыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION1_DESCRIPTION" Language="en_US">
+			<Text>Унікальны раён Англіі, што адказвае ў вашым горадзе за марскія камунікацыі. Замяняе сабой гавань. На клетцы раёна не дзее [ICON_Movement] штраф за гружэнне на карабель і выгрузку з яго. Можна пабудаваць толькі на ўзбярэжжы ці клетках возера, што прылягаюць да сушы.[NEWLINE][NEWLINE]+1 да [ICON_Movement] руху марскіх юнітаў, пабудаваных на верфях.[NEWLINE]+2 [ICON_Gold] золата і +4 лаяльнасці за ход, калі пабудаваны на чужым кантыненце. Няможна пабудаваць на рыфе.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_NAME" Language="en_US">
+			<Text>Токі</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_DESCRIPTION" Language="en_US">
+			<Text>Усе юніты, падрыхтаваныя ў гарадах з дзейным [ICON_Governor] губернатарам, атрымаюць на 25% больш досведу у бойцы. Бонус +10 да [ICON_Strength] баявой моцы супраць цывілізацый, у якіх наступіў залаты век.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_NAME" Language="en_US">
+			<Text>Хуткі Сокал</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>Калі юніт мапучэ здабывае перамогу над варожым юнітам у межах варожага горада, то гэты горад губляе 5 адз. лаяльнасці.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION_ALT" Language="en_US">
+			<Text>Калі юніт мапучэ здабывае перамогу над варожым юнітам у межах варожага горада, то гэты горад губляе 20 адз. лаяльнасці. Рабаванне клеткі варожага горада зніжае яго лаяльнасць на 5.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_CHEMAMULL_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам будаваць чэмамюль – унікальную пабудову мапучэ.[NEWLINE][NEWLINE]Вырабляе [ICON_CULTURE] культуру ў колькасці, роўнай 75% прэстыжу клеткі. Дадатковы [ICON_TOURISM] турызм пасля даследавання авіяцыі. Патрэбен узрушальны прэстыж.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION1_DESCRIPTION" Language="en_US">
+			<Text>Можа абвяшчаць вайну ўсім, хто ваюе з хаўруснікамі, не атрымваючы штрафу за мілітарызм. У супольнай вайне дзеліць трафеі ад рабавання і баявы досвед з найблізкімі хаўруснікамі ў радыусе 5 клетак. Звязы даюць ачкі за ўдзел у вайне супраць супольнага ворага.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_NAME" Language="en_US">
+			<Text>Ніхітхоў</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_TradeRoute] даступны гандлёвы шлях і дармовы гандляр пасля вывучэння ганчарнай справы. Нічыйныя клеткі ў радыусе 3 клетак вакол горада кры трапляюць пад кантроль кры пасля першага наведання іх гандляром.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_POUNDMAKER_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>Усе звязы даюць калектыўную бачнасць.[NEWLINE]Вашы выходныя [ICON_TradeRoute] гандлёвыя шляхі даюць Паўндмэйкеру +1 [ICON_Food] ежы за лагер ці за пашу ў канцавым пункце. [ICON_TradeRoute] Гандлёвыя шляхі да вашых гарадоў даюць Паўндмэйкеру +1 [ICON_Gold] золата за лагер ці за пашу ў канцавым пункце.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MEKEWAP_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам будаваць вігвам – унікальную пабудову кры.[NEWLINE][NEWLINE]Дае +1 [ICON_PRODUCTION] вытворчасці і +1 [ICON_Housing] жытла. +1 [ICON_GOLD] золата пры суседстве з рэдкім рэсурсам. +1 [ICON_FOOD] ежы за кожныя 2 суседнія бонусныя рэсурсы. Дадатковая [ICON_PRODUCTION] вытворчасць, [ICON_GOLD] золата, [ICON_FOOD] ежы і [ICON_HOUSING] жытла з цягам пасоўвання па дрэву тэхналогій і сацыяльных інстытутаў. Можна пабудаваць толькі поруч з бонуснымі ці рэдкімі рэсурсамі. Няможна пабудаваць поруч з іншым вігвамам.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_NAME" Language="en_US">
+			<Text>Шатландская Асвета</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_DESCRIPTION" Language="en_US">
+			<Text>Шчаслівыя гарады атрымаюць +5% [ICON_SCIENCE] навукі і +5% [ICON_PRODUCTION] вытворчасці. Шчаслівыя гарады вырабляюць +1 [ICON_GreatScientist] ачко выбітнага навукоўца ў кампусах і +1 [ICON_GreatEngineer] ачко выбітнага інжынера ў прамысловых зонах. Бонус падвойваецца для гарадоў у стане экстазу.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_BANNOCKBURN_NAME" Language="en_US">
+			<Text>Бэнакбёрн</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_BANNOCKBURN_DESCRIPTION" Language="en_US">
+			<Text>Можна абвяшчаць вызвольную вайну пасля даследавання сацыяльнага інстытута «Абарончая тактыка». +100% [ICON_Production] вытворчасці і +2 [ICON_Movement] АР цягам першых 10 хадоў пасля абвесткі вызвольнай вайны.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_GOLF_COURSE_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам будаваць поле для гольфа – унікальную пабудову Шатландыі.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] здаволення і +2 [ICON_GOLD] золата. Яшчэ +1 [ICON_CULTURE] культуры пры суседстве з цэнтрам горада і +1 [ICON_CULTURE] культуры пры суседстве з забаўляльным комплексам. Дадатковы [ICON_TOURISM] турызм і [ICON_HOUSING] жытло з цягам пасоўвання па дрэву тэхналогій і сацыяльных інстытутаў. Няможна пабудаваць у пустэльні і на ўзгорках у пустэльні. Адна пабудова на горад. Клеткі з полем для гольфа няможна змяніць. +1 прэстыжу.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_NAME" Language="en_US">
+			<Text>Трохцарства</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_DESCRIPTION" Language="en_US">
+			<Text>Рудні атрымаюць +1 [ICON_SCIENCE] навукі, калі побач знаходзіцца савон. Фермы атрымаюць +1 [ICON_FOOD] ежы, калі побач знаходзіцца савон.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_HWARANG_NAME" Language="en_US">
+			<Text>Хваран</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_HWARANG_DESCRIPTION" Language="en_US">
+			<Text>[ICON_Governor] Губернатары, якія працуюць у горадзе, даюць +3% [ICON_Culture] культуры і [ICON_Science] навукі за кожнае атрыманае імі падвышэнне, улучаючы першае.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_SEOWON_DESCRIPTION" Language="en_US">
+			<Text>Унікальны раён Карэі для навуковых даследаванняў. Замяняе кампус. +4 [ICON_SCIENCE] навукі. Можна будаваць толькі на ўзгорках.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_SEOWON_DESCRIPTION_ADJACENCY" Language="en_US">
+			<Text>Суседства: -1 [ICON_SCIENCE] навукі за кожны суседні раён.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_NAME" Language="en_US">
+			<Text>Уртуу</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_DESCRIPTION" Language="en_US">
+			<Text>Пасля стварэння [ICON_TradeRoute] гандлёвага шляху адразу ж з'яўляецца [ICON_TradingPost] гандлёвы пост у пункце прызначэння. Дае дадатковы ровень [ICON_VisLimited] дыпламатычнай бачнасці за валоданне [ICON_TradingPost] гандлёвым пастом у кожным горадзе іншай цывілізацыі. Усе мангольскія юніты атрымаюць падвоены бонус да [ICON_Strength] баявой моцы, калі іх ровень [ICON_VisLimited] дыпламатычнай бачнасці вышэйшы, чым у суперніка.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_NAME" Language="en_US">
+			<Text>Мангольская арда</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>Усе кавалерыйскія юніты атрымаюць +3 да [ICON_Strength] баявой моцы і шанец захопу пераможанага варожага кавалерыйскага юніта.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ORDU_DESCRIPTION" Language="en_US">
+			<Text>Унікальны мангольскі будынак. Дае +25% баявога досведу і +1 да [ICON_MOVEMENT] руху кавалерыі, створанай у гэтым горадзе. Няможна пабудаваць у вайсковым лагеры, дзе ўжо ёсць жаўнерні.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_NAME" Language="en_US">
+			<Text>Ісібонга</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_DESCRIPTION" Language="en_US">
+			<Text>Гарады са змесцаваным юнітам атрымаюць +3 лаяльнасці за ход, +5 – са змесцаваным корпусам ці войскам. Захоп горада юнітам павялічвае яго да корпуса ці войска, калі адкрыты адпаведныя сацыяльныя інстытуты.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_AMABUTHO_NAME" Language="en_US">
+			<Text>Амабута</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_AMABUTHO_DESCRIPTION" Language="en_US">
+			<Text>Можна раней фармаваць корпусы (сацыяльны інстытут «Найміты») і войскі (сацыяльны інстытут «Нацыяналізм»). +5 да базавай [ICON_STRENGTH] баявой моцы карпусоў і войскаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_IKANDA_DESCRIPTION" Language="en_US">
+			<Text>Унікальны раён зулусаў. Замяняе вайсковы лагер. Дае +1 [ICON_Housing] жытла. Пасля атрымання патрэбнай тэхналогіі ці сацыяльнага інстытута можна хутка ствараць корпусы і войскі. Паскарае стварэнне карпусоў і войскаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION1_DESCRIPTION" Language="en_US">
+			<Text>Можна ствараць флоты і армады раней звычайнага (Меркантылізм). Бонусы ад міжкантынентальных [ICON_TradeRoute] гандлёвых шляхоў (у [ICON_Gold] золаце, калі да іншых цывілізацый; [ICON_Food] ежы і [ICON_Production] вытворчасці, калі ў краіне). +2 лаяльнасці за ход, калі поруч з цэнтрам горада пабудавана місія, а сам горад не знаходзіцца на кантыненце, дзе змесцавана [ICON_Capital] сталіца.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_ACROPOLIS_EXPANSION1_DESCRIPTION" Language="en_US">
+			<Text>Унікальны раён Грэцыі для развіцця культуры. Замяняе тэатральны пляц, таннейшы ў будаванні. Па сканчэнні будавання дае 1 [ICON_Envoy] амбасадара.[NEWLINE][NEWLINE]Бонус +1 да [ICON_Culture] культуры за кожны прылеглы раён і дадатковы бонус +1 да [ICON_Culture] культуры за суседства з цэнтрам горада. Бонус +2 да [ICON_Culture] культуры за кожнае прылеглае дзіва свету. Можна пабудаваць толькі на ўзгорках.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NAME" Language="en_US">
+			<Text>У яднанні сіла</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION" Language="en_US">
+			<Text>Калі вы абераце памкненні напачатку залатога ці гераічнага веку, падчас падліку вынікаў эпохі да вашага бонуса дадасца бонус адпаведнага звычайнага веку.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_NAME" Language="en_US">
+			<Text>Слава свету, каралеўства і веры</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_DESCRIPTION" Language="en_US">
+			<Text>+100% [ICON_FAITH] веры цягам першых 10 хадоў пасля абвесткі вайны за пратэктарат. Кожны ваш [ICON_ENVOY] амбасадар у горадзе-дзяржаве з вашай дамінантнай рэлігіяй лічыцца за двух [ICON_ENVOY] амбасадараў. (Павінна быць дамінантная рэлігія).</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TSIKHE_DESCRIPTION" Language="en_US">
+			<Text>Унікальны будынак Грузіі. Патрабуе менш [ICON_Production] вытворчасці, чым сцены Адраджэння. Павялічвае абараназдольнасць вонкавых умацаванняў да максімальна магчымага роўня. Дае +3 [ICON_TOURISM] адз. да турызму пасля даследавання сацыяльнага інстытута «Ахова прыроды». Дае +3 [ICON_Faith] адз. веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_NAME" Language="en_US">
+			<Text>Вялікія рэкі</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_DESCRIPTION" Language="en_US">
+			<Text>Павялічаны бонус за суседства для кампусаў, тэатральных пляцоў і прамысловых зонаў, што знаходзяцца поруч з ракой. Культурны захоп суседніх клетак пасля пабудовы гавані.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_RADIO_ORANJE_NAME" Language="en_US">
+			<Text>«Радыё Оранье»</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_RADIO_ORANJE_DESCRIPTION" Language="en_US">
+			<Text>Вашы [ICON_TradeRoute] гандлёвыя шляхі да сваіх гарадоў даюць выточнаму пункту +1 лаяльнасці за ход. [ICON_TradeRoute] Гандлёвыя шляхі да замежных гарадоў ці ад іх даюць вам +1 [ICON_Culture] культуры.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_POLDER_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам будаваць польдар – унікальную пабудову Нідэрландаў.[NEWLINE][NEWLINE]+1 [ICON_FOOD] ежы, +1 [ICON_Production] вытворчасці і +0,5 [ICON_Housing] жытла. Яшчэ +1 [ICON_FOOD] ежы пры суседстве з польдарам. Дадатковая [ICON_PRODUCTION] вытворчасць, [ICON_GOLD] золата і [ICON_FOOD] ежа з цягам пасоўвання па дрэву тэхналогій і сацыяльных інстытутаў. Можна пабудаваць толькі на клетках узбярэжжа ці возера поруч з 3 і больш праходнымі клеткамі сушы. Павялічвае кошт [ICON_Movement] руху па клетцы да 3.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TSIKHE_DESCRIPTION_XP2" Language="en_US">
+			<Text>Унікальны будынак Грузіі. Патрабуе менш [ICON_Production] вытворчасці і забяспечвае лепшую абарону горада, чым сцены Адраджэння. Дае +3 [ICON_TOURISM] адз. да турызму пасля даследавання сацыяльнага інстытута «Ахова прыроды». Дае +4 [ICON_Faith] адз. веры. У залатым веку +100% да [ICON_TOURISM] турызму і [ICON_FAITH] веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_HOF_GRAPH_PLAYER_ERASCORE" Language="en_US">
+			<Text>Лік эпохі гульца</Text>
+		</Replace>
+		<Replace Tag="LOC_HOF_GRAPH_GOVERNOR_TITLES" Language="en_US">
+			<Text>Атрыманы губернатарскія тытулы</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_TOQUI_COMBAT_BONUS_VS_GOLDEN_AGE_CIV_DESCRIPTION" Language="en_US">
+			<Text>+{1_Amount} супраць цывілізацый, што знаходзяцца ў залатым веку</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ZULU_IMPI_NAME" Language="en_US">
+			<Text>Імпі|імпі|імпі|імпі|імпі|імпі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_KOREAN_HWACHA_NAME" Language="en_US">
+			<Text>Хвачха|хвачхі|хвачсе|хвачху|хвачхай|хвачсе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_NAME" Language="en_US">
+			<Text>Горац|горца|горцу|горца|горцам|горцу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_NAME" Language="en_US">
+			<Text>Сем правінцый|Сямі правінцый|Сямі правінцям|Сем правінцый|Сям'ю правінцыямі|Сямі правінцыях</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MONGOLIAN_KESHIG_NAME" Language="en_US">
+			<Text>Кэшык|кэшыка|кэшыку|кэшыка|кэшыкам|кэшыку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_NAME" Language="en_US">
+			<Text>Хеўсуры|хеўсураў|хеўсурам|хеўсураў|хеўсурамі|хеўсурах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_NAME" Language="en_US">
+			<Text>Вершнік-малон|Вершніка-малона|Вершніку-малону|Вершнік-малона|Вершнікам-малонам|Вершніку-малону</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_CREE_OKIHTCITAW_NAME" Language="en_US">
+			<Text>Акічыта|акічыта|акічыта|акічыта|акічыта|акічыта</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+	</LocalizedText>
+</GameData>

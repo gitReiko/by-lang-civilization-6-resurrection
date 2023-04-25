@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_ALEXANDER_SCENARIO_NAME" Language="en_US">
+			<Text>Заваёвы Аляксандра</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_ALEXANDER_SCENARIO_TOOLTIP" Language="en_US">
+			<Text>Ці створыце вы імперыю, годную Аляксандра Вялікага? Колькасць хадоў: не больш за 60.</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_ALEXANDER_SCENARIO_DESCRIPTION" Language="en_US">
+			<Text>У гэтым сцэнары на аднаго гульца з абмежаваннем часу вам давядзецца паспяшацца з пашырэннем сваёй імперыі, каб заслужыць мянушку «Аляксандр Вялікі». Гэты сцэнар засяроджаны на баявых дзеяннях, тэрытарыяльнай экспансіі і ашчадным выкарыстанні вялікіх вайскаводаў, якія будуць ваяваць на вашым боку.[NEWLINE][NEWLINE]Каб перамагчы, захапіце ўсе гарады на карце за пэўную колькасць хадоў у залежнасці ад роўня складанасці:[NEWLINE][NEWLINE]Асаднік: 60 хадоў[NEWLINE]Вайскавод ці правадыр: 55 хадоў[NEWLINE]Цар ці князь: 50 хадоў[NEWLINE]Несмяротны ці імператар: 45 хадоў[NEWLINE]Божышча: 37 хадоў</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_MOD_ALEXANDERSCENARIO_MAP_NAME" Language="en_US">
+			<Text>Свет Аляксандра</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MAP_DESCRIPTION" Language="en_US">
+			<Text>Ад Грэцыі да Егіпта і Індыі.</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_NAME" Language="en_US">
+			<Text>Дарый III|Дарыя III|Дарыю III|Дарыя III|Дарыем III|Дарыі III</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_NAME" Language="en_US">
+			<Text>Гарады, названыя ў гонар заснавальніка</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Асаднікі атрымаюць +1 [ICON_Movement] АР. Усе гарады пры заснаванні атрымаюць 2 адзінкі [ICON_Citizen] насельніцтва і свіран. [ICON_Production] Будаванне раёнаў паскараецца, вайсковыя лагеры будуюцца адразу са школай царскіх пажоў.</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_NAME" Language="en_US">
+			<Text>Хаўруснікі</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Пачаць гульню сюзерэнам Афінаў, Мараканды і Паталы.</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_NAME" Language="en_US">
+			<Text>Арганізацыя паштовай службы</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Будаўнікі могуць пабудаваць на 1 паляпшэнне больш.</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_UNIT_SETTLER_TRAIT_NAME" Language="en_US">
+			<Text>Унікальны македонскі юніт: асаднікі</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_QUOTE" Language="en_US">
+			<Text>«Я не краду перамогу» (Аляксандр Вялікі)</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_NAME" Language="en_US">
+			<Text>Аляксандр Несумнеўна Вялікі</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_QUOTE" Language="en_US">
+			<Text>«Наймоцнаму!»</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_NAME" Language="en_US">
+			<Text>Аляксандр Вельмі Добры</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_QUOTE" Language="en_US">
+			<Text>«Няма нічога немагчымага для таго, хто спрабуе».</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_NAME" Language="en_US">
+			<Text>Аляксандр Даволі Нядрэнны</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_QUOTE" Language="en_US">
+			<Text>«Я б жадаў вылучацца не магутнасцю, а ведамі таго, што прыгожа».</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_NAME" Language="en_US">
+			<Text>Аляксандр Вельмі Сярэдні</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_QUOTE" Language="en_US">
+			<Text>«Хіба вы не ведаеце, што канчатковая мэта перамогі складаецца для нас у тым, каб не рабіць таго, што робяць пераможаныя?»</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_NAME" Language="en_US">
+			<Text>Аляксандр Зусім Нікчэмны</Text>
+ਉ	</Replace>
+		<Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_QUOTE" Language="en_US">
+			<Text>«О, святыя цені смерці! Я не вінавачу вас за жорсткую і горкую долю».</Text>
+ਉ	</Replace>
+ਉ</LocalizedText>
+</GameData>

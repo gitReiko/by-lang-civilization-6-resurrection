@@ -1,0 +1,1250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_BUILDING_ANGKOR_WAT_NAME" Language="en_US">
+			<Text>Ангкор-Ват|Ангкор-Вата|Ангкор-Вату|Ангкор-Ват|Ангкор-Ватам|Ангкор-Ваце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MAJAPAHIT" Language="en_US">
+			<Text>Маджапахіт|Маджапахіта|Маджапахіту|Маджапахіт|Маджапахітам|Маджапахіце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TUBAN" Language="en_US">
+			<Text>Тубан|Тубана|Тубану|Тубан|Тубанам|Тубане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PALEMBANG" Language="en_US">
+			<Text>Палембанг|Палембанга|Палембангу|Палембанг|Палембангам|Палембанзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JAMBI" Language="en_US">
+			<Text>Джамбі|Джамбі|Джамбі|Джамбі|Джамбі|Джамбі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TERNATE" Language="en_US">
+			<Text>Тэрнатэ|Тэрнатэ|Тэрнатэ|Тэрнатэ|Тэрнатэ|Тэрнатэ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BADUNG" Language="en_US">
+			<Text>Бадунг|Бадунга|Бадунгу|Бадунг|Бадунгам|Бадунгу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MATARAM" Language="en_US">
+			<Text>Матарам|Матарама|Матараму|Матарам|Матарамам|Матараме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SURABAYA" Language="en_US">
+			<Text>Сурабая|Сурабаі|Сурабаі|Сурабаю|Сурабаяй|Сурабаі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BANJARMASIN" Language="en_US">
+			<Text>Банджармасін|Банджармасіна|Банджармасіну|Банджармасін|Банджармасінам|Банджармасіне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BIMA" Language="en_US">
+			<Text>Біма|Бімы|Біме|Біму|Бімай|Біме</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MAKASSAR" Language="en_US">
+			<Text>Макасар|Макасара|Макасару|Макасар|Макасарам|Макасары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LAMPUNG" Language="en_US">
+			<Text>Лампунг|Лампунга|Лампунгу|Лампунг|Лампунгам|Лампунзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BARUS" Language="en_US">
+			<Text>Барус|Баруса|Барусу|Барус|Барусам|Барусе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BANTEN" Language="en_US">
+			<Text>Бантэн|Бантэна|Бантэну|Бантэн|Бантэнам|Бантэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GELGEL" Language="en_US">
+			<Text>Гелгел|Гелгела|Гелгелу|Гелгел|Гелгелам|Гелгеле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BOGOR" Language="en_US">
+			<Text>Багор|Багора|Багору|Багор|Багорам|Багоры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PAGARUYUNG" Language="en_US">
+			<Text>Пагаруюнг|Пагаруюнга|Пагаруюнгу|Пагаруюнг|Пагаруюнгам|Пагаруюнгу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GORONTALO" Language="en_US">
+			<Text>Гарантала|Гарантала|Гарантала|Гарантала|Гарантала|Гарантала</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PEKALONGAN" Language="en_US">
+			<Text>Пекаланган|Пекалангана|Пекалангану|Пекаланган|Пекаланганам|Пекалангане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SUKADANA" Language="en_US">
+			<Text>Сукадана|Сукаданы|Сукадане|Сукадану|Сукаданай|Сукадане</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MALANG" Language="en_US">
+			<Text>Маланг|Маланга|Малангу|Маланг|Малангам|Малангу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LAMBRI" Language="en_US">
+			<Text>Ламбры|Ламбры|Ламбры|Ламбры|Ламбры|Ламбры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SUKABUMI" Language="en_US">
+			<Text>Сукабумі|Сукабумі|Сукабумі|Сукабумі|Сукабумі|Сукабумі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KAHURIPAN" Language="en_US">
+			<Text>Кахурыпан|Кахурыпана|Кахурыпану|Кахурыпан|Кахурыпанам|Кахурыпане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BENGKULU" Language="en_US">
+			<Text>Бенкулу|Бенкулу|Бенкулу|Бенкулу|Бенкулу|Бенкулу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KEDIRI" Language="en_US">
+			<Text>Кедыры|Кедыры|Кедыры|Кедыры|Кедыры|Кедыры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TANJUNGPINANG" Language="en_US">
+			<Text>Танджунгпінанг|Танджунгпінанга|Танджунгпінангу|Танджунгпінанг|Танджунгпінангам|Танджунгпінангу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BAU_BAU" Language="en_US">
+			<Text>Бау-Бау|Бау-Бау|Бау-Бау|Бау-Бау|Бау-Бау|Бау-Бау</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GRESIK" Language="en_US">
+			<Text>Грэсік|Грэсіка|Грэсіку|Грэсік|Грэсікам|Грэсіку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PONTIANAK" Language="en_US">
+			<Text>Пантыянак|Пантыянака|Пантыянаку|Пантыянак|Пантыянакам|Пантыянаку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PANGKALPINANG" Language="en_US">
+			<Text>Панкалпінанг|Панкалпінанга|Панкалпінангу|Панкалпінанг|Панкалпінангам|Панкалпінангу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ANGKOR_THOM" Language="en_US">
+			<Text>Ангкор-Тхом|Ангкор-Тхома|Ангкор-Тхому|Ангкор-Тхом|Ангкор-Тхомам|Ангкор-Тхоме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ANGKOR_WAT" Language="en_US">
+			<Text>Ангкор-Ват|Ангкор-Вата|Ангкор-Вату|Ангкор-Ват|Ангкор-Ватам|Ангкор-Ваце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HARIHARALAYA" Language="en_US">
+			<Text>Харыхаралая|Харыхаралаі|Харыхаралаі|Харыхаралаю|Харыхаралаяй|Харыхаралаі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_YASODHARAPURA" Language="en_US">
+			<Text>Яшодхарапура|Яшодхарапуры|Яшодхарапуры|Яшодхарапуру|Яшодхарапурай|Яшодхарапуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MAHENDRAPARVATA" Language="en_US">
+			<Text>Махендрапарвата|Махендрапарваты|Махендрапарваце|Махендрапарвату|Махендрапарватай|Махендрапарваце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VIMAYAPURA" Language="en_US">
+			<Text>Вімаяпура|Вімаяпуры|Вімаяпуры|Вімаяпуру|Вімаяпурай|Вімаяпуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_INDRAPURA" Language="en_US">
+			<Text>Індрапура|Індрапуры|Індрапуры|Індрапуру|Індрапурай|Індрапуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LINGAPURA" Language="en_US">
+			<Text>Лінгапура|Лінгапуры|Лінгапуры|Лінгапуру|Лінгапурай|Лінгапуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PREAH_VIHEAR" Language="en_US">
+			<Text>Прэахвіхеа|Прэахвіхеа|Прэахвіхеа|Прэахвіхеа|Прэахвіхеа|Прэахвіхеа</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BHAVAPURA" Language="en_US">
+			<Text>Бхавапура|Бхавапуры|Бхавапуры|Бхавапуру|Бхавапурай|Бхавапуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KOMPONG_SVAY" Language="en_US">
+			<Text>Кампанг Свай|Кампанга Свая|Кампангу Сваю|Кампанг Свай|Кампангам Сваем|Кампанзе Сваі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NAGARA_JAYASRI" Language="en_US">
+			<Text>Нагара Джаяшры|Нагары Джаяшры|Нагары Джаяшры|Нагару Джаяшры|Нагарай Джаяшры|Нагары Джаяшры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_VYADHAPURA" Language="en_US">
+			<Text>Ўядхапура|Ўядхапуры|Ўядхапуры|Ўядхапуру|Ўядхапурай|Ўядхапуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHATURMUKHA" Language="en_US">
+			<Text>Чатурмукха|Чатурмукхі|Чатурмуксе|Чатурмукху|Чатурмукхай|Чатурмуксе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DVIRADAPURA" Language="en_US">
+			<Text>Двірадапура|Двірадапуры|Двірадапуры|Двірадапуру|Двірадапурай|Двірадапуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RAJAVIHARA" Language="en_US">
+			<Text>Раджавіхара|Раджавіхары|Раджавіхары|Раджавіхару|Раджавіхарай|Раджавіхары</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMARENDRAPURA" Language="en_US">
+			<Text>Амарэндрапура|Амарэндрапуры|Амарэндрапуры|Амарэндрапуру|Амарэндрапурай|Амарэндрапуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PHANOM_RUNG" Language="en_US">
+			<Text>Пханам Рунг|Пханама Рунга|Пханаму Рунгу|Пханам Рунг|Пханамам Рунгам|Пханаме Рунзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ISVARAPURA" Language="en_US">
+			<Text>Ішварапура|Ішварапуры|Ішварапуры|Ішварапуру|Ішварапурай|Ішварапуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MUANG_TAM" Language="en_US">
+			<Text>Муанг Там|Муанга Тама|Муангу Таму|Муанг Там|Муангам Тамам|Муанзе Таме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ANGKOR_BOREI" Language="en_US">
+			<Text>Ангкор Барэй|Ангкора Барэя|Ангкору Барэю|Ангкор Барэй|Ангкорам Барэем|Ангкоры Барэі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BANTEAY_KDEI" Language="en_US">
+			<Text>Бантай Кдэй|Бантая Кдэй|Бантаю Кдэй|Бантай Кдэй|Бантаем Кдэй|Бантаі Кдэй</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PHETCHABURI" Language="en_US">
+			<Text>Пхетбуры|Пхетбуры|Пхетбуры|Пхетбуры|Пхетбуры|Пхетбуры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHAIYA" Language="en_US">
+			<Text>Чая|Чаі|Чаі|Чаю|Чаяй|Чаі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ISANAPURA" Language="en_US">
+			<Text>Ішанапура|Ішанапуры|Ішанапуры|Ішанапуру|Ішанапурай|Ішанапуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PRE_RUP" Language="en_US">
+			<Text>Прэ-Руп|Прэ-Рупа|Прэ-Рупу|Прэ-Руп|Прэ-Рупам|Прэ-Рупе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BENG_MELEA" Language="en_US">
+			<Text>Бэнгмеалеа|Бэнгмеалеа|Бэнгмеалеа|Бэнгмеалеа|Бэнгмеалеа|Бэнгмеалеа</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LAVODAYAPURA" Language="en_US">
+			<Text>Лавадаяпура|Лавадаяпуры|Лавадаяпуры|Лавадаяпуру|Лавадаяпурай|Лавадаяпуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SHRESTAPURA" Language="en_US">
+			<Text>Шрэстапура|Шрэстапуры|Шрэстапуры|Шрэстапуру|Шрэстапурай|Шрэстапуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ANINDITAPURA" Language="en_US">
+			<Text>Аніндытапура|Аніндытапуры|Аніндытапуры|Аніндытапуру|Аніндытапурай|Аніндытапуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KHMER_ADJECTIVE" Language="en_US">
+			<Text>кхмерск.|кхмерск.|кхмерск.|кхмерск.|кхмерск.|кхмерск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_INDONESIA_ADJECTIVE" Language="en_US">
+			<Text>інданезійск.|інданезійск.|інданезійск.|інданезійск.|інданезійск.|інданезійск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Буддийско-индуистское королевство Маджапахит (на территории нынешней Индонезии) в период расцвета распространяло свою власть на 98 подчиненных территорий. Это было сильное государство, которое смогло дать отпор могущественной Монгольской империи. Монарх здесь был не только правителем, но и хранителем, власть которому даровал народ. Но что, если народ больше не считал короля достойным этой власти?</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>В 1293-1500 гг. империя Маджапахит охватывала часть современной Индонезии с центром в Нусантаре (провинции Малуку и Суматра). Немыслимое богатство этого государства постоянно приносило ему как внешних врагов, так и внутренние междоусобицы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Нам известно, что империя Маджапахит выросла из средневекового индуистского государства Сингасари (1222-1292), которое, в свою очередь, пришло на смену Кедири (1042-1222).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Информацию о начальном периоде существования Маджапахита можно найти в многочисленных храмовых летописях и в хрониках враждебных Маджапахиту государств региона. Основные источники информации – переводы эпической поэмы «Нагаракретагама» («Описание отечества»). Поскольку это произведение написано придворным поэтом, было бы логично предположить, что некоторые детали в нем приукрашены, чтобы подчеркнуть величие событий.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Согласно легенде, монархи Маджапахита происходят от сироты Кен Арока – сына обычной женщины и бога Брахмы. Кен Арок захватил власть в Кедири и был убит в результате дворцового переворота.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Но его потомки выжили. Один из них, раден Виджая, в 1293 г. стал правителем Маджапахита (известен под именем Кертараджаса Джайявардхана). Виджая начал создание империи с небольшого поселения, обязанного своим названием горькому фрукту маджа.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>Вместо того, чтобы жить спокойной деревенской жизнью, Виджая заключил брак с четырьмя дочерями Кертанегары, последнего правителя Сингасари. Не все в Сингасари были согласны с тем, что какой-то чужак женился на всех принцессах сразу и стал королем, поэтому Виджае постоянно приходилось подавлять восстания, а также отбиваться от монгольских правителей из династии Юань, которые послали против него стотысячное войско на тысяче кораблей. В общем, он прилагал все усилия к тому, чтобы не стать первым и последним правителем Маджапахита.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>Империя Маджапахит росла и богатела благодаря торговле рисом (некоторые исследования свидетельствуют о том, что до 80% населения были заняты в рисоводстве) и специями. Морские пути связывали ее с Китаем и Индией, налоги от торговли текли рекой в казну. </Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>Правители Маджапахита не стеснялись применять свой военный флот. Барельефы этого периода часто изображают морские набеги на соседние королевства. Тяжелые джонки перевозили людей и товары, способствовали повсеместному распространению риса и малайского языка.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>Согласно принципу управления «мандала», божественная власть исходит от правителя вовне, обеспечивая военную защиту и участие в религиозной жизни столицы. Сельские жители и местная знать платят подати в столицу империи Маджапахит – город Тровулан, – а взамен правитель восстанавливает храмы, присылает дары и отправляет членов своей семьи управлять отдаленными провинциями.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>В XV в. королевству удалось взять верх в региональном соперничестве с султанатом Джохор и Сиамом (Таиландом) благодаря многочисленным набегам на малайские султанаты. Империя Маджапахит в период расцвета была крупнейшим государством региона.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_12" Language="en_US">
+			<Text>После смерти радена Виджаи в 1309 г. трон унаследовал его сын Джаянегара, который правил в 1309-1328 гг. и был убит. Ему наследовала сводная сестра Трибхувана, от которой трон в 1350 г. перешел к ее сыну Хаяму Вуруку.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_13" Language="en_US">
+			<Text>С этого момента начинается расцвет империи Маджапахит, о котором так много рассказывают. Хаям Вурук (известный также по титулу «раджасанагара») вступил на престол в 16-летнем возрасте с помощью «пати» (великого визиря или первого министра) Гаджа Мады и вскоре распространил влияние династии Раджасов на весь регион.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_14" Language="en_US">
+			<Text>Хаям Вурук был умелым лучником, которого мать воспитывала истинным наследником трона (говорят, он был к тому же весьма хорош собой). Он укрепил власть своей семьи и стал центром мандалы Маджапахит.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_15" Language="en_US">
+			<Text>Но любовь народа к правителю не спасла страну от кровопролитной и разорительной войны за престолонаследие. В 1404-1406 гг. Бре Варабуми, сын короля и наложницы, пытался отнять власть у своего недавно коронованного родственника.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_16" Language="en_US">
+			<Text>Словно этого было недостаточно, торговые пути – основа могущества империи – стали причиной ее окончательного краха. На восточных островах обосновались европейские торговцы, и центр экономики переместился из империи в их поселения. Порт Мелака на полуострове Малакка отнял пальму первенства у Маджапахита и стал крупнейшим торговым центром Юго-Восточной Азии, в то время как маджапахитские торговцы массово принимали ислам, чтобы снискать расположение мусульманского большинства Мелаки.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_17" Language="en_US">
+			<Text>Похоже, народу уже не был нужен правитель.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_18" Language="en_US">
+			<Text>В последующие годы исчезли последние следы Маджапахита. К XVI в. на смену индуистско-буддийской империи пришел султанат, усилилось мусульманское влияние со стороны западных провинций (Ачех, Мелака и др.). Султаны продолжили войны за доминирование в регионе. Их правление было прервано вторжением голландцев и португальцев, пристрастившихся к пряностям из Юго-Восточной Азии и в XVI-XVII вв. конкурировавших за контроль над империей.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_TITLE" Language="en_US">
+			<Text>Трыбхувана</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_SUBTITLE" Language="en_US">
+			<Text>Трыбхуванатунгадэві Джаявішнуварадхані, яванская каралева-рэгент, вядомая як Трыбхувана.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_QUOTE" Language="en_US">
+			<Text>Калі бракуе зямлі – руш ў плаванне. У акіяне ты знойдзеш новыя землі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Как заточенной в башне принцессе стать правительницей целой империи пряностей? В XIV веке ответ был прост: надо кое-кого убить.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Большая часть сведений о правлении Трибхуваны известна нам из эпической поэмы «Нагаракретагама». Поэма написана придворным поэтом Ракави Прапанчей и представляет собой смесь исторических фактов и мифов, относиться к которым следует с долей сомнения. В «Нагаракретагаме» сообщается, что настоящая история удельной княгини Кахурипана Трибхуваны начинается после убийства ее сводного брата – короля Джаянагары.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Королева-регент Трибхуванноттунгадеви Джаявишнуварадхани, или просто Трибхувана, родилась не позднее 1309 г. Ее отцом был создатель империи Маджапахит раден Виджая и королева-консорт Гаятри Раджапатни. Она правила империей пряностей с 1329 по 1350 гг., унаследовав трон от сводного брата Джаянагары (известного также как принц Кадири) посреди хаоса и беспорядков в Маджапахите.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Легенда утверждает, что Джаянагара жил в окружении такого количества врагов, что даже в сестрах видел угрозу своей власти. Он держал их взаперти вдали от дворца и от возможных женихов. Но он не учел ревнивого характера придворного врача, который в 1328 г. убил короля, узнав, что тот соблазнил его жену.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Джаянагара больше волочился за женами своих подданных, чем заботился о продолжении рода, и поэтому королева-консорт в 1329 г. посадила на трон свою дочь. Королева-регент получила официальный титул Трибхуванноттунгадеви Джаявишнуварадхани.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>В тот же год она назначила Гаджа Маду на должность «пати» – первого министра Маджапахита. Летописи характеризуют Маду как ярого сторонника расширения Маджапахита, верного слугу трех правителей династии Раджаса и придворного интригана. Нам неизвестно, правдивы ли слухи о причастности Мады к убийству Джаянагары, но в записях есть свидетельства того, что и мать, и дочь знали о возможном участии их министра в цареубийстве.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>В тот же год свободная от оков безбрачия королева вступила в брак с князем Чахрадхарой. В 1334 г. у них родился сын Хаям Вурук.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>Королева-регент подавила восстания в областях Саденг и Кета. Рассказывают, что она лично участвовала в битвах вместе со своим двоюродным братом Адитьяварманом, королем Малайяпуры.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>Но в истории ее правление осталось благодаря завоеванию острова Бали под командованием первого министра. Гаджа Мада положил конец независимости острова и подчинил его власти Маджапахита.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>Правление Трибхуваны окончилось не из-за войны или дворцовых интриг, а из-за причуд престолонаследования в Маджапахите. Ее мать Гаятри должна была назначить свою дочь регентом – это означало, что Трибхувана правила бы так, как угодно вдовствующей королеве. Но в 1350 г. Гаятри умерла в монастыре, Трибхувана лишилась покровителей и была вынуждена отречься от трона.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>Трибхуване наследовал ее сын Хаям Вурук. По мнению многих индонезийцев, период его правления – золотой век империи Маджапахит. Некоторые исследователи считают, что ему удалось упрочить унаследованную от матери власть и расширить границы государства на всю территорию нынешней Индонезии и часть Малайзии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_12" Language="en_US">
+			<Text>Как жила Трибхувана после отречения? Летописи об этом умалчивают. Неизвестна даже дата ее смерти. Но она осталась в истории как правительница, при которой границы империи расширились, а величие Маджапахита возросло.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Трыбхувана  – уладніца ўсіх выспаў і берагоў, гарады яе раскіданы па ўсіх водах і знаходзяцца пад аховай інданезійскіх джонак.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Інданезіі патрэбна ўзбярэжжа з вялікай колькасцю бухт і заліваў. Такая тэрыторыя ідэальна падыдзе для будавання гарадскіх раёнаў з максімальнай колькасцю бонусаў за суседства. Пасля вывучэння карабельніцтва будаўнікі Трыбхуваны змогуць пашыраць гарады з дапамогай кампангаў (мястэчак на палях), што зменшыць патрэбу ў ворных землях для ўзросту гарадскога насельніцтва. Інданезіі варта вырабляць як мага больш [ICON_Faith] веры, каб ствараць магутны флот джонак, наймаць [ICON_GreatPerson] выбітных людзей ці дасягнуць рэлігійнай перамогі з дапамогай рэлігійных юнітаў, якія рухаюцца па вадзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В IX-XV вв. в Юго-Восточной Азии безраздельно властвовали правители Кхмерской империи. Это было мощное государство с сильной армией и развитым сельским хозяйством. Кхмеры соперничали даже с могущественным Китаем. К несчастью, рис и золото привлекали многих врагов, и в конце концов завоеватели Суварнабхуми («золотой земли») сами пали жертвой завоевания.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Археологические данные и китайские летописи позволяют проследить историю Кхмерской империи в долине Меконга до I в. Китайцы весь этот регион называли «Фунань», объединяя под этим именем совершенно различные, порой враждующие между собой народы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Согласно кхмерской легенде, эти народы произошли от первого камбоджийского короля – индийского принца Преа Тхонга или Каундиньи (в китайских хрониках упоминается под именем Хуньтянь) и богини-змеи Ньян-ник, принцессы нагов из волшебного морского царства. Легенда гласит, что эти земли были свадебным подарком от отца принцессы, который осушил воду вокруг острова, чтобы здесь поселились молодожены и их потомство.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Легенды свидетельствуют о сильном влиянии индуистской культуры в этом регионе. В Фунане и долине Меконга останавливались индийские путешественники и торговцы по пути на запад. Индусы принесли сюда свою религию, законы и письменность, которые смешались с местными анимистическими традициями.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Жители крохотных фунаньских княжеств столетиями враждовали между собой, пока в IX в. их не объединил Джайаварман II, с которого началась эпоха централизованной власти Ангкора.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Первый король-завоеватель появился у кхмеров в IX в. Сначала Джайаварман II был то ли гостем, то ли пленником яванцев. Вернувшись на родину, он сразу занялся устранением конкурентов в борьбе за власть в долине Меконга.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>Покончив с этим, он провел ритуал на горе Махендра (плато Кулен) и объявил себя «чакравартином» («верховным правителем»). Так, в 802 г. Джайаварман II заручился поддержкой богов в деле строительства империи.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>Такой подход себя оправдал: в период максимального расцвета Кхмерская империя владела большей частью территории современного Таиланда и половиной Вьетнама. В столице жило более миллиона человек. К X в. территория империи простиралась до Южно-Китайского моря и граничила с Монгольской империей и землями династии Тан. В общем, все это вполне позволяло контролировать торговлю в долине Меконга.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>В 1296-1297 гг. Кхмерскую империю посетил китайский посол Чжоу Дагуань. В «Записках об обычаях Камбоджи» он сообщает: «С давних пор это страна торговцев». Чжоу описал страну золотых и каменных башен, которая покупала в Сиаме и Чампе ткани и китайский шелк для зонтиков.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>Кхмерская империя разбогатела на торговле сырьем. Кхмеры снабжали рисом всю Юго-Восточную Азию, примерно 80% населения было занято в рисоводстве и торговле рисом.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>В период расцвета Кхмерской империи Сурьяварман II начал строительство храма Ангкор-Ват (строительство было закончено через 27 лет после его смерти). Ангкор-Ват повторяет очертания мифической горы Меру – центра всех материальных и духовных вселенных. Таким образом кхмерские правители пытались создать образ неба на земле.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_12" Language="en_US">
+			<Text>Это было не просто благочестие. Индуистские (а при Джайавармане VII – буддийские) правители стремились привлечь богов на свою сторону. Правитель изо всех сил старался вести себя так, как подобает божеству, и строил храмы как отражение небесной реальности. Чем сильнее и благообразнее был правитель, тем больше у него было последователей, тем обширнее были его владения.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_13" Language="en_US">
+			<Text>И наоборот, слабый правитель, в чьем поведении было мало божественного, был недостоин править страной.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_14" Language="en_US">
+			<Text>По иронии судьбы, именно богатство и величие Кхмерской империи привело ее к упадку. В XI-XIV вв. северный народ тай (современные тайцы, лао и шаны) вел войну против монгольских захватчиков. Племенам тай пришлось покинуть свою высокогорную родину и уйти на юг, где на окраинах Кхмерской империи они основали государства Сукотай, Ланнатай и Аюттхайя.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_15" Language="en_US">
+			<Text>Кхмерам не удалось справиться ни с нашествием северян, ни с государством Чампа на востоке. К 1431 г. королевство Аюттхайя захватило Ангкор, и кхмерам пришлось отступить в Пномпень – современную столицу Камбоджи.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_16" Language="en_US">
+			<Text>Империя исчезла, но остались ее храмы. До сих пор камбоджийцы рассказывают истории о нашествии с моря, о своих предках, о брахмане и принцессе нагов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_TITLE" Language="en_US">
+			<Text>Джаяварман VII</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_SUBTITLE" Language="en_US">
+			<Text>Кароль Кхмерскай імперыі</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_QUOTE" Language="en_US">
+			<Text>Клапаціся пра свой народ. Чалавек – гэта яго дзеі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Этот человек создал невероятную инфраструктуру и сокрушил державы соперников. При нем начался золотой век Кхмерской империи. Знакомьтесь – король Джайаварман VII.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Джайаварман VII был сыном короля Дхараниндравармана II. Большая часть известных сведений о нем содержится в надписях храма Раджавихара (Та Прум) и Пхимеанакаса. Эти надписи включают обширную, хоть и неполную информацию о любимом народом правителе.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Нам известно, что правление Джайавармана VII началось в тяжелые для кхмеров времена. На севере они утрачивали власть над отдаленными вассальными государствами. Монголы (а позднее – династия Мин) подчиняли себе торговлю в Юго-Восточной Азии (а торговля сырьем приносила кхмерам баснословные прибыли). На юге назревала революция в Малайе. На востоке империя вступила в 14-летнюю войну с Чампой (на территории нынешнего центрального Вьетнама).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Двадцать лет жизни Джайаварман отдал войне своего родственника короля Яшовармана II против тямов. Интересный факт: по легенде, когда на короля Яшовармана II напал ужасный демон Раху (летающая голова, которая проглатывает солнце во время затмений), его спас один из сыновей Джайавармана VII.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>К 1178 году тямы под предводительством короля Джая Индравармана IV дважды вторгались в Кхмерскую империю, причем во второй раз разрушили столицу Яшодхарапуру и разграбили Ангкор-Ват.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Мы не знаем, почему в этот период Джайаварман жил в Виджайе, центральной части Чампы (возможно, он там гостил). Позднее он отправился в поход на запад и с помощью тямов захватил власть в Кхмерской империи.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>Об этом свидетельствуют надписи в Чампе, но они не объясняют, почему армия тямов выступила вместе с иноземцем. Или почему через десять лет после коронации тямский принц помог королю Джайаварману захватить столицу Чампы Виджайю и короля Индравармана.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>К 1181 году Джайаварман VII с помощью дипломатии (и нескольких союзников) изгнал тямских захватчиков. Когда война утихла, он короновался. Как водится, в честь начала правления он основал новую столицу – Ангкор-Тхом.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>С этого момента от новоиспеченного монарха следовало бы ожидать захватнических войн и территориальной экспансии. И хотя Джайаварман продолжал войну с Чампой, пока в 1190 г. не посадил на трон марионеточного правителя, в первую очередь он сосредоточился на внутренних проблемах и начал беспрецедентный период инфраструктурного строительства.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>Король Джайаварман VII считал себя воином на страже своих подданных, и не только в военном смысле (хотя и не избегал сражений). В отличие от своих предшественников-индуистов, которые считали монарха центром государства, Джайаварман следовал буддийскому принципу, согласно которому центральным элементом государства является народ.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>Буддизм Махаяны сочетает в себе бесконечное сострадание (воплощенное в бодхисаттве Авалокитешваре) и запредельную мудрость (Праджняпарамита). Этими двумя принципами руководствовался король Джайаварман, когда пытался создать рай на земле для своих подданных.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_12" Language="en_US">
+			<Text>Джайаварман объявил буддизм Махаяны государственной религией, прервав 400-летнюю индуистскую традицию. В честь этого события он приказал построить множество храмов, 102 больницы, мощеные дороги в местностях, не подверженных наводнениям, 54 башни в Байоне и разветвленную сеть оросительных каналов. Кроме того, задокументировано его распоряжение о строительстве постоялых дворов через каждые 15 км по всей стране.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_13" Language="en_US">
+			<Text>Его 40-летнее правление характеризуется веротерпимостью: будучи последователем буддизма, он сохранил должности придворных жрецов-брахманов. В королевстве Камбоджа эти должности сохраняются до сих пор.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_14" Language="en_US">
+			<Text>О последних годах жизни Джайавармана VII нам известно очень немного. Неизвестна даже дата его смерти (между 1215 и 1220 гг.). Его посмертное имя – Маха Парамасангатапада – дань уважения его величию. А что же Кхмерская империя? После смерти короля начался стремительный упадок страны. К 1222 г. тямы вернули себе завоеванные Джайаварманом VII земли.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_15" Language="en_US">
+			<Text>Но разрушить храмы и стереть доброе имя невозможно. Короля Джайавармана VII по сей день с теплотой вспоминают в Камбодже. Даже в ХХ веке он упоминался в государственных учебных изданиях как выдающаяся личность.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Кхмерская імперыя караля Джаявармана – гэта людныя гарады, населеныя дбайнымі будыстамі. Гарады лепш будаваць на рэках, каб найбольш поўна скарыстаць усе здольнасці гэтай цывілізацыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Джаяварман імкнецца скарыстаць сваю пачатковую перавагу і будаваць святыя месцы ўздоўж рэк, каб заняць атачальныя землі і вырабляць [ICON_Food] ежу і [ICON_Housing] жытло. Гэтыя гарады дасягнуць росквіту пасля ўступу кхмераў у эпоху позняй Антычнасці, пасля адкрыцця акведука і ўнікальнага кхмерскага храма – прасата. Калі будуць назаляць суседзі, то можна скарыстаць унікальны юніт «дамрэй» для аблогі гарадоў і захопу тэрыторый на рачных берагах. На позніх этапах гульні густанаселеная імперыя, згуртаваная вакол будыйскай веры, дазволіць Джаяварману здабыць перамогу кожнага тыпу.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDONESIAN_JONG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Если хочешь господствовать на море, атакуй противника многократно превосходящими силами. Следуя этому принципу, правители Маджапахита строили тяжелые суда-джонки. Это были достаточно большие и мощные корабли, которые позволили империи полностью контролировать яванские воды.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDONESIAN_JONG_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Парусники Маджапахита отличались от китайских джонок наличием второго руля – это намного облегчало управление 600-тонным кораблем. Это не было единственным отличием. При слабом ветре гребцы могли увести корабль из-под огня противника или обойти препятствие на море.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDONESIAN_JONG_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Джонки были преимущественно торговыми кораблями, но использовались и для военных целей. Их тяжесть была не для красоты: четырехслойные деревянные борта обеспечивали дополнительную защиту от огня, а в случае нападения противника джонка могла открыть ответный огонь из своих орудий.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_KHMER_DOMREY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Если для твоих кавалеристов не хватает лошадей, то почему бы не использовать слонов для сокрушения и запугивания врага?</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_KHMER_DOMREY_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Кхмеры не остались в стороне от древней традиции использования боевых слонов. Результаты исследований свидетельствуют о том, что индусы первыми применили слонов в военных походах примерно в 1100 г. до н. э., превратив мирное сельскохозяйственное животное в неудержимую пятитонную машину для убийства. Только изобретение пороха немного восстановило равновесие на поле боя.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_KHMER_DOMREY_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Подходящее верховое животное для царя. Военачальники верхом на слонах шли в бой и использовали их для прорыва обороны врага.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_KHMER_DOMREY_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Для атаки у кхмерской кавалерии была не только грубая сила слонов, но и точные двухдужные арбалеты. Но этот вариант домрея отличается большей мощью благодаря баллисте, которая может насквозь пронзить зазевавшегося врага.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_KAMPUNG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Правители густонаселенных островов Юго-Восточной Азии сталкивались с проблемой жилья для своих подданных и защиты их от наводнений и диких животных. Выход был найден: кампонг – плотная застройка на сваях.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_KAMPUNG_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Слово «кампонг» сейчас используется для обозначения любой сельской общины, но в свое время именно этот тип поселений помог Индонезии достичь рекордной плотности населения на островах. Иностранцы были настолько поражены эффективностью индонезийских и малайских кампонгов, что их название перешло в английский язык в форме слова «кампаунд» (compound).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_PRASAT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Правители Кхмерской империи решили укреплять свою веру в свободное от завоеваний долины Меконга и материковой части Юго-Восточной Азии время. А лучший способ показать свою набожность – это возводить огромные храмы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_PRASAT_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Эти священные места были для кхмеров как символом благочестия их правителей, так и свидетельством их инженерного мастерства. Старейший из известных нам кхмерских храмов – Ак Йом (около 800 года). Он построен в соответствии с южноиндийской традицией «ратха» – высокие здания, увенчанные короной. Кхмеры видоизменили индийский стиль и стали строить храмы в виде «прангов» (башен).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_PRASAT_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Все кхмерские правители строили храмы. Сначала постройки были обращены на восток, в честь индуистского божества Шивы, а после того, как в XII в. при Джайавармане VII в стране утвердился буддизм Махаяны, – на запад.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ANGKOR_WAT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Он стоит уже почти тысячу лет – памятник божеству и, возможно, усыпальница короля-завоевателя, который его построил.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ANGKOR_WAT_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Ангкор-Ват до сих пор стоит, его главная башня на 65 метров возвышается над окружающими джунглями. Этот храм, построенный в XII веке кхмерским королем Сурьяварманом II на севере Камбоджи, является одним из высочайших в мире религиозных памятников.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ANGKOR_WAT_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Паломник, входящий в город-храм бога Вишну, сначала переходит ров шириной 190 метров и глубиной 4,5 метра, окружающий всю постройку, затем через «гопурам» – вход, увенчанный тремя башнями, – попадает на приподнятую дорожку. В храмовом комплексе находится 65-метровая главная башня, символизирующая гору Меру, окруженная четырьмя меньшими башнями.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ANGKOR_WAT_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Обычно кхмерские шиваистские храмы ориентированы на восток, а Ангкор-Ват ориентирован на запад, и это означает, что место захоронения Сурьявармана посвящено богу Вишну.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_HA_LONG_BAY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Мифы о происхождении того или иного народа часто связаны с географическими объектами. Например, вьетнамская легенда сообщает нам, что боги послали нефритового дракона, плюющегося драгоценными камнями, и он создал вокруг бухты цепь островов для защиты от китайского вторжения. Название бухты переводится как «там, где дракон спустился в море».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_HA_LONG_BAY_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Бухта Халонг – это множество известняковых скал и островков, образовавшихся за миллионы лет под действием эрозии. Здесь есть рифы, столбы и пещеры. В настоящее время это более 2000 островов, разбросанных на протяжении 120 км вдоль побережья Вьетнама.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_HA_LONG_BAY_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>За 16 тысяч лет до н. э. здесь уже жили племена рыболовов. В более поздние времена островная гряда служила естественным препятствием для захватчиков. В 1288 г. монголы потерпели здесь поражение от вьетнамского военачальника Чан Хынг Дао, загнавшего монгольские корабли на острые скалы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_HA_LONG_BAY_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>С 2000 г. бухта Халонг является объектом всемирного наследия ЮНЕСКО.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MALE_1" Language="en_US">
+			<Text>Адыцьяварман|Адыцьявармана|Адыцьяварману|Адыцьявармана|Адыцьяварманам|Адыцьяварману</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MALE_2" Language="en_US">
+			<Text>Аірланга|Аірлангі|Аірлангу|Аірланга|Аірлангам|Аірлангу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MALE_3" Language="en_US">
+			<Text>Анушапаці|Анушапаці|Анушапаці|Анушапаці|Анушапаці|Анушапаці</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MALE_4" Language="en_US">
+			<Text>Джаякатванг|Джаякатванга|Джаякатвангу|Джаякатванга|Джаякатвангам|Джаякатвангу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MALE_5" Language="en_US">
+			<Text>Джаяпангус|Джаяпангуса|Джаяпангусу|Джаяпангуса|Джаяпангусам|Джаяпангусу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MALE_6" Language="en_US">
+			<Text>Кертанегара|Кертанегары|Кертанегары|Кертанегару|Кертанегарам|Кертанегару</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MALE_7" Language="en_US">
+			<Text>Намбі|Намбі|Намбі|Намбі|Намбі|Намбі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MALE_8" Language="en_US">
+			<Text>Прапанча|Прапанчы|Прапанчу|Прапанчу|Прапанчам|Прапанчу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MALE_9" Language="en_US">
+			<Text>Самарагравіра|Самарагравіры|Самарагравіру|Самарагравіру|Самарагравірам|Самарагравіры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MALE_10" Language="en_US">
+			<Text>Віджая|Віджаі|Віджаю|Віджаю|Віджаем|Віджаю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_FEMALE_1" Language="en_US">
+			<Text>Гаятры|Гаятры|Гаятры|Гаятры|Гаятры|Гаятры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_FEMALE_2" Language="en_US">
+			<Text>Кідул|Кідул|Кідул|Кідул|Кідул|Кідул</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_FEMALE_3" Language="en_US">
+			<Text>Кусумаварадхані|Кусумаварадхані|Кусумаварадхані|Кусумаварадхані|Кусумаварадхані|Кусумаварадхані</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_FEMALE_4" Language="en_US">
+			<Text>Махендрадата|Махендрадаты|Махендрадаце|Махендрадату|Махендрадатай|Махендрадаце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_FEMALE_5" Language="en_US">
+			<Text>Мелаці|Мелаці|Мелаці|Мелаці|Мелаці|Мелаці</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_FEMALE_6" Language="en_US">
+			<Text>Піталока|Піталокі|Піталоцы|Піталоку|Піталокай|Піталоцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_FEMALE_7" Language="en_US">
+			<Text>Раджапатні|Раджапатні|Раджапатні|Раджапатні|Раджапатні|Раджапатні</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_FEMALE_8" Language="en_US">
+			<Text>Сінта|Сінты|Сінце|Сінту|Сінтай|Сінце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_FEMALE_9" Language="en_US">
+			<Text>Сухіта|Сухіты|Сухіце|Сухіту|Сухітай|Сухіце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_FEMALE_10" Language="en_US">
+			<Text>Сусілаваці|Сусілаваці|Сусілаваці|Сусілаваці|Сусілаваці|Сусілаваці</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_1" Language="en_US">
+			<Text>Адхі|Адхі|Адхі|Адхі|Адхі|Адхі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_2" Language="en_US">
+			<Text>Арыеф|Арыефа|Арыефу|Арыефа|Арыефам|Арыефе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_3" Language="en_US">
+			<Text>Баю|Баю|Баю|Баю|Баю|Баю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_4" Language="en_US">
+			<Text>Бінтанг|Бінтанга|Бінтангу|Бінтанга|Бінтангам|Бінтангу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_5" Language="en_US">
+			<Text>Ханіфа|Ханіфы|Ханіфу|Ханіфу|Ханіфам|Ханіфу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_6" Language="en_US">
+			<Text>Лінга|Лінгі|Лінгу|Лінгу|Лінгам|Лінгу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_7" Language="en_US">
+			<Text>Радэн|Радэна|Радэну|Радэна|Радэнам|Радэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_8" Language="en_US">
+			<Text>Рафіян|Рафіяна|Рафіяну|Рафіяна|Рафіянам|Рафіяну</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_9" Language="en_US">
+			<Text>Рандыка|Рандыкі|Рандыку|Рандыку|Рандыкам|Рандыку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_MALE_10" Language="en_US">
+			<Text>Зульфікры|Зульфікры|Зульфікры|Зульфікры|Зульфікры|Зульфікры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_1" Language="en_US">
+			<Text>Аніса|Анісы|Анісе|Анісу|Анісай|Анісе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_2" Language="en_US">
+			<Text>Аю|Аю|Аю|Аю|Аю|Аю</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_3" Language="en_US">
+			<Text>Чытра|Чытры|Чытры|Чытру|Чытрай|Чытры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_4" Language="en_US">
+			<Text>Дэві|Дэві|Дэві|Дэві|Дэві|Дэві</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_5" Language="en_US">
+			<Text>Ханімфа|Ханімфы|Ханімфе|Ханімфу|Ханімфай|Ханімфе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_6" Language="en_US">
+			<Text>Мегаваці|Мегаваці|Мегаваці|Мегаваці|Мегаваці|Мегаваці</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_7" Language="en_US">
+			<Text>Пуці|Пуці|Пуці|Пуці|Пуці|Пуці</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_8" Language="en_US">
+			<Text>Сукарна|Сукарны|Сукарне|Сукарну|Сукарнай|Сукарне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_9" Language="en_US">
+			<Text>Відыя|Відыі|Відыі|Відыю|Відыяй|Відыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_INDONESIA_MODERN_FEMALE_10" Language="en_US">
+			<Text>Ювашы|Ювашы|Ювашы|Ювашы|Ювашы|Ювашы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MALE_1" Language="en_US">
+			<Text>Баларама|Баларамы|Балараму|Балараму|Баларамам|Балараму</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MALE_2" Language="en_US">
+			<Text>Боран|Борана|Борану|Борана|Боранам|Борану</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MALE_3" Language="en_US">
+			<Text>Дамхат|Дамхата|Дамхату|Дамхата|Дамхатам|Дамхату</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MALE_4" Language="en_US">
+			<Text>Індраварман|Індравармана|Індраварману|Індравармана|Індраварманам|Індраварману</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MALE_5" Language="en_US">
+			<Text>Лакшмана|Лакшманы|Лакшману|Лакшману|Лакшманам|Лакшману</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MALE_6" Language="en_US">
+			<Text>Німвол|Німвола|Німволу|Німвола|Німволам|Німволу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MALE_7" Language="en_US">
+			<Text>Рама|Рамы|Раму|Раму|Рамам|Раму</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MALE_8" Language="en_US">
+			<Text>Сур'яварман|Сур'явармана|Сур'яварману|Сур'явармана|Сур'яварманам|Сур'яварману</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MALE_9" Language="en_US">
+			<Text>Тхома|Тхомы|Тхому|Тхому|Тхомам|Тхому</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MALE_10" Language="en_US">
+			<Text>Яшоварман|Яшовармана|Яшоварману|Яшовармана|Яшоварманам|Яшоварману</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_FEMALE_1" Language="en_US">
+			<Text>Бармей|Бармея|Бармею|Бармея|Бармеем|Бармею</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_FEMALE_2" Language="en_US">
+			<Text>Індрадэві|Індрадэві|Індрадэві|Індрадэві|Індрадэві|Індрадэві</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_FEMALE_3" Language="en_US">
+			<Text>Джаяраджадэві|Джаяраджадэві|Джаяраджадэві|Джаяраджадэві|Джаяраджадэві|Джаяраджадэві</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_FEMALE_4" Language="en_US">
+			<Text>Лакшмі|Лакшмі|Лакшмі|Лакшмі|Лакшмі|Лакшмі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_FEMALE_5" Language="en_US">
+			<Text>Парваці|Парваці|Парваці|Парваці|Парваці|Парваці</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_FEMALE_6" Language="en_US">
+			<Text>Рамчанг|Рамчанг|Рамчанг|Рамчанг|Рамчанг|Рамчанг</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_FEMALE_7" Language="en_US">
+			<Text>Сарпені|Сарпені|Сарпені|Сарпені|Сарпені|Сарпені</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_FEMALE_8" Language="en_US">
+			<Text>Сур'явана|Сур'яваны|Сур'яване|Сур'явану|Сур'яванай|Сур'яване</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_FEMALE_9" Language="en_US">
+			<Text>Тэвода|Тэводы|Тэводзе|Тэводу|Тэводай|Тэводзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_FEMALE_10" Language="en_US">
+			<Text>Віралакшмі|Віралакшмі|Віралакшмі|Віралакшмі|Віралакшмі|Віралакшмі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_MALE_1" Language="en_US">
+			<Text>Чакра|Чакры|Чакру|Чакру|Чакрам|Чакру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_MALE_2" Language="en_US">
+			<Text>Чхай|Чхаюя|Чхаю|Чхая|Чхаем|Чхаю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_MALE_3" Language="en_US">
+			<Text>Хэнг|Хэнга|Хэнгу|Хэнга|Хэнгам|Хэнгу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_MALE_4" Language="en_US">
+			<Text>Кіры|Кіры|Кіры|Кіры|Кіры|Кіры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_MALE_5" Language="en_US">
+			<Text>Малі|Малі|Малі|Малі|Малі|Малі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_MALE_6" Language="en_US">
+			<Text>Німол|Німола|Німолу|Німола|Німолам|Німолу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_MALE_7" Language="en_US">
+			<Text>Пхала|Пхалы|Пхалу|Пхалу|Пхалам|Пхалу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_MALE_8" Language="en_US">
+			<Text>Ратханак|Ратханака|Ратханаку|Ратханака|Ратханакам|Ратханаку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_MALE_9" Language="en_US">
+			<Text>Серэй|Серэя|Серэю|Серэя|Серэем|Серэю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_MALE_10" Language="en_US">
+			<Text>Сапхал|Сапхала|Сапхалу|Сапхала|Сапхалам|Сапхалу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_1" Language="en_US">
+			<Text>Бопха|Бопхі|Бопсе|Бопху|Бопхай|Бопсе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_2" Language="en_US">
+			<Text>Чантха|Чантхі|Чантсе|Чантху|Чантхай|Чантсе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_3" Language="en_US">
+			<Text>Дара|Дары|Дары|Дару|Дарай|Дары</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_4" Language="en_US">
+			<Text>Джарані|Джарані|Джарані|Джарані|Джарані|Джарані</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_5" Language="en_US">
+			<Text>Леакена|Леакены|Леакене|Леакену|Леакенай|Леакене</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_6" Language="en_US">
+			<Text>Пхоунг|Пхоўнг|Пхоўнг|Пхоўнг|Пхоўнг|Пхоўнг</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_7" Language="en_US">
+			<Text>Паеў|Паеў|Паеў|Паеў|Паеў|Паеў</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_8" Language="en_US">
+			<Text>Рачана|Рачаны|Рачане|Рачану|Рачанай|Рачане</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_9" Language="en_US">
+			<Text>Сапхон|Сапхон|Сапхон|Сапхон|Сапхон|Сапхон</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_KHMER_MODERN_FEMALE_10" Language="en_US">
+			<Text>Тхіда|Тхіды|Тхідзе|Тхіду|Тхідай|Тхідзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_INDONESIA_LOCATION" Language="en_US">
+			<Text>Паўднёва-ўсходняя Азія</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_INDONESIA_SIZE" Language="en_US">
+			<Text>1 904 569 кв.км</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_INDONESIA_POPULATION" Language="en_US">
+			<Text>Ацэнка на 2017 г.: 263,51 млн.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_INDONESIA_CAPITAL" Language="en_US">
+			<Text>Джакарта|Джакарты|Джакарце|Джакарту|Джакартай|Джакарце</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_KHMER_LOCATION" Language="en_US">
+			<Text>Паўднёва-ўсходняя Азія</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_KHMER_SIZE" Language="en_US">
+			<Text>1 191 394 кв.км</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_KHMER_POPULATION" Language="en_US">
+			<Text>У 1150 г.: каля 2-х млн.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_KHMER_CAPITAL" Language="en_US">
+			<Text>Розныя: Махендрапарвата, Харыхаралая, Кох Кёр, Яшодхарапура і інш.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ANGKOR_WAT_QUOTE" Language="en_US">
+			<Text>«Каб трапіць у храм, трэба перайсці роў па адзіным мосце, між двух каменных тыграў, чыя лютая веліч быццам знарок усяляе страх у сэрцы наведнікаў».[NEWLINE]– Дыёгу ду Коўту</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_HA_LONG_BAY_QUOTE" Language="en_US">
+			<Text>«Угледзьце дзівы зямныя і нябесныя... У блакітнай воднай роўнядзі, якая нібы люстэрка, што хавае тысячы бірузовых варон з чорным адлівам».[NEWLINE]– Нгуен Чай</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_END_TO_SUFFERING_NAME" Language="en_US">
+			<Text>Канец пакутам</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_END_TO_SUFFERING_DESCRIPTION" Language="en_US">
+			<Text>Сімпатызуе цывілізацыям з вялікай колькасцю святых месцаў і [ICON_Citizen] густанаселенымі гарадамі. Не любіць цывілізацыі без такіх раёнаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_ARCHIPELAGIC_STATE_NAME" Language="en_US">
+			<Text>Выспавая дзяржава</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_ARCHIPELAGIC_STATE_DESCRIPTION" Language="en_US">
+			<Text>Сімпатызуе цывілізацыям, якія не засноўваюць і не захопліваюць гарады на невялікіх выспах. Не любіць тых, хто валодае шматлікімі гарадамі на такіх выспах.</Text>
+		</Replace>
+		<Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ARCHIPELAGIC_STATE" Language="en_US">
+			<Text>Хоча кантраляваць усе выспы</Text>
+		</Replace>
+		<Replace Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_END_TO_SUFFERING" Language="en_US">
+			<Text>Любіць цывілізацыі са святымі месцамі і густанаселенымі гарадамі</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MARTYR_DESCRIPTION" Language="en_US">
+			<Text>Калі гэты юніт загіне ў тэалагічнай баталіі, з'яўляецца [ICON_GreatWork_Relic] рэліквія.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_JONG_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] да баявой моцы ў баявым шыхту.[NEWLINE][ICON_Bullet]Юніты ў баявым шыхту ідуць з той жа хуткасцю, што і джонка.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GITARJA_RELIGIOUS_NO_EMBARK_DISEMBARK_COST_DESCRIPTION" Language="en_US">
+			<Text>Няма выдатку АР на пасадку на карабель і высадку з карабля (Трыбхувана).</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ANGKOR_WAT_DESCRIPTION" Language="en_US">
+			<Text>Пасля пабудовы дае +1 [ICON_Citizen] насельніцтва ўва ўсіх існых гарадах. +1 [ICON_Housing] жытла ўва ўсіх гарадах. [NEWLINE][NEWLINE]Можна пабудаваць толькі па суседстве з акведукам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Якое супадзенне! Я якраз збіралася прапанаваць тое ж самае. Выдатна! Дамовіліся.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Я б не спяшалася зваць вас сябрам. Пакуль мне невядомыя вашы сапраўдныя матывы, хай усё застаецца як ёсць.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Мой народ рады сустрэчы з вашым. Калі гэта пачуццё ўзаемнае, то давайце абвесцім пра яго ўсяму свету!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Добра, добра.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Вы хочаце мяне абразіць?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Няўжо? Ды ці ведаеце вы, што перад маёй лютасцю цьмянеюць нават тайфуны! Не? Хутка даведаецеся.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>У гэтай вайне вы даведаецеся, што такое лютасць тысячы караблёў.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Ваша дэлегацыя не ўпала ў бруд тварам. Гэта з лепшага боку характарызуе ваш народ.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Не цяпер. Набліжаецца бура. Майму народу лепш пакуль што не яднацца з вашым.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Наша дэлегацыя прынесла вам аладкі з ончаму. Чырвоны ончам варта ўжываць з імбірным соусам, а чорны добры сам сабою.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Вы завяце гэта абразай? Гэта не абраза, а бясталентныя патугі жаласнай крэветкі!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Вы падобныя бруду вакол карабля ў стаялай вадзе. Ад вас трэба сыходзіць на ўсіх ветразях. (Асуджае вас)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Я – Трыбхувана, каралева і абаронца Інданезіі. Тыя, хто ўсумніўся ў нашай сіле, спачываюць на дне акіяна.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Поруч з вамі наш горад. Не праходзьце міма! Зазірніце, прагуляйцеся па кампанзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Я ведала, што ў вас атрымаецца.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>А дзе ваша сталіца? Вядома, я паведамлю вам, дзе знаходзіцца мая.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Я вас бачу.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Вы ўнікаеце дробных выспаў. Мы гэта бачым і шануем.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Вы не павінны трымаць пры сабе выспавыя тэрыторыі. Аддайце іх каму-небудзь.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Нашы два флаты могуць плыць разам. Што вы пра гэта думаеце?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Я гэта перажыву.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Гэта прапанова амаль абразлівая.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Хопіць. Гэта вайна толькі спакушае нашых сапраўдных ворагаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Вядома. Нам няма чаго хаваць.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Не. Хочаце цешыцца інданезійскай зямлёй? Цешцеся здалёк.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Вашы землі ўяўляюць цікавасць для народа Інданезіі. Калі нам будзе пададзена права праходу, то мы зможам іх даследаваць.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Вашы войскі будуць галадаць – ім не баляваць на інданезійскай зямлі.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Мары Нусантары паглынула бездань акіяна.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Не ўхваляю, але разумею.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GITARJA_ANY" Language="en_US">
+			<Text>Добра!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Мабыць... так.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Я змушаны адмовіць.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Нябёсы прыхільныя да вас – і кхмеры таксама. Хай свет даведаецца пра наша сяброўства. Абвесцім пра яго?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Вельмі мудра з вашага боку.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Хм-м. Зразумела.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Такім чынам, вайна? Дурні вераць у поспех. Каго вы будзеце вінаваціць, калі ён ад вас адвернецца?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Вашы дзеянні сведчаць пра тое, што вы хочаце ваяваць. Што ж, кхмеры зробяць вам гэту паслугу.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Ваша дэлегацыя прыбыла ў нашу сталіцу. Мы рады вашым дарункам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Я не магу на гэта пайсці. Кхмеры не маюць патрэбу ў незразумелых дарунках з далёкіх краін.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Наша дэлегацыя прынесла вам страву «а-пінг». Спачатку з'ешце ногі павука, а потым тулава – так смачней.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Вашы грубыя словы абражаюць Неба. Але вам жа не прывыкаць...</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Вы, напэўна, ведаеце прынцыпы справядлівага жыцця. Інакш як бы вам пашчасціла навучыць свой народ жыць насуперак ім? (Асуджае вас)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Я – Джаяварман VII, кхмеры ўручылі мне свой лёс. Іх пакуты – мае пакуты.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Вам варта наведаць нашу сталіцу. Агляд нашага прасата дапаможа вам зразумець, што так шануюць кхмеры.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Добра.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Добра.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Чаму вы мяне турбуеце?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Спыненне духоўных пакут не менш важна, чым палягчэнне фізічнага болю. Вы гэта разумееце.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Як ваш народ будзе спасцігаць боскае, не маючы ўзораў боскасці?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Вашы дзеі сведчаць пра гармонію з Небам. Мы можам скласці звяз. Ці пойдзеце вы далей рука ў руку з кхмерамі?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Складанне міру – гэта вялікая мудрасць. Я не супраць.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Гэта не пойдзе на карысць майму народу.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Нашы народы пакутуюць. Чаму б нам не спыніць гэту бясплодную вайну?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Мы не супраць. Калі ваш народ хоча жыць лепш, яму варта прывучыцца да ладу жыцця кхмераў.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Занадта многія чужыя ўплывы атручваюць жыццё кхмераў. Я не магу гэтага дапусціць. Прынамсі, цяпер.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Паміж нашымі народамі не павінна быць перашкод. Вы згодны?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Вашы ваяры падышлі блізка да тэрыторыі кхмераў. Нават заблізка.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Параза – гэта ўрок пакоры. Я буду маліцца, каб вы таксама засвоілі гэты ўрок.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Я не бачу ў гэтым мудрасці.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JAYAVARMAN_ANY" Language="en_US">
+			<Text>Так. Гэта добра для кхмераў.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_NUSANTARA_FAITH" Language="en_US">
+			<Text>+{1_num} [ICON_Faith] веры за {1_Num : plural 1?суседнюю клетку; other?суседнія клеткі;} з узбярэжжам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_NUSANTARA_SCIENCE" Language="en_US">
+			<Text>+{1_num} [ICON_Science] навукі за {1_Num : plural 1?суседнюю клетку; other?суседнія клеткі;} з узбярэжжам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_NUSANTARA_PRODUCTION" Language="en_US">
+			<Text>+{1_num} [ICON_Production] вытворчасці за {1_Num : plural 1?суседнюю клетку; other?суседнія клеткі;} з узбярэжжам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_NUSANTARA_CULTURE" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] культуры за {1_Num : plural 1?суседнюю клетку; other?суседнія клеткі;} з узбярэжжам.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

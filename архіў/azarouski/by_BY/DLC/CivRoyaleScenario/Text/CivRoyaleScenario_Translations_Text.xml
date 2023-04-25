@@ -1,0 +1,675 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME" Language="en_US">
+      <Text>Груз з запасамі|Грузу з запасамі|Грузу з запасамі|Груз з запасамі|Грузам з запасамі|Грузе з запасамі</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME" Language="en_US">
+      <Text>Даследаваныя руіны горада|Даследаваных руін горада|Даследаваным руінам горада|Даследаваныя руіны горада|Даследаванымі руінамі горада|Даследаваных руінах горада</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME" Language="en_US">
+      <Text>Аванпост рабаўнікоў|Аванпоста рабаўнікоў|Аванпосту рабаўнікоў|Аванпост рабаўнікоў|Аванпостам рабаўнікоў|Аванпосце рабаўнікоў</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_NAME" Language="en_US">
+      <Text>Рабаўнікі|Рабаўнікоў|Рабаўнікам|Рабаўнікоў|Рабаўнікамі|Рабаўніках</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION" Language="en_US">
+      <Text>Рабаўнікі|Рабаўнікоў|Рабаўнікам|Рабаўнікоў|Рабаўнікамі|Рабаўніках</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_DESTROYED_CITY_NAME" Language="en_US">
+      <Text>Разбураны горад|Разбуранага горада|Разбуранаму гораду|Разбураны горад|Разбураным горадам|Разбураным горадзе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_ICE_NAME" Language="en_US">
+      <Text>Вялікая гнілата (забаронена)|Вялікай гнілаты (забаронена)|Вялікай гнілаце (забаронена)|Вялікую гнілату (забаронена)|Вялікай гнілатой (забаронена)|Вялікай гнілаце (забаронена)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MARSH_NAME" Language="en_US">
+      <Text>Багна|Багны|Багне|Багну|Багнай|Багне</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_NAME" Language="en_US">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_HILLS_NAME" Language="en_US">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME" Language="en_US">
+      <Text>Пустэльня (горы)|Пустэльні (горы)|Пустэльні (горы)|Пустэльню (горы)|Пустэльняй (горы)|Пустэльні (горы)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_NAME" Language="en_US">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_HILLS_NAME" Language="en_US">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME" Language="en_US">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_OCEAN_NAME" Language="en_US">
+      <Text>Атручаны акіян|Атручанага акіяна|Атручанаму акіяну|Атручаны акіян|Атручаным акіянам|Атручаным акіяне</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_NAME" Language="en_US">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_HILLS_NAME" Language="en_US">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME" Language="en_US">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_NAME" Language="en_US">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_HILLS_NAME" Language="en_US">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME" Language="en_US">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_NAME" Language="en_US">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME" Language="en_US">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME" Language="en_US">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB" Language="en_US">
+      <Text>З нас усе смяяліся. Казалі, што мы слабыя, што нас замала, што мы не дойдзем да пасадкавага модуля. Ну, і чыя зараз чарга смяяцца? Хто стаў апошняй фракцыяй на гэтай ідыёцкай гнілой планеце? Хто выйграў квіток у адзін канец на зіхатлівым заркалёце з чыстай вадой і паветрам, без атрутнага пылу? Мы![NEWLINE][NEWLINE]Мы ляцім! Сцеражыся, Сусвет!</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION" Language="en_US">
+      <Text>[COLOR_FLOAT_MILITARY]Да вашай фракцыі далучыўся юніт пяхотнікаў.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION" Language="en_US">
+      <Text>[COLOR_FLOAT_MILITARY]Да вашай фракцыі далучыўся юніт кулякіднікаў.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION" Language="en_US">
+      <Text>[COLOR_FLOAT_MILITARY]Да вашай фракцыі далучыўся супрацьтанкавы юніт.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION" Language="en_US">
+      <Text>[COLOR_FLOAT_MILITARY]Да вашай фракцыі далучыліся мірныя жыхары, якія хаваліся ў руінах.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION" Language="en_US">
+      <Text>[COLOR_FLOAT_MILITARY]Вы выявілі спраўны шрубалёт.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION" Language="en_US">
+      <Text>[COLOR_FLOAT_MILITARY]Вы выявілі спраўны танк.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION" Language="en_US">
+      <Text>[COLOR_FLOAT_MILITARY]Да вашай фракцыі далучыўся артылерыйны юніт.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION" Language="en_US">
+      <Text>[COLOR_FLOAT_MILITARY]Вы выявілі спраўную тэрмаядзерную прыладу.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ZOMBIES_DESCRIPTION" Language="en_US">
+      <Text>[COLOR_FLOAT_MILITARY]Вашы зомбі дасталі чарговую ахвяру.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ZOMBIES_DESCRIPTION_B" Language="en_US">
+      <Text>[COLOR_FLOAT_MILITARY]Яшчэ больш целаў ардзе.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ZOMBIES_DESCRIPTION_C" Language="en_US">
+      <Text>[COLOR_FLOAT_MILITARY]Вы выявілі арду зомбі.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_IMPROVISED_TRAP_GOODIES" Language="en_US">
+      <Text>Вы трапілі ў пастку!</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_GRIEVING_GIFT_GOODIES" Language="en_US">
+      <Text>Гэта пастка!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS" Language="en_US">
+      <Text>Лік хадоў да знікнення бяспечнай зоны.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_MIN_SIZE" Language="en_US">
+      <Text>Бяспечная зона дасягнула мінімальнага памеру.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_MIN_SIZE_B" Language="en_US">
+      <Text>Бяспечная зона стабілізаваная. [COLOR_RED]Эвакуацыі перашкаджаюць іншыя фракцыі выжылых.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_MIN_SIZE_C" Language="en_US">
+      <Text>Бяспечная зона стабілізаваная. [COLOR_RED]Іншыя фракцыі дагэтуль глушаць сігнал пасадкавага модуля![ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY" Language="en_US">
+      <Text>Катэгорыя</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE" Language="en_US">
+      <Text>Шкода</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP" Language="en_US">
+      <Text>Памер шкоды, якую атрымаюць вашы выжылыя ў «Чырвонай смерці».</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP" Language="en_US">
+      <Text>За колькі хадоў «Чырвоная смерць» далезе да бяспечнай зоны.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING" Language="en_US">
+      <Text>Ваш грамадзянскі юніт трапіў у зону радыеактыўнага забруджання!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_PLAYER_NAME_LABEL" Language="en_US">
+      <Text>Імя гульца:</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_GLOBAL_ABILITY_AVAILABLE" Language="en_US">
+      <Text>Даступна здольнасць!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE" Language="en_US">
+      <Text>Груз з запасамі!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY" Language="en_US">
+      <Text>Выяўлены груз з запасамі!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE" Language="en_US">
+      <Text>Выяўленыя руіны горада</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY" Language="en_US">
+      <Text>Вы выявілі руіны горада. Тут можна знайсці жыццёва важныя запасы.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE" Language="en_US">
+      <Text>З'явілася бяспечная зона</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY" Language="en_US">
+      <Text>«Чырвоная смерць» трансфармуецца. У самым цэнтры зоны бедства ўтварылася бяспечная зона. Яна пазначана на карце.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE" Language="en_US">
+      <Text>Бяспечная зона сціскаецца</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY" Language="en_US">
+      <Text>Становішча пагаршаецца. Бяспечная зона ссунулася і зменшылася.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_NEW_TREASURE_MAP_MESSAGE" Language="en_US">
+      <Text>Новая карта скарбаў</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_NEW_TREASURE_MAP_SUMMARY" Language="en_US">
+      <Text>Вы выявілі новую карту скарбаў</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_HAIL_MARY_READY_MESSAGE" Language="en_US">
+      <Text>«Авэ Марыя» гатова</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_HAIL_MARY_READY_SUMMARY" Language="en_US">
+      <Text>«Авэ Марыя» гатова да ўжывання.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_ZOMBIE_DECAYED_MESSAGE" Language="en_US">
+      <Text>Арда зомбі расклалася</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_ZOMBIE_DECAYED_SUMMARY" Language="en_US">
+      <Text>Ваша арда зомбі загінула з прычыны раскладання.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME" Language="en_US">
+      <Text>Руіны горада</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_IMPROVISED_TRAP" Language="en_US">
+      <Text>Імправізаваная пастка</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP" Language="en_US">
+      <Text>Чырвоная смерць</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP" Language="en_US">
+      <Text>Бяспечная зона</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION" Language="en_US">
+      <Text>Юніты і пабудовы ігнаруюць штраф за [ICON_Movement] рух па лясах, трапічных лясах і ўзгорках.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION" Language="en_US">
+      <Text>+5 [ICON_Strength] да баявой моцы супраць супрацьтанкавых камандаў.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION" Language="en_US">
+      <Text>+5 [ICON_Strength] да баявой моцы падчас атакі кулякіднікаў.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION" Language="en_US">
+      <Text>+7 [ICON_Strength] да баявой моцы супраць іншых танкаў.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION" Language="en_US">
+      <Text>+7 [ICON_Strength] да баявой моцы ў абароне супраць танкаў і супрацьтанкавых камандаў.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION" Language="en_US">
+      <Text>+5 [ICON_Strength] да баявой моцы супраць танкаў і шрубалётаў.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION" Language="en_US">
+      <Text>Суседнія юніты іншых класаў атрымаюць +10 да [ICON_Strength] баявой моцы супраць танкаў і шрубалётаў.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION" Language="en_US">
+      <Text>+7 [ICON_Strength] да баявой моцы пры абароне ў лясах, джунглях, на ўзгорках і балотах.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_GDR_ATTACK_RANGE_DESC" Language="en_US">
+      <Text>+1 да дыстанцыі атакі</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_GDR_MOVE_DESC" Language="en_US">
+      <Text>+2 [ICON_Movement] да руху</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_GDR_LIMITED_HEAL_DESC" Language="en_US">
+      <Text>+10 да хуткасці лячэння</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_GDR_ATTACK_1_DESC" Language="en_US">
+      <Text>+8 да баявой моцы</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_GDR_ATTACK_2_DESC" Language="en_US">
+      <Text>+8 да баявой моцы</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_GDR_ATTACK_3_DESC" Language="en_US">
+      <Text>+8 да баявой моцы</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_ZOMBIE_ATTACK_1_DESC" Language="en_US">
+      <Text>+5 [ICON_Strength] да баявой моцы.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_ZOMBIE_ATTACK_2_DESC" Language="en_US">
+      <Text>+5 [ICON_Strength] да баявой моцы.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_ZOMBIE_ATTACK_3_DESC" Language="en_US">
+      <Text>+5 [ICON_Strength] да баявой моцы.</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_ZOMBIE_LESS_DECAY_DESC" Language="en_US">
+      <Text>Не атрымае шкоды ад раскладання</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_ZOMBIE_MOVE_1_DESC" Language="en_US">
+      <Text>+1 [ICON_Movement] да руху</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_ZOMBIE_MOVE_2_DESC" Language="en_US">
+      <Text>+1 [ICON_Movement] да руху</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_ZOMBIE_MOVE_3_DESC" Language="en_US">
+      <Text>+1 [ICON_Movement] да руху</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ALIENS_HEAL_MOVE_NAME" Language="en_US">
+      <Text>Ксеналагічная рэгенерацыя</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ALIENS_HEAL_MOVE_DESCRIPTION" Language="en_US">
+      <Text>Юніт аднаўляе здароўе кожны ход, калі знаходзіцца не ў вадзе і не ў зоне радыеактыўнага заражэння. Здароўе аднаўляецца з хуткасцю 50% ад стандартнай.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ALIENS_HEAL_MOVE_UNITPANEL_DESCRIPTION" Language="en_US">
+      <Text>Аднаўляе здароўе кожны ход, калі знаходзіцца не ў вадзе і не ў зоне радыеактыўнага заражэння. Здароўе аднаўляецца з хуткасцю 50% ад стандартнай.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ALIENS_XENO_STEALTH_NAME" Language="en_US">
+      <Text>Ксеналагічны камуфляж</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ALIENS_XENO_STEALTH_DESCRIPTION" Language="en_US">
+      <Text>Юніт нябачны для варожых юнітаў, якія не знаходзяцца на суседняй клетцы.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_CULTISTS_UNIT_SIGHT_NAME" Language="en_US">
+      <Text>У чаканні канца</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_CULTISTS_UNIT_SIGHT_DESCRIPTION" Language="en_US">
+      <Text>+3 да агляду.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME" Language="en_US">
+      <Text>Звычка да катастроф</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION" Language="en_US">
+      <Text>У зоне ўжывання ЗМЗ не імгненна гіне, а губляе 50 ОЗ.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME" Language="en_US">
+      <Text>Магчымасць выкарыстання ЗМЗ</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION" Language="en_US">
+      <Text>Можа скарыстаць ЗМЗ.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION" Language="en_US">
+      <Text>Не атрымае штрафу да руху ад гружэння і выгрузкі з карабля.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MAD_SCIENTISTS_UNIT_SHIELD_NAME" Language="en_US">
+      <Text>Абарончыя інэрцыйныя шчыты</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MAD_SCIENTISTS_UNIT_SHIELD_DESCRIPTION" Language="en_US">
+      <Text>+10 да баявой моцы падчас абароны. Поўны імунітэт да шкоды ад вады, «Чырвонай смерці» і ЗМЗ.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_CRIPPLED_GDR_NO_HEAL_NAME" Language="en_US">
+      <Text>Няма запчастак</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_CRIPPLED_GDR_NO_HEAL_DESCRIPTION" Language="en_US">
+      <Text>Юніт не аднаўляе здароўе кожны ход.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ZOMBIES_NO_HEAL_NAME" Language="en_US">
+      <Text>Раскладанне зомбі</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ZOMBIES_NO_HEAL_DESCRIPTION" Language="en_US">
+      <Text>Атрымае шкоду ад раскладання на кожным ходзе і лечыцца толькі за кошт падвышэнняў ці забойства юнітаў, якія не з'яўляюцца зомбі.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ZOMBIES_COMBAT_SPAWN_NAME" Language="en_US">
+      <Text>Стварэнне зомбі ў бойцы</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ZOMBIES_COMBAT_SPAWN_DESCRIPTION" Language="en_US">
+      <Text>Стварае арду зомбі пасля забойства юніта, які не з'яўляецца зомбі.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ZOMBIES_RANGED_RESISTANCE_NAME" Language="en_US">
+      <Text>Неўспрымальнасць да болю</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ZOMBIES_RANGED_RESISTANCE_DESCRIPTION" Language="en_US">
+      <Text>+5 [ICON_Strength] да баявой моцы падчас абароны ад далёкабойных атак.</Text>
+    </Replace>
+    <Replace Tag="LOC_MUTANTS_SPREAD_FALLOUT_IMMUNE_NAME" Language="en_US">
+      <Text>Непаражальны да радыеактыўнага заражэння, што шырыцца мутантамі.</Text>
+    </Replace>
+    <Replace Tag="LOC_MUTANTS_SPREAD_FALLOUT_IMMUNE_DESCRIPTION" Language="en_US">
+      <Text>Непаражальны да шкоды ад распаўсюджванай мутантамі «Чырвонай смерці».</Text>
+    </Replace>
+    <Replace Tag="LOC_MUTANTS_FALLOUT_SPEED_NAME" Language="en_US">
+      <Text>Радыеактыўны рух</Text>
+    </Replace>
+    <Replace Tag="LOC_MUTANTS_FALLOUT_SPEED_DESCRIPTION" Language="en_US">
+      <Text>+3 [ICON_Movement] да руху ў «Чырвонай смерці»</Text>
+    </Replace>
+    <Replace Tag="LOC_MUTANTS_FALLOUT_RESISTANCE_NAME" Language="en_US">
+      <Text>Супраціў радыяцыі</Text>
+    </Replace>
+    <Replace Tag="LOC_MUTANTS_FALLOUT_RESISTANCE_DESCRIPTION" Language="en_US">
+      <Text>-50% шкоды ад «Чырвонай смерці».</Text>
+    </Replace>
+    <Replace Tag="LOC_SHIELDS_DEPLETED" Language="en_US">
+      <Text>Шчыты разраджаны</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SHIELD_TT" Language="en_US">
+      <Text>Абарончыя інэрцыйныя шчыты[NEWLINE][NEWLINE]Разгарніце абарончыя інэрцыйныя шчыты, што даюць +10 да [ICON_Strength] баявой моцы падчас абароны. Шчыты таксама даюць поўную непаражальнасць да шкоды ад вады, «Чырвонай смерці» і ЗМЗ. Шчыты дзеюць 4 хады. Аднаўленне займае 6 хадоў.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SHIELD_ACTIVE_WORLDTEXT" Language="en_US">
+      <Text>Падняць шчыты!</Text>
+    </Replace>
+    <Replace Tag="LOC_ROAD_VISION_NAME" Language="en_US">
+      <Text>Агляд дарог</Text>
+    </Replace>
+    <Replace Tag="LOC_ROAD_VISION_TT" Language="en_US">
+      <Text>Агляд дарог[NEWLINE][NEWLINE]Адкрывае ўсю раней даследаваную тэрыторыю.</Text>
+    </Replace>
+    <Replace Tag="LOC_ROAD_VISION_ACTIVE_WORLDTEXT" Language="en_US">
+      <Text>Я помню!</Text>
+    </Replace>
+    <Replace Tag="LOC_PLACE_TRAP_TT" Language="en_US">
+      <Text>Пабудуйце імправізаваную пастку[NEWLINE][NEWLINE]Змясцуйце імправізаваную пастку на бягучай клетцы.</Text>
+    </Replace>
+    <Replace Tag="LOC_PLACE_TRAP_OUT_OF_TRAPS_TT" Language="en_US">
+      <Text>Пасткі скончыліся.</Text>
+    </Replace>
+    <Replace Tag="LOC_PLACE_TRAP_FAILED_WORLDTEXT" Language="en_US">
+      <Text>Тут немагчыма змесцаваць пастку</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PANEL_TRAPS" Language="en_US">
+      <Text>Пасткі</Text>
+    </Replace>
+    <Replace Tag="LOC_GRIEVING_GIFT_NAME" Language="en_US">
+      <Text>Адправіць скрушны дарунак</Text>
+    </Replace>
+    <Replace Tag="LOC_GRIEVING_GIFT_TT" Language="en_US">
+      <Text>Адправіць скрушны дарунак[NEWLINE][NEWLINE]Выберыце клетку, дзе на наступным ходзе хочаце змясціць замінаваны скрушны дарунак. У іншых гульцоў ён будзе адлюстроўвацца як звычайны груз з запасамі. Можна мець у запасе да двух скрушных дарункаў. Аднаўленне доўжыцца 5 хадоў.</Text>
+    </Replace>
+    <Replace Tag="LOC_GRIEVING_GIFT_ACTIVE_WORLDTEXT" Language="en_US">
+      <Text>Тут немагчыма змесцаваць падарунак</Text>
+    </Replace>
+    <Replace Tag="LOC_GRIEVING_GIFT_EMPTY_TT" Language="en_US">
+      <Text>Скрушныя дарункі скончыліся.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_CLOAK_TT" Language="en_US">
+      <Text>Ксеналагічны камуфляж[NEWLINE][NEWLINE]Робіць носьбіта амаль нябачным.</Text>
+    </Replace>
+    <Replace Tag="LOC_BURN_TREASURE_MAP_NAME" Language="en_US">
+      <Text>Спаленая карта скарбаў</Text>
+    </Replace>
+    <Replace Tag="LOC_BURN_TREASURE_MAP_TT" Language="en_US">
+      <Text>Спаліць карту скарбаў[NEWLINE][NEWLINE]Спаліце карту скарбаў і атрымайце новую.[NEWLINE]«Зараз маёй карты ніхто не знойдзе!»</Text>
+    </Replace>
+    <Replace Tag="LOC_BURN_TREASURE_MAP_ACTIVE_WORLDTEXT" Language="en_US">
+      <Text>Гарыць!</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SACRIFICE_TT" Language="en_US">
+      <Text>Аддаць юніт у ахвяру[NEWLINE][NEWLINE]Аддайце гэты юніт у ахвяру, каб павялічыць Вечнае Вока.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SACRIFICE_TT_C" Language="en_US">
+      <Text>Шпацыр па дошцы[NEWLINE][NEWLINE]Знішчыце гэты юніт, каб пацешыць экіпаж ВБР-р-р-ра і павялічыць яго.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SACRIFICE_WORLDTEXT" Language="en_US">
+      <Text>Паміраючы, служу!</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SACRIFICE_NOT_ADJACENT_TT" Language="en_US">
+      <Text>«Вечнае Вока» прымае ахвяраванні толькі на сумежных клетках.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SACRIFICE_NOT_ADJACENT_TT_C" Language="en_US">
+      <Text>Прымушаць юніты хадзіць па дошцы можна толькі побач з ВБР-р-р-рам.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SACRIFICE_MAX_PROMOTIONS_TT" Language="en_US">
+      <Text>Вечнае Вока цалкам праявілася і ўжо не патрабуе ахвяраванняў.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SACRIFICE_MAX_PROMOTIONS_TT_C" Language="en_US">
+      <Text>Экіпажу ВБР-р-р-ра надакучыла глядзець, як юніты ходзяць па дошцы.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_RAD_SPREAD_TT" Language="en_US">
+      <Text>Здольнасць гэтага юніта дазваляе шырыць на ходзе радыяцыю ў «Чырвонай смерці».</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME" Language="en_US">
+      <Text>Пустэчы</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME" Language="en_US">
+      <Text>Пустэчы (узгоркі)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME" Language="en_US">
+      <Text>Пустэчы (горы)</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_LAKE" Language="en_US">
+      <Text>Атручанае возера</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_COAST" Language="en_US">
+      <Text>Атручанае ўзбярэжжа</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE" Language="en_US">
+      <Text>Новы аванпост рабаўнікоў</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY" Language="en_US">
+      <Text>Да вас дайшлі чуткі пра тое, што ў наваколлі асталявалася яшчэ адна банда рабаўнікоў.</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT" Language="en_US">
+      <Text>Зона антыгеройскага баявога бонуса</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ZOMBIE_DESCRIPTION" Language="en_US">
+      <Text>Дрэнна ўзброеная арда зомбі</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_CRIPPLED_GDR_DESCRIPTION" Language="en_US">
+      <Text>Гэты ВБР шмат пабачыў на сваім вяку. Ён ужо ніколі не стане ранейшым, але ўсё-ткі яшчэ рана спісваць з рахункаў такую моц.</Text>
+    </Replace>
+    <Replace Tag="LOC_WMD_HAIL_MARY_NAME" Language="en_US">
+      <Text>Авэ Марыя</Text>
+    </Replace>
+    <Replace Tag="LOC_TREASURE_UNIT_INFANTRY_RECRUITED" Language="en_US">
+      <Text>Знайшлі новых навабранцаў!</Text>
+    </Replace>
+    <Replace Tag="LOC_TREASURE_UNIT_TANK_RECRUITED" Language="en_US">
+      <Text>Ды цэ ж танк!</Text>
+    </Replace>
+    <Replace Tag="LOC_TREASURE_UNIT_CRIPPLED_GDR_RECRUITED" Language="en_US">
+      <Text>ВБР-р-р-р!</Text>
+    </Replace>
+    <Replace Tag="LOC_UFO_UNIT_NAME1" Language="en_US">
+      <Text>«Балацяны газ»</Text>
+    </Replace>
+    <Replace Tag="LOC_UFO_UNIT_NAME2" Language="en_US">
+      <Text>«Рэдкія хмаркі»</Text>
+    </Replace>
+    <Replace Tag="LOC_UFO_UNIT_NAME3" Language="en_US">
+      <Text>«П'яны сведка»</Text>
+    </Replace>
+    <Replace Tag="LOC_UFO_UNIT_NAME4" Language="en_US">
+      <Text>«Снатворнае»</Text>
+    </Replace>
+    <Replace Tag="LOC_UFO_UNIT_NAME5" Language="en_US">
+      <Text>«Неасочаны метэарыт»</Text>
+    </Replace>
+    <Replace Tag="LOC_UFO_UNIT_NAME6" Language="en_US">
+      <Text>«Сакрэтнае выпрабаванне зброі»</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO" Language="en_US">
+      <Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_B" Language="en_US">
+      <Text>Колькасць хадоў да знікнення бяспечнай зоны.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH" Language="en_US">
+      <Text>Радыеактыўнае забруджанне: катэгорыя {1_safeZonePhase} (Шкода {2_dangerZoneDamage})</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP" Language="en_US">
+      <Text>Юніт атрымае {1_Damage} адз. шкоды ад радыеактыўнага забруджання.[NEWLINE]Бяспечная зона скарацілася ў {2_RingCount} {2_RingCount: plural 1?раз; 2?разы; other?разоў;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS" Language="en_US">
+      <Text>{1_Turns: plural 1?ход; 2?хады; other?хадоў;}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_GLOBAL_ABILITY_CHARGES" Language="en_US">
+      <Text>Зарады: {1_CurrentCharges}/{2_Max_Charges}</Text>
+    </Replace>
+    <Replace Tag="LOC_MAD_SCIENTISTS_UNIT_SHIELD_MODIFIER" Language="en_US">
+      <Text>+{1_Amount} да абарончых інэрцыйных шчытоў</Text>
+    </Replace>
+    <Replace Tag="LOC_BORDERLORD_EDGENESS_COMBAT_BONUS_MODIFIER" Language="en_US">
+      <Text>+{1_Amount} да крайнасці</Text>
+    </Replace>
+    <Replace Tag="LOC_ZOMBIES_DEFENSE_BONUS_VS_RANGED_COMBAT_MODIFIER" Language="en_US">
+      <Text>+{1_Amount} да супраціву далёкабойным атакам зомбі</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SHIELD_ACTIVE_TT" Language="en_US">
+      <Text>Шчыт працуе. Засталося хадоў: {1_turnsRemaining}</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SHIELD_RECHARGING_TT" Language="en_US">
+      <Text>Шчыт аднаўляецца. Засталося хадоў: {1_turnsRemaining}</Text>
+    </Replace>
+    <Replace Tag="LOC_ROAD_VISION_ACTIVE_TT" Language="en_US">
+      <Text>Агляд дарог працуе. Засталося хадоў: {1_turnsRemaining}</Text>
+    </Replace>
+    <Replace Tag="LOC_ROAD_VISION_RECHARGING_TT" Language="en_US">
+      <Text>Агляд дарог аднаўляецца. Засталося хадоў: {1_turnsRemaining}</Text>
+    </Replace>
+    <Replace Tag="LOC_GRIEVING_GIFT_COUNT_TT" Language="en_US">
+      <Text>Гатовыя падарункі: {1_giftCount}</Text>
+    </Replace>
+    <Replace Tag="LOC_GRIEVING_GIFT_RECHARGING_TT" Language="en_US">
+      <Text>Загортваем новыя падарункі. Засталося хадоў: {1_turnsRemaining}</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_CLOAK_ACTIVE_TT" Language="en_US">
+      <Text>Маскаванне працуе. Засталося хадоў: {1_turnsRemaining}</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_CLOAK_RECHARGING_TT" Language="en_US">
+      <Text>Маскаванне аднаўляецца. Засталося хадоў: {1_turnsRemaining}</Text>
+    </Replace>
+    <Replace Tag="LOC_BURN_TREASURE_MAP_RECHARGING_TT" Language="en_US">
+      <Text>Спаленая карта скарбаў аднаўляецца. Засталося хадоў: {1_turnsRemaining}</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SACRIFICE_TT_B" Language="en_US">
+      <Text>Аддаць юніт у ахвяру[NEWLINE][NEWLINE]Аддайце гэты юніт у ахвяру, каб павялічыць юніт «{1_UnitName}».</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SACRIFICE_NOT_ADJACENT_TT_B" Language="en_US">
+      <Text>«Вечнае Вока» прымае ахвяраванні толькі на сумежных клетках.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SACRIFICE_MAX_PROMOTIONS_TT_B" Language="en_US">
+      <Text>Юніт «{1_UnitName}» цалкам праявіўся і ўжо не патрабуе ахвяраванняў.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_JOCKS_COMBAT_BONUS_DESC" Language="en_US">
+      <Text>+{1_Amount} да сведкі дасканаласці</Text>
+    </Replace>
+    <Replace Tag="LOC_WMD_HAIL_MARY_DISABLED_COOLDOWN" Language="en_US">
+      <Text>[COLOR:Red]{1_turns} {1_turns: plural 1?ход; 2?хады; other?хадоў;} да гатовасці наступнай боегалоўкі «Авэ Марыя».[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME" Language="en_US">
+      <Text>Полк выведкі|Палка выведкі|Палку выведкі|Полк выведкі|Палком выведкі|Палку выведкі</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_GDR_ATTACK_RANGE_NAME" Language="en_US">
+      <Text>Замена пускавых труб|замены пускавых труб|замене пускавых труб|замену пускавых труб|заменай пускавых труб|замене пускавых труб</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_GDR_MOVE_NAME" Language="en_US">
+      <Text>Замена нажнога прывода|замены нажнога прывода|замене нажнога прывода|замену нажнога прывода|заменай нажнога прывода|замене нажнога прывода</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_GDR_LIMITED_HEAL_NAME" Language="en_US">
+      <Text>Папаўненне запасу рамонтных нанітаў|папаўнення запасу рамонтных нанітаў|папаўненню запасу рамонтных нанітаў|папаўненне запасу рамонтных нанітаў|папаўненнем запасу рамонтных нанітаў|папаўненні запасу рамонтных нанітаў|</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_GDR_ATTACK_1_NAME" Language="en_US">
+      <Text>Замена ствалоў|замены ствалоў|замене ствалоў|замену ствалоў|заменай ствалоў|замене ствалоў</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_GDR_ATTACK_2_NAME" Language="en_US">
+      <Text>Замена кампутара навядзення|замены кампутара навядзення|замене кампутара навядзення|замену кампутара навядзення|заменай кампутара навядзення|замене кампутара навядзення</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_GDR_ATTACK_3_NAME" Language="en_US">
+      <Text>Новыя боепрыпасы|новых боепрыпасаў|новым боепрыпасам|новыя боепрыпасы|новымі боепрыпасамі|новых боепрыпасах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_ZOMBIE_ATTACK_1_NAME" Language="en_US">
+      <Text>Мазгі!</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_ZOMBIE_ATTACK_2_NAME" Language="en_US">
+      <Text>Мазгі!!</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_ZOMBIE_ATTACK_3_NAME" Language="en_US">
+      <Text>Мазгі!!!</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_ZOMBIE_LESS_DECAY_NAME" Language="en_US">
+      <Text>А!</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_ZOMBIE_MOVE_1_NAME" Language="en_US">
+      <Text>Ар-р-ргх!</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_ZOMBIE_MOVE_2_NAME" Language="en_US">
+      <Text>Ар-р-ргх!!</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_ZOMBIE_MOVE_3_NAME" Language="en_US">
+      <Text>Ар-р-ргх!!!</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SETTLER_NAME" Language="en_US">
+      <Text>Мірны жыхар|Мірнага жыхара|Мірнаму жыхару|Мірнага жыхара|Мірным жыхаром|Мірным жыхару</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_ZOMBIE_NAME" Language="en_US">
+      <Text>Арда зомбі|арды зомбі|ардзе зомбі|арду зомбі|ардой зомбі|ардзе зомбі</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_CRIPPLED_GDR_NAME" Language="en_US">
+      <Text>Пашкоджаны ВБР|пашкоджанага ВБР|пашкоджанаму ВБР|пашкоджаны ВБР|пашкоджаным ВБР|пашкоджаным ВБР</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_UNDYING_EYE_NAME" Language="en_US">
+      <Text>Вечнае Вока|Вечнага Вока|Вечнаму Воку|Вечнае Вока|Вечным Вокам|Вечным Воку</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PIRATE_TREASURE_TANK_NAME" Language="en_US">
+      <Text>Скрыня са скарбамі|скрыні са скарбамі|скрыні са скарбамі|скрыню са скарбамі|скрыняй са скарбамі|скрыні са скарбамі</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PIRATE_TREASURE_CRIPPLED_GDR_NAME" Language="en_US">
+      <Text>ВБР-р-р-р!</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PIRATE_TREASURE_INFANTRY_NAME" Language="en_US">
+      <Text>сухапутны пацук|сухапутнага пацука|сухапутнаму пацуку|сухапутнага пацука|сухапутным пацуком|сухапутным пацуку</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+  </LocalizedText>
+</GameData>

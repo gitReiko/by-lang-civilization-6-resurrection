@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TITLE" Language="en_US">
+      <Text>Набор «Персона: Кацярына Медычы»</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_TEASER" Language="en_US">
+      <Text>Асобы: Кацярына Медычы (Чорная каралева) і Кацярына Медычы (Пышная)</Text>
+    </Replace>
+    <Replace Tag="LOC_CATHERINE_DE_MEDICI_MOD_DESCRIPTION" Language="en_US">
+      <Text>Улучае дзвюх новых асоб: Кацярыну Медычы (Чорную каралеву) і Кацярыну Медычы (Пышную). У кожнай з іх свой унікальны выгляд, здольнасць і стыль гульні.</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

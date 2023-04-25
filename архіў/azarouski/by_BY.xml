@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- by_BY -->
+<!-- Author: Алег Азароўскі -->
+<!-- DateCreated: 20 верасня 2020г. -->
+<GameData>
+	<Languages>
+		<InsertOrIgnore>
+			<Locale>by_BY</Locale>
+			<Name>Belarus</Name>
+			<PluralRule>2</PluralRule>
+			<SupportsSmallCaps>1</SupportsSmallCaps>
+		</InsertOrIgnore>
+	</Languages>
+</GameData>

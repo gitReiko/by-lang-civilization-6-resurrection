@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ROUGHRIDER_NAME" Language="en_US">
+      <Text>Тэадор Рузвельт (Мужны вершнік)|Тэадора Рузвельта (Мужнага вершніка)|Тэадору Рузвельту (Мужнаму вершніку)|Тэадора Рузвельта (мужнага вершніка)|Тэадорам Рузвельтам (Мужным вершнікам)|Тэадору Рузвельту (Мужным вершніку)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_T_ROOSEVELT_ORIGINAL_NAME" Language="en_US">
+      <Text>Тэадор Рузвельт (прагрэсівіст)|Тэадора Рузвельта (прагрэсівіста)|Тэадору Рузвельту (прагрэсівісту)|Тэадора Рузвельта (прагрэсівіста)|Тэадорам Рузвельтам (прагрэсівістам)|Тэадору Рузвельту (прагрэсівісту)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_NAME" Language="en_US">
+      <Text>Прадметы даўніны і паркі</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ANTIQUES_AND_PARKS_DESCRIPTION" Language="en_US">
+      <Text>Клеткі з узрушальным прэстыжам, што знаходзяцца поруч з дзівам прыроды ці гарой, атрымаюць +2 да [ICON_SCIENCE] навукі. Клеткі з узрушальным прэстыжам, што знаходзяцца поруч з дзівам ці лесам, атрымаюць +2 да [ICON_CULTURE] культуры. Усе клеткі ў горадзе з нацыянальным паркам маюць +1 да прэстыжу.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_ROUGH_RIDER_DESCRIPTION" Language="en_US">
+      <Text>Юніты атрымаюць +5 да [ICON_Strength] баявой моцы на родным кантыненце. Амбасадары ў гарадах-дзяржавах, з якімі ў вас ёсць [ICON_TradeRoute] гандлёвыя шляхі, лічацца за двух [ICON_Envoy] амбасадараў. Вы атрымаеце ўнікальны юніт «Мужны вершнік» з тэхналогіяй «Наразныя ствалы».</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_POSITIVE_APPEAL" Language="en_US">
+      <Text>Яны захопленыя дастаткам прывабных рэгіёнаў у вашай імперыі</Text>
+    </Replace>
+    <Replace Tag="LOC_DIPLO_MODIFIER_BULL_MOOSE_NEGATIVE_APPEAL" Language="en_US">
+      <Text>Яны расчараваныя нястачай прывабных рэгіёнаў у вашай імперыі</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE" Language="en_US">
+      <Text>Набор: «Персона: Тэадор Рузвельт»</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER" Language="en_US">
+      <Text>Асобы: Тэадор Рузвельт (прагрэсівіст) і Тэадор Рузвельт (мужны вершнік)</Text>
+    </Replace>
+    <Replace Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION" Language="en_US">
+      <Text>Улучае двух новых уладнікаў: Тэадора Рузвельта (прагрэсівіста) і Тэадора Рузвельта (мужнага вершніка). У кожнага з іх адмысловы выгляд, здольнасць і стыль гульні.</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

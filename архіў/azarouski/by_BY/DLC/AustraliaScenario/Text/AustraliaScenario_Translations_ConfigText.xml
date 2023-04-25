@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="en_US">
+			<Text>Квінсленд|Квінсленда|Квінсленду|Квінсленд|Квінслендам|Квінслендзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="en_US">
+			<Text>Заходняя Аўстралія|Заходняй Аўстраліі|Заходняй Аўстраліі|Заходнюю Аўстралію|Заходняй Аўстраліяй|Заходняй Аўстраліі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="en_US">
+			<Text>Вікторыя|Вікторыі|Вікторыі|Вікторыю|Вікторыяй|Вікторыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="en_US">
+			<Text>Паўднёвая Аўстралія|Паўднёвай Аўстраліі|Паўднёвай Аўстраліі|Паўднёвую Аўстралію|Паўднёвай Аўстраліяй|Паўднёвай Аўстраліі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION" Language="en_US">
+			<Text>Штат Квінсленд|штата Квінсленд|штату Квінсленд|штат Квінсленд|штатам Квінсленд|штаце Квінсленд</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION" Language="en_US">
+			<Text>Штат Заходняя Аўстралія|штата Заходняя Аўстралія|штату Заходняя Аўстралія|штат Заходняя Аўстралія|штатам Заходняя Аўстралія|штаце Заходняя Аўстралія</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION" Language="en_US">
+			<Text>Штат Вікторыя|штата Вікторыя|штату Вікторыя|штат Вікторыя|штатам Вікторыя|штаце Вікторыя</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION" Language="en_US">
+			<Text>Штат Паўднёвая Аўстралія|штата Паўднёвая Аўстралія|штату Паўднёвая Аўстралія|штат Паўднёвая Аўстралія|штатам Паўднёвая Аўстралія|штаце Паўднёвая Аўстралія</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="en_US">
+			<Text>Зямля антыподаў|зямлі антыподаў|зямлі антыподаў|зямлю антыподаў|зямлёй антыподаў|зямлі антыподаў</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="en_US">
+			<Text>Зямля антыподаў|зямлі антыподаў|зямлі антыподаў|зямлю антыподаў|зямлёй антыподаў|зямлі антыподаў</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME" Language="en_US">
+			<Text>Зямля антыподаў|зямлі антыподаў|зямлі антыподаў|зямлю антыподаў|зямлёй антыподаў|зямлі антыподаў</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="en_US">
+			<Text>Зямля антыподаў|зямлі антыподаў|зямлі антыподаў|зямлю антыподаў|зямлёй антыподаў|зямлі антыподаў</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_Housing] жытла ва ўзбярэжных гарадах. Пашы актывуюць культурны захоп. +2 прыбытку ад кампусаў, камерцыйных цэнтраў і тэатральных пляцоў на клетках з прыцягальным прэстыжам, +4 – на клетках з узрушальным прэстыжам.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_Housing] жытла ва ўзбярэжных гарадах. Пашы актывуюць культурны захоп. +2 прыбытку ад кампусаў, камерцыйных цэнтраў і тэатральных пляцоў на клетках з прыцягальным прэстыжам, +4 – на клетках з узрушальным прэстыжам.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_Housing] жытла ва ўзбярэжных гарадах. Пашы актывуюць культурны захоп. +2 прыбытку ад кампусаў, камерцыйных цэнтраў і тэатральных пляцоў на клетках з прыцягальным прэстыжам, +4 – на клетках з узрушальным прэстыжам.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_Housing] жытла ва ўзбярэжных гарадах. Пашы актывуюць культурны захоп. +2 прыбытку ад кампусаў, камерцыйных цэнтраў і тэатральных пляцоў на клетках з прыцягальным прэстыжам, +4 – на клетках з узрушальным прэстыжам.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="en_US">
+			<Text>Губернатар Квінсленда|губернатара Квінсленда|губернатару Квінсленда|губернатара Квінсленда|губернатарам Квінсленда|губернатару Квінсленда</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="en_US">
+			<Text>Губернатар Зах. Аўстраліі|губернатара Зах. Аўстраліі|губернатару Зах. Аўстраліі|губернатара Зах. Аўстраліі|губернатарам Зах. Аўстраліі|губернатару Зах. Аўстраліі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="en_US">
+			<Text>Губернатар Вікторыі|губернатара Вікторыі|губернатару Вікторыі|губернатара Вікторыі|губернатарам Вікторыі|губернатару Вікторыі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="en_US">
+			<Text>Губернатар Паўдн. Аўстраліі|губернатара Паўдн. Аўстраліі|губернатару Паўдн. Аўстраліі|губернатара Паўдн. Аўстраліі|губернатарам Паўдн. Аўстраліі|губернатару Паўдн. Аўстраліі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="en_US">
+			<Text>Штат сонечнага ззяння|штата сонечнага ззяння|штату сонечнага ззяння|штат сонечнага ззяння|штатам сонечнага ззяння|штаце сонечнага ззяння</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="en_US">
+			<Text>Залатыя капальні|залатых капальняў|залатым капальням|залатыя капальні|залатымі капальнямі|залатых капальнях</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME" Language="en_US">
+			<Text>Залатая ліхаманка Вікторыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="en_US">
+			<Text>Дармовая асада|дармовай асады|дармовай асадзе|дармовую асаду|дармовай асадай|дармовай асадзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_AUSTRALIA_SCENARIO_NAME" Language="en_US">
+			<Text>Правінцыйны магнат</Text>
+		</Replace>
+		<Replace Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP" Language="en_US">
+			<Text>Каторая з калоній выме максімум выгады з прыродных багаццяў Аўстраліі? Працягласць: 60 хадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION" Language="en_US">
+			<Text>У гэтым 60-хадовым сцэнары вы даследуеце Аўстралію, выведаеце яе прыродныя рэсурсы і скарыстаеце іх на выгоду сваёй калоніі. Вайсковага складніка ў ім няма. Тут усе засяроджана на даследаванні і тэрытарыяльнай экспансіі, мэта якой – падвышэнне рэгулярнага прыбытку ў [ICON_Gold] золаце, на грунце чаго і ацаняецца ваш вынік.[NEWLINE][NEWLINE]Гульня з кампутарам: для кожнага роўня складанасці трэба дасягнуць пэўнага прыходу [ICON_Gold] золата за ход.[NEWLINE][NEWLINE]Сеткавая гульня: пад канец гульні перамагае гулец з самым вялікім прыходам [ICON_Gold] золата за ход.</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO" Language="en_US">
+			<Text>Ваша маладая аўстралійская калонія жадае не проста паўтарыць поспех Новага Паўднёвага Ўэльса, а перасягнуць яго. Ці пашчасціць вам атрымаць поспех у гэтых бясплодных землях, дзе шмат хто знайшоў сваё згубу? Які ваш шлях да росквіту? Ці будзеце вы здабываць золата на капальнях і разводзіць велізарныя статкі ці захаваеце прыгажосці мясцовай прыроды для наступных пакаленняў?</Text>
+		</Replace>
+		<Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME" Language="en_US">
+			<Text>Карта Аўстраліі</Text>
+		</Replace>
+		<Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION" Language="en_US">
+			<Text>Выпадкова згенераваны кантынент з абрысамі сапраўднай Аўстраліі.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>Усе клеткі атрымаюць +1 прэстыжу.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>Дае дадатковыя клеткі пасля заснавання гарадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>Пачаць гульню з адным старацелем. Усе старацелі, навучаныя ў адным з іх гарадоў, атрымаюць на 1 дзеянне больш.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>Пачаць гульню з адным пастухом. Усе пастухі, навучаныя ў адным з іх гарадоў, атрымаюць на 1 дзеянне больш.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

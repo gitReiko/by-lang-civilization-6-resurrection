@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME" Language="en_US">
+      <Text>Кацярына Медычы (Пышная)|Кацярыны Медычы (Пышнай)|Кацярыне Медычы (Пышнай)|Кацярыну Медычы (Пышную)|Кацярынай Медычы (Пышнай)|Кацярыне Медычы (Пышнай)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME" Language="en_US">
+      <Text>Кацярына Медычы (Чорная каралева)|Кацярыны Медычы (Чорнай каралевы)|Кацярыне Медычы (Чорнай каралеве)|Кацярыну Медычы (Чорную каралеву)|Кацярынай Медычы (Чорнай каралевай)|Кацярыне Медычы (Чорнай каралеве)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME" Language="en_US">
+      <Text>Кацярынінскія дзівы</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION" Language="en_US">
+      <Text>Палепшаныя рэдкія рэсурсы, што знаходзяцца поруч з тэатральным пляцам ці шато, атрымаюць +2 да [ICON_CULTURE] культуры. Можа ўладкаваць «Прыдворны фэст» у кожным горадзе з тэатральным пляцам.</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

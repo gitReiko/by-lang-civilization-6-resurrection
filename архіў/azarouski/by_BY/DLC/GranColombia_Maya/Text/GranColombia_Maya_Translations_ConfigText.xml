@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_NAME" Language="en_US">
+      <Text>Асьенда|асьенды|асьендзе|асьенду|асьендай|асьендзе</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_NAME" Language="en_US">
+      <Text>Абсерваторыя|абсерваторыі|абсерваторыі|абсерваторыю|абсерваторыяй|абсерваторыі</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME" Language="en_US">
+      <Text>Вялікая Калумбія|Вялікай Калумбіі|Вялікай Калумбіі|Вялікую Калумбію|Вялікай Калумбіяй|Вялікай Калумбіі</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION" Language="en_US">
+      <Text>Вялікая Калумбійская імперыя|Вялікай Калумбійскай імперыі|Вялікай Калумбійскай імперыі|Вялікую Калумбійскую імперыю|Вялікай Калумбійскай імперыяй|Вялікай Калумбійскай імперыі</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE" Language="en_US">
+      <Text>вялікакалумб.|вялікакалумб.|вялікакалумб.|вялікакалумб.|вялікакалумб.|вялікакалумб.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_NAME" Language="en_US">
+      <Text>Мая|Мая|Мая|Мая|Мая|Мая</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION" Language="en_US">
+      <Text>Імперыя мая|Імперыі мая|Імперыі мая|Імперыю мая|Імперыяй мая|Імперыі мая</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE" Language="en_US">
+      <Text>мая|мая|мая|мая|мая|мая</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SIMON_BOLIVAR_NAME" Language="en_US">
+      <Text>Сымон Балівар|Сымона Балівара|Сымону Балівару|Сымона Балівара|Сымонам Баліварам|Сымону Балівару</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_LADY_SIX_SKY_NAME" Language="en_US">
+      <Text>Іш-Вак-Чан-Ахаў|Іш-Вак-Чан-Ахаў|Іш-Вак-Чан-Ахаў|Іш-Вак-Чан-Ахаў|Іш-Вак-Чан-Ахаў|Іш-Вак-Чан-Ахаў</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_BERMUDA_TRIANGLE_NAME" Language="en_US">
+      <Text>Бермудскі трохкутнік|Бермудскага трохкутніка|Бермудскаму трохкутніку|Бермудскі трохкутнік|Бермудскім трохкутнікам|Бермудскім трохкутніку</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_NAME" Language="en_US">
+      <Text>Крыніца вечнай маладосці|крыніцы вечнай маладосці|крыніцы вечнай маладосці|крыніцу вечнай маладосці|крыніцай вечнай маладосці|крыніцы вечнай маладосці</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_PAITITI_NAME" Language="en_US">
+      <Text>Пайціці|Пайціці|Пайціці|Пайціці|Пайціці|Пайціці</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_NAME" Language="en_US">
+      <Text>Рэжым апакаліпсіса</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION" Language="en_US">
+      <Text>Гэты гульнявы рэжым дадае новыя стыхійныя бедствы, пашырае і ўзмацняе ўжо наяўныя і павялічвае імавернасць іх узнікнення. У гульні з'яўляецца новы юніт — прадракальнік. Калі змены клімату дасягнуць апошняй стадыі, на Зямлю пасыплюцца разбуральныя каметы.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME" Language="en_US">
+      <Text>Патрыятычнае войска</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="en_US">
+      <Text>+1 [ICON_Movement] АР усім юнітам. Падвышэнне юніта не сканчае яго ход.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME" Language="en_US">
+      <Text>Патрыятычнае войска</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION" Language="en_US">
+      <Text>+1 [ICON_Movement] АР усім юнітам (Патрыятычнае войска).</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_BERMUDA_TRIANGLE_DESCRIPTION" Language="en_US">
+      <Text>Дзіва прыроды на тры клеткі. Дае +5 адз. [ICON_Science] навукі суседнім клеткам. Уваходзячы, юніты перакідаюцца да далёкага акіяна. Калі гэта марскія юніты, яны атрымаюць здольнасць «Загадкавыя плыні» (+1 да [ICON_Movement] руху).</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_DESCRIPTION" Language="en_US">
+      <Text>Дзіва прыроды на адну клетку. Дае +4 адз. [ICON_Science] навукі, +4 адз. [ICON_Faith] веры і прэсную ваду. Наземныя баявыя юніты, якія ўвайшлі ў гэту клетку, атрымаюць здольнасць «Акавіта» (+10 АЗ да лячэння на кожнай тэрыторыі).</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_PAITITI_DESCRIPTION" Language="en_US">
+      <Text>Дзіва прыроды на тры непраходныя клеткі. Дае +3 адз. [ICON_Gold] золата і +2 адз. [ICON_Culture] культуры суседнім клеткам. Падвышаны бонус за суседства з тэатральным пляцам і цэнтрам камерцыі. Горад, што валодае клеткай, атрымае +4 [ICON_Gold] золата на выходных міжнародных [ICON_TradeRoute] гандлёвых шляхах.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION" Language="en_US">
+      <Text>Дазваляе будаўнікам будаваць асьенды (унікальна для Вялікай Калумбіі).[NEWLINE][NEWLINE]+2 адз. [ICON_GOLD] золата, +1 адз. [ICON_PRODUCTION] вытворчасці і +1 адз. [Icon_Housing] жытла. +1 адз. [ICON_Food] ежы за кожныя дзве суседнія плантацыі (павялічваецца за кожную плантацыю са «Стандартызацыяй»). Плантацыі і асьенды атрымаюць +1 адз. [ICON_Production] вытворчасці за кожныя дзве суседнія плантацыі (павялічваецца за кожную асьенду з «Хуткім разгортваннем»). Можна будаваць толькі на раўнінах і сенажацях (з узгоркамі ці без іх).</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR" Language="en_US">
+      <Text>Вы маглі пайсці на павадку ў сваіх патужнікаў, Сымон Балівар, але вырашылі стаць Вызвольнікам. Вас ніколі не страшылі цяжкасці, так што заставайцеся адданым сваім ідэалам і вядзіце рэспубліку да росквіту.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME" Language="en_US">
+      <Text>Кампанія «Захапленне»</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION" Language="en_US">
+      <Text>Пераходзячы ў новую эру, вы атрымаеце галоўнакамандуючага.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1" Language="en_US">
+      <Text>Калі гульня пераходзіць у новую эру вы атрымаеце галоўнакамандуючага.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION" Language="en_US">
+      <Text>Адменны тып выбітнага чалавека, даступны толькі Сымону Балівару. Кожны з іх валодае ўнікальнымі здольнасцямі, улучаючы пасіўны эфект і эфект адыходу ад спраў.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION" Language="en_US">
+      <Text>Унікальны кавалерыйскі юніт Вялікай Калумбіі ў Прамысловай эры. Малыя выдаткі на ўтрыманне. +4 да [ICON_Strength] баявой моцы за кожны юніт ільянера ў суседняй клетцы. Цалкам вылечваецца, знаходзячыся ў радыусе актываванай здольнасці галоўнакамандуючага «Адысці ад спраў».</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME" Language="en_US">
+      <Text>Маяб</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION" Language="en_US">
+      <Text>Сяліба поруч з прэснай вадой і ўзбярэжжам не дае дадатковага [ICON_HOUSING] жытла. Заміж гэтага кожная ферма дае дадатковыя +1 адз. [ICON_HOUSING] жытла і +1 адз. [ICON_GOLD] золата. +1 адз. [ICON_AMENITIES] здаволення за кожны рэдкі рэсурс поруч з гарадскім цэнтрам.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION" Language="en_US">
+      <Text>Унікальны раён Мая для навуковых даследаванняў. Замяняе кампус, таннейшы ў будаванні.[NEWLINE][NEWLINE]Бонус: +2 адз. [ICON_Science] навукі за плантацыі па суседстве. Бонус: +1 адз. [ICON_Science] навукі за кожныя дзве фермы ці два раёны па суседстве.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY" Language="en_US">
+      <Text>Суседства: падвышаны бонус да [ICON_Science] навуцы за кожную плантацыю па суседстве. Невялікі бонус да [ICON_Science] навукі за суседства з фермамі і гарадскімі раёнамі.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY" Language="en_US">
+      <Text>Іш-Вак-Чан-Ахаў, вялікая маці-ваяўніца Дос-Піласа і Вак-Кабналя, устань на чале новай дынастыі, якая павядзе ваш народ у будучыню. Працягні сваю далонь праз моры, скары ворагаў, што блізка, і ворагаў, што ўдалечыні. Як багі вядуць цябе, гэтак і ты вядзі да перамогі сваіх падданых.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_NAME" Language="en_US">
+      <Text>Іш-Муталь-Ахаў</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION" Language="en_US">
+      <Text>Гарады, што не з'яўляюцца сталіцамі і знаходзяцца ў межах 6 клетак ад [ICON_Capital] сталіцы, атрымаюць +10% да ўсіх прыбыткаў. Іншыя несталічныя гарады атрымаюць -15% да ўсіх прыбыткаў. +5 [ICON_Strength] да баявой моцы юнітаў у межах 6 клетак ад [ICON_Capital] сталіцы.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME" Language="en_US">
+      <Text>Муталь</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION" Language="en_US">
+      <Text>+5 да [ICON_Strength] баявой моцы юнітаў у межах 6 клетак ад [ICON_Capital] сталіцы.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION" Language="en_US">
+      <Text>Унікальны далёкабойны юніт старажытных мая, які замяняе ім лучніка. Моцная далёкабойная атака. +5 да [ICON_Strength] баявой моцы супраць пашкоджанага суперніка.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HULCHE_DESCRIPTION" Language="en_US">
+      <Text>+5 [ICON_Strength] да баявой моцы супраць пашкоджанага суперніка.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION" Language="en_US">
+      <Text>Лахорскі ўнікальны юніт з уласным дрэвам падвышэнняў. Можна набыць за [ICON_Faith] веру. [ICON_Strength] Баявая моц павялічваецца, калі спачатку пабудаваць жаўнерні, збройню і вайсковую акадэмію.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION" Language="en_US">
+      <Text>Юніт падтрымкі, унікальны для рэжыму Апакаліпсіса. Можа знаходзіцца на клетцы з іншымі баявымі юнітамі. Можа скарыстацца дзеяннем «Выклікаць катастрофу», каб пачаць выпадковую катастрофу на клетках поруч з сабой. Гэта дзеянне знішчае прадракальніка, калі ў яго не засталося зарадаў.</Text>
+    </Replace>
+    <Replace Tag="LOC_CLIMATE_FOREST_FIRE" Language="en_US">
+      <Text>Лясныя пажары</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_PLANTATION_SCIENCE" Language="en_US">
+      <Text>+{1_num} адз. [ICON_Science] навукі за суседства з {1_Num : plural 1?плантацыяй; other?плантацыямі;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_FARM_SCIENCE" Language="en_US">
+      <Text>+{1_num} адз. [ICON_Science] навукі за суседства з {1_Num : plural 1?фермай; other?фермамі;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION" Language="en_US">
+      <Text>+{1_Amount} да баявой моцы ад асаблівасці «Муталь»</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME" Language="en_US">
+      <Text>Галоўнакамандуючы|галоўнакамандуючага|галоўнакамандуючаму|галоўнакамандуючага|галоўнакамандуючым|галоўнакамандуючым</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME" Language="en_US">
+      <Text>Ільянера|ільянера|ільянера|ільянера|ільянера|ільянера</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_NAME" Language="en_US">
+      <Text>Хульчэ|хульчэ|хульчэ|хульчэ|хульчэ|хульчэ</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_NAME" Language="en_US">
+      <Text>Ніхангі|ніхангаў|ніхангам|ніхангаў|ніхангамі|ніхангах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_NAME" Language="en_US">
+      <Text>Прадракальнік|прадракальніка|прадракальніку|прадракальніка|прадракальнікам|прадракальніку</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+  </LocalizedText>
+</GameData>

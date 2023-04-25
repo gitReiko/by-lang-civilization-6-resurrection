@@ -1,0 +1,1536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_PANTANAL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>У нацыянальным парку Какаду існуе мноства эндэмічных відаў расліннага і жывёльнага свету, шмат хто з якіх дагэтуль не класіфікаваны. Сама меней ужо 20 тыс. гадоў тут жывуць плямёны першабытнікаў. Пра іх багатую гісторыю сведчаць шматлікія ўзоры старажытнага наскальнага малярства. Неаднаразовыя спробы еўрапейцаў асвоіць гэты рэгіён у XIX ст. праваліліся з-за вельмі неспрыяльных умоў жыцця ў Какаду.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_TSINGY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>На паўднёва-заходнім узбярэжжы аўстралійскага кантынента знаходзяцца незвычайныя скальныя ўтварэнні, падобныя на кончыкі пальцаў, якія тырчаць з пяску. Гэтыя вапняковыя фармацыі ўтварыліся падчас раскладання марскіх арганізмаў у найстаражытныя эпохі, але ніхто не можа вытлумачыць, як яны набылі сваю сучасную форму. Да заснавання нацыянальнага парка напрыканцы 60-х гадоў XX ст. тут мала хто бываў, апроч кенгуру.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_1" Language="en_US">
+			<Text>Нацыянальныя паркі значна павялічваюць [ICON_Gold] золата і [ICON_Amenities] здаволенне. Нацыянальныя паркі ствараюцца натуралістамі, якіх можна навучыць ці набыць у вашым горадзе пасля даследавання сацыяльнага інстытута «Ахова прыроды».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_5" Language="en_US">
+			<Text>Колькасць [ICON_Gold] золата ад нацыянальнага парка роўна агульнай суме прэстыжу ўсіх клетак парка. Таксама горад, што валодае нацыянальным паркам, атрымае 2 адз.[ICON_Amenities] здаволення, а 4 найблізкія гарады вашай імперыі атрымаюць па 1 адз. [ICON_Amenities] здаволення.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION" Language="en_US">
+			<Text>Будуе новыя гарады. У гэтым сцэнары асаднікаў няможна падрыхтаваць – толькі атрымаць у выніку стварэння сацыяльных інстытутаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING" Language="en_US">
+			<Text>Пабудуйце 2 каменяломні.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ENGINEERING" Language="en_US">
+			<Text>Камень з вашых каменяломняў паслужыць матэрыялам для вялікіх пабудоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SCENARIO_PALACE_NAME" Language="en_US">
+			<Text>Рэзідэнцыя губернатара|рэзідэнцыі губернатара|рэзідэнцыі губернатара|рэзідэнцыю губернатара|рэзідэнцыяй губернатара|рэзідэнцыі губернатара</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_AIF_SCENARIO_NAME" Language="en_US">
+			<Text>Рыхтоўля АІС|рыхтоўлі АІС|рыхтоўлі АІС|рыхтоўлю АІС|рыхтоўляй АІС|рыхтоўлі АІС</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_AIF_SCENARIO_SHORT_NAME" Language="en_US">
+			<Text>Рыхтоўля АІС|рыхтоўлі АІС|рыхтоўлі АІС|рыхтоўлю АІС|рыхтоўляй АІС|рыхтоўлі АІС</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_WARWICK" Language="en_US">
+			<Text>Ўорык|Ўорыка|Ўорыку|Ўорык|Ўорыкам|Ўорыку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_GYMPIE" Language="en_US">
+			<Text>Гімпі|Гімпі|Гімпі|Гімпі|Гімпі|Гімпі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_TOODYAY" Language="en_US">
+			<Text>Тудыэй|Тудыэя|Тудыэю|Тудыэй|Тудыэем|Тудыэе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_ALBANY" Language="en_US">
+			<Text>Албані|Албані|Албані|Албані|Албані|Албані</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_GERALDTON" Language="en_US">
+			<Text>Джэралдтан|Джэралдтана|Джэралдтану|Джэралдтан|Джэралдтанам|Джэралдтане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_BUNBURY" Language="en_US">
+			<Text>Банберы|Банберы|Банберы|Банберы|Банберы|Банберы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_GUILDFORD" Language="en_US">
+			<Text>Гілфард|Гілфарда|Гілфарду|Гілфард|Гілфардам|Гілфардзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_CASTLEMAINE" Language="en_US">
+			<Text>Каслмейн|Каслмейна|Каслмейну|Каслмейн|Каслмейнам|Каслмейне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_BEECHWORTH" Language="en_US">
+			<Text>Бічварт|Бічварта|Бічварту|Бічварт|Бічвартам|Бічварце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_PORT_FAIRY" Language="en_US">
+			<Text>Порт-Фэры|Порт-Фэры|Порт-Фэры|Порт-Фэры|Порт-Фэры|Порт-Фэры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_MOUNT_GAMBIER" Language="en_US">
+			<Text>Маўнт-Гамбір|Маўнт-Гамбіру|Маўнт-Гамбіру|Маўнт-Гамбір|Маўнт-Гамбірам|Маўнт-Гамбіры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_MOONTA" Language="en_US">
+			<Text>Мунта|Мунты|Мунце|Мунту|Мунтай|Мунце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_WALLAROO" Language="en_US">
+			<Text>Ўолару|Ўолару|Ўолару|Ўолару|Ўолару|Ўолару</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_PORT_AUGUSTA" Language="en_US">
+			<Text>Порт-Агаста|Порт-Агасты|Порт-Агасце|Порт-Агасту|Порт-Агастай|Порт-Агасце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_NARACOORTE" Language="en_US">
+			<Text>Наракурт|Наракурта|Наракурту|Наракурт|Наракуртам|Наракурце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_GAWLER" Language="en_US">
+			<Text>Голер|Голера|Голеру|Голер|Голерам|Голеры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_PENAL_COLONY_NAME" Language="en_US">
+			<Text>Катаржнае мястэчка|катаржнага мястэчка|катаржнаму мястэчку|катаржнае мястэчка|катаржным мястэчкам|катаржным мястэчку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_GOLD_RUSH_NAME" Language="en_US">
+			<Text>«Залатая ліхаманка»|«залатой ліхаманкі»|«залатой ліхаманцы»|«залатую ліхаманку»|«залатой ліхаманкай»|«залатой ліхаманцы»</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_CROWN_COLONY_NAME" Language="en_US">
+			<Text>Брытанская калонія|брытанскай калоніі|брытанскай калоніі|брытанскую калонію|брытанскай калоніяй|брытанскай калоніі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_SHEEP_REARING_NAME" Language="en_US">
+			<Text>Стрыжка авечак|стрыжкі авечак|стрыжцы авечак|стрыжку авечак|стрыжкай авечак|стрыжцы авечак</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_PASTORAL_LEASES_NAME" Language="en_US">
+			<Text>Арэнда паш|арэнды паш|арэндзе паш|арэнду паш|арэндай паш|арэндзе паш</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_FEDERATION_NAME" Language="en_US">
+			<Text>Федэрацыя|федэрацыі|федэрацыі|федэрацыю|федэрацыяй|федэрацыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_GREAT_WAR_NAME" Language="en_US">
+			<Text>Вялікая вайна|Вялікай вайны|Вялікай вайне|Вялікую вайну|Вялікай вайной|Вялікай вайне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_AERIAL_SERVICES_NAME" Language="en_US">
+			<Text>Паветраныя зносіны|паветраных зносін|паветраным зносінам|паветраныя зносіны|паветраным зносінам|паветраных зносінах</Text>
+			<Gender>neuter</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_WORLD_WAR_II_NAME" Language="en_US">
+			<Text>Другая сусветная вайна|Другой сусветнай вайны|Другой сусветнай вайне|Другую сусветную вайну|Другой сусветнай вайной|Другой сусветнай вайне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_CRUISE_LINES_NAME" Language="en_US">
+			<Text>Пасажырскія лайнеры|пасажырскіх лайнераў|пасажырскім лайнерам|пасажырскія лайнеры|пасажырскімі лайнерамі|пасажырскіх лайнерах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GOVERNMENT_PENAL_SETTLEMENT_NAME" Language="en_US">
+			<Text>Катаржны лагер|катаржнага лагера|катаржнаму лагеру|катаржны лагер|катаржным лагерам|катаржным лагеры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GOVERNMENT_COLONIAL_GOVERNMENT_NAME" Language="en_US">
+			<Text>Каланіяльны рэжым|каланіяльнага рэжыму|каланіяльнаму рэжыму|каланіяльны рэжым|каланіяльным рэжымам|каланіяльным рэжыме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GOVERNMENT_STATE_GOVERNMENT_NAME" Language="en_US">
+			<Text>Урад штата|урада штата|ураду штата|урад штата|урадам штата|урадзе штата</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_LAND_GRANTS_NAME" Language="en_US">
+			<Text>Раздатак зямельных дзяльніц|раздатку зямельных дзяльніц|раздатку зямельных дзяльніц|раздатак зямельных дзяльніц|раздаткам зямельных дзяльніц|раздатку зямельных дзяльніц</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_FIRST_FLEET_NAME" Language="en_US">
+			<Text>Першы флот|Першага флота|Першаму флоту|Першы флот|Першым флотам|Першым флоце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_REWARDS_OFFERED_NAME" Language="en_US">
+			<Text>Узнагарода|узнагароды|узнагародзе|узнагароду|узнагародай|узнагародзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_TERRA_NULLIUS_NAME" Language="en_US">
+			<Text>«Нічыя зямля»|«Нічыёй зямлі»|«Нічыёй зямлі»|«Нічыю зямлю»|«Нічыёй зямлёй»|«Нічыёй зямлі»</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_COLONIAL_ARCHITECTS_NAME" Language="en_US">
+			<Text>Каланіяльныя архітэктары|каланіяльных архітэктараў|каланіяльным архітэктарам|каланіяльных архітэктараў|каланіяльнымі архітэктарамі|каланіяльных архітэктарах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_PARRAMATTA_ROAD_NAME" Language="en_US">
+			<Text>Дарога ў Парамату|дарогі ў Парамату|дарозе ў Парамату|дарогу ў Парамату|дарогай у Парамату|дарозе ў Парамату</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_TICKET_OF_LEAVE_NAME" Language="en_US">
+			<Text>Датэрміновае вызваленне|датэрміновага вызвалення|датэрміноваму вызваленню|датэрміновае вызваленне|датэрміновым вызваленнем|датэрміновым вызваленні</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_MOUNTED_STOCKMEN_NAME" Language="en_US">
+			<Text>Конныя пастухі|конных пастухоў|конным пастухам|конных пастухоў|коннымі пастухамі|конных пастухах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_TRANS_AUSTRALIAN_RAILWAY_NAME" Language="en_US">
+			<Text>Трансаўстралійская чыгунка|Трансаўстралійскай чыгункі|Трансаўстралійскай чыгунцы|Трансаўстралійскую чыгунку|Трансаўстралійскай чыгункай|Трансаўстралійскай чыгунцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_FEED_THE_TROOPS_NAME" Language="en_US">
+			<Text>Галеты|галет|галетам|галеты|галетамі|галетах</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_GALLIPOLLI_NAME" Language="en_US">
+			<Text>Галіпалі|Галіпалі|Галіпалі|Галіпалі|Галіпалі|Галіпалі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCHOOL_OF_THE_AIR_NAME" Language="en_US">
+			<Text>Школа ў эфіры|школы ў эфіры|школе ў эфіры|школу ў эфіры|школай у эфіры|школе ў эфіры</Text>
+			<Gender>femenine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_FLYING_DOCTORS_NAME" Language="en_US">
+			<Text>«Крылатая хуткая дапамога»|«Крылатай хуткай дапамогі»|«Крылатай хуткай дапамогі»|«Крылатую хуткую дапамогу»|«Крылатай хуткай дапамогай»|«Крылатай хуткай дапамозе»</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_MILITARY_MATERIEL_NAME" Language="en_US">
+			<Text>Баявая тэхніка|баявой тэхнікі|баявой тэхніцы|баявую тэхніку|баявой тэхнікай|баявой тэхніцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_INVASION_THREAT_NAME" Language="en_US">
+			<Text>Пагроза ўварвання|пагрозы ўварвання|пагрозе ўварвання|пагрозу ўварвання|пагрозай уварвання|пагрозе ўварвання</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SEAFOOD_PRESERVATION_NAME" Language="en_US">
+			<Text>Гандаль крэветкамі|гандлю крэветкамі|гандлю крэветкамі|гандаль крэветкамі|гандлем крэветкамі|гандлю крэветкамі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_PARK_RANGERS_NAME" Language="en_US">
+			<Text>Падлоўчыя|падлоўчых|падлоўчым|падлоўчых|падлоўчымі|падлоўчых</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_SYDNEY_NAME" Language="en_US">
+			<Text>Новы Паўднёвы Ўэльс|Новага Паўднёвага Ўэльса|Новаму Паўднёваму Ўэльсу|Новага Паўднёвага Ўэльса|Новым Паўднёвым Ўэльсам|Новым Паўднёвым Ўэльсе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_SYDNEY_DESCRIPTION" Language="en_US">
+			<Text>Штат Новы Паўднёвы Ўэльс|штата Новы Паўднёвы Ўэльс|штату Новы Паўднёвы Ўэльс|штат Новы Паўднёвы Ўэльс|штатам Новы Паўднёвы Ўэльс|штаце Новы Паўднёвы Ўэльс</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SYDNEY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Отправной точкой британской колонизации Восточной Австралии стало основание Сиднея в 1788 г. На протяжении всей своей истории – от обычного каторжного поселения до сообщества свободных людей – Новый Южный Уэльс всегда был (или считал себя) авангардом австралийского общества.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SYDNEY_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Когда в 1851 г. в Новом Южном Уэльсе нашли золото, экономическое могущество этой территории сравнялось с ее политическим весом. При переходе от колониального периода к независимости было найдено компромиссное решение в вопросе соперничества между Новым Южным Уэльсом и Викторией: столицей сделали город Канберра, построенный в пустынном районе между Сиднеем и Мельбурном, который большинство австралийцев до тех пор обходили стороной.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_QUEENSLAND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Северо-восток Австралии известен своими природными красотами и – по мнению австралийцев, живущих вне Квинсленда – неестественно прямыми бананами, которые положено изгибать перед отправкой на экспорт (мы воздержимся от цитирования ответов, которые обычно дают на это квинслендцы). Когда-то здесь жила самая многочисленная популяция аборигенов, но все изменилось с появлением британских колонистов, принесенных ими болезней и нескольких кровопролитных конфликтов в начале XIX в.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_QUEENSLAND_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>В 1859 году Квинсленд стал отдельной от Нового Южного Уэльса колонией британской короны. Брисбену (основанному в 1824 году, бывшему каторжному поселению) повезло стать столицей. В Квинсленде нашли золото, и во второй половине XIX в. эта территория пережила несколько вспышек «золотой лихорадки». Здесь находятся многочисленные национальные парки, а вдоль восточного побережья тянется Большой Барьерный риф.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WESTERN_AUSTRALIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Всю западную треть Австралии назвали очень просто: Западная Австралия. В XIX в. было слишком опасно проводить подробное картографирование этих «адских выжженных земель» (и Перта). Жители Западной Австралии получили прозвище в честь местной разновидности живучей норной саранчи («пескощупы») – то ли за их упорство, то ли с намеком на то, что постоянно копаются в земле.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WESTERN_AUSTRALIA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Поселение Перт было основано в 1829 г. и вскоре стало столицей Западной Австралии. Перт расположен на юго-западе, в местности с умеренным климатом, поэтому здесь поселилось большинство жителей колонии. Морское путешествие из Перта в Мельбурн занимало целую неделю.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WESTERN_AUSTRALIA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Западная Австралия известна своими огромными, безжизненными, малонаселенными пустошами. Большинство жителей сосредоточено на побережье. Благодаря длинной береговой линии рыболовство всегда было одной из основ местной экономики.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VICTORIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Юго-восток Австралии благодаря умеренному климату заработал славу цветущего края. Урожай капусты здесь собирают круглый год, однако далеко не все жители Виктории лично трудятся на своих огородах.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VICTORIA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Мельбурн был основан Джоном Бэтманом в 1835 г. Он не был первым поселением в этом регионе, но стремительно развивался и в 1851 г., после отделения британской колонии Виктория от Нового Южного Уэльса, стал ее столицей. В том же году жителям Виктории повезло обнаружить крупные месторождения золота. Началась «золотая лихорадка», которая привлекла много нового народа в эту колонию.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VICTORIA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Те, кому не повезло на приисках, остались жить в мягком (по австралийским меркам) климате и помогали новоиспеченным богачам избавиться от намытого золота – либо оказывая им различные услуги, либо с помощью жульничества. За исключением экономического кризиса 1893 года, экономика Виктории постоянно росла.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_AUSTRALIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Южная часть центральной Австралии включает в себя побережье с умеренным климатом, полупустыни («бушленд») и внутренние территории («аутбэк») с очень суровыми условиями жизни. О местных жителях рассказывают, что в отсутствие другой пищи они едят ворон. Это неправда, они предпочитают более вкусных попугаев и какаду.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_AUSTRALIA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Южная Австралия – единственная колония, учрежденная по декрету британского парламента. Ей изначально присвоили статус свободной территории, где запрещен труд каторжников, что привлекало неимущих мигрантов в поисках новой жизни. Здесь действует принцип свободы вероисповеданий и гарантированы права аборигенов. С момента своего основания в Аделаиде в 1836 году эта колония неуклонно придерживается этих принципов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_AUSTRALIA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>На скотоводческих фермах по всей Южной Австралии занимались разведением овец. Здесь никогда не было «золотой лихорадки», но обширные посевы пшеницы кормили всю Австралию до конца XIX в.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_AERIAL_SERVICES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Появление радиосвязи и авиации изменило весь уклад жизни отдаленных австралийских поселений. Обитатели самых глухих уголков, ранее предоставленные самим себе, получили доступ к образованию и медицине. Австралийцев, разделенных огромными расстояниями, сблизили технологические новшества XX века.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_CROWN_COLONY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>К середине XIX в. Австралия уже не была скоплением каторжных поселений, терзаемых дизентерией и прочими напастями. Это была привлекательная дальняя страна, где можно было начать новую жизнь и (может быть) разбогатеть. Австралия обладала определенным суверенитетом, но оставалась британским владением.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_CRUISE_LINES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Всю первую половину ХХ в. единственным надежным и (как правило) безопасным способом добраться до Австралии был морской транспорт. Правительство новообразованного Австралийского Союза использовало федеральный бюджет для организации национальных парков, а австралийские лайнеры привозили туристов, желающих полюбоваться великолепием природы «земли антиподов».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_FEDERATION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Австралийский Союз образовался в самом начале ХХ века. У австралийцев появилось национальное самосознание, относительно внятная тарифная политика и основные государственные учреждения (парламент и верховный суд). Чтобы прекратить споры между Мельбурном и Сиднеем, столицей назначили город Канберра.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_GOLD_RUSH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В 1851 году весь мир узнал об огромных состояниях, сколоченных на калифорнийских приисках. Когда Эдвард Харгрейвс и Джон Листер обнаружили в Новом Южном Уэльсе крупные месторождения золота, началась австралийская «золотая лихорадка». Она привлекла сюда новых людей, многих обогатила и послужила поводом серьезной социальной напряженности, связанной с «нежелательными иммигрантами».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_GREAT_WAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Хотя поля сражений Первой мировой войны и находились далеко от австралийских берегов, Австралийский Союз отправил более 400 тыс. добровольцев на войну на стороне Великобритании. Австралийцы воевали на Ближнем Востоке и Западном фронте. Они вступили в войну федерацией колоний, а вышли – нацией.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_PASTORAL_LEASES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>По мере того, как австралийские колонии проводили разведку пригодной для животноводства земли, ее сдавали в аренду фермерам. Австралийские фермы, как правило, занимают огромную территорию – это необходимо для правильного ухода за пастбищами и во избежание засухи. Этот суровый урок поселенцы усвоили в конце 60-х годов XIX в.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_PENAL_COLONY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Первые австралийские колонии были основаны британскими каторжниками, привезенными сюда с другого конца света. Мелким воришкам можно приказать заниматься земледелием, добычей руд или оказанием медицинской помощи, но, к сожалению, они не могут по приказу приобрести соответствующие навыки. И все же, невзирая на трудности, большая часть заключенных постепенно образовала костяк будущих успешных колоний.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_SHEEP_REARING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В XIX в. потребность Британии в шерсти возросла, и это превратило овцеводство в одну из основных отраслей австралийской колониальной экономики. Шерсть – один из немногих товаров, которые не портятся за время долгого плавания, поэтому производство шерсти в колониях было в интересах Британии (и в интересах австралийских фермеров).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_WORLD_WAR_II_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В отличие от Первой мировой войны, Вторая мировая создала угрозу прямого вторжения на австралийскую землю. Армия Австралии снова воевала в коалиции с Великобританией, но в этот раз ее действия в большей степени зависели от решений австралийского правительства. Это позволяло теснее координировать действия австралийских сил с силами союзников в Тихом океане.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_PENAL_SETTLEMENT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Колониальная империя, заморские владения, творческий подход к уголовному законодательству – все это привело к учреждению каторжных поселений. Система принудительных работ по контракту направляла заключенных на далекий и негостеприимный континент, обрекая их на изнурительную и опасную работу по колонизации этих территорий. Управлял каторжниками губернатор, бежать было некуда. Заключенные получали во владение то, что создали своим трудом, и это стимулировало их к оплате долга перед обществом.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_COLONIAL_GOVERNMENT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Когда каторжное поселение становится самодостаточным, ему требуется нечто большее, чем губернатор с неограниченной властью над подневольными работниками. Суровое колониальное правосудие было малопривлекательным для опытных коммерсантов и искателей новой жизни. Колониальная администрация стала предоставлять населению права местного и регионального самоуправления. Органы власти росли вместе с населением колонии, что позволяло административному центру заботиться о жителях отдаленных поселений и (что еще важнее) облагать их налогами.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_STATE_GOVERNMENT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Учреждение федеральных штатов привело к созданию регионального самоуправления в рамках общенациональной административной системы. Простые и ясные положения федеральной конституции, принятые и применяемые на федеральном уровне, позволяют правительству штата заниматься местными вопросами и влиять на государственную политику через представительные органы. Как правило, администрация каждого штата старается ухватить такой кусок общенационального пирога, на какой хватает рук, и громко взывает к равенству, если другой штат отхватывает себе больший кусок.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_LAND_GRANTS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Колониальные власти предоставляли земли колонистам с хорошей репутацией, но порой закрывали глаза и на каторжников, если те были готовы работать на земле.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FIRST_FLEET_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В 1788 году в Австралию прибыл флот из шести транспортов с каторжниками, двух военных кораблей и трех грузовых судов. Единственным источником пищи на первых порах было рыболовство.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_REWARDS_OFFERED_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Во время австралийской «золотой лихорадки» 1851 года колониальная администрация предлагала щедрое вознаграждение за добычу с приисков. Все, у кого нашлись поддоны, подались в старатели.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TERRA_NULLIUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Объявление Австралии в 1835 году «ничьей землей» без явного суверена позволило колониям захватывать территории невзирая на присутствие аборигенов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_COLONIAL_ARCHITECTS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>После бессистемности и хаоса первых лет колониальная администрация обратилась за помощью в планировании развития колоний к квалифицированным специалистам.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PARRAMATTA_ROAD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Первая в Австралии дорога соединила колонии Сидней и Парраматта. Дальнейшее развитие инфраструктуры привело к созданию сети колониальных автотрасс.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TICKET_OF_LEAVE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Досрочное освобождение предоставлялось заключенным, способным самостоятельно себя обеспечить, а также за хорошее поведение. Это позволяло поселенцам работать в колониальных округах.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MOUNTED_STOCKMEN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Конные пастухи трудились на обширных территориях, отведенных под скотоводческие фермы. Они умело обращались со стадами, перегоняя их по обширным пустошам.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TRANS_AUSTRALIAN_RAILWAY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Построенная после образования Австралийского Союза трансавстралийская железная дорога обеспечила регулярное сообщение между Пертом на западе и Сиднеем на востоке.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FEED_THE_TROOPS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Частям АИС во время выполнения заданий в дальних странах требовались регулярные поставки пищи. Нескоропортящиеся (и зубодробительные) галеты входили в солдатский рацион на полуострове Галлиполи и не только.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_GALLIPOLLI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Хотя союзные войска и потерпели поражение в Галлиполийском сражении, отважные солдаты АИС снискали уважение всех австралийцев.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SCHOOL_OF_THE_AIR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Распространение радиосвязи позволяло транслировать обучающие программы. Это помогло жителям отдаленных районов получить доступ к образованию.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FLYING_DOCTORS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Крылатая скорая помощь» использовала радиосвязь и воздушный транспорт для оказания медицинской помощи жителям отдаленных районов Австралии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MILITARY_MATERIEL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Австралийская военная экономика нуждалась в сырье для производства оружия, транспорта и боевых кораблей. Это привело к развитию горной промышленности, удовлетворявшей военные нужды страны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_INVASION_THREAT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Страх перед японским вторжением привел к принятию закона о службе австралийских призывников за пределами Австралии, если это способствовало повышению обороноспособности страны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SEAFOOD_PRESERVATION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Рост иммиграции после Второй мировой войны значительно стимулировал развитие австралийской рыбной промышленности. Креветки и лангусты стали важной статьей экспорта.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PARK_RANGERS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Австралийские егеря следят за обширными территориями национальных парков – как за состоянием экосистем, так и за безопасностью посетителей.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_GOLD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Золото в Австралии нашли еще в начале XIX в., но «золотая лихорадка» пришла сюда только в 1851 году. Было намыто столько золотого песка, что Британия учредила в Сиднее монетный двор. Это был первый случай за всю историю, когда британские монеты чеканились за пределами Англии. Золото так и осталось высокодоходной статьей австралийского экспорта.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PROSPECTOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Когда в XIX в. в Австралии нашли золото, сюда устремились многочисленные старатели. В отличие от «изыскателей» (для которых просеивание гор пустой породы в поисках золота, серебра и опалов – это своего рода развлечение), эти «профессиональные любители» стремились разбогатеть – при условии, что им удалось застолбить правильный участок.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GRAZIER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Пастухи – неотъемлемый элемент скотоводческой фермы. Они перегоняют стада и следят за состоянием пастбищ. Для прокорма скота в Австралии требуется больше земли, чем в более плодородных районах. Пастухи варят сыр, стригут овец, охотятся на динго – в общем, создают условия для развития животноводства в Австралии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FARMER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>На австралийских фермеров обрушиваются самые разнообразные бедствия. Это и эрозия почвы, и ужасный шотландский чертополох, и нашествия кроликов, не говоря уже о засухе. Но эта трудная жизнь может обогатить того, кто не боится тяжелого труда и умеет найти правильное место.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FISHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Будь то двоякодышащая рыба, муррейская треска или западный пескарь – умелый рыбак поймает любую рыбу, что порой бывает непростой задачей на самом засушливом континенте Земли. Отважные пингвины покидают пресные воды и отправляются на рыбалку в открытое море... где их подстерегают морские крокодилы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Исследователи-колонизаторы Австралии зачастую были бесстрашными, амбициозными людьми, которые мечтали прославиться как покорители новых земель. Однако, к несчастью для исследователей, новые земли покоряться не желали. Из тех, кто отправился в глушь, не сознавая опасности, лишь немногие вернулись целыми и невредимыми. Некоторые не вернулись вовсе.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_KAKADU_NAME" Language="en_US">
+			<Text>Какаду|Какаду|Какаду|Какаду|Какаду|Какаду</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_PINNACLES_NAME" Language="en_US">
+			<Text>Тэ-Пінаклс|Тэ-Пінаклса|Тэ-Пінаклсу|Тэ-Пінаклс|Тэ-Пінаклсам|Тэ-Пінаклсе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_RESOURCE_SCENARIO_GOLD_NAME" Language="en_US">
+			<Text>Залатая руда|залатой руды|залатой рудзе|залатую руду|залатой рудой|залатой рудзе</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_1" Language="en_US">
+			<Text>ДАСЛЕДНІК ГАТОВЫ</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_2" Language="en_US">
+			<Text>ПРЫБЫВАЕ КАЛАНІЯЛЬНЫ КАРАБЕЛЬ</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_3" Language="en_US">
+			<Text>НАРОДЗІНЫ НАЦЫІ</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_4" Language="en_US">
+			<Text>ПЕРШАЯ СУСВЕТНАЯ ВАЙНА</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_5" Language="en_US">
+			<Text>ДРУГАЯ СУСВЕТНАЯ ВАЙНА</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_6" Language="en_US">
+			<Text>ДАДАТКОВЫЯ АСАДНІКІ</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_1" Language="en_US">
+			<Text>Адважны даследнік адправіўся ў брытанскую асаду Новы Паўднёвы Ўэльс, каб раскрыць таямніцы аўстралійскага кантынента.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_2" Language="en_US">
+			<Text>Мы нанялі цэлы карабель адважных хлопцаў, каб заснаваць новую асаду. Мы вельмі разлічваем на гэту хеўру – не ўсе з іх злачынцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_3" Language="en_US">
+			<Text>Зараз, калі на гэтай зямлі ўжо нарадзілася і памерла некалькі пакаленняў аўстралійцаў, мы хочам злучыць асобныя штаты ў адну дзяржаву. Час з'яднаць Аўстралію і стварыць новую, незалежную ад Брытаніі нацыю.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_4" Language="en_US">
+			<Text>Вялікая вайна скалынае еўрапейскі кантынент. Наша брытанская прарадзіма таксама ўцягнута ў гэты канфлікт. Мы падтрымаем яе войскамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_5" Language="en_US">
+			<Text>Грымнула яшчэ адна сусветная вайна. Гэтым разам наша родная Аўстралія апынулася пад пагрозай. Прэм'ер-міністр Джон Кэрцін сказаў: «Полымя волі запалена на гэтай зямлі першымі асаднікамі, яму не давалі загаснуць многія пакаленні, і ніводны вораг не ў сілах яго патушыць».</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_6" Language="en_US">
+			<Text>У Англіі заўважылі бурнае развіццё сацыяльных інстытутаў у вашай асадзе. Да вас толькі што прыбылі новыя асаднікі, якія шукаюць новы дом.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_1" Language="en_US">
+			<Text>Скарыстайце гэтага даследніка, каб на працягу наступных чатырох хадоў знайсці найлепшае месца для новага селішча.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_2" Language="en_US">
+			<Text>Напачатку наступнага ходу на найблізкай да вашага даследніка ўзбярэжнай клетцы з'явіцца дармовы атрад асаднікаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_3" Language="en_US">
+			<Text>Па завяршэнні сацыяльнага інстытута «Федэрацыя» вы зможаце ўкараніць найболей моцную форму кіравання – «Урад штата».</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_4" Language="en_US">
+			<Text>Зараз вы можаце пачаць стварэнне праекта «АІС» у кожным са сваіх гарадоў. Кожны падобны ўнёсак у вайну ўзмоцніць ролю вашага штата ў нашай дзяржаве і дасць вам +10 [ICON_Gold] золата за ход.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_5" Language="en_US">
+			<Text>У гэты перыяд завяршэнне праекта «АІС» асабліва важнае, і ён прынясе вам +20 [ICON_Gold] золата за ход.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_6" Language="en_US">
+			<Text>У вашай сталіцы з'явіўся дармовы асаднік. З гэтага моманту вы можаце засноўваць новыя гарады не бліжэй, чым на адлегласці 10 клетак ад ужо існых.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_1" Language="en_US">
+			<Text>Панесеныя адлівам</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_2" Language="en_US">
+			<Text>Натыкнуліся на кубамедузу</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_3" Language="en_US">
+			<Text>Падабралі ракавіну малюска</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_4" Language="en_US">
+			<Text>Стаім з-за густога туману</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_5" Language="en_US">
+			<Text>Папоўнілі запасы ў абарыгенаў-рыбакоў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_6" Language="en_US">
+			<Text>Наёмныя скалалазы</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_7" Language="en_US">
+			<Text>Выяўлены багатыя рыбай воды</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_1" Language="en_US">
+			<Text>Недаацанілі патрэбу ў вадзе</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_2" Language="en_US">
+			<Text>Статкі дзікіх вярблюдаў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_3" Language="en_US">
+			<Text>Наступіў на атрутную гадзюку</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_4" Language="en_US">
+			<Text>Стаім з-за бесперапыннай пылавой буры</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_5" Language="en_US">
+			<Text>Заўважаны аазіс</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_6" Language="en_US">
+			<Text>Выяўлены безабаронныя шчанюкі дынга.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_1" Language="en_US">
+			<Text>Трапілі ў засаду рабаўнікоў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_2" Language="en_US">
+			<Text>Стэпавы пажар</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_3" Language="en_US">
+			<Text>Нас пераследуюць дынга</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_4" Language="en_US">
+			<Text>З'елі атрутныя ягады</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_5" Language="en_US">
+			<Text>Асаднікі падзяліліся запасамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_6" Language="en_US">
+			<Text>Наёмныя бадзякі</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_1" Language="en_US">
+			<Text>Каменяпад!</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_2" Language="en_US">
+			<Text>Вылучна халодныя ночы</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_3" Language="en_US">
+			<Text>Запасы зваліліся ў прорву</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_4" Language="en_US">
+			<Text>Бескарысны пераход</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_5" Language="en_US">
+			<Text>Наёмныя геолагі</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_6" Language="en_US">
+			<Text>Знойдзена горная крыніца</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_1" Language="en_US">
+			<Text>Закалотка з рудым кенгуру</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_2" Language="en_US">
+			<Text>Засуха працягваецца</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_3" Language="en_US">
+			<Text>Зараснікі пустазелляў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_4" Language="en_US">
+			<Text>Зусім заблудзіліся</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_5" Language="en_US">
+			<Text>Наёмныя пастухі</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_6" Language="en_US">
+			<Text>Ружовыя какаду вывелі да вады</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_1" Language="en_US">
+			<Text>Выбух малярыі</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_2" Language="en_US">
+			<Text>Голад з-за нашэсця саранчы</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_3" Language="en_US">
+			<Text>Панесеныя залеўнай паводкай</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_4" Language="en_US">
+			<Text>Угразлі ў глеі</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_5" Language="en_US">
+			<Text>Злавілі рачных ракаў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_1" Language="en_US">
+			<Text>З'еты марскім кракадзілам</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_2" Language="en_US">
+			<Text>У ранах кішаць паразіты</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_3" Language="en_US">
+			<Text>Укушаны атрутным павуком</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_4" Language="en_US">
+			<Text>З'елі атрутную рыбу</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_5" Language="en_US">
+			<Text>Заблудзіліся ў балотах</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_6" Language="en_US">
+			<Text>Чуткі пра жудаснага буньіпа</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_1" Language="en_US">
+			<Text>Заразіліся глістамі</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_2" Language="en_US">
+			<Text>Занадта хутка выпілі зашмат вады</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_3" Language="en_US">
+			<Text>Траха не дайшло да мяцяжу</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_4" Language="en_US">
+			<Text>Адпачылі ля ракі</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_5" Language="en_US">
+			<Text>Спакойны адпачынак</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_1" Language="en_US">
+			<Text>Тут усё атрутнае</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_2" Language="en_US">
+			<Text>Спалохалі казуара</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_3" Language="en_US">
+			<Text>Ліхаманка дэнге</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_4" Language="en_US">
+			<Text>Падпалі пад нападу рою мурашак</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_5" Language="en_US">
+			<Text>Невядомае навуцы дзіва</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_1" Language="en_US">
+			<Text>Патурбавалі сецістую карычневую змяю</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_2" Language="en_US">
+			<Text>Склалі вогнішча з эўкаліпта</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_3" Language="en_US">
+			<Text>Раззлавалі страуса эму</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_4" Language="en_US">
+			<Text>Ілжывыя чуткі пра каал-людаедаў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_5" Language="en_US">
+			<Text>Знайшлі носку яек эму</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_1" Language="en_US">
+			<Text>Благі знак</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_2" Language="en_US">
+			<Text>Пакутуем ад цынгі</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_3" Language="en_US">
+			<Text>Спрэчка пра выбар маршруту</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_4" Language="en_US">
+			<Text>Забыліся прывязаць коней</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_5" Language="en_US">
+			<Text>Выяўлены кароткі шлях</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_6" Language="en_US">
+			<Text>Папоўнілі запасы ў абарыгенаў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_7" Language="en_US">
+			<Text>Па слядах дынга</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_8" Language="en_US">
+			<Text>Спрэчка з даследнікамі-канкурэнтамі</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_9" Language="en_US">
+			<Text>Выяўлены недакладнасці на картах</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_10" Language="en_US">
+			<Text>Скарб!</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_11" Language="en_US">
+			<Text>Наёмныя правадыры-абарыгены</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_12" Language="en_US">
+			<Text>Выпадкова пакрыўдзілі абарыгенаў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_13" Language="en_US">
+			<Text>Выпадкова зрабілі лясны пажар</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_14" Language="en_US">
+			<Text>Міграцыя абарыгенаў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_15" Language="en_US">
+			<Text>Бясплодныя гутаркі з абарыгенамі</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_1" Language="en_US">
+			<Text>Тое, што пачыналася як асвяжальнае купанне ў акіяне, скончылася трагедыяй.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_2" Language="en_US">
+			<Text>Вельмі далікатнае стварэнне, напоўненае пякучым ядам.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_3" Language="en_US">
+			<Text>За прыгожай абалонкай хаваецца тонкае атрутнае джала.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_4" Language="en_US">
+			<Text>Ён прыйшоў з мора і быў гусцей за парахавы дым.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_5" Language="en_US">
+			<Text>Яны ведаюць тутэйшыя воды і злавілі рыбу. Мы лайдачылі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_6" Language="en_US">
+			<Text>Як яны прымудраюцца лавіць рыбу з узбярэжных скал і не валіцца ў ваду? Дзіўна!</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_7" Language="en_US">
+			<Text>Дзіўная знаходка. Тут можна заснаваць селішча.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_1" Language="en_US">
+			<Text>Першымі, узвар'яваўшыся ад смагі, загінулі коні.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_2" Language="en_US">
+			<Text>Першыя асаднікі іх кінулі, і з той пары яны здзічэлі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_3" Language="en_US">
+			<Text>На гэтай выпаленай сонцам зямлі ўсе зліваецца ў неадрозную масу. Нават змеі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_4" Language="en_US">
+			<Text>Пыл залез ва ўсе шчыліны. Яшчэ некалькі дзён мы вытрасалі яе адусюль.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_5" Language="en_US">
+			<Text>Знайшлі выспачку жыцця пасярод выпаленай пустэчы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_6" Language="en_US">
+			<Text>Зразумейце, так было трэба. Інакш мы б не выжылі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_1" Language="en_US">
+			<Text>Ежу забралі, ваду пакінулі. Гэта былі зладзеі, а не забойцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_2" Language="en_US">
+			<Text>Жар, як з кавальскага горна. Бровы згарэлі, скура ў апёках.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_3" Language="en_US">
+			<Text>Яны даўно пераследавалі нас, зрэдку нападаючы на жывёлін, якія адбіліся ад статка.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_4" Language="en_US">
+			<Text>Нясцерпны боль. Нібы нам у кішкі насыпалі гарачых вуглёў.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_5" Language="en_US">
+			<Text>Яны вырашылі пачаць новае жыццё ў гэтых месцах.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_6" Language="en_US">
+			<Text>Вандроўныя фермеры шукаюць надзейную працу па сезоне.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_1" Language="en_US">
+			<Text>Мы зрабілі лагер у няўдалым месцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_2" Language="en_US">
+			<Text>Тонкія коўдры не бароняць ад ледзянога ветру з гор.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_3" Language="en_US">
+			<Text>Зараз зразумела, што трэба было скласці іх далей ад абрыву.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_4" Language="en_US">
+			<Text>Мы думалі, што знайшлі кароткі шлях – і правіхлялі без толку цэлы дзень.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_5" Language="en_US">
+			<Text>Шмат хто знаходзіў залатыя россыпы. Мала хто збагацеў.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_6" Language="en_US">
+			<Text>Горная крыніца дала нам столькі воды, колькі мы змаглі панесці.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_1" Language="en_US">
+			<Text>У апраўданне магу сказаць, што мы проста хацелі зазірнуць да яго ў торбу.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_2" Language="en_US">
+			<Text>Сасмаглыя расліны гатовы адняць у нас апошнюю кроплю вады.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_3" Language="en_US">
+			<Text>Калі мы спрабавалі прайсці, вострае лісце ўтыкалася ў нашы целы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_4" Language="en_US">
+			<Text>На гэтай бязмежнай, аднастайнай раўніне лёгка збіцца з дарогі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_5" Language="en_US">
+			<Text>Гэта цяжкая праца, але яны не супраць такой працы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_6" Language="en_US">
+			<Text>Мы пайшлі за імі. Прыгожыя птушачкі. Але нясмачныя.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_1" Language="en_US">
+			<Text>У паветры было цёмна ад камароў.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_2" Language="en_US">
+			<Text>Саранча зжэрла ўсе, што магло б нас пракарміць.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_3" Language="en_US">
+			<Text>Калі не знойдзем узвышша, то проста знікнем.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_4" Language="en_US">
+			<Text>У багне засталося нямала ботаў і панчох.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_5" Language="en_US">
+			<Text>Калі іх зварыць, то яны ўежныя. Цалкам, апроч панцыра.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_1" Language="en_US">
+			<Text>Ні гуку, ні крыку. Толькі рабізна на вадзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_2" Language="en_US">
+			<Text>Гэтыя чортавы фізаліі найхутчэй вінаваты ў тым, што здарылася.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_3" Language="en_US">
+			<Text>Чым драбней стварэнне, тым атрутней. Зазвычай.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_4" Language="en_US">
+			<Text>Не кожная рыба ўежная. Асабліва гэта.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_5" Language="en_US">
+			<Text>Здаецца, мясцовасць змяняецца на працягу дня. Ігранне святла?</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_6" Language="en_US">
+			<Text>Гэта так. Злы дух завёў нас у гэта балота.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_1" Language="en_US">
+			<Text>На пустэчах нават найчыстая вада можа апынуцца небяспечнай для страўніка.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_2" Language="en_US">
+			<Text>Празмернае пітво пасля доўгай смагі можа выклікаць сумныя наступствы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_3" Language="en_US">
+			<Text>Яны не хацелі сыходзіць з аазіса. Траха не дайшло да бойкі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_4" Language="en_US">
+			<Text>Артэзіянская студня надала нам сіл.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_5" Language="en_US">
+			<Text>Добры дзень. Але наўрад ці ён ураўнаважыць беды астатніх дзён.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_1" Language="en_US">
+			<Text>Тут кожная казурка, жывёла, кветка, корань і лаза можа забіць нас.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_2" Language="en_US">
+			<Text>Падумаць толькі, калі ён падхапіўся і растапырыў лапы, мы ж толькі засмяяліся.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_3" Language="en_US">
+			<Text>Ліхаманка працягвалася некаторы час, а потым пячатка лёсу лягла на нашы раны.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_4" Language="en_US">
+			<Text>Уладкавалі лагер на мурашніках. Вылучнае нешанцаванне.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_5" Language="en_US">
+			<Text>Гэты дзіўны свет утойвае нямала цудаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_1" Language="en_US">
+			<Text>Яна выявіла свой гідкі характар, напаўшы на нас без бачнай прычыны.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_2" Language="en_US">
+			<Text>Нечакана вогнішча выбухнула. Сёй-той вырашыў, што стралялі з гарматы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_3" Language="en_US">
+			<Text>Яго хуткая дзюба заспела нас знянацку.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_4" Language="en_US">
+			<Text>Мы гэтак і не сустрэлі каалу-драпежніка. Пашчасціла.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_5" Language="en_US">
+			<Text>Сыры жаўток напамінае на густ «лясныя вустрыцы».</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_1" Language="en_US">
+			<Text>Кульгавага каня можна і прыстрэліць. З чалавекам так не зробіш.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_2" Language="en_US">
+			<Text>У роце перасохла, з паднябення злазіць скура. Агідна.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_3" Language="en_US">
+			<Text>Суровыя ўмовы і патрапаныя нервы часта прыводзяць да боек.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_4" Language="en_US">
+			<Text>У горадзе гэта дробная абмыла. А ў пустэчах – буйная.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_5" Language="en_US">
+			<Text>На першы позірк незаўважная сцяжынка можа вывесці ў цікавыя месцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_6" Language="en_US">
+			<Text>На наша шчасце, дзе-нідзе ў бушлендзе сустракаюцца людзі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_7" Language="en_US">
+			<Text>Тут прайшлі дынга ў пошуках вады і ежы. Пойдзем за імі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_8" Language="en_US">
+			<Text>Шмат хто дадумаўся пакінуць знаходкі сабе.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_9" Language="en_US">
+			<Text>Можа, яны мелі рацыю. Невядома, што нас чакае ў пустэчах.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_10" Language="en_US">
+			<Text>Вельмі шкада, што гэта знойдзена на трупе загінулага даследніка.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_11" Language="en_US">
+			<Text>Мы падзялілі экспедыцыю, каб даследаваць вялікую тэрыторыю.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_12" Language="en_US">
+			<Text>Потым мы зразумелі, што нанеслі гэтаму клану цяжкую абразу.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_13" Language="en_US">
+			<Text>Дагэтуль мы ўяўлення не мелі, як далёка ён можа залазіць. Вельмі далёка.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_14" Language="en_US">
+			<Text>Пагаршэнне ўмоў вымусіла іх адправіцца на пошукі шчасця куды вочы павядуць.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_15" Language="en_US">
+			<Text>Здаецца, іх папярэднія кантакты з чужынцамі былі неспрыяльнымі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_1" Language="en_US">
+			<Text>Панесла ў мора. Пэўна што, патанулі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_2" Language="en_US">
+			<Text>Наступілі на медуз, якія спарваліся. Ампутацыя не дапамагла.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_3" Language="en_US">
+			<Text>Падносілі ракавіну да вуха. Акіяна не чутна.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_4" Language="en_US">
+			<Text>Бачнасці няма. Стаім на месцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_5" Language="en_US">
+			<Text>Купілі свежай ежы і вады.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_6" Language="en_US">
+			<Text>Вельмі прыемныя, працавітыя людзі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_7" Language="en_US">
+			<Text>Сапраўдны рог багацця. Занатавалі каардынаты.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_1" Language="en_US">
+			<Text>Каб выжыць, даводзіцца піць уласную вадкасць.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_2" Language="en_US">
+			<Text>Затаптаны. Аслеплены пляўком вярблюда. Заняпад маралі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_3" Language="en_US">
+			<Text>Уджалены ў нагу. Неўзабаве наступіў параліч дыхання.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_4" Language="en_US">
+			<Text>Бачнасці няма. Адхаркваем пясок. Стаім на месцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_5" Language="en_US">
+			<Text>Знайшлі гасціннае месца. Занатавалі каардынаты.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_6" Language="en_US">
+			<Text>Папоўнілі запасы. Заняпад маралі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_1" Language="en_US">
+			<Text>У кулачным боі страцілі зубы. І запасы таксама.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_2" Language="en_US">
+			<Text>Сярод попелу цяжка нешта знайсці. Спяшаемся далей.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_3" Language="en_US">
+			<Text>Бясконцае выццё. Чатыры ночы без сну. Заняпад маралі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_4" Language="en_US">
+			<Text>Абязводжаны. Дэмаралізаваны. Няма сіл крочыць далей.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_5" Language="en_US">
+			<Text>Наеліся і папоўнілі запасы. Мараль высокая.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_6" Language="en_US">
+			<Text>Падзяліліся картамі з суседнім селішчам.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_1" Language="en_US">
+			<Text>Медыкаменты згубіліся. Раны засталіся, і іх чымсьці лячыць.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_2" Language="en_US">
+			<Text>Ёсць выпадкі абмарожанняў. Трэба спяшацца, пакуль мы ўсе не захварэлі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_3" Language="en_US">
+			<Text>Спробы дастаць іх не завершыліся поспехам. Стомленыя, параненыя, дэмаралізаваныя.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_4" Language="en_US">
+			<Text>Праход прывёў у тупік. Давялося вярнуцца ў стары лагер.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_5" Language="en_US">
+			<Text>Адправілі геолагаў у найблізкую кантору старацеляў.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_6" Language="en_US">
+			<Text>Адпачылі, папоўнілі запасы. Сабралі плады. Мараль высокая.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_1" Language="en_US">
+			<Text>Шматлікія ўдары прывялі да пашкоджанняў і смерці.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_2" Language="en_US">
+			<Text>Зямля перасохла. Мы таксама. Наперад.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_3" Language="en_US">
+			<Text>Не прабіцца праз зараснікі гэтых раслін.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_4" Language="en_US">
+			<Text>Адранку два разы перакрыжавалі ўласныя сляды. Заняпад маралі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_5" Language="en_US">
+			<Text>На найблізкай ферме хутка з'явяцца новыя пастухі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_6" Language="en_US">
+			<Text>Бурдзюкі і жываты траха не лопнулі. Мараль высокая.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_1" Language="en_US">
+			<Text>Несканчоная ліхаманка. Акрыянне немагчыма. Заняпад маралі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_2" Language="en_US">
+			<Text>Збіральніцтва не дае вынікаў. Зацягнулі паясы. Заняпад маралі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_3" Language="en_US">
+			<Text>Ноччу іх панесла з лагера. Хутчэй за ўсё, загінулі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_4" Language="en_US">
+			<Text>Ніякага прагрэсу. Аблеплены мухамі. Заняпад маралі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_5" Language="en_US">
+			<Text>Знайшлі ракаватых. Папоўнілі запасы. Мараль высокая.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_1" Language="en_US">
+			<Text>Мы думалі, яно ўжо насыцілася. Мы мыляліся.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_2" Language="en_US">
+			<Text>Хворы з крыкамі ўцёк у балота. Хутчэй за ўсё, загінуў.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_3" Language="en_US">
+			<Text>Колькі жахаў утойвае гэта негасцінная зямля!</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_4" Language="en_US">
+			<Text>Пасля поўнага паралічу наступіла жудасная смерць.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_5" Language="en_US">
+			<Text>Пасля цяжкага пераходу знайшлі лагер. Цяпер ён наш.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_6" Language="en_US">
+			<Text>Расказваюць казкі пра буньіпа, абы ўвільнуць ад працы. Стаім на месцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_1" Language="en_US">
+			<Text>Усе свярбіць і запаляецца. Не можам ні спаць, ні сядзець.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_2" Language="en_US">
+			<Text>Чакаем выгаення ад воднай хваробы. Стаім на месцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_3" Language="en_US">
+			<Text>Было б мудра застацца тут да поўнага аднаўлення сіл.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_4" Language="en_US">
+			<Text>Як прыемна памыцца. Мараль высокая.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_5" Language="en_US">
+			<Text>Запасы папоўнены. Бурдзюкі набраклі. Мараль высокая.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_1" Language="en_US">
+			<Text>Яшчэ адзін з нас загінуў па незразумелай прычыне.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_2" Language="en_US">
+			<Text>Птушка вострымі, як брытва, кіпцюрамі падрала яму горла. Хуткая смерць.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_3" Language="en_US">
+			<Text>Гэта ліхаманка дэнге. Вынік яе вядомы. Заняпад маралі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_4" Language="en_US">
+			<Text>Пасцелі сапсаваны. Цэлы дзень дымам адганялі казурак.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_5" Language="en_US">
+			<Text>Усе дэталёва апісалі. Нам прыналежыць права менавання!</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_1" Language="en_US">
+			<Text>Давялося зноў расказаць пра тое, як небяспечна заганяць змяю ў кут.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_2" Language="en_US">
+			<Text>Коні перапуджаны. Апёкі апрацаваны. Бровы згарэлі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_3" Language="en_US">
+			<Text>Выбіта вока. Рана запалілася. У якасці кампенсацыі ахвяры аддалі кумпячок эму.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_4" Language="en_US">
+			<Text>Увесь дзень пайшоў на пустую балбатню. Мяне атачаюць ідыёты.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_5" Language="en_US">
+			<Text>Папоўнілі запасы. Мараль высокая.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_1" Language="en_US">
+			<Text>Цяжкае параненне. Зменлівасці дарогі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_2" Language="en_US">
+			<Text>Шалёная патрэба ў якасных прадуктах.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_3" Language="en_US">
+			<Text>Дайшло да боек і сур'ёзных калецтваў. Заняпад маралі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_4" Language="en_US">
+			<Text>Акалічнасці пераканаўча напомнілі пра патрэбу прывязваць коней.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_5" Language="en_US">
+			<Text>Выяўлена таемная сцежка, якая паскорыць заўтрашні пераход.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_6" Language="en_US">
+			<Text>Купілі свежай ежы і вады. Толькі наперад.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_7" Language="en_US">
+			<Text>Знайшлі рэчку, адагналі дынга, папоўнілі запасы вады.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_8" Language="en_US">
+			<Text>Нарэшце дамовіліся пра правы на геаграфічныя назвы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_9" Language="en_US">
+			<Text>Патрабуецца больш стараннае даследаванне. Выяўлена новая мясцовасць.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_10" Language="en_US">
+			<Text>Абяцаная ўзнагарода закруціла галовы. Мараль высокая.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_11" Language="en_US">
+			<Text>Які поспех! Нашы шанцы выраслі ўдвая.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_12" Language="en_US">
+			<Text>У паспеху пакінулі гэту тэрыторыю каб пазбегнуць канфлікту.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_13" Language="en_US">
+			<Text>Вуглі вогнішча пачалі выбухаць. Выратаваліся ўцёкамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_14" Language="en_US">
+			<Text>Скіравалі клан да найблізкага селішча. Наперад.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_15" Language="en_US">
+			<Text>Нягледзячы на запэўненні, у гандлі адмоўлена. Неўзабаве адбылі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SCENARIO_SHIPYARD_DESCRIPTION" Language="en_US">
+			<Text>Дадатковая [ICON_Production] вытворчасць, роўная бонусу за суседства з гаванню.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_PENAL_COLONY_DESCRIPTION" Language="en_US">
+			<Text>Пасля выканання атрымаеце дармовага асадніка ў сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_GOLD_RUSH_DESCRIPTION" Language="en_US">
+			<Text>Пасля выканання атрымаеце 2 дармовых асаднікаў у сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_CROWN_COLONY_DESCRIPTION" Language="en_US">
+			<Text>Пасля выканання атрымаеце дармовага асадніка ў сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_PASTORAL_LEASES_DESCRIPTION" Language="en_US">
+			<Text>Пасля выканання атрымаеце дармовага асадніка ў сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_FEDERATION_DESCRIPTION" Language="en_US">
+			<Text>Пасля выканання атрымаеце дармовага асадніка ў сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_CONSERVATION_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаваць нацыянальныя паркі. Дазваляе юнітам садзіць лес (другасны). Лес на вашай тэрыторыі, які ніколі не высякаўся (некрануты), атрымае +1 прэстыжу.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_GREAT_WAR_DESCRIPTION" Language="en_US">
+			<Text>Пасля выканання атрымаеце дармовага асадніка ў сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_WORLD_WAR_II_DESCRIPTION" Language="en_US">
+			<Text>Узнагарода за завяршэнне праекта «АІС» павялічана з +10 да +20 [ICON_Gold] золата за ход.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_AERIAL_SERVICES_DESCRIPTION" Language="en_US">
+			<Text>Гавядніцкія фермы атрымаюць +1 [ICON_Food] ежы за кожныя 2 суседнія гавядніцкія фермы.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_FUTURE_CIVIC_DESCRIPTION" Language="en_US">
+			<Text>Можна скончыць некалькі разоў, але ў дадзеным сцэнары гэта НЕ павялічыць вашы ачкі перамогі.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_ALL_DISTRICTS_CULTURE_BOMB_NAME" Language="en_US">
+			<Text>Захоп пустэч</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_ALL_DISTRICTS_CULTURE_BOMB_DESCRIPTION" Language="en_US">
+			<Text>Завяршэнне будавання кожнага раёна ініцыюе культурны захоп.</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_SCENARIO_NEW_HOLLAND_DESCRIPTION" Language="en_US">
+			<Text>Новая Галандыя</Text>
+		</Replace>
+		<Replace Tag="LOC_CONTINENT_SCENARIO_NEW_SOUTH_WALES_DESCRIPTION" Language="en_US">
+			<Text>Новы Паўднёвы Ўэльс</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_SCENARIO_AERODROME_DESCRIPTION" Language="en_US">
+			<Text>Няможна будаваць на ўзгорках.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SCENARIO_MINE_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе старацелям будаваць рудні.[NEWLINE][NEWLINE]+1 [ICON_Production] вытворчасці. +2 [ICON_Gold] золата. -1 прэстыжу. Можна будаваць толькі на ўзгорках ці на пэўных рэсурсах.[NEWLINE][NEWLINE]Пры пабудове на рэдкіх ці стратэгічных рэсурсах горад атрымае гэтыя рэсурсы.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SCENARIO_PASTURE_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе пастухам ствараць пашы.[NEWLINE][NEWLINE]+1 [ICON_Production] вытворчасці. +1 [ICON_Gold] золата. Можна будаваць толькі на рэсурсах: [ICON_RESOURCE_CATTLE] жывёла, [ICON_RESOURCE_SHEEP] авечкі і [ICON_RESOURCE_HORSES] коні.[NEWLINE][NEWLINE]Пры пабудове на [ICON_RESOURCE_HORSES] конях горад атрымае гэты рэсурс.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SCENARIO_OUTBACK_STATION_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе пастухам будаваць гавядніцкую ферму.[NEWLINE][NEWLINE]+1 [ICON_FOOD] ежы, +1 [ICON_Gold] золата і +1 [ICON_PRODUCTION] вытворчасці. +1 [ICON_Food] ежы за кожную суседнюю пашу. Дадатковая [ICON_FOOD] ежа і [ICON_PRODUCTION] вытворчасць за суседнія гавядніцкія фермы і пашы па меры вашага пасоўвання па дрэве тэхналогій і сацыяльных інстытутаў. Можна будаваць толькі на клетках пустэльні, пустэльных узгоркаў, сенажацяў і раўнін.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SCENARIO_BEACH_RESORT_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе натуралістам ствараць марскія курорты.[NEWLINE][NEWLINE]Дае [ICON_Gold] золата, роўнае прэстыжу клеткі. Можна будаваць толькі на ўзбярэжных клетках пустэльні, раўніны і сенажацяў. Патрэбен узрушальны прэстыж.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SCENARIO_PLANTATION_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам ствараць плантацыі.[NEWLINE][NEWLINE]+1 [ICON_Gold] золата. Можна будаваць толькі на рэсурсах: [ICON_RESOURCE_BANANAS] бананы, [ICON_RESOURCE_CITRUS] цытрусавыя, [ICON_RESOURCE_COTTON] бавоўна, [ICON_RESOURCE_SUGAR] цукар, [ICON_RESOURCE_TEA] чай і [ICON_RESOURCE_WINE] віно.[NEWLINE][NEWLINE]Пры пабудове на рэдкіх рэсурсах горад атрымае гэтыя рэсурсы.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_SCENARIO_ULURU_DESCRIPTION" Language="en_US">
+			<Text>Дзіва прыроды на адну непраходную клетку. Дае +2 [ICON_CULTURE] культуры і +2 [ICON_Gold] золата суседнім клеткам. Дае +4 адз. прэстыжу суседнім клеткам заміж звычайных двух.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_LAND_GRANTS_DESCRIPTION" Language="en_US">
+			<Text>Пасля стварэння фермераў [ICON_Production] вытворчасць павялічыцца на 30%.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_FIRST_FLEET_DESCRIPTION" Language="en_US">
+			<Text>Пасля стварэння рыбакоў [ICON_Production] вытворчасць павялічыцца на 30%.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_REWARDS_OFFERED_DESCRIPTION" Language="en_US">
+			<Text>Пасля стварэння старацеляў [ICON_Production] вытворчасць павялічыцца на 30%.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_TERRA_NULLIUS_DESCRIPTION" Language="en_US">
+			<Text>Новыя навучаныя фермеры атрымаюць на 2 дзеянні больш.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_COLONIAL_ARCHITECTS_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Production] вытворчасці ўва ўсіх гарадах.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_PARRAMATTA_ROAD_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Food] ежы і +1 [ICON_Production] вытворчасці ад унутраных [ICON_TradeRoute] гандлёвых шляхоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_TICKET_OF_LEAVE_DESCRIPTION" Language="en_US">
+			<Text>Пасля стварэння пастухоў [ICON_Production] вытворчасць павялічыцца на 30%.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_MOUNTED_STOCKMEN_DESCRIPTION" Language="en_US">
+			<Text>Новыя навучаныя пастухі атрымаюць на 2 дзеянні больш.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_TRANS_AUSTRALIAN_RAILWAY_DESCRIPTION" Language="en_US">
+			<Text>+6 [ICON_Gold] золата ад міжнародных [ICON_TradeRoute] гандлёвых шляхоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_FEED_THE_TROOPS_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Gold] золата ад фермаў і плантацый.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_GALLIPOLLI_DESCRIPTION" Language="en_US">
+			<Text>Пасля стварэння АІС [ICON_Production] вытворчасць павялічыцца на 50%.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCHOOL_OF_THE_AIR_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Gold] золата ад усіх каменяломняў і рудняў на рэдкіх рэсурсах.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_FLYING_DOCTORS_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Gold] золата ад паш і гавядніцкіх фермаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_MILITARY_MATERIEL_DESCRIPTION" Language="en_US">
+			<Text>+4 [ICON_Gold] золата ад рудняў на стратэгічных рэсурсах.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_INVASION_THREAT_DESCRIPTION" Language="en_US">
+			<Text>Пасля стварэння АІС [ICON_Production] вытворчасць павялічыцца на 100%.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SEAFOOD_PRESERVATION_DESCRIPTION" Language="en_US">
+			<Text>Рыбацкае судна дае +2 [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_PARK_RANGERS_DESCRIPTION" Language="en_US">
+			<Text>Усе клеткі земляў вашай цывілізацыі атрымаюць +2 престыжа. -1 [ICON_GOLD] золата ад рудняў.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_IRRIGATION_SCENARIO_DESCRIPTION" Language="en_US">
+			<Text>Фермы атрымаюць +1 да [ICON_Food] ежы за кожную прылеглую ферму, калі 3 фермы знаходзяцца побач адна з адной.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_CARTOGRAPHY_SCENARIO_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе секчы дрэвы ў лясах і трапічных лясах. Павялічвае шанцы выжывання вашых юнітаў у аўстралійскіх пустэчах, дазваляе картаграфаваць вялікую тэрыторыю ў выніку спрыяльных падзей у пустэчах.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_CARTOGRAPHY_SCENARIO_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>Павялічвае шанцы выжывання вашых юнітаў у аўстралійскіх пустэчах, дазваляе картаграфаваць вялікую тэрыторыю ў выніку спрыяльных падзей у пустэчах.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_MINING_SCENARIO_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе здабываць [ICON_RESOURCE_STONE] камень.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_SCIENTIFIC_THEORY_SCENARIO_DESCRIPTION" Language="en_US">
+			<Text>Фермы паляпшаюцца да механізаваных гаспадарак. +1 [ICON_Food] ежы за кожную суседнюю ферму.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_FLIGHT_SCENARIO_DESCRIPTION" Language="en_US">
+			<Text>Гавядніцкія фермы атрымаюць +1 [ICON_Production] вытворчасці за кожныя 2 суседнія гавядніцкія фермы. Пашы атрымаюць +1 [ICON_PRODUCTION] вытворчасці за кожную суседнюю гавядніцкую ферму.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EXPLORER_DESCRIPTION" Language="en_US">
+			<Text>Хуткі выведны юніт. У гэтым сцэнары цывільныя юніты не могуць атакаваць.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PROSPECTOR_DESCRIPTION" Language="en_US">
+			<Text>Будуе рудні, каменяломні, свідравыя вышкі і ўзлётныя палосы. Старацеляў можна скарыстаць 3 разы.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GRAZIER_DESCRIPTION" Language="en_US">
+			<Text>Будуе пашы і гавядніцкія фермы. Пастухоў можна скарыстаць 3 разы. Гэты паказнік можна павялічыць з дапамогай палітычнага курса «Конныя пастухі».</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FARMER_DESCRIPTION" Language="en_US">
+			<Text>Будуе фермы, плантацыі і пільні. Фермераў можна скарыстаць 3 разы. Гэты паказнік можна павялічыць з дапамогай палітычнага курса «Нічыя зямля».</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FISHER_DESCRIPTION" Language="en_US">
+			<Text>Будуе рыбацкія судны. Рыбакоў можна скарыстаць 3 разы.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_NATURALIST_DESCRIPTION" Language="en_US">
+			<Text>Цывільны юніт апошніх этапаў гульні. Будуе адзін марскі курорт ці адзін нацыянальны парк, каб падвысіць рэгулярныя паступленні [ICON_Gold] золата за [ICON_Turn] ход. Знікае пасля будавання марскога курорта ці нацыянальнага парка.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_GOLD_RUSH" Language="en_US">
+			<Text>Адкрыйце 1 рэсурс [ICON_RESOURCE_GOLD] залатой руды.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_CROWN_COLONY" Language="en_US">
+			<Text>Дамажыцеся прыбытку ў памеры 15 адз. [ICON_GOLD] золата за [ICON_Turn] ход.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_SHEEP_REARING" Language="en_US">
+			<Text>Адкрыйце 3 рэсурсы [ICON_RESOURCE_SHEEP] «авечкі».</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_DRAMA_POETRY" Language="en_US">
+			<Text>Давядзіце [ICON_Citizen] насельніцтва сваёй цывілізацыі да 12.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_PASTORAL_LEASES" Language="en_US">
+			<Text>Пабудуйце 3 пашы.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_FEDERATION" Language="en_US">
+			<Text>Дамажыцеся прыбытку ў памеры 30 адз. [ICON_GOLD] золата за [ICON_Turn] ход.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_URBANIZATION" Language="en_US">
+			<Text>Давядзіце [ICON_Citizen] насельніцтва горада да 10.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_CONSERVATION" Language="en_US">
+			<Text>Знайдзіце дзіва прыроды.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_GREAT_WAR" Language="en_US">
+			<Text>Прагрэс да 45 [ICON_Turn] ходу.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_AERIAL_SERVICES" Language="en_US">
+			<Text>Пабудуйце ўзлётную палосу.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_WORLD_WAR_II" Language="en_US">
+			<Text>Прагрэс да 53 [ICON_Turn] ходу.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_CRUISE_LINES" Language="en_US">
+			<Text>Стварыце нацыянальны парк.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GOLD_RUSH" Language="en_US">
+			<Text>Набліжаецца «залатая ліхаманка»! Ахвотнікі да багацця з усіх кантынентаў накіраваліся ў Аўстралію ў пошуках лёгкай нажывы.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CROWN_COLONY" Language="en_US">
+			<Text>Прыбыткі стымулююць будоўлю. Каралева хутка абвесціць вашы землі афіцыйнай брытанскай калоніяй.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SHEEP_REARING" Language="en_US">
+			<Text>Тут столькі незанятай зямлі, што пэўна ёсць сэнс заняцца авечкагадоўляй.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_DRAMA_POETRY" Language="en_US">
+			<Text>Калі лік жыхароў расце, шмат хто з іх знаходзіць час для заняткаў мастацтвам.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_PASTORAL_LEASES" Language="en_US">
+			<Text>Вашы прыбыткі з паш прыцягнулі ўвагу ўрада. Хутка пачнецца раздатак у арэнду земляў брытанскай кароны.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_FEDERATION" Language="en_US">
+			<Text>Па меры ўзросту вашага дабрабыту жыхары Аўстраліі ўсе энергічней патрабуюць незалежнасці ад Брытаніі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_URBANIZATION" Language="en_US">
+			<Text>У вялікім горадзе назіраецца перанасяленне. Пара задумацца пра прыгарады.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CONSERVATION" Language="en_US">
+			<Text>Дзіўная прыгажосць мясцовай прыроды павінна быць захавана для будучых пакаленняў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GREAT_WAR" Language="en_US">
+			<Text>Вялікія дзяржавы ўцягнуты ў крывавы канфлікт. Усе на абарону радзімы!</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_AERIAL_SERVICES" Language="en_US">
+			<Text>Авіяцыя прыйшла ў Аўстралію. Ці яна дапаможа асвоіць шырокія пустэчы?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_WORLD_WAR_II" Language="en_US">
+			<Text>У Германіі і Японіі падымаюць галаву фашысцкія сілы. Няўжо нават Аўстралія ў небяспецы?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CRUISE_LINES" Language="en_US">
+			<Text>Ваш новы нацыянальны парк можа стаць галоўным пунктам прызначэння акіянскіх пасажырскіх лайнераў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_EDUCATION" Language="en_US">
+			<Text>Давядзіце [ICON_Citizen] насельніцтва горада да 6.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_BANKING" Language="en_US">
+			<Text>Стварыце 2 [ICON_TradeRoute] гандлёвыя шляхі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_INDUSTRIALIZATION" Language="en_US">
+			<Text>Пабудуйце 3 рудні.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_SCIENTIFIC_THEORY" Language="en_US">
+			<Text>Пабудуйце 2 бібліятэкі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_ECONOMICS" Language="en_US">
+			<Text>Пабудуйце 2 кірмашы.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_ELECTRICITY" Language="en_US">
+			<Text>Пабудуйце 2 майстэрні.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_FLIGHT" Language="en_US">
+			<Text>Атрымайце сацыяльны інстытут «Вялікая вайна».</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_COMBUSTION" Language="en_US">
+			<Text>Атрымайце сацыяльны інстытут «Другая сусветная вайна».</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_RADIO" Language="en_US">
+			<Text>Пабудуйце лабараторыю.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_ADVANCED_FLIGHT" Language="en_US">
+			<Text>Пабудуйце ангар.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_EDUCATION" Language="en_US">
+			<Text>Ваш новы гарадскі цэнтр – самае месца для стварэння навучальнага комплексу з бібліятэкай і ўніверсітэтам.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_BANKING" Language="en_US">
+			<Text>Вашы гандлёвыя шляхі прынеслі прыбытак, які можна выдаткаваць. Арганізацыя банкаў стымулюе будучыя капіталаўкладанні.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_INDUSTRIALIZATION" Language="en_US">
+			<Text>Нашы рудні працуюць і пастаўляюць сыравіну для развіцця вытворчасці. Ці хутка пачнецца прамысловая рэвалюцыя?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SCIENTIFIC_THEORY" Language="en_US">
+			<Text>З пабудовай дзвюх бібліятэк ваша навуковая супольнасць запрацуе у поўную сілу.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ECONOMICS" Language="en_US">
+			<Text>Вашы поспехі ў камерцыі прыцягнулі інвестыцыі ў эканоміку.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ELECTRICITY" Language="en_US">
+			<Text>Ваша прамысловая вытворчасць дасягнула ўражальных маштабаў, а выкарыстанне электрычнасці будзе спрыяць яго далейшаму развіццю.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_FLIGHT" Language="en_US">
+			<Text>Аўстралійскія лётчыкі вярнуліся з вайны з аповедамі пра паветраныя баі ў небе Еўропы.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_COMBUSTION" Language="en_US">
+			<Text>Чым шырэй экспансія Японскай імперыі, тым бязлітасней суперніцтва за нафтавыя радовішчы ціхаакіянскага рэгіёна.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_RADIO" Language="en_US">
+			<Text>З пабудовай сучаснага даследчага цэнтра вы будзеце ў курсе самых апошніх распрацовак у сферы камунікацый.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ADVANCED_FLIGHT" Language="en_US">
+			<Text>Пасля пабудовы аэрадрома і ангара вы гатовы прыступіць да стварэння сучаснага аэрапорта.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_AIF_SCENARIO_DESCRIPTION" Language="en_US">
+			<Text>Праект «Аўстралійскія імперскія сілы» (АІС) дазваляе ствараць войска для дзеянняў за мяжой падчас сусветных войн. Па сканчэнню будавання дае гораду +10 [ICON_Gold] золата за [ICON_Turn] ход.</Text>
+		</Replace>
+		<Replace Tag="LOC_CATEGORY_INCOME_NAME" Language="en_US">
+			<Text>Прыбытак ([ICON_Gold] золата за [ICON_Turn] ход)</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_TITLE" Language="en_US">
+			<Text>ПУСТЭЧЫ</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_EFFECTS" Language="en_US">
+			<Text>Усе клеткі, што не кантралююцца гульцом, лічацца часткай аўстралійскіх пустэч – найнебяспечных земляў, што кішаць атрутнай флорай і фаўнай. Тутэйшы клімат лічыцца адным з самых суровых на планеце. З юнітам, які скончыў ход на клетцы пустэч, можа адбыцца нечаканая падзея. Звычайна гэтыя падзеі робяць шкоду ці запавольваюць рух, але некаторыя з іх даюць даследнікам унікальныя бонусы. Увогуле, вашым юнітам не варта надоўга затрымвацца ў гэтых дзікіх землях.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_TOOLTIP" Language="en_US">
+			<Text>Пустэчы</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_1" Language="en_US">
+			<Text>Ваш юніт {1_UnitName} атрымаў {2_Damage} адз. шкоды.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_2" Language="en_US">
+			<Text>Ваш юніт {1_UnitName} знішчаны.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_3" Language="en_US">
+			<Text>Ваш юніт {1_UnitName} у якасці штрафу губляе 1 [ICON_Movement] АР.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_4" Language="en_US">
+			<Text>Вы страцілі {1_Amount}[ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_5" Language="en_US">
+			<Text>Ваш юніт {1_UnitName} вярнуўся ў найблізкі горад – {2_CityName}.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_6" Language="en_US">
+			<Text>Ваша паляпшэнне {1_Improvement} разрабавана.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_1" Language="en_US">
+			<Text>Ваш юніт {1_UnitName} страціў {2_Movement} АР на гэтым ходзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_2" Language="en_US">
+			<Text>Ваш юніт {1_UnitName} не можа рухацца на гэтым ходзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_3" Language="en_US">
+			<Text>Часткова згублены веды пра ландшафт, на якім знаходзяцца {1_UnitName}.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_1" Language="en_US">
+			<Text>Юніт {1_UnitName} прыбыў у найблізкі горад – {2_CityName}.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_2" Language="en_US">
+			<Text>Юніт {1_UnitName} падышоў да вашага юніта {2_UnitName}.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_3" Language="en_US">
+			<Text>Тэрыторыя вакол вашага юніта {1_UnitName} адкрыта.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_4" Language="en_US">
+			<Text>Ваш юніт {1_UnitName} атрымаў сталы бонус +1 [ICON_Movement] АР.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_5" Language="en_US">
+			<Text>Ваш юніт {1_UnitName} цалкам выгаіўся.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_6" Language="en_US">
+			<Text>Ваш юніт {1_UnitName} аднавіў {2_HitPoints} ачкі шкоды.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_7" Language="en_US">
+			<Text>Насельніцтва вашага горада {1_CityName} вырасла на 1.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_8" Language="en_US">
+			<Text>Вы атрымваеце {1_Amount}[ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_9" Language="en_US">
+			<Text>Вы атрымалі азарэнне для тэхналогіі «{1_TechName}».</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_10" Language="en_US">
+			<Text>Вы атрымваеце натхненне для сацыяльнага інстытута «{1_CivicName}».</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_DIFFICULTY" Language="en_US">
+			<Text>Складанасць: {1_DifficultyName}</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_CURRENT_GAME_DIFFICULTY" Language="en_US">
+			<Text>Бягучая гульня: {1_Difficulty}</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_AUSTRALIA_SINGLE_PLAYER_SCORE" Language="en_US">
+			<Text>Патрабуецца ачкоў: {1_Score}</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_EXPLORER_NAME" Language="en_US">
+			<Text>Даследнік|даследніка|даследніку|даследніка|даследнікам|даследніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_PROSPECTOR_NAME" Language="en_US">
+			<Text>Старацель|старацеля|старацелю|старацеля|старацелем|старацелю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_GRAZIER_NAME" Language="en_US">
+			<Text>Пастух|пастуха|пастуху|пастуха|пастухом|пастуху</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FARMER_NAME" Language="en_US">
+			<Text>Фермер|фермера|фермеру|фермера|фермерам|фермеру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FISHER_NAME" Language="en_US">
+			<Text>Рыбак|рыбака|рыбаку|рыбака|рыбаком|рыбаку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+	</LocalizedText>
+</GameData>

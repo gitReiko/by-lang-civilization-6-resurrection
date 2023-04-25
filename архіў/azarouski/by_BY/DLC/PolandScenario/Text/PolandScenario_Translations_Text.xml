@@ -1,0 +1,813 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_BUILDING_ORTHODOX_CHURCH_NAME" Language="en_US">
+			<Text>Праваслаўная царква|Праваслаўнай царквы|Праваслаўнай царкве|Праваслаўную царкву|Праваслаўнай царквой|Праваслаўнай царкве</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RADZIWILL_CAPITAL" Language="en_US">
+			<Text>Вільня|Вільні|Вільні|Вільню|Вільняй|Вільні</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RADZIWILL_1" Language="en_US">
+			<Text>Трокі|Трокаў|Трокам|Трокі|Трокамі|Троках</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RADZIWILL_2" Language="en_US">
+			<Text>Нясвіж|Нясвіжа|Нясвіжу|Нясвіж|Нясвіжам|Нясвіжы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RADZIWILL_3" Language="en_US">
+			<Text>Кейданы|Кейданаў|Кейданам|Кейданы|Кейданамі|Кейданах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RADZIWILL_4" Language="en_US">
+			<Text>Біржы|Біржоў|Біржам|Біржы|Біржамі|Біржах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RADZIWILL_5" Language="en_US">
+			<Text>Дубінкі|Дубінкаў|Дубінкам|Дубінкі|Дубінкамі|Дубінках</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RADZIWILL_6" Language="en_US">
+			<Text>Менск|Менска|Менску|Менск|Менскам|Менску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RADZIWILL_7" Language="en_US">
+			<Text>Наваградак|Наваградка|Наваградку|Наваградак|Наваградкам|Наваградку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RADZIWILL_8" Language="en_US">
+			<Text>Віцебск|Віцебска|Віцебску|Віцебск|Віцебскам|Віцебску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RADZIWILL_9" Language="en_US">
+			<Text>Дзвінск|Дзвінска|Дзвінску|Дзвінск|Дзвінскам|Дзвінску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_POTOCKI_CAPITAL" Language="en_US">
+			<Text>Кракаў|Кракава|Кракаву|Кракаў|Кракавам|Кракаве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_POTOCKI_1" Language="en_US">
+			<Text>Потак|Потака|Потаку|Потак|Потакам|Потаку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_POTOCKI_2" Language="en_US">
+			<Text>Люблін|Любліна|Любліну|Люблін|Люблінам|Любліне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_POTOCKI_3" Language="en_US">
+			<Text>Львоў|Львова|Львову|Львоў|Львовам|Львове</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_POTOCKI_4" Language="en_US">
+			<Text>Варшава|Варшавы|Варшаве|Варшаву|Варшавай|Варшаве</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_POTOCKI_5" Language="en_US">
+			<Text>Чанстахова|Чанстаховы|Чанстахове|Чанстахову|Чанстаховай|Чанстахове</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_POTOCKI_6" Language="en_US">
+			<Text>Сандомір|Сандоміра|Сандоміру|Сандомір|Сандомірам|Сандоміры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_POTOCKI_7" Language="en_US">
+			<Text>Перамышль|Перамышля|Перамышлю|Перамышль|Перамышлем|Перамышлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_POTOCKI_8" Language="en_US">
+			<Text>Хэлм|Хэлма|Хэлму|Хэлм|Хэлмам|Хэлме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_POTOCKI_9" Language="en_US">
+			<Text>Брэст-Літоўскі|Брэста-Літоўскага|Брэсту-Літоўскаму|Брэст-Літоўскі|Брэстам-Літоўскім|Брэсце-Літоўскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_OSTROGSKI_CAPITAL" Language="en_US">
+			<Text>Астрог|Астрога|Астрогу|Астрог|Астрогам|Астрозе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_OSTROGSKI_1" Language="en_US">
+			<Text>Корац|Корца|Корцу|Корац|Корцам|Корцы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_OSTROGSKI_2" Language="en_US">
+			<Text>Ізяслаў|Ізяслава|Ізяславу|Ізяслаў|Ізяславам|Ізяславе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_OSTROGSKI_3" Language="en_US">
+			<Text>Роўна|Роўна|Роўну|Роўна|Роўнам|Роўне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_OSTROGSKI_4" Language="en_US">
+			<Text>Жытомір|Жытоміра|Жытоміру|Жытомір|Жытомірам|Жытоміры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_OSTROGSKI_5" Language="en_US">
+			<Text>Кіеў|Кіева|Кіеву|Кіеў|Кіевам|Кіеве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_OSTROGSKI_6" Language="en_US">
+			<Text>Брацлаў|Брацлава|Брацлаву|Брацлаў|Брацлавам|Брацлаве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_OSTROGSKI_7" Language="en_US">
+			<Text>Церабоўля|Церабоўлі|Церабоўлі|Церабоўлю|Церабоўляй|Церабоўлі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_OSTROGSKI_8" Language="en_US">
+			<Text>Камянец-Падольскі|Камянца-Падольскага|Камянцу-Падольскаму|Камянец-Падольскі|Камянцом-Падольскім|Камянцы-Падольскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_OSTROGSKI_9" Language="en_US">
+			<Text>Алыка|Алыкі|Алыцы|Алыку|Алыкай|Алыцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_GDANSK" Language="en_US">
+			<Text>Гданьск|Гданьска|Гданьску|Гданьск|Гданьскам|Гданьску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_VIENNA" Language="en_US">
+			<Text>Вена|Вены|Вене|Вену|Венай|Вене</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_PRAGUE" Language="en_US">
+			<Text>Прага|Прагі|Празе|Прагу|Прагай|Празе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_RADZIWILL_DESCRIPTION" Language="en_US">
+			<Text>Літоўская шляхта|літоўскай шляхты|літоўскай шляхце|літоўскай шляхты|літоўскай шляхтай|літоўскай шляхце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_POTOCKI_DESCRIPTION" Language="en_US">
+			<Text>Польская шляхта|польскай шляхты|польскай шляхце|польскай шляхты|польскай шляхтай|польскай шляхце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_OSTROGSKI_DESCRIPTION" Language="en_US">
+			<Text>Валынская шляхта|валынскай шляхты|валынскай шляхце|валынская шляхта|валынскай шляхтай|валынскай шляхце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_RADZIWILL_ADJECTIVE" Language="en_US">
+			<Text>Літоўск.|літоўск.|літоўск.|літоўск.|літоўск.|літоўск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_POTOCKI_ADJECTIVE" Language="en_US">
+			<Text>польск.|польск.|польск.|польск.|польск.|польск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_OSTROGSKI_ADJECTIVE" Language="en_US">
+			<Text>валынск.|валынск.|валынск.|валынск.|валынск.|валынск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GDANSK_NAME" Language="en_US">
+			<Text>Гданьск|Гданьска|Гданьску|Гданьск|Гданьскам|Гданьску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VIENNA_NAME" Language="en_US">
+			<Text>Вена|Вены|Вене|Вену|Венай|Вене</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PRAGUE_NAME" Language="en_US">
+			<Text>Прага|Прагі|Празе|Прагу|Прагай|Празе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GDANSK_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Гданьск|горада-дзяржавы Гданьска|гораду-дзяржаве Гданьску|горад-дзяржаву Гданьск|горадам-дзяржавай Гданьскам|горадзе-дзяржаве Гданьску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VIENNA_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Вена|горада-дзяржавы Вены|гораду-дзяржаве Вене|горад-дзяржаву Вену|горадам-дзяржавай Венай|горадзе-дзяржаве Вене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PRAGUE_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Прага|горада-дзяржавы Прагі|гораду-дзяржаве Празе|горад-дзяржаву Прагу|горадам-дзяржавай Прагай|горадзе-дзяржаве Празе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_GDANSK_ADJECTIVE" Language="en_US">
+			<Text>гданьск.|гданьск.|гданьск.|гданьск|гданьск.|гданьск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_VIENNA_ADJECTIVE" Language="en_US">
+			<Text>венск.|венск.|венск.|венск.|венск.|венск.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_PRAGUE_ADJECTIVE" Language="en_US">
+			<Text>пражск.|пражск.|пражск.|пражск.|пражск.|пражск.</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RADZIWILL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Літоўскі дваранін, вядомы кальвініст Мікалай Чорны вельмі амбіцыйны. Ён карыстаецца сувяззю сваёй кузіны Барбары з польскім каралём Жыгімонтам II каб павялічыць асабістае багацце. Звяз са стрыечнікам – Мікалаем Рудым – яшчэ больш узвысіў яго сям'ю над іншай літоўскай шляхтай.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RADZIWILL_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>У Мікалая неадназначная думка пра Польшчу і яе стасункі з Літвой. Ён перакананы прыхільнік літоўскага суверэнітэту, супернік Польска-літоўскай уніі, але заклікае літоўскіх шляхцічаў пераймаць польскую культуру. Можа, агульная мова дапаможа знайсці больш пераканаўчыя аргументы супраць уніі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RADZIWILL_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Быўшы прыхільнікам незалежнай Літвы, ён усё ж наважна змагаецца са шматлікімі ворагамі як літоўскага, гэтак і польскага народа. На пасадзе вялікага канцлера Літвы ён карыстаецца кожным сродкам, каб перамагчы ворагаў сваёй краіны – і пяром, і дзідай.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POTOCKI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ганарлівы польскі дваранін Станіслаў Рэвера Патоцкі браў удзел у сваім першым боі, калі яму было 18 гадоў. Ён выдатна паказаў сябе падчас задушэння бунту шляхты, адчуў смак да вайсковай справы і значную частку жыцця правёў на полі бою.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POTOCKI_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>У Станіслава нямала тытулаў, але больш за ўсё яму падыходзіць тытул вялікага гетмана – галоўнакамандуючага польскім войскам. І сапраўды, у яго кар'еры было мноства славутых бітваў за Рэч Паспалітую. Асабліва праславіўся Станіслаў падчас «Шведскага патопу», калі ў Рэч Паспалітую ўварваліся войскі Швецыі і Расіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POTOCKI_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Як часта бывае ў гэтым асяроддзі, Станіслаў схільны да напышлівай і высакамоўнай гаворкі. Нават мянушку яму далі за злоўжыванне лацінскім выразам «re vera» («насамрэч»). Але ён насамрэч ганарыцца гэтай мянушкай.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OSTROGSKI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Найлепей характар Кастуся Астрожскага апісваецца адным словам: адданасць. Гэта, вядома, адданасць Рэчы Паспалітай – яго вайскаводніцкія поспехі пры польскім каралю Яне I прынеслі яму тытул вялікага гетмана. І адданасць радзіме: ён заўсёды помніць пра родную Валынь і ніколі не забывае пра свае карані.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OSTROGSKI_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Але больш за ўсё адданы ён сваёй праваслаўнай царкве. Ён за ўласныя сродкі будуе праваслаўныя храмы і школы, дый сам паказвае прыклад набожнасці. Рэдкі выпадак у каталіцкай Польшчы і Літве.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OSTROGSKI_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Адданасць Кастуся такая, што мала хто смее ўсумніцца ў яго адданасці. Татары, маскавіты, туркі-асманы – усіх іх спыніць вялікі гетман, абложыць іх замкі і зробіць знішчальную паразу іх войскам. Ён – гэта кавадла, аб якую разбіваецца молат.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_RADZIWILL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Літоўская шляхта здаўна грае вялікую ролю ў жыцці Вялікага княства. Мы заўсёды можам разлічваць на тое, што гэтыя годныя нашчадкі вялікіх продкаў не застануцца абыякавымі да бед Літвы – часцяком насуперак зацікаўленасцям польскіх хаўруснікаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_RADZIWILL_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Літоўскія шляхцічы бароняць польска-літоўскі свет не толькі на словах. Яны рыхтуюць для Вялікага княства значную колькасць салдатаў і па першай вымозе аддаюць іх у веданне польскай кароны. Але радавы гонар узмацняе іх і без таго неўтаймаваныя амбіцыі, усяляе ўпэўненасць, што іх зацікаўленасці і зацікаўленасці Літвы – адно і тое ж.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POTOCKI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Першыя прадстаўнікі старажытных польскіх родаў часцяком паходзілі з простага народа, але світанне польскай дзяржавы дало ім магчымасць узвысіцца і давесці сваю адданасць кароне. Разам з аўтарытэтам расло і іх багацце.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POTOCKI_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Нямала польскіх шляхцічаў атрымалі статус магнатаў. Патомная шляхта можа колькі пажадае распускаць пёры, але насуперак плёткам зайздроснікаў многія новыя магнаты паказалі сябе адданымі абаронцамі кароны. Іх прынцып: пры двары – як на вайне. Глядзі ў вочы ворагу, не пакідай яму прасторы для манеўру, ніколі не адыходзь.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_OSTROGSKI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Валынскія шляхецкія роды – вельмі незвычайныя для Рэчы Паспалітай. Так, яны адданы каралю, але шмат хто з гэтых сем'яў зацята не жадае пераходзіць з праваслаўнай веры ў каталіцызм.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_OSTROGSKI_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Такая сіла нашай дзяржавы і яго ўзаконеныя пагляды на верацерпнасць. Пакуль яны бароняць агульную справу Рэчы Паспалітай – хай робяць што хочуць. А яны нас бароняць: ідуць вайной на тых, хто замахваецца на нас, пастаўляюць салдат, фураж і грошы для вайсковых кампаній. Нашы шматтысячныя войскі здабывалі бліскучыя перамогі пад камандаваннем іх лепшых вайскаводаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_OSTROGSKI_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Хай яны моляцца Богу так, як лічаць патрэбным. Калі гэта ўзмоцніць іх веру ў нашу агульную справу – будзе карысць усёй Рэчы Паспалітай.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GDANSK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Гданьск з поўным правам прэтэндуе на штосьці большае, чым проста незалежнасць. Пасля 150 гадоў пад уладай ненавіснага Тэўтонскага ордэна (які зацята называе гэты горад «Данцыгам») польскі кароль Казімір IV падаў Гданьску «Вялікі прывілей», які пацвердзіў яго аўтаномію і стварыў спрыяльныя гандлёвыя стасункі з Рэччу Паспалітай. Выдатныя навіны для горада, што ўваходзіць у Ганзейскі звяз: зараз ён атрымаў прывілеяваны доступ на рынкі Звязу і іншых гарадоў Ганзы на Балтыйскім моры.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GDANSK_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Добрыя навіны для Гданьска. Калі толькі Тэўтонскі ордэн не верне горад пад сваю ўладу.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VIENNA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Габсбургі пасеялі хаос у Вене. Некалі галоўны горад Святой Рымскай імперыі ў выніку кіравання некалькіх бясталентных імператараў ператварыўся з цэнтра культуры і камерцыі ў воз, які коні цягнуць у розныя бакі. Нядаўнія палітычныя рэпрэсіі пакінулі горад без эфектыўнага кіравання.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VIENNA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Туркі-асманы прыглядаюцца і чакаюць. Яны ўжо захапілі Вугоршчыну і стварылі васальную дзяржаву Трансільванія. Напэўна, хутка ў іх з'явіцца магчымасць аблажыць Вену. Калі Вена здасца, то ці не стане наступнай ахвярай Рэч Паспалітая?</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PRAGUE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Неўзабаве пасля пераносу двара ў Прагу эксцэнтрычны ўладнік Святой Рымскай імперыі Рудольф II ператварыў гэты горад гандляроў у сталіцу вучонасці і культуры. Рудольф II з задавальненнем фінансуе дзейнасць знакамітых навукоўцаў: алхіміка Джона Дзі, астраномаў Ёгана Кеплера і Ціха Браге, маляра Джузэпэ Арчымбольда.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PRAGUE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>І ўсе ж Рудольф II носіцца з дзіўнымі ідэямі пра крыжовы паход супраць Асманскай імперыі. Прага – сталіца багемскай Рэфармацыі, і настойлівасць у падобных справах можа перапоўніць чару цярплівасці падданых Рудольфа II.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_OTTOMAN_JANISSARY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Туркі зводзяць дзяцей заваяваных народаў і робяць з іх янычараў. Яны вучаць хлопчыкаў слушна размаўляць, думаць і біцца. Потым адпраўляюць іх на заваёву новых земляў, каб захапіць яшчэ больш дзяцей. Сваёй страшнай славай янычары часткова абавязаны мушкетам, якія можна лічыць лёгкай артылерыяй. Менавіта янычары стануць лязом асманскай дзіды, скіраванай у мяккае падчарэўе Аўстрыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_OTTOMAN_JANISSARY_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Вена – брама ў Польшчу. Гэты горад не павінен здацца. Мы абавязаны ўсцерагчы нашых дзяцей ад такога лёсу.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TEUTONIC_KNIGHT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Разбойнікі бываюць рознымі: адны чакаюць няўдачлівых падарожнікаў на вялікай дарозе, іншыя руйнуюць безабаронныя вёскі. Найгоршыя з іх апранаюць латы і чыняць разбой у імя Боскае.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TEUTONIC_KNIGHT_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Рыцары Тэўтонскага ордэна цану сабе ведалі. Калі польскі кароль наняў іх «рыцарскі ордэн» для вызвалення Гданьска, яны вызвалілі адданых каралю палякаў ад іх жыццяў. Яны вядуць крыжовы паход супраць нядаўна навернутых у хрысціянства літоўцаў. Іх адзіны знак веры – золата.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TEUTONIC_KNIGHT_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Яны кажуць, што чыняць у імя Бога? Дык адправім жа іх да Бога – хай асабіста адкажуць перад Ім за свае словы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Татары робяць нашаму народу велізарную шкоду. Яны зганяюць у рабства дзясяткі тысяч людзей – як калі б штогод сціралі з твару зямлі цэлы горад. Іх конныя лучнікі здзяйсняюць імгненныя налёты на нашы аддаленыя селішчы і сыходзяць са здабычай. Татары з дзяцінства прывучаны да сядла і лічаць сябе спадчыннікамі самога Чынгісхана.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Конныя лучнікі ўрываюцца ў нашы межы, нападаюць на патрулі, абстрэльваюць абаронцаў з лукаў і адыходзяць на сваю тэрыторыю. Адпудзіць іх можа толькі сцяна з дзідаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STANISLAW_SAMOSTRZELNIK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Станіслаў Самастшэльнік – польскі манах, які піша карціны ў стылі Адраджэння. Вядомы сваімі мініяцюрамі і яркімі фрэскамі. Яго «Партрэт біскупа Пятра Таміцкага» характарызуецца пышным спалучэннем золата і зеляніны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STANISLAW_SAMOSTRZELNIK_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Зусім нядрэнна для дальтоніка.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARTIN_KOBER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Марцін Кобер – прыдворны мастак польскіх каралёў Стэфана Баторыя і Жыгімонта III, а таксама імператара Святой Рымскай імперыі Рудольфа II. Ён піша партрэты і па-майстэрску перадае аблічча ўладнікаў, каб наступныя пакаленні маглі па заслугах ацаніць бляск і веліч манархавых асоб.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_BARTOLOMMEO_BERRECCI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Італьянскі архітэктар Барталамеа Берэчы прывёз у Польшчу перадавыя дасягненні культуры. Запрасіў яго сюды Ян Ласкі. Сярод прац Берэчы ў замку Вавель вылучаецца капліца Жыгімонта – шэдэўр італьянскага Рэнесансу ў самым цэнтры Кракава.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ADAM_KOCHANSKI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Галоўнае каханне ў жыцці Адама Каханскага – матэматыка. Пасля Пана Бога, вядома. Але для езуіта гэта натуральна. Ён гатовы без стомы займацца практычнай матэматыкай і вывастраць сваё майстэрства механіка, вынаходзячы гадзіннікі нязнанай канструкцыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KAZIMIERZ_SIEMIENOWICZ_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Польска-літоўскі генерал Казімір Семяновіч упэўнены, што няма такой праблемы на полі бою, якую няможна вырашыць з дапамогай выбухоўкі. Яго наіўныя ўяўленні пра ракеты і піратэхніку паступова развіваюцца – да незадавальнення розных гільдый, што крытыкуюць трактат Семяновіча «Вялікае мастацтва артылерыі».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KRZYSZTOF_GRODZICKI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Польскі генерал артылерыі Кшыштаф Градзіцкі навучаўся ў Галандыі, за час сваёй вайсковай кар'еры часта скарыстоўваў гарматы супраць шведаў і казакоў. Паспяхова кіраваў абаронай Львова ў перыяд «Шведскага патопу» і не дапусціў здачы горада. Адна з нешматлікіх перамог у гэтай спусташальнай вайне.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SEBASTIANO_MONTELUPI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Себасцьяна Мантэлупі нарадзіўся ў Італіі, але вялікую частку жыцця пражыў у Польшчы. Кароль Стэфан Баторый прызначыў гэтага паспяховага гандляра і банкіра галоўным каралеўскім паштмайстрам. Цяпер ён наглядае за паштовымі зносінамі паміж галоўнымі гарадамі Рэчы Паспалітай.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KONSTANTY_KORNIAKT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Грэк Кастанцін Карнякт у маладосці прыехаў у Польшчу і паказаў сябе ўмелым і спрытным купцом. Ён вядзе гандаль па ўсім свеце, яму атрымалася наладзіць гандлёвыя сувязі нават з Асманскай імперыяй. Жыгімонт II гэтак давярае кемлівасці Канстанціна, што даручае яму збіраць пошліны ад імя караля.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_NICOLAUS_COPERNICUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Астраном Мікалай Капернік не цураецца спрэчных меркаванняў. Ён смее сцвярджаць, што ў цэнтры светабудовы знаходзіцца Сонца, а не Зямля! Яго «геліяцэнтрычныя» тэорыі здаваліся б найабсалютнай недарэчнасцю, калі б не цікавасць да іх з боку каталіцкага духавенства. Нават папа Клімент VII прылічае сябе да прыхільнікаў яго навукі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SENDIVOGIUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Алхімік Міхал Сендзівой (Сендзівогі) нядаўна прыехаў з пражскага палаца Рудольфа II і прывёз незвычайныя, але шматспадзеўныя ідэі. Ён лічыць, што паветра, якім мы дыхаем, падобна збану з бігасам, сярод інгрэдыентаў якога толькі адзін патрэбен для падтрымання жыцця. Гэта здавалася абсурдам... але выклікала цікавасць караля Жыгімонта III.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PIOTR_SKARGA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Езуіт Пётр Скарга ніколі не саромеўся ў выразах. Ён выказваўся пра палітыку Рэчы Паспалітай, актыўна браў удзел у Контррэфармацыі, змагаўся з шыраннем пратэстантызму. Нехта лічыць яго дзейнасць бочкай мёду, нехта - лыжкай дзёгцю, але яго літаратурны дарунак ніхто не можа адмаўляць.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_JAN_KOCHANOWSKI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Паэт эпохі Адраджэння Ян Каханоўскі доўга жыў пры двары Жыгімонта II, але слыннасць прыйшла да яго толькі тады, калі ён пакінуў сталіцу і пасяліўся ў загарадным маёнтку. Перажытая трагедыя – смерць юнай дачкі Урсулы – натхніла яго на стварэнне цыкла элегій.</Text>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_SAMOSTRZELNIK_1_NAME" Language="en_US">
+			<Text>Партрэт Пятра Таміцкага|Партрэта Пятра Таміцкага|Партрэту Пятра Таміцкага|Партрэт Пятра Таміцкага|Партрэтам Пятра Таміцкага|Партрэце Пятра Таміцкага</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_SAMOSTRZELNIK_2_NAME" Language="en_US">
+			<Text>Святы Станіслаў|Святога Станіслава|Святому Станіславу|Святога Станіслава|Святым Станіславам|Святым Станіславу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_SAMOSTRZELNIK_3_NAME" Language="en_US">
+			<Text>Малітоўнік Жыгімонта I Польскага|Малітоўніка Жыгімонта I Польскага|Малітоўніку Жыгімонта I Польскага|Малітоўнік Жыгімонта I Польскага|Малітоўнікам Жыгімонта I Польскага|Малітоўніку Жыгімонта I Польскага</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_KOBER_1_NAME" Language="en_US">
+			<Text>Партрэт Ганны-Марыі Вазы|Партрэта Ганны-Марыі Вазы|Партрэту Ганны-Марыі Вазы|Партрэт Ганны-Марыі Вазы|Партрэтам Ганны-Марыі Вазы|Партрэце Ганны-Марыі Вазы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_KOBER_2_NAME" Language="en_US">
+			<Text>Кароль Жыгімонт III|Караля Жыгімонта III|Каралю Жыгімонту III|Караля Жыгімонта III|Каралём Жыгімонтам III|Каралю Жыгімонту III</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_KOBER_3_NAME" Language="en_US">
+			<Text>Партрэт каралевы Ганны Ягелонкі|Партрэта каралевы Ганны Ягелонкі|Партрэту каралевы Ганны Ягелонкі|Партрэт каралевы Ганны Ягелонкі|Партрэтам каралевы Ганны Ягелонкі|Партрэце каралевы Ганны Ягелонкі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_SKARGA_1_NAME" Language="en_US">
+			<Text>Жыцці святых|Жыццяў святых|Жыццям святых|Жыцці святых|Жыццямі святых|Жыццях святых</Text>
+			<Gender>neuter</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_SKARGA_2_NAME" Language="en_US">
+			<Text>Соймавыя прамовы|Соймавых прамоваў|Соймавым прамовам|Соймавыя прамовы|Соймавымі прамовамі|Соймавых прамовах</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_KOCHANOWSKI_1_NAME" Language="en_US">
+			<Text>Прыём грэцкіх амбасадараў|Прыёму грэцкіх амбасадараў|Прыёму грэцкіх амбасадараў|Прыём грэцкіх амбасадараў|Прыёмам грэцкіх амбасадараў|Прыёме грэцкіх амбасадараў</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREATWORK_KOCHANOWSKI_2_NAME" Language="en_US">
+			<Text>Трэны|Трэнаў|Трэнам|Трэны|Трэнамі|Трэнах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_GDANSK_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Гданьска|бонуса сюзерэна Гданьска|бонусу сюзерэна Гданьска|бонус сюзерэна Гданьска|бонусам сюзерэна Гданьска|бонусе сюзерэна Гданьска</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_VIENNA_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Вены|бонуса сюзерэна Вены|бонусу сюзерэна Вены|бонус сюзерэна Вены|бонусам сюзерэна Вены|бонусе сюзерэна Вены</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_PRAGUE_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Прагі|бонуса сюзерэна Прагі|бонусу сюзерэна Прагі|бонус сюзерэна Прагі|бонусам сюзерэна Прагі|бонусе сюзерэна Прагі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_1" Language="en_US">
+			<Text>Кшыштаф|Кшыштафа|Кшыштафу|Кшыштафа|Кшыштафам|Кшыштафу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_2" Language="en_US">
+			<Text>Рыгор|Рыгора|Рыгору|Рыгора|Рыгорам|Рыгоры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_3" Language="en_US">
+			<Text>Багуслаў|Багуслава|Багуславу|Багуслава|Багуславам|Багуславу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_4" Language="en_US">
+			<Text>Альберт|Альберта|Альберту|Альберта|Альбертам|Альберце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_5" Language="en_US">
+			<Text>Аляксандр|Аляксандра|Аляксандру|Аляксандра|Аляксандрам|Аляксандру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_1" Language="en_US">
+			<Text>Барбара|Барбары|Барбары|Барбару|Барбарай|Барбары</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_2" Language="en_US">
+			<Text>Крысціна|Крысціны|Крысціне|Крысціну|Крысцінай|Крысціне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_3" Language="en_US">
+			<Text>Людвіка|Людвікі|Людвіцы|Людвіку|Людвікай|Людвіцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_4" Language="en_US">
+			<Text>Катаржына|Катаржыны|Катаржыне|Катаржыну|Катаржынай|Катаржыне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_5" Language="en_US">
+			<Text>Эліза|Элізы|Элізе|Элізу|Элізай|Элізе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POTOCKI_MALE_1" Language="en_US">
+			<Text>Якаў|Якава|Якаву|Якава|Якавам|Якаву</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POTOCKI_MALE_2" Language="en_US">
+			<Text>Стэфан|Стэфана|Стэфану|Стэфана|Стэфанам|Стэфану</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POTOCKI_MALE_3" Language="en_US">
+			<Text>Альфрэд|Альфрэда|Альфрэду|Альфрэда|Альфрэдам|Альфрэду</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POTOCKI_MALE_4" Language="en_US">
+			<Text>Фелікс|Фелікса|Феліксу|Фелікса|Феліксам|Феліксу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POTOCKI_MALE_5" Language="en_US">
+			<Text>Анджэй|Анджэя|Анджэю|Анджэя|Анджэем|Анджэю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POTOCKI_FEMALE_1" Language="en_US">
+			<Text>Ева|Евы|Еве|Еву|Евай|Еве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POTOCKI_FEMALE_2" Language="en_US">
+			<Text>Ёзефіна|Ёзефіны|Ёзефіне|Ёзефіну|Ёзефінай|Ёзефіне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POTOCKI_FEMALE_3" Language="en_US">
+			<Text>Юлія|Юліі|Юліі|Юлію|Юліяй|Юліі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POTOCKI_FEMALE_4" Language="en_US">
+			<Text>Канстанцыя|Канстанцыі|Канстанцыі|Канстанцыю|Канстанцыяй|Канстанцыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POTOCKI_FEMALE_5" Language="en_US">
+			<Text>Наталля|Наталлі|Наталлі|Наталлю|Наталляй|Наталлі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_1" Language="en_US">
+			<Text>Данііл|Данііла|Даніілу|Данііла|Даніілам|Даніілу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_2" Language="en_US">
+			<Text>Хвядор|Хвядора|Хвядору|Хвядора|Хвядорам|Хвядору</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_3" Language="en_US">
+			<Text>Уладзіслаў|Уладзіслава|Уладзіславу|Уладзіслава|Уладзіславам|Уладзіславу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_4" Language="en_US">
+			<Text>Ілля|Іллі|Іллю|Іллю|Іллём|Іллю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_5" Language="en_US">
+			<Text>Януш|Януша|Янушу|Януша|Янушам|Янушу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_1" Language="en_US">
+			<Text>Лізавета|Лізаветы|Лізавеце|Лізавету|Лізаветай|Лізавеце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_2" Language="en_US">
+			<Text>Сафія|Сафіі|Сафіі|Сафію|Сафіяй|Сафіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_3" Language="en_US">
+			<Text>Ганна|Ганны|Ганне|Ганну|Ганнай|Ганне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_4" Language="en_US">
+			<Text>Тэафілія|Тэафіліі|Тэафіліі|Тэафілію|Тэафіліяй|Тэафіліі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_5" Language="en_US">
+			<Text>Алаіза|Алаізы|Алаізе|Алаізу|Алаізай|Алаізе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_STANISLAW_SAMOSTRZELNIK_NAME" Language="en_US">
+			<Text>Станіслаў Самастшэльнік|Станіслава Самастшэльніка|Станіславу Самастшэльніку|Станіслава Самастшэльніка|Станіславам Самастшэльнікам|Станіславу Самастшэльніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARTIN_KOBER_NAME" Language="en_US">
+			<Text>Марцін Кобер|Марціна Кобера|Марціну Коберу|Марціна Кобера|Марцінам Коберам|Марціну Коберу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_BARTOLOMMEO_BERRECCI_NAME" Language="en_US">
+			<Text>Барталамеа Берэчы|Барталамеа Берэчы|Барталамеа Берэчы|Барталамеа Берэчы|Барталамеа Берэчы|Барталамеа Берэчы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADAM_KOCHANSKI_NAME" Language="en_US">
+			<Text>Адам Каханскі|Адама Каханскага|Адаму Каханскаму|Адама Каханскага|Адамам Каханскім|Адаму Каханскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_KAZIMIERZ_SIEMIENOWICZ_NAME" Language="en_US">
+			<Text>Казімір Семяновіч|Казіміра Семяновіча|Казіміру Семяновічу|Казіміра Семяновіча|Казімірам Семяновічам|Казіміру Семяновічу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_KRZYSZTOF_GRODZICKI_NAME" Language="en_US">
+			<Text>Кшыштаф Градзіцкі|Кшыштафа Градзіцкага|Кшыштафу Градзіцкаму|Кшыштафа Градзіцкага|Кшыштафам Градзіцкім|Кшыштафу Градзіцкім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SEBASTIANO_MONTELUPI_NAME" Language="en_US">
+			<Text>Себасцьяна Мантэлупі|Себасцьяна Мантэлупі|Себасцьяна Мантэлупі|Себасцьяна Мантэлупі|Себасцьяна Мантэлупі|Себасцьяна Мантэлупі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_KONSTANTY_KORNIAKT_NAME" Language="en_US">
+			<Text>Кастусь Карнякт|Кастуся Карнякта|Кастусю Карнякту|Кастуся Карнякта|Кастусём Карняктам|Кастусю Карнякту</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_NICOLAUS_COPERNICUS_NAME" Language="en_US">
+			<Text>Мікалай Капернік|Мікалая Каперніка|Мікалаю Каперніку|Мікалая Каперніка|Мікалаем Капернікам|Мікалаю Каперніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SENDIVOGIUS_NAME" Language="en_US">
+			<Text>Сендзівой|Сендзівога|Сендзівому|Сендзівога|Сендзівым|Сендзівым</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_PIOTR_SKARGA_NAME" Language="en_US">
+			<Text>Пётр Скарга|Пятра Скаргі|Пятру Скаргу|Пятра Скаргу|Пятром Скаргам|Пятру Скаргу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAN_KOCHANOWSKI_NAME" Language="en_US">
+			<Text>Ян Каханоўскі|Яна Каханоўскага|Яну Каханоўскаму|Яна Каханоўскага|Янам Каханоўскім|Яне Каханоўскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_GOD_OF_THE_THUDERCLAP_NAME" Language="en_US">
+			<Text>Бог грому|бога грому|богу грому|бога грому|богам грому|богу грому</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_ORTHODOX_CHURCH_NAME" Language="en_US">
+			<Text>Праваслаўная царква|Праваслаўнай царквы|Праваслаўнай царкве|Праваслаўную царкву|Праваслаўнай царквой|Праваслаўнай царкве</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_INNER_PEACE_NAME" Language="en_US">
+			<Text>Унутраны супакой|унутранага супакою|унутранаму супакою|унутраны супакой|унутраным супакоем|унутраным супакоі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_GDANSK_DESCRIPTION" Language="en_US">
+			<Text>Гандлёвыя шляхі да кожнага горада-дзяржавы даюць 5 адз. золата за кожны спецыялізаваны раён у выточным пункце.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_VIENNA_DESCRIPTION" Language="en_US">
+			<Text>Мабілізацыя юнітаў горада-дзяржавы каштуе напалову менш.</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_PRAGUE_DESCRIPTION" Language="en_US">
+			<Text>Раёны даюць +1 [ICON_GreatPerson] АВЛ свайго тыпу (выбітнага [ICON_GreatWriter] пісьменніка і [ICON_GreatArtist] мастака для тэатральных пляцоў).</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_GOD_OF_THE_THUDERCLAP_DESCRIPTION" Language="en_US">
+			<Text>+25% [ICON_Production] вытворчасці падчас рыхтоўлі вайсковых юнітаў Сярэднявечча і Адраджэння.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_ORTHODOX_CHURCH_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаваць праваслаўныя цэрквы (+3 да [ICON_Faith] веры, +2 да [ICON_Food] ежы).</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_CATHEDRAL_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаваць саборы (+3 да [ICON_Faith] веры, +1 да [ICON_Housing] жытла).</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_MOSQUE_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаваць мячэці (+5 да [ICON_Faith] веры).</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_TITHE_DESCRIPTION" Language="en_US">
+			<Text>+1% [ICON_Gold] золата за кожнага верніка.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JANISSARY_DESCRIPTION" Language="en_US">
+			<Text>Юніт блізкага бою эпохі Адраджэння, выкарыстоўваецца Асманскай імперыяй. Лечыцца пасля знішчэння варожага юніта.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSE_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>Конныя лучнікі Сярэднявечча, выкарыстоўваюцца татарамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TEUTONIC_KNIGHT_DESCRIPTION" Language="en_US">
+			<Text>Магутная цяжкая кавалерыя Сярэднявечча, выкарыстоўваецца Тэўтонскім ордэнам.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLAND_SCENARIO_EARLY_WARNING" Language="en_US">
+			<Text>Мы зноў у небяспецы. {1_InvaderName} {1_InvaderName : plural 1?набліжаецца; other?набліжаюцца;} да нашых земляў і {1_InvaderName : plural 1?будзе; other?будуць;} тут праз {2_Turns} {2_Turns : plural 1?ход; 2?хады; other?хадоў;}. Відаць, яны скіроўваюцца да горада {3_CityName}.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLAND_SCENARIO_INVASION_HERE" Language="en_US">
+			<Text>На нас {1_InvaderName : plural 1?{1_InvaderName : gender masculine?напаў; feminine?напала; neuter?напала;}; other?напалі;} {1_InvaderName}. Выганіце гэтых чужынцаў. Польшча не загінула!</Text>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_CAVALRY_1" Language="en_US">
+			<Text>Татары|татар|татарам|татар|татарамі|татарах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_CAVALRY_2" Language="en_US">
+			<Text>Залатая Арда|Залатой Арды|Залатой Ардзе|Залатую Арду|Залатой Ардой|Залатой Ардзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_CAVALRY_3" Language="en_US">
+			<Text>Крымскае ханства|Крымскага ханства|Крымскаму ханству|Крымскае ханства|Крымскім ханствам|Крымскам ханстве</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_CAVALRY_4" Language="en_US">
+			<Text>Татары з Залатой Арды|татар з Залатой Арды|татарам з Залатой Арды|татар з Залатой Арды|татарамі з Залатой Арды|татарах з Залатой Арды</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_COSSACKS_1" Language="en_US">
+			<Text>Казакі|казакоў|казакам|казакоў|казакамі|казаках</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_COSSACKS_2" Language="en_US">
+			<Text>Войска Запарожскае|Войска Запарожскага|Войску Запарожскаму|Войска Запарожскае|Войскам Запарожскім|Войску Запарожскім</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_KNIGHTS_1" Language="en_US">
+			<Text>Рыцары Тэўтонскага ордэна|рыцараў Тэўтонскага ордэна|рыцарам Тэўтонскага ордэна|рыцараў Тэўтонскага ордэна|рыцарамі Тэўтонскага ордэна|рыцарах Тэўтонскага ордэна</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_KNIGHTS_2" Language="en_US">
+			<Text>Тэўтонскі ордэн|Тэўтонскага ордэна|Тэўтонскаму ордэну|Тэўтонскі ордэн|Тэўтонскім ордэнам|Тэўтонскім ордэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_KNIGHTS_3" Language="en_US">
+			<Text>Лівонскі ордэн|Лівонскага ордэна|Лівонскаму ордэну|Лівонскі ордэн|Лівонскім ордэнам|Лівонскім ордэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_MOLDAVA_1" Language="en_US">
+			<Text>Малдаване|малдаванаў|малдаванам|малдаванаў|малдаванамі|малдаванах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_MOLDAVA_2" Language="en_US">
+			<Text>Малдаўскае княства|Малдаўскага княства|Малдаўскаму княству|Малдаўскае княства|Малдаўскім княствам|Малдаўскім княстве</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_OTTOMAN_1" Language="en_US">
+			<Text>Туркі-асманы|туркаў-асманаў|туркам-асманам|туркаў-асманаў|туркамі-асманамі|турках-асманах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_OTTOMAN_2" Language="en_US">
+			<Text>Асманская імперыя|Асманскай імперыі|Асманскай імперыі|Асманскую імперыю|Асманскай імперыяй|Асманскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_RUS_1" Language="en_US">
+			<Text>Русь|Русі|Русі|Русь|Руссю|Русі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_RUS_2" Language="en_US">
+			<Text>Вялікае княства Маскоўскае|Вялікага княства Маскоўскага|Вялікаму княству Маскоўскаму|Вялікае княства Маскоўскае|Вялікім княствам Маскоўскім|Вялікім княстве Маскоўскам</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_RUS_3" Language="en_US">
+			<Text>Наўгародская рэспубліка|Наўгародскай рэспублікі|Наўгародскай рэспубліцы|Наўгародскую рэспубліку|Наўгародскай рэспублікай|Наўгародскай рэспубліцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_RUS_4" Language="en_US">
+			<Text>Рускае царства|Рускага царства|Рускаму царству|Рускае царства|Рускім царствам|Рускім царстве</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_SWEDES_1" Language="en_US">
+			<Text>Шведы|шведаў|шведам|шведаў|шведамі|шведах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BARBARIAN_SWEDES_2" Language="en_US">
+			<Text>Шведская імперыя|Шведскай імперыі|Шведскай імперыі|Шведскую імперыю|Шведскай імперыяй|Шведскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_JANISSARY_NAME" Language="en_US">
+			<Text>Янычар|янычара|янычару|янычара|янычарам|янычару</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HORSE_ARCHER_NAME" Language="en_US">
+			<Text>Конны лучнік|коннага лучніка|коннаму лучніку|коннага лучніка|конным лучнікам|конным лучніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TEUTONIC_KNIGHT_NAME" Language="en_US">
+			<Text>Тэўтонскі рыцар|тэўтонскага рыцара|тэўтонскаму рыцару|тэўтонскага рыцара|тэўтонскім рыцарам|тэўтонскім рыцару</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+	</LocalizedText>
+</GameData>

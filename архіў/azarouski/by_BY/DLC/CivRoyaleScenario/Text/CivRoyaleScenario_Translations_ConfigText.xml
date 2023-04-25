@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ALIENS_NAME" Language="en_US">
+      <Text>Іншапланетнікі|іншапланетнікаў|іншапланетнікам|іншапланетнікаў|іншапланетнікамі|іншапланетніках</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ALIENS_DESCRIPTION" Language="en_US">
+      <Text>Укаранёныя іншапланетнікі|укаранёных іншапланетнікаў|укаранёным іншапланетнікам|укаранёных іншапланетнікаў|укаранёнымі іншапланетнікамі|укаранёных іншапланетніках</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ALIENS_ADJECTIVE" Language="en_US">
+      <Text>Іншапланетн.|іншапланетн.|іншапланетн.|іншапланетн.|іншапланетн.|іншапланетн.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="en_US">
+      <Text>Сектанты|сектантаў|сектантам|сектантаў|сектантамі|сектантах</Text>
+      <Gender>2</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION" Language="en_US">
+      <Text>Уведзеныя сектанты|Уведзеных сектантаў|Уведзеным сектантам|Уведзеных сектантаў|Уведзенымі сектантамі|Уведзеных сектантах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE" Language="en_US">
+      <Text>Сектанцкі|сектанцкага|сектанцкаму|сектанцкі|сектанцкім|сектанцкім</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="en_US">
+      <Text>Антыгероі|антыгерояў|антыгероям|антыгерояў|антыгероямі|антыгероях</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION" Language="en_US">
+      <Text>Гатычныя антыгероі|гатычных антыгерояў|гатычным антыгероям|гатычных антыгерояў|гатычнымі антыгероямі|гатычных антыгероях</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE" Language="en_US">
+      <Text>Антыгеройск.|антыгеройск.|антыгеройск.|антыгеройск.|антыгеройск.|антыгеройск.</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME" Language="en_US">
+      <Text>Фанаты|Фанатаў|Фанатам|Фанатаў|Фанатамі|Фанатах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION" Language="en_US">
+      <Text>Зласлівыя фанаты|Зласлівых фанатаў|Зласлівым фанатам|Зласлівых фанатаў|Зласлівымі фанатамі|Зласлівых фанатах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE" Language="en_US">
+      <Text>Фанацкі|Фанацкага|Фанацкаму|Фанацкі|Фанацкім|Фанацкім</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="en_US">
+      <Text>Мутанты|Мутантаў|Мутантам|Мутантаў|Мутантамі|Мутантах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION" Language="en_US">
+      <Text>Мутанты ў страшных шнарах|Мутантаў у страшных шнарах|Мутантам у страшных шнарах|Мутантаў у страшных шнарах|Мутантамі ў страшных шнарах|Мутантах у страшных шнарах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE" Language="en_US">
+      <Text>Мутанцкі|Мутанцкага|Мутанцкаму|Мутанцкі|Мутанцкім|Мутанцкім</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME" Language="en_US">
+      <Text>Святлівыя асобы|Святлівых асоб|Святлівым асобам|Святлівых асоб|Святлівымі асобамі|Святлівых асобах</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>-50% шкоды ад «Чырвонай смерці».</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME" Language="en_US">
+      <Text>Радыеактыўны рух|Радыеактыўнага руха|Радыеактыўнаму руху|Радыеактыўны рух|Радыеактыўным рухам|Радыеактыўным руху</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>+3 [ICON_Movement] АР для юнітаў у «Чырвонай смерці». -50% шкоды ад «Чырвонай смерці».</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME" Language="en_US">
+      <Text>Святлівыя асобы|Святлівых асоб|Святлівым асобам|Святлівых асоб|Святлівымі асобамі|Святлівых асобах</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>Юніты мутантаў паглынаюць 8 зарадаў радыяцыі за ход, пачаты ў «Чырвонай смерці» ці ў зоне ўжывання ЗМЗ. Адзін паглынуты мутантамі зарад заражае «Чырвонай смерцю» адну чыстую клетку. Юніты мутантаў не атрымаюць шкоды ад «Чырвонай смерці», што шырыцца мутантамі.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="en_US">
+      <Text>Выжыўнікі|Выжыўнікоў|Выжыўнікам|Выжыўнікоў|Выжыўнікамі|Выжыўніках</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION" Language="en_US">
+      <Text>Апантаныя выжыўнікі Суднага дня|Апантаных выжыўнікоў Суднага дня|Апантаным выжыўнікам Суднага дня|Апантаных выжыўнікоў Суднага дня|Апантанымі выжыўнікамі Суднага дня|Апантаных выжыўніках Суднага дня</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE" Language="en_US">
+      <Text>Сурвівалісцкі|Сурвівалісцкага|Сурвівалісцкаму|Сурвівалісцкі|Сурвівалісцкім|Сурвівалісцкім</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME" Language="en_US">
+      <Text>Піраты|Піратаў|Піратам|Піратаў|Піратамі|Піратах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION" Language="en_US">
+      <Text>Апрамененыя піраты|Апрамененых піратаў|Апрамененым піратам|Апрамененых піратаў|Апрамененымі піратамі|Апрамененых піратах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE" Language="en_US">
+      <Text>Пірацкі|Пірацкага|Пірацкаму|Пірацкі|Пірацкім|Пірацкім</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="en_US">
+      <Text>Звар'яцелыя навукоўцы|Звар'яцелых навукоўцаў|Звар'яцелым навукоўцам|Звар'яцелых навукоўцаў|Звар'яцелымі навукоўцамі|Звар'яцелых навукоўцаў</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION" Language="en_US">
+      <Text>Амаральныя навукоўцы|Амаральных навукоўцаў|Амаральным навукоўцам|Амаральных навукоўцаў|Амаральнымі навукоўцамі|Амаральных навукоўцаў</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE" Language="en_US">
+      <Text>Звар'яцелыя навукоўцы|Звар'яцелых навукоўцаў|Звар'яцелым навукоўцам|Звар'яцелых навукоўцаў|Звар'яцелымі навукоўцамі|Звар'яцелых навукоўцаў</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="en_US">
+      <Text>Тулягі|тулягаў|тулягам|тулягаў|тулягамі|тулягах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION" Language="en_US">
+      <Text>Самаахвотныя тулягі|Самаахвотных тулягаў|Самаахвотным тулягам|Самаахвотных тулягаў|Самаахвотнымі тулягамі|Самаахвотных тулягах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE" Language="en_US">
+      <Text>Бадзяжны|бадзяжнага|бадзяжнаму|бадзяжны|бадзяжным|бадзяжным</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_NAME" Language="en_US">
+      <Text>Зомбі|зомбі|зомбі|зомбі|зомбі|зомбі</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_DESCRIPTION" Language="en_US">
+      <Text>Зомбі-звераловы|зомбі-звераловаў|зомбі-звераловам|зомбі-звераловаў|зомбі-звераловамі|зомбі-звераловах|</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_ADJECTIVE" Language="en_US">
+      <Text>зомбі|зомбі|зомбі|зомбі|зомбі|зомбі</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_WEAPONIZED_ZOMBIES_ABILITY_NAME" Language="en_US">
+      <Text>Дрэнна ўзброеныя зомбі|дрэнна ўзброеных зомбі|дрэнна ўзброеным зомбі|дрэнна ўзброеных зомбі|дрэнна ўзброенымі зомбі|дрэнна ўзброеных зомбі</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_WEAPONIZED_ZOMBIES_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>Зомбі-звераловы замянілі ўсе баявыя юніты амаль некантраляванымі ордамі зомбі. Заміж звычайных юнітаў руіны гарадоў, лагеры рабаўнікоў і грузы з запасамі будуць даваць дадатковыя орды зомбі. Орды зомбі ствараюць новую арду зомбі, калі забіваюць у бойцы варожых жывых істот. Орды не атрымаюць баявога штрафу, калі ім вырабляецца шкода.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_BRAINS_ABILITY_NAME" Language="en_US">
+      <Text>Мазгі!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_BRAINS_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>Орды зомбі не могуць лячыцца звыклым чынам і з часам атрымаюць шкоду. Орды зомбі лечацца пасля забойства юнітаў і пасля падвышэння. Апроч гэтага яны могуць аднаўляць здароўе ў руінах гарадоў, лагерах рабаўнікоў і за кошт грузаў з запасамі. Орды зомбі могуць чуць нябачныя варожыя юніты на адлегласці да васьмі клетак. +5 да [ICON_Strength] баявой моцы падчас абароны ад атак з адлегласці.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_ALIENS_NAME" Language="en_US">
+      <Text>іншапланетнікі|іншапланетнікаў|іншапланетнікам|іншапланетнікаў|іншапланетнікамі|іншапланетніках</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="en_US">
+      <Text>Сектанты|Сектантаў|Сектантам|Сектантаў|Сектантамі|Сектантах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="en_US">
+      <Text>Антыгероі|антыгерояў|антыгероям|антыгерояў|антыгероямі|антыгероях</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME" Language="en_US">
+      <Text>Фанаты|Фанатаў|Фанатам|Фанатаў|Фанатамі|Фанатах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="en_US">
+      <Text>Мутанты|Мутантаў|Мутантам|Мутантаў|Мутантамі|Мутантах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="en_US">
+      <Text>Выжыўнікі|Выжыўнікоў|Выжыўнікам|Выжыўнікоў|Выжыўнікамі|Выжыўніках</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME" Language="en_US">
+      <Text>Піраты|Піратаў|Піратам|Піратаў|Піратамі|Піратах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="en_US">
+      <Text>Звар'яцелыя навукоўцы|Звар'яцелых навукоўцаў|Звар'яцелым навукоўцам|Звар'яцелых навукоўцаў|Звар'яцелымі навукоўцамі|Звар'яцелых навукоўцаў</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="en_US">
+      <Text>Тулягі|Тулягаў|Тулягам|Тулягаў|Тулягамі|Тулягах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_ZOMBIES_NAME" Language="en_US">
+      <Text>зомбі|зомбі|зомбі|зомбі|зомбі|зомбі</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TITLE" Language="en_US">
+      <Text>«Чырвоная смерць» (каралеўская бітва)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION" Language="en_US">
+      <Text>«Чырвоная смерць» (каралеўская бітва)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TEASER" Language="en_US">
+      <Text>«Чырвоная смерць» – гэта Civilization VI у рэжыме «каралеўскай бітвы». Ваш прыз – апошні квіток у адзін канец са згубнай планеты.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_TITLE" Language="en_US">
+      <Text>Прайсці праверку каралёў</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_DESC" Language="en_US">
+      <Text>Станьце апошняй фракцыяй!</Text>
+    </Replace>
+    <Replace Tag="LOC_ALIENS_XENO_REGENERATION_ABILITY_NAME" Language="en_US">
+      <Text>Ксеналагічная рэгенерацыя</Text>
+    </Replace>
+    <Replace Tag="LOC_ALIENS_XENO_REGENERATION_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>Усе юніты аднаўляюць здароўе кожны ход незалежна ад руху і іншых дзеянняў, калі знаходзяцца не ў вадзе і не ў зоне радыеактыўнага заражэння. Здароўе іншапланетнікаў аднаўляецца на 50% павольней.</Text>
+    </Replace>
+    <Replace Tag="LOC_ALIENS_XENO_STEALTH_ABILITY_NAME" Language="en_US">
+      <Text>Ксеналагічны камуфляж</Text>
+    </Replace>
+    <Replace Tag="LOC_ALIENS_XENO_STEALTH_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>З дапамогай ксеналагічнага камуфляжу кожны юніт можа стаць нябачным для большасці варожых юнітаў. Камуфляваныя юніты бачны суперніку на суседніх клетках. Камуфляж знікае пры атацы. Працуе 6 хадоў і аднаўляецца за 6 хадоў.</Text>
+    </Replace>
+    <Replace Tag="LOC_CULTISTS_SIGHT_ABILITY_NAME" Language="en_US">
+      <Text>У чаканні канца</Text>
+    </Replace>
+    <Replace Tag="LOC_CULTISTS_SIGHT_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>Усе юніты атрымаюць +3 да агляду.</Text>
+    </Replace>
+    <Replace Tag="LOC_CULTISTS_UNDYING_EYE_ABILITY_NAME" Language="en_US">
+      <Text>Вечнае Вока</Text>
+    </Replace>
+    <Replace Tag="LOC_CULTISTS_UNDYING_EYE_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>Сектанты пачынаюць гульню з пашкоджаным ВБР (якога яны ўшаноўваюць). ВБР пачынае гульню ў моцна пашкоджаным стане; юніт не аднаўляе здароўе і не набывае досведу. ВБР зарабляе падвышэнні, калі найблізкія юніты-сектанты самахоць прыносяць сябе ў ахвяру.</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORDS_EDGENESS_ABILITY_NAME" Language="en_US">
+      <Text>Жыццё на мяжы</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGENESS_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>+10 [ICON_Strength] да баявой моцы ў межах 3 клетак ад мяжы бяспечнай зоны.</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORDS_GRIEVING_GIFT_ABILITY_NAME" Language="en_US">
+      <Text>Скрушны дарунак</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORDS_GRIEVING_GIFT_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>У рамках дармовага дзеяння кожны юніт-антыгерой можа пазначыць клетку, дзе на наступным ходзе з'явіцца замінаваны скрушны дарунак. У іншых гульцоў ён будзе адлюстроўвацца як звычайны груз з запасамі. Антыгероі могуць мець у запасе да двух скрушных дарункаў. Аднаўленне доўжыцца 5 хадоў.</Text>
+    </Replace>
+    <Replace Tag="LOC_JOCK_COMBAT_BONUS_ABILITY_NAME" Language="en_US">
+      <Text>Сведка дасканаласці</Text>
+    </Replace>
+    <Replace Tag="LOC_JOCK_COMBAT_BONUS_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>+5 [ICON_Strength] да баявой моцы.</Text>
+    </Replace>
+    <Replace Tag="LOC_JOCK_HAIL_MARY_ABILITY_NAME" Language="en_US">
+      <Text>Адмовіцца ад «Авэ Марыі»</Text>
+    </Replace>
+    <Replace Tag="LOC_JOCK_HAIL_MARY_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>Кожны баявы юніт запускае тактычны ядзерны снарад «Авэ Марыя» кожныя 6 хадоў.</Text>
+    </Replace>
+    <Replace Tag="LOC_PREPPERS_EXPERIENCE_ABILITY_NAME" Language="en_US">
+      <Text>Заўсёды гатовы да горшага</Text>
+    </Replace>
+    <Replace Tag="LOC_PREPPERS_EXPERIENCE_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>Бонус да досведу +100% для ўсіх юнітаў.</Text>
+    </Replace>
+    <Replace Tag="LOC_PREPPERS_IMPROVISED_TRAPS_ABILITY_NAME" Language="en_US">
+      <Text>Імправізаваныя пасткі</Text>
+    </Replace>
+    <Replace Tag="LOC_PREPPERS_IMPROVISED_TRAPS_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>Усе юніты-выжыўнікі могуць будаваць абмежаваную колькасць паляпшэнняў для імправізаваных пастак. Імправізаваныя пасткі выбухаюць і вырабляюць 25 адз. шкоды кожнаму юніту, які пераходзіць на клетку з імі. Выжыўнікі могуць знайсці больш імправізаваных пастак у руінах гарадоў, лагерах рабаўнікоў ці грузах з запасамі. Імправізаваныя пасткі бачныя толькі выжыўнікам.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_WATER_LOGGED_ABILITY_NAME" Language="en_US">
+      <Text>Водны свет</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_WATER_LOGGED_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>Усе юніты атрымаюць на 50% меней шкоды ад вады і не атрымаюць штрафу да руху ад гружэння і выгрузкі з карабля.</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_BURIED_TREASURE_ABILITY_NAME" Language="en_US">
+      <Text>Закапаны скарб</Text>
+    </Replace>
+    <Replace Tag="LOC_PIRATES_BURIED_TREASURE_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>Піраты пачынаюць гульню з картай, што паказвае на закапаны скарб. На карце ён адлюстроўваецца ў выглядзе грузу з запасамі. Піраты атрымаюць адменную ўзнагароду і новую карту скарбаў за наведанне гэтай лакацыі. У рамках дармовага дзеяння піраты могуць спаліць карту скарбаў і атрымаць новую раз на 6 хадоў.</Text>
+    </Replace>
+    <Replace Tag="LOC_SCIENTISTS_HEAL_FASTER_ABILITY_NAME" Language="en_US">
+      <Text>Нават не адчуеце</Text>
+    </Replace>
+    <Replace Tag="LOC_SCIENTISTS_HEAL_FASTER_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>Усе юніты лечацца ў 2 разы хутчэй.</Text>
+    </Replace>
+    <Replace Tag="LOC_SCIENTISTS_UNIT_SHIELDS_ABILITY_NAME" Language="en_US">
+      <Text>Абарончыя інэрцыйныя шчыты</Text>
+    </Replace>
+    <Replace Tag="LOC_SCIENTISTS_UNIT_SHIELDS_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>Усе баявыя юніты могуць разгортваць шчыты, якія даюць +10 да баявой моцы падчас абароны. Шчыты таксама даюць поўны імунітэт да шкоды ад вады, «Чырвонай смерці» і ЗМЗ. Шчыты працуюць 4 хады. Аднаўленне займае 6 хадоў.</Text>
+    </Replace>
+    <Replace Tag="LOC_WANDERERS_MOVE_BONUS_ABILITY_NAME" Language="en_US">
+      <Text>Да сустрэчы</Text>
+    </Replace>
+    <Replace Tag="LOC_WANDERERS_MOVE_BONUS_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>Пяхотнікі і кулякіднікі (а таксама грамадзянскія юніты ў шыхтаванні з імі) хутчэй [ICON_Movement] крочаць па лясах, трапічных лясах і ўзгорках.</Text>
+    </Replace>
+    <Replace Tag="LOC_WANDERERS_ROAD_VISION_ABILITY_NAME" Language="en_US">
+      <Text>Агляд дарог</Text>
+    </Replace>
+    <Replace Tag="LOC_WANDERERS_ROAD_VISION_ABILITY_DESCRIPTION" Language="en_US">
+      <Text>У рамках дармовага дзеяння кожны юніт можа паказаць раней даследаваныя клеткі цягам 1 ходу. Перазарадка займае 3 хады.</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_PLAYER_CITY_RUINS" Language="en_US">
+      <Text>Руін гарадоў даследавана</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_RAIDERS_KILLED" Language="en_US">
+      <Text>Рабаўнікоў забіта</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_STAT_RAIDER_CAMPS" Language="en_US">
+      <Text>Знішчана лагераў барбараў</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_RAIDER_KILLS" Language="en_US">
+      <Text>Рабаўнікоў забіта</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_RAIDER_CAMPS" Language="en_US">
+      <Text>Знішчана лагераў барбараў</Text>
+    </Replace>
+    <Replace Tag="LOC_HOF_GRAPH_PLAYER_CITY_RUINS" Language="en_US">
+      <Text>Руін гарадоў даследавана</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

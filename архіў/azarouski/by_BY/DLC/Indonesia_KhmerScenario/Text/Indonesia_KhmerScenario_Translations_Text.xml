@@ -1,0 +1,1406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_KAIFENG" Language="en_US">
+			<Text>Кайфэн|Кайфэна|Кайфэну|Кайфэн|Кайфэнам|Кайфэне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_LINAN" Language="en_US">
+			<Text>Ліньянь|Ліньяня|Ліньяню|Ліньянь|Ліньянем|Ліньяні</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_QUANZHOU" Language="en_US">
+			<Text>Цюаньчжоу|Цюаньчжоу|Цюаньчжоу|Цюаньчжоу|Цюаньчжоу|Цюаньчжоу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_CHONGQING" Language="en_US">
+			<Text>Чунцын|Чунцына|Чунцыну|Чунцын|Чунцынам|Чунцыне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_CHANGAN" Language="en_US">
+			<Text>Чан'ань|Чан'аня|Чан'аню|Чан'ань|Чан'анем|Чан'ані</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_PANYU" Language="en_US">
+			<Text>Пан'ю|Пан'ю|Пан'ю|Пан'ю|Пан'ю|Пан'ю</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_ANURADHAPURA" Language="en_US">
+			<Text>Анурадхапура|Анурадхапуры|Анурадхапуры|Анурадхапуру|Анурадхапурай|Анурадхапуры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_VENGI" Language="en_US">
+			<Text>Венгі|Венгі|Венгі|Венгі|Венгі|Венгі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_BANAVASI" Language="en_US">
+			<Text>Банавасі|Банавасі|Банавасі|Банавасі|Банавасі|Банавасі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_KADARAM" Language="en_US">
+			<Text>Кадарам|Кадарама|Кадараму|Кадарам|Кадарамам|Кадараме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_PEGU" Language="en_US">
+			<Text>Пегу|Пегу|Пегу|Пегу|Пегу|Пегу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_MA_NAKKAVARAM" Language="en_US">
+			<Text>Ма-Накаварам|Ма-Накаварама|Ма-Накавараму|Ма-Накаварам|Ма-Накаварамам|Ма-Накавараме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_GHAZNA" Language="en_US">
+			<Text>Газні|Газні|Газні|Газні|Газні|Газні</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_LAHORE" Language="en_US">
+			<Text>Лахор|Лахора|Лахору|Лахор|Лахорам|Лахоры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_BALKH" Language="en_US">
+			<Text>Балх|Балха|Балху|Балх|Балхам|Балху</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_BIKRAMPUR" Language="en_US">
+			<Text>Бікрампур|Бікрампура|Бікрампуру|Бікрампур|Бікрампурам|Бікрампуры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_PATALIPUTRA" Language="en_US">
+			<Text>Паталіпутра|Паталіпутры|Паталіпутры|Паталіпутру|Паталіпутрай|Паталіпутры</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_KANNAUJ" Language="en_US">
+			<Text>Канаўдж|Канаўджа|Канаўджу|Канаўдж|Канаўджам|Канаўджы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_DURJAYA" Language="en_US">
+			<Text>Дурджая|Дурджаі|Дурджае|Дурджаю|Дурджаей|Дурджае</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_LHASA" Language="en_US">
+			<Text>Лхаса|Лхасы|Лхасе|Лхасу|Лхасай|Лхасе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_QAMDO" Language="en_US">
+			<Text>Чамдо|Чамдо|Чамдо|Чамдо|Чамдо|Чамдо</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_BURANG" Language="en_US">
+			<Text>Буранг|Буранга|Бурангу|Буранг|Бурангам|Бурангу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_XINING" Language="en_US">
+			<Text>Сінін|Сініна|Сініну|Сінін|Сінінам|Сініне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_NAGQU" Language="en_US">
+			<Text>Нагчу|Нагчу|Нагчу|Нагчу|Нагчу|Нагчу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_DALI" Language="en_US">
+			<Text>Далечы|Далі|Далі|Далі|Далі|Далі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_DELHI" Language="en_US">
+			<Text>Дэлі|Дэлі|Дэлі|Дэлі|Дэлі|Дэлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_GAOCHANG" Language="en_US">
+			<Text>Гаачан|Гаачана|Гаачану|Гаачан|Гаачанам|Гаачане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_GOA" Language="en_US">
+			<Text>Гоа|Гоа|Гоа|Гоа|Гоа|Гоа</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_HEIAN" Language="en_US">
+			<Text>Хэян|Хэяна|Хэяну|Хэян|Хэянам|Хэяне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_KAESONG" Language="en_US">
+			<Text>Кэсон|Кэсона|Кэсону|Кэсон|Кэсонам|Кэсоне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_KASHGAR" Language="en_US">
+			<Text>Кашгар|Кашгара|Кашгару|Кашгар|Кашгарам|Кашгары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_KHOTAN" Language="en_US">
+			<Text>Хатан|Хатана|Хатану|Хатан|Хатанам|Хатане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_KUCHA" Language="en_US">
+			<Text>Кучар|Кучара|Кучару|Кучар|Кучарам|Кучары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_LAMPHUN" Language="en_US">
+			<Text>Лампхун|Лампхуна|Лампхуну|Лампхун|Лампхунам|Лампхуне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_LAMURI" Language="en_US">
+			<Text>Ламуры|Ламуры|Ламуры|Ламуры|Ламуры|Ламуры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_MALABANG" Language="en_US">
+			<Text>Малабанг|Малабанга|Малабангу|Малабанг|Малабангам|Малабангу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_PAGAN" Language="en_US">
+			<Text>Паган|Пагана|Пагану|Паган|Паганам|Пагане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_SAMARKAND" Language="en_US">
+			<Text>Самарканд|Самарканда|Самарканду|Самарканд|Самаркандам|Самаркандзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_SOMNATH" Language="en_US">
+			<Text>Самнатх|Самнатха|Самнатху|Самнатх|Самнатхам|Самнатху</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_THANG_LONG" Language="en_US">
+			<Text>Тханглонг|Тханглонга|Тханглонгу|Тханглонг|Тханглонгам|Тханглонгу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_TEMASEK" Language="en_US">
+			<Text>Тэмасек|Тэмасека|Тэмасеку|Тэмасек|Тэмасекам|Тэмасеку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_TONDO" Language="en_US">
+			<Text>Тонда|Тонда|Тонда|Тонда|Тонда|Тонда</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_TURPAN" Language="en_US">
+			<Text>Турфан|Турфана|Турфану|Турфан|Турфанам|Турфане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_UJJAIN" Language="en_US">
+			<Text>Уджайн|Уджайна|Уджайну|Уджайн|Уджайнам|Уджайне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_VIJAYA" Language="en_US">
+			<Text>Віджая|Віджаі|Віджаю|Віджаю|Віджаем|Віджаю</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_XINGQING" Language="en_US">
+			<Text>Сінцын|Сінцына|Сінцыну|Сінцын|Сінцынам|Сінцыне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_ZHONGJING" Language="en_US">
+			<Text>Чжунцзін|Чжунцзіна|Чжунцзіну|Чжунцзін|Чжунцзінам|Чжунцзіне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_PAPERMAKING_NAME" Language="en_US">
+			<Text>Папера|паперы|паперы|паперу|паперай|паперы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_COMPASS_NAME" Language="en_US">
+			<Text>Компас|компаса|компасу|компас|компасам|компасе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GOVERNMENT_SCENARIO_THALASSOCRACY_NAME" Language="en_US">
+			<Text>Таласакратыя|таласакратыі|таласакратыі|таласакратыю|таласакратыяй|таласакратыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_NOBLE_PATH_NAME" Language="en_US">
+			<Text>Шляхетны шлях|Шляхетнага шляху|Шляхетнаму шляху|Шляхетны шлях|Шляхетным шляхам|Шляхетным шляху</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_DEVOTION_NAME" Language="en_US">
+			<Text>Набожнасць|набожнасці|набожнасці|набожнасць|набожнасцю|набожнасці</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_CHARITY_NAME" Language="en_US">
+			<Text>Дабрачыннасць|дабрачыннасці|дабрачыннасці|дабрачыннасць|дабрачыннасцю|дабрачыннасці</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_QUECHANG_NAME" Language="en_US">
+			<Text>Цюэчан|Цюэчана|Цюэчану|Цюэчан|Цюэчанам|Цюэчане</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_JUNK_NAME" Language="en_US">
+			<Text>Джонка|джонкі|джонцы|джонку|джонкай|джонцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_FESTIVALS_NAME" Language="en_US">
+			<Text>Фэсты|фэстаў|фэстам|фэсты|фэстамі|фэстах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_DALI_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Далі|горада-дзяржавы Далі|гораду-дзяржаве Далі|горад-дзяржаву Далі|горадам-дзяржавай Далі|горадзе-дзяржаве Далі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_DELHI_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Дэлі|горада-дзяржавы Дэлі|гораду-дзяржаве Дэлі|горад-дзяржаву Дэлі|горадам-дзяржавай Дэлі|горадзе-дзяржаве Дэлі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_GAOCHANG_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Гаачан|горада-дзяржавы Гаачан|гораду-дзяржаве Гаачан|горад-дзяржаву Гаачан|горадам-дзяржавай Гаачан|горадзе-дзяржаве Гаачан</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_GOA_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Гоа|горада-дзяржавы Гоа|гораду-дзяржаве Гоа|горад-дзяржаву Гоа|горадам-дзяржавай Гоа|горадзе-дзяржаве Гоа</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_HEIAN_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Хэян|горада-дзяржавы Хэян|гораду-дзяржаве Хэян|горад-дзяржаву Хэян|горадам-дзяржавай Хэян|горадзе-дзяржаве Хэян</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_KAESONG_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Кэсон|горада-дзяржавы Кэсон|гораду-дзяржаве Кэсон|горад-дзяржаву Кэсон|горадам-дзяржавай Кэсон|горадзе-дзяржаве Кэсон</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_KASHGAR_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Кашгар|горада-дзяржавы Кашгар|гораду-дзяржаве Кашгар|горад-дзяржаву Кашгар|горадам-дзяржавай Кашгар|горадзе-дзяржаве Кашгар</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_KHOTAN_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Хатан|горада-дзяржавы Хатан|гораду-дзяржаве Хатан|горад-дзяржаву Хатан|горадам-дзяржавай Хатан|горадзе-дзяржаве Хатан</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_KUCHA_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Кучар|горада-дзяржавы Кучар|гораду-дзяржаве Кучар|горад-дзяржаву Кучар|горадам-дзяржавай Кучар|горадзе-дзяржаве Кучар</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_LAMPHUN_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Лампхун|горада-дзяржавы Лампхун|гораду-дзяржаве Лампхун|горад-дзяржаву Лампхун|горадам-дзяржавай Лампхун|горадзе-дзяржаве Лампхун</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_LAMURI_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Ламуры|горада-дзяржавы Ламуры|гораду-дзяржаве Ламуры|горад-дзяржаву Ламуры|горадам-дзяржавай Ламуры|горадзе-дзяржаве Ламуры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_MALABANG_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Малабанг|горада-дзяржавы Малабанг|гораду-дзяржаве Малабанг|горад-дзяржаву Малабанг|горадам-дзяржавай Малабанг|горадзе-дзяржаве Малабанг</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PAGAN_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Паган|горада-дзяржавы Паган|гораду-дзяржаве Паган|горад-дзяржаву Паган|горадам-дзяржавай Паган|горадзе-дзяржаве Паган</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PALEMBANG_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Палембанг|горада-дзяржавы Палембанг|гораду-дзяржаве Палембанг|горад-дзяржаву Палембанг|горадам-дзяржавай Палембанг|горадзе-дзяржаве Палембанг</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_SAMARKAND_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Самарканд|горада-дзяржавы Самарканд|гораду-дзяржаве Самарканд|горад-дзяржаву Самарканд|горадам-дзяржавай Самарканд|горадзе-дзяржаве Самарканд</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_SOMNATH_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Самнатх|горада-дзяржавы Самнатх|гораду-дзяржаве Самнатх|горад-дзяржаву Самнатх|горадам-дзяржавай Самнатх|горадзе-дзяржаве Самнатх</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_THANG_LONG_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Тханглонг|горада-дзяржавы Тханглонг|гораду-дзяржаве Тханглонг|горад-дзяржаву Тханглонг|горадам-дзяржавай Тханглонг|горадзе-дзяржаве Тханглонг</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_TEMASEK_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Тэмасек|горада-дзяржавы Тэмасек|гораду-дзяржаве Тэмасек|горад-дзяржаву Тэмасек|горадам-дзяржавай Тэмасек|горадзе-дзяржаве Тэмасек</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_TONDO_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Тонда|горада-дзяржавы Тонда|гораду-дзяржаве Тонда|горад-дзяржаву Тонда|горадам-дзяржавай Тонда|горадзе-дзяржаве Тонда</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_TURPAN_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Турфан|горада-дзяржавы Турфан|гораду-дзяржаве Турфан|горад-дзяржаву Турфан|горадам-дзяржавай Турфан|горадзе-дзяржаве Турфан</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_UJJAIN_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Уджайн|горада-дзяржавы Уджайн|гораду-дзяржаве Уджайн|горад-дзяржаву Уджайн|горадам-дзяржавай Уджайн|горадзе-дзяржаве Уджайн</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_VIJAYA_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Віджая|горада-дзяржавы Віджая|гораду-дзяржаве Віджая|горад-дзяржаву Віджая|горадам-дзяржавай Віджая|горадзе-дзяржаве Віджая</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_XINGQING_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Сінцын|горада-дзяржавы Сінцын|гораду-дзяржаве Сінцын|горад-дзяржаву Сінцын|горадам-дзяржавай Сінцын|горадзе-дзяржаве Сінцын</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ZHONGJING_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Чжунцзін|горада-дзяржавы Чжунцзін|гораду-дзяржаве Чжунцзін|горад-дзяржаву Чжунцзін|горадам-дзяржавай Чжунцзін|горадзе-дзяржаве Чжунцзін</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_1_SCENARIO" Language="en_US">
+			<Text>Раден Виджая, первый правитель Маджапахита, на исходе XIII в. объединил буддизм и индуизм в единую государственную религию, в которой сосуществовали разные боги, а буддизм по отношению к индуизму занимал подчиненное положение.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_2_SCENARIO" Language="en_US">
+			<Text>Тем не менее, буддисты и индуисты жили отдельными компактными сообществами, а законы Маджапахита запрещали религиозную агитацию и обращение в свою веру. В отдаленных горах и селениях, тем временем, последователи древних местных культов беспрепятственно проводили свои ритуалы, которые не рассматривались как угроза государственной религии. Таким образом правителям удавалось избежать конфликтов с местными царьками, которые противились попыткам властей сместить их привычных богов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_3_SCENARIO" Language="en_US">
+			<Text>Эта двойственность обеспечила плавный переход от буддийского государства Сингасари к Маджапахиту и позволила правителю использовать индуистские ритуалы для освящения своей власти.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_1_SCENARIO" Language="en_US">
+			<Text>Придя к власти в 802 г. н. э., Джайаварман II объявил себя «чакравартином» («верховным правителем»). Для обычного завоевателя или претендента на престол это было бы непростой задачей, но на стороне Джайавармана II были жрецы, которые провели обряд культа девараджи, а он, в свою очередь, ввел их в аппарат государственной власти.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_2_SCENARIO" Language="en_US">
+			<Text>Культ девараджи (бога-короля) – это шиваистская религиозная группа, которая короновала всех ангкорских правителей.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_3_SCENARIO" Language="en_US">
+			<Text>Власть в культе девараджи наследовал Шивакайвалья – жрец, обучавшийся у наставника, который провел церемонию коронации. Роль культа девараджи и связанных с ним ритуалов была столь велика, что при переносе столицы король забрал с собой всех членов этой группы вместе с семьей Шивакайвальи.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GURU_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Слово «гуру» на санскрите означает учителя, мастера в определенной области – как правило, в религии. Гуру играют большую роль в индуизме, джайнизме, в некоторых течениях буддизма и особенно в сикхизме, основателем которого был гуру Нанак. Правильные отношения между гуру и учеником в этих религиях имеют большое значение, а методы обучения зависят от конкретной традиции. Но во всех традициях гуру – это больше, чем просто учитель. Это источник духовной мудрости и священных знаний.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MONK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Монах – это последователь религии, который отказался от мирской жизни и предпочел аскезу, молитвы и духовность. Во многих религиозных традициях (христианстве, буддизме, джайнизме) монастыри являются важной частью духовной культуры. Некоторые монашеские ордена полностью прекращают контакты с внешним миром, другие же, наоборот, активно работают на благо общества. Как правило, монахи носят особую одежду в знак своей отрешенности от всего мирского.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRIEST_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Священник – это религиозный служитель, как правило, прошедший специальное обучение. Латинское слово presbyter (пресвитер) происходит от греческого слова со значением «старейшина, глава общины», что соответствует роли священнослужителей во многих религиях. Работа священника (жреца) – это, возможно, одна из старейших человеческих профессий. Она появляется в человеческих сообществах практически одновременно с земледелием. Священники являются посредниками между людьми и богами, они приносят жертвы и проводят ритуалы, отмечающие важнейшие события в жизни человека. На священника могут налагаться определенные обязанности и ограничения, а иногда его служение может совмещаться с обычной работой.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSIONARY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Миссионер – это человек, призвание которого – распространять свою религию среди иноверцев. Этот процесс называется обращением неверных и может сопровождаться благотворительностью... или более грубыми методами. Миссионерами могут быть как священнослужители, так и миряне. Миссионеры часто являются источником ценных сведений об исконной культуре разных народов, их верованиях, ритуалах и языке, даже если и стремятся вытеснить их и заменить своей религией.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CHINA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Период династии Сун был для Китая временем территориального роста. С X по XI век население страны удвоилось. Китай так разросся, что его вассалами стали отдаленные государства вроде Хотана и Дали на Великом Шелковом пути.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CHINA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>К счастью для местных мусульман, иудеев и манихеев, в Китае в этот период преобладала буддийская веротерпимость. Печатный станок облегчил распространение религиозной и духовной литературы, а монахи путешествовали из Китая в Индию и привозили оттуда домой новые знания.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CHINA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>В Северный период династии Сун приехавший в Китай путешественник сразу обращал внимание на огромные пагоды. Из них наиболее известна «Железная пагода» храма Ю Го, построенная в 1049 г. при императоре Жэнь-цзуне.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CHOLA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Шиваистская тамильская династия Чола правила с III в. до н. э. по XIII в. н. э. В южной Индии эта династия прославилась строительством храмов, посвященных Шиве и его родственникам. По мере расширения своих владений правители Чола возводили храмы и широко распространяли культ Шивы, но были терпимы к другим религиям индусов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CHOLA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Возможно, по этой причине в 1133 г. учитель вайшнавизма Рамануджачарья решил, что ничто не помешает ему проповедовать свое учение. Однако правитель Чола решил иначе и приказал всем подданным перейти в шиваизм.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CHOLA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Рамануджачарья бежал в Майсур. Там он обратил в свою веру местного раджу, который принял имя Вишну Вердана.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GHAZNAVID_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Эта мусульманская династия постоянно отправляла своих воинов на завоевание Индии, чем причиняла большой ущерб джайнистам, индуистам и всему немусульманскому населению этого региона.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GHAZNAVID_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>В XI в. летописец Газневидов Абу Наср аль-Утби писал, что султан отправляется в Индию, чтобы очистить эту землю от ужасных иноземных идолов и принести индусам истинную веру.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GHAZNAVID_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>За столетие до этого Махмуд Газневи пытался применить другой, не такой простой подход к индусам. Махмуд правил с 998 по 1030 гг. и был известен своей веротерпимостью. При нем завоеванными индийскими территориями правили наместники-индусы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GHAZNAVID_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Но веротерпимость не означает мягкотелости. Махмуд 17 раз вторгался в Индию. В 1027 г. он разорил храм в Сомнатхе и убил в сражении более 5000 индусов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PALA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>За четыреста лет существования династии Пала ее правители показали себя истинными защитниками буддизма. Их покровительство позволило буддизму Махаяны во второй половине I тысячелетия распространиться по всей Юго-Восточной Азии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PALA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Распространение буддизма во многом было обусловлено высочайшей поддержкой монаха Атиши. Он родился в 982 г. в семье аристократов и получил имя Чандрагарбха.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PALA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Приняв монашество, он в 1013 г. отправился в королевство Шривиджая, где учился 12 лет. В Индию он вернулся в 1025 г., скорее всего, из-за нарастающей политической нестабильности в Шривиджае.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PALA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Он получил большую известность (благодаря своим странствиям и поддержке семьи) во время пребывания в Тибете, где проповедовал среди местного населения буддизм Махаяны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TUFAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Когда уйгуры в 803 г. отвоевали Турфан у тибетцев, то они, чтобы укрепить свои позиции в этом регионе, сделали местную религию своей государственной. Временно.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TUFAN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Буддизм сохранял свое значение по причине близкого соседства с Китаем и расположения Турфана на Великом Шелковом пути. Но распространенный среди соседей-монголов ислам в большой мере повлиял на религиозное сознание уйгуров и турфанцев.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TUFAN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>В X в. многие завоеватели начали присматриваться к Турфану. Среди них был и султан Кашгара Сатук Богра-хан, который в течение года вел религиозные войны с киданями.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TUFAN_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Ислам утвердился здесь в период династии Юань (1260-1368). Мусульмане этого региона жили в относительном мире с соседями и даже служили при дворе китайского императора.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DALI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Жители горного царства Дали унаследовали тантрический буддизм от династии Тан. С 937 по 1253 гг. н. э. они распространяли свою религию по всему региону, пользуясь своим привилегированным положением в южной части Великого шелкового пути.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DELHI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Этот древний город, по некоторым сведениям, был основан около 3500 лет назад. Он стал домом для многих религий: зороастризма, буддизма, индуизма, ислама и других. Случались здесь и религиозные конфликты – например, когда основатель Мамлюкской династии султан Кутб ад-дин Айбак начал массовое строительство мечетей и приказал снести 27 джайнистских храмов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GAOCHANG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В IX в. в Гаочан пришли тюрки-уйгуры. Процветающий оазис в пустыне привлекал всех: буддистов, манихеев, несторианцев... Осев здесь, уйгуры в период государства Кочо приняли буддизм и начали строительство храмов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GOA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ислам появился в Гоа в XI в. вместе с арабскими торговцами, с одобрения местных индуистских правителей. Но веротерпимость длилась недолго – в XIII в. исламские завоеватели Дели принесли с собой более жесткие порядки, и на протяжении следующего столетия ислам был здесь единственной разрешенной религией.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HEIAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Основными статьями импорта из Китая в этот период были: чай и две конкурирующих школы буддизма. Эгалитарное течение Тэндай воплотилось в храме Энряку-дзи, а школа Сингон утвердилась при императорском дворе, объединив религию и государство.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KAESONG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ван Гон во время своего правления (918-943 гг.) всячески поддерживал буддизм в Кэсоне. В новой столице Гэгён по его приказу было построено 10 монастырей. Наследники от него не отставали: они построили 70 монастырей и на 80 тысячах деревянных табличек вырезали весь корпус буддийских текстов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KASHGAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Родной оазис кашгарских уйгуров находился на Великом шелковом пути и был важным культурным, общественным и торговым центром для торговцев всего региона. С другой стороны, выгодное расположение делало его лакомым кусочком для самых разных врагов. Начиная с 711 г. его в течение трех веков несколько раз атаковали мусульманские завоеватели.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KHOTAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В доисламский период Хотан был буддийским государством и союзником Китая. Союзные отношения подкреплялись династическими браками. Но приблизительно в 1000 г. Хотан ввязался в затяжную и кровопролитную войну с Кашгаром и был завоеван исламским правителем Юсуфом Кадыр-ханом.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KUCHA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Уйгурские правители государства Кучар поддерживали тесные дипломатические и религиозные связи с Китаем династии Сун. Эти связи укрепились в XI в. при султанах-завоевателях династии Караханидов, которые в 1072 и 1096 г. преподносили в дар китайским правителям нефритовые изваяния Будды.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LAMPHUN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Согласно легендам, буддийские правители Лампхуна и Лопбури после войн 1130 и 1150 г. договорились о «дхамма-юддхе» – священной постройке на поле боя около Ват Чамтхеви. Возможно, легенды не обманывают, так как на этом месте до сих пор сохранились остатки храмов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LAMURI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Сведения об истории этого государства в период X-XI вв. запутанны и противоречивы. Индийские и арабские торговцы сообщают, что этот независимый султанат со временем оказался в сфере влияния буддийского царства Шривиджая.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MALABANG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>До колонизации Малабанга здесь жили разные этнические группы, в том числе маранао. Это племя озерных жителей приняло ислам еще во времена султана Шарифа Мухаммеда Кабунгсуана, правителя Магинданао. Он в 1475 г. принес ислам из Джохора на территорию современных Филиппин.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PAGAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>После объединения Бирмы, король Аноратха в 1057 г. переселил покоренных монов из Татона в Паганское царство и тем самым способствовал распространению буддизма тхеравады среди населения. Расцвет буддизма продолжался до монгольского вторжения в 1301 г.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PALEMBANG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В 671 г. китайский монах-буддист Ицзин увлекся буддизмом Палембанга, заметив позднее, что он практически идентичен индийскому буддизму. Ицзин советовал будущим китайским паломникам перед поездкой в Индию посетить Шривиджаю для приобщения к правильным практикам.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SAMARKAND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Начиная с VIII в. Самарканд был одной из митрополий несторианства. Христианские традиции в этом регионе были настолько сильны, что один из наследников Чингисхана Ильчигидай-хан крестился и разрешил исповедовать католичество.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SOMNATH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>О попытках разрушить шиваистский храм в Сомнатхе нам известно больше, чем о его строительстве. В 1027 г. второй храм был уничтожен султаном Махмудом Газневи, после чего вновь восстановлен в 1169 г.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_THANG_LONG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ли Тхай-то основал новую столицу Вьетнама Тханглонг и сделал буддизм государственной религией. Его религиозное рвение было велико, и он призывал жителей становиться буддийскими священниками. В 1016 г. только в столице по меньшей мере 1000 человек последовали его призыву.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TEMASEK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В Темасеке сменялись правители и религии. Маджапахит и Сиам, по очереди владевшие этим регионом, принесли сюда буддизм. «Малайские родословия» сообщают, что в 1409 г. эти земли захватил Парамешвара, который принял ислам и распространил его на весь полуостров Малакку.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TONDO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Индуизм и буддизм пришли в Тондо в 900-х гг. По крайней мере, к этому периоду относится первое письменное свидетельство – медная табличка из Лагуны, в которой упоминается буддийско-индуистский лунный календарь. В XIV в. на смену обеим религиям пришел ислам.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TURPAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>После завоевания Турфана в 762 г. уйгуры под влиянием проповедников объявили манихейство государственной религией и остались единственным в мировой истории манихейским государством.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_UJJAIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>До разграбления Удджайна в 1235 г. Делийским султанатом этот город считался важным центром индуизма. Настолько важным, что многие верили, что когда боги дрались за сосуд с нектаром бессмертия, одна капля упала на Удджайн и освятила его.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VIJAYA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>К концу XI в. город Виджайя стал важным политическим и культурным центром, что привлекло внимание кхмерского короля Джайавармана VII к этому населенному индуистами-тямами региону. В первое десятилетие XIII в. Виджайя оказалась под влиянием кхмеров – последователей буддизма Махаяны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_XINGQING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Тангуты составляли большинство населения региона Синцин в центральной части Западного Ся до монгольского нашествия в 1227 г. Они испытывали большое влияние со стороны буддийской империи Сун, но сохраняли свои традиционные шаманские практики.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ZHONGJING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Построенная в 1189 г. Белая пагода в Чжунцзине – не только буддийский памятник. Некоторые ее элементы – например, фигуры Гуаньинь в белых одеждах – могут свидетельствовать о том, что строители находились под влиянием шаманизма и культа богов домашнего очага.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BANDAR_BRUNEI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Бандар-Бруней – столица султаната Бруней, который находится на острове Борнео. В VII в. малайские поселенцы основали на этом месте порт. Султанат достиг пика могущества в XIV-XV веках.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_QUECHANG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Цюэчан («контролируемая торговая площадка») – так в императорском Китае назывался пункт, через который должна была проходить вся международная торговля для контроля и обложения налогами. Цюэчаны появились в 1142 г. в период династии Цзинь, они располагались вдоль основных морских и сухопутных торговых путей. Но, невзирая на все усилия правительства, торговцам было выгоднее пользоваться услугами неофициальных перевозчиков, не плативших налоги в казну (иначе говоря, контрабандистов).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_NOBLE_PATH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Благородный восьмеричный путь – это сформулированный Сиддхартхой Гаутамой способ достижения просветления, срединный путь между крайностями аскетизма и гедонизма. Качества, которые должен развивать в себе ищущий просветления человек, таковы: правильное воззрение, правильное намерение, правильная речь, правильное поведение, правильный образ жизни, правильное усилие, правильное памятование и правильное сосредоточение.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_JUNK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Джонка – это один из традиционных китайских морских кораблей. Джонку легко узнать по общим для этого класса признакам: прямоугольные паруса, укрепленные бамбуковыми планками, приподнятый нос, плоское дно и массивный руль, который заменяет киль. Джонка – один из первых кораблей, у которых появился разделенный на отсеки водонепроницаемый трюм, что повысило общую прочность корпуса. Название, вероятно, происходит от португальского «junco» или малайского «djong», что является искажением южноминьского слова «chûn» («судно»).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_DEVOTION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Благочестие – это соблюдение религиозных предписаний, оно может характеризовать и отдельного человека, и целые культуры. Религиозная практика является неотъемлемой частью таких культур, объединяющих людей во имя некоей высшей цели. И хотя благочестие направляет людей к высоким идеалам, у него есть вполне практические позитивные последствия для объединенного общей целью народа.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_THALASSOCRACY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Талассократия – это политическая организация, основой могущества которой является морской флот. Впервые этот термин использовали греки в отношении минойцев, с помощью огромного торгового и военного флота контролировавших побережье Эгейского моря. Талассократия может существовать при любом политическом устройстве – будь то монархия, олигархия или власть торговых гильдий, – но ее отношения с внешним миром почти целиком определяются силой ее флота. Талассократия – это далеко не всегда мирное купеческое государство. Многие талассократии были весьма агрессивны.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_THALASSOCRACY_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Империя Маджапахит была могущественной талассократией, контролировавшей торговлю пряностями и морские пути между Индией и Китаем. Португалия и Голландия были крупнейшими европейскими талассократиями, флот позволял им проводить свою политику далеко за пределами их государственных границ. В современную эпоху морские соглашения ограничили размеры некогда огромных кораблей (содержание которых все равно обходилось слишком дорого). Период колониализма закончился, необходимость в содержании огромных флотов исчезла, и талассократии ушли в прошлое.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_COMPASS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Знания и навыки древних мореходов бесценны, но ничто не сравнится с простым и качественным устройством, позволяющим с большой точностью проложить курс корабля.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_PAPERMAKING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Бумага обладает целым рядом преимуществ перед другими материалами, используемыми для письма. Она легче, чем глиняная табличка, и дешевле в изготовлении, чем пергамент. Кроме того, ее можно съесть, если на экзамене застукали со шпаргалкой.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_LIBERALISM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Милосердие – это и любовь к Богу, и любовь к ближнему, выражающаяся в добрых делах (например, в раздаче нуждающимся милостыни и хлеба). Добрые дела обычно рассматриваются в этом контексте как внешние проявления божественной любви, поэтому во многих религиях милосердию и благотворительности отводится очень важное место.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SANGHA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Сангха – это религиозное братство буддистов, состоящее из монахов, монахинь и мирян, которые находятся на содержании у общины.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_PRACTITIONER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Приверженец – это человек, исповедующий определенную религию и, возможно, прошедший специальное духовное обучение.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_ALCHEMIST_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Алхимия – древняя наука, часто включавшая в себя элементы эзотерических и мистических практик. Эти практики позволяют достичь удивительных озарений, но малопригодны для описания химических реакций.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Даже самым благочестивым прихожанам может быть полезно присутствие наставника, совет которого придаст еще большую глубину молитве и медитации.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_MASTER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Духовные подвиги превратили этих людей в живой пример для каждого верующего. Их мы называем мастерами.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SAGE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Мудрец – это тот, чьи познания намного шире, чем у обычного человека. Мудрец – это ходячая библиотека обширных и глубоких знаний.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_TEACHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Веру нужно изучать, и роль учителя в этом процессе чрезвычайно важна, поскольку лишь через обучение новообращенные могут обрести спасение.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_INTERPRETER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Зачастую миссионеры первыми вступают в длительный контакт с неизвестными цивилизациями, и им приходится самостоятельно изучать местные языки, чтобы ежедневно проповедовать свою веру.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_PROPAGATOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Задача миссионера – обращать в свою веру иноверцев. Для этого он распространяет священные писания или проповедует толпе и порой обращает в свою веру целые народы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_TRAVELER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Многие миссионеры чувствуют в себе призвание нести истинную веру в самые дальние уголки планеты. Они оставляют родной дом и отправляются в полные опасностей дальние края, не ища иной награды, кроме благодарности новообращенных.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WALK_ON_WATER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Религиозное рвение иных людей не остановят никакие препятствия. Если на пути оказались горы – они их преодолеют; если океанские глубины – это им тоже не помеха.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_PROSELYTIZER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Некоторые монашеские ордена состоят из опытных проповедников, которые умеют доходчиво разъяснить основы веры хоть неграмотному крестьянину, хоть великому императору.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_TRANSLATOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Хранители священных текстов на разных языках несут ответственность за их сохранность и распространение, и владение языками в этом деле особенно приветствуется.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_MILITARY_POLICIES_NAME" Language="en_US">
+			<Text>Рэлігійныя курсы</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_DEBATER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Пытанні тэалогіі належыць старанна вывучаць, каб не спакушаць вернікаў ерассю. Хіба тэалагічныя дыскусіі – не годны занятак для святара?</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GARRISON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Абарона тэрыторыі і абарона веры часцяком ускладаецца на адных і тых жа святароў: вайсковых капеланаў ці чальцоў духоўна-рыцарскіх ордэнаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_ORATOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Майстэрства рыторыкі вывучаюць не толькі ў свецкіх школах. Красамоўства прыемна не толькі людзям, але і багам.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CUSTOM_1_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Шиваизм – это одно из основных направлений индуизма, традиция почитания Шивы как верховного божества. Шиваизм возник в Индии в период между II в. до н. э. и II в. н. э. в виде школы Пашупата и распространился по всей Юго-Восточной Азии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CUSTOM_2_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Понятие дхармы присутствует во всех ведических религиях. Оно менялось со временем, пока в индуизме не стало главным организующим началом человечества. Дхарма – это совокупность правил и норм, регулирующих поведение, ритуалы, законы и мораль общества. Соответствовать дхарме – значит постичь истинный смысл своей жизни.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CUSTOM_3_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Тхеравада («Учение старейших») – это направление буддизма, основанное на палийском каноне (древнейшем собрании буддийских текстов). Его последователи утверждают, что являются наследниками самых первых буддийских монахов. Это учение распространено преимущественно в Юго-Восточной Азии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CUSTOM_4_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Махаяна («Великая колесница») – одно из двух основных направлений буддизма, самая распространенная буддийская традиция современности. В махаяне уделяется большое внимание космологии, ритуалам, метафизике и универсальной этике. Из Махаяны выросло множество буддийских школ, в том числе дзен-буддизм (известный в Китае как «чань», а в Корее – как «сон»).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CUSTOM_5_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ваджраяна («Громовая (или Алмазная) Колесница») – это тантрическое направление в буддизме, наибольшее распространение получившее в Тибете. От Махаяны отличается тем, что утверждает возможность достижения просветления за одну человеческую жизнь. Характерные черты Ваджраяны – развитое изобразительное искусство (в том числе мандалы) и эзотерические практики.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_SCENARIO_MARITIME_NAME" Language="en_US">
+			<Text>Прыморскі</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_1" Language="en_US">
+			<Text>Нарбу|Нарбу|Нарбу|Нарбу|Нарбу|Нарбу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_2" Language="en_US">
+			<Text>Пхунцок|Пхунцка|Пхунцку|Пхунцка|Пхунцкам|Пхунцку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_3" Language="en_US">
+			<Text>Рабтэн|Рабтэна|Рабтэну|Рабтэна|Рабтэнам|Рабтэну</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_4" Language="en_US">
+			<Text>Ташы|Ташы|Ташы|Ташы|Ташы|Ташы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_5" Language="en_US">
+			<Text>Вангчук|Вангчука|Вангчуку|Вангчука|Вангчукам|Вангчуку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_1" Language="en_US">
+			<Text>Дава|Давы|Даве|Даву|Давай|Даве</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_2" Language="en_US">
+			<Text>Джунгней|Джунгней|Джунгней|Джунгней|Джунгней|Джунгней</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_3" Language="en_US">
+			<Text>Пема|Пемы|Пеме|Пему|Пемай|Пеме</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_4" Language="en_US">
+			<Text>Рынчэн|Рынчэн|Рынчэн|Рынчэн|Рынчэн|Рынчэн</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_5" Language="en_US">
+			<Text>Цэрынг|Цэрынг|Цэрынг|Цэрынг|Цэрынг|Цэрынг</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_SCENARIO_CUSTOM1_NAME" Language="en_US">
+			<Text>Шываізм|шываізму|шываізму|шываізм|шываізмам|шываізме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_SCENARIO_CUSTOM2_NAME" Language="en_US">
+			<Text>Індуізм|індуізму|індуізму|індуізм|індуізмам|індуізме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_SCENARIO_CUSTOM3_NAME" Language="en_US">
+			<Text>Тхеравада|Тхеравады|Тхеравадзе|Тхераваду|Тхеравадай|Тхеравадзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_SCENARIO_CUSTOM4_NAME" Language="en_US">
+			<Text>Махаяна|Махаяны|Махаяне|Махаяну|Махаянай|Махаяне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_SCENARIO_CUSTOM5_NAME" Language="en_US">
+			<Text>Ваджраяна|Ваджраяны|Ваджраяне|Ваджраяну|Ваджраянай|Ваджраяне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_DANA_NAME" Language="en_US">
+			<Text>Дана|Даны|Дане|Дану|Данай|Дане</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_LINGA_NAME" Language="en_US">
+			<Text>Лінгам|Лінгама|Лінгаму|Лінгам|Лінгамам|Лінгаме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_VAJRAYANA_STUPA_NAME" Language="en_US">
+			<Text>Ваджраяна-ступа|Ваджраяна-ступы|Ваджраяна-ступе|Ваджраяна-ступу|Ваджраяна-ступай|Ваджраяна-ступе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_MAHAYANA_STUPA_NAME" Language="en_US">
+			<Text>Махаяна-ступа|Махаяна-ступы|Махаяна-ступе|Махаяна-ступу|Махаяна-ступай|Махаяна-ступе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_YOGA_NAME" Language="en_US">
+			<Text>Ёга|ёгі|ёзе|ёгу|ёгай|ёзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SCENARIO_LIGHTHOUSE_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_FOOD] ежы на ўсіх клетках узбярэжжа ў гэтым горадзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SCENARIO_TEMPLE_DESCRIPTION" Language="en_US">
+			<Text>Створаныя тут рэлігійныя юніты атрымаюць дадатковае падвышэнне.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SCENARIO_SHIPYARD_DESCRIPTION" Language="en_US">
+			<Text>Дадатковая [ICON_Production] вытворчасць, роўная бонусу за суседства з гаванню.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SCENARIO_MOSQUE_DESCRIPTION" Language="en_US">
+			<Text>Створаныя тут місіянеры і манахі атрымаюць +1 да шырання рэлігіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SCENARIO_PAGODA_DESCRIPTION" Language="en_US">
+			<Text>Створаныя тут святары атрымаюць +1 дзеянне «Ачысціць ад ерасі». +1 зарад лячэння ў навучаных тут гуру.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SCENARIO_MAHABODHI_TEMPLE_DESCRIPTION" Language="en_US">
+			<Text>Пасля завяршэння задарма адкрывае 2 выпадковыя грамадскія інстытуты. Місіянеры і манахі атрымаюць +1 да шырання рэлігіі.[NEWLINE][NEWLINE]Можна пабудаваць толькі ў лясах і трапічных лясах.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SCENARIO_ANGKOR_WAT_DESCRIPTION" Language="en_US">
+			<Text>Пасля пабудовы гэта дзіва свету дае +3 [ICON_ENVOY] амбасадары і +1 [ICON_Citizen] насельніцтва ўва ўсіх існых гарадах. +1 [ICON_Housing] жытла ўва ўсіх гарадах. [NEWLINE][NEWLINE]Можна пабудаваць толькі поруч з акведукам.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_SCENARIO_POTALA_PALACE_DESCRIPTION" Language="en_US">
+			<Text>+1 універсальнае вочка палітычнага курса.[NEWLINE][NEWLINE]Можна пабудаваць толькі на ўзгорках.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_Production] вытворчасці ў [ICON_Capital] сталіцы падчас стварэння юнітаў</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_Production] вытворчасці для кожнага цэнтра камерцыі падчас стварэння юнітаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS" Language="en_US">
+			<Text>Дадаткова +2 [ICON_Production] вытворчасці для кожнага цэнтра камерцыі падчас стварэння юнітаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_CULTURE] культуры ў [ICON_Capital] сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_CULTURE] культуры ў кожным цэнтры горада.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS" Language="en_US">
+			<Text>Дадаткова +2 [ICON_CULTURE] культуры ў кожным цэнтры горада.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_NAME" Language="en_US">
+			<Text>Прыморскі горад-дзяржава</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_SMALL_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_FOOD] ежы ў [ICON_Capital] сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_FOOD] ежы ў кожнай гавані.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_LARGE_INFLUENCE_BONUS" Language="en_US">
+			<Text>Яшчэ +2 [ICON_FOOD] ежы ў кожнай гавані.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_Production] вытворчасці ў [ICON_Capital] сталіцы падчас будавання дзіваў свету, будынкаў і раёнаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_Production] вытворчасці для кожнага акведука падчас будавання дзіваў свету, будынкаў і раёнаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS" Language="en_US">
+			<Text>Дадаткова +2 [ICON_Production] вытворчасці для кожнага акведука падчас будавання дзіваў свету, будынкаў і раёнаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_DALI_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Далі</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_DELHI_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Дэлі</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_GAOCHANG_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Гаачана</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_GOA_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Гоа</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_HEIAN_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Хэяна</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_KAESONG_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Кэсона</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_KASHGAR_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Кашгара</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_KHOTAN_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Хатана</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_KUCHA_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Кучара</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_LAMPHUN_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Лампхуна</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_LAMURI_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Ламуры</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_MALABANG_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Малабанга</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_PAGAN_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Пагана</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_PALEMBANG_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Палембанга</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_SAMARKAND_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Самарканда</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_SOMNATH_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Самнатха</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_THANG_LONG_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Тханглонга</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_TEMASEK_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Тэмасека</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_TONDO_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Тонда</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_TURPAN_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Турфана</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_UJJAIN_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Уджайна</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_VIJAYA_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Віджаі</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_XINGQING_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Сінцына</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_ZHONGJING_TRAIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Чжунцзіна</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_BANDAR_BRUNEI_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы раёны на ўзбярэжжы ці каля яго даюць +2 [ICON_FAITH] веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_DALI_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 да [ICON_Amenities] здаволення ў гарадах з цэнтрам камерцыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_DELHI_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы [ICON_TradeRoute] гандлёвыя шляхі да кожнага горада-дзяржавы даюць +2 [ICON_FAITH] веры за кожны спецыялізаваны раён у выточным пункце.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_GAOCHANG_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 да [ICON_Amenities] здаволення ў гарадах з цэнтрам камерцыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_GOA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы раёны на ўзбярэжжы ці каля яго даюць +2 [ICON_FAITH] веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_HEIAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы раёны на ўзбярэжжы ці каля яго даюць +2 [ICON_FAITH] веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_KAESONG_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы [ICON_TradeRoute] гандлёвыя шляхі да кожнага горада-дзяржавы даюць +2 [ICON_FAITH] веры за кожны спецыялізаваны раён у выточным пункце.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_KASHGAR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы [ICON_TradeRoute] гандлёвыя шляхі да замежных гарадоў прыносяць +1 [ICON_FAITH] веры за кожны рэдкі рэсурс у пункце прызначэння.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_KHOTAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 да [ICON_Amenities] здаволення ў гарадах з цэнтрам камерцыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_KUCHA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы [ICON_TradingPost] гандлёвыя пасты ў замежных гарадах даюць +1 ачко [ICON_CULTURE] культуры вашым [ICON_TradeRoute] гандлёвым шляхам, што праходзяць праз ці ідуць да гэтых гарадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_LAMPHUN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Бонусныя рэсурсы працуюць як рэдкія і даюць па 1 адз. [ICON_Amenities] здаволення на кожны тып рэсурсаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_LAMURI_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы [ICON_TradeRoute] гандлёвыя шляхі да кожнага горада-дзяржавы даюць +2 [ICON_FAITH] веры за кожны спецыялізаваны раён у выточным пункце.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_MALABANG_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы [ICON_TradeRoute] гандлёвыя шляхі да кожнага горада-дзяржавы даюць +2 [ICON_FAITH] веры за кожны спецыялізаваны раён у выточным пункце.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_PAGAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы [ICON_TradeRoute] гандлёвыя шляхі да кожнага горада-дзяржавы даюць +2 [ICON_FAITH] веры за кожны спецыялізаваны раён у выточным пункце.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_PALEMBANG_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 да [ICON_Amenities] здаволення ў гарадах з цэнтрам камерцыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_SAMARKAND_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 да [ICON_Amenities] здаволення ў гарадах з цэнтрам камерцыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_SOMNATH_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы [ICON_TradeRoute] гандлёвыя шляхі да кожнага горада-дзяржавы даюць +2 [ICON_FAITH] веры за кожны спецыялізаваны раён у выточным пункце.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_THANG_LONG_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы раёны на ўзбярэжжы ці каля яго даюць +2 [ICON_FAITH] веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_TEMASEK_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Бонусныя рэсурсы працуюць як рэдкія і даюць па 1 адз. [ICON_Amenities] здаволення на кожны тып рэсурсаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_TONDO_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы раёны на ўзбярэжжы ці каля яго даюць +2 [ICON_FAITH] веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_TURPAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы [ICON_TradeRoute] гандлёвыя шляхі да кожнага горада-дзяржавы даюць +2 [ICON_FAITH] веры за кожны спецыялізаваны раён у выточным пункце.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_UJJAIN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Бонусныя рэсурсы працуюць як рэдкія і даюць па 1 адз. [ICON_Amenities] здаволення на кожны тып рэсурсаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_VIJAYA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы [ICON_TradeRoute] гандлёвыя шляхі да кожнага горада-дзяржавы даюць +2 [ICON_FAITH] веры за кожны спецыялізаваны раён у выточным пункце.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_XINGQING_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Бонусныя рэсурсы працуюць як рэдкія і даюць па 1 адз. [ICON_Amenities] здаволення на кожны тып рэсурсаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_ZHONGJING_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Вашы [ICON_TradingPost] гандлёвыя пасты ў замежных гарадах даюць +1 ачко [ICON_CULTURE] культуры вашым [ICON_TradeRoute] гандлёвым шляхам, што праходзяць праз ці ідуць да гэтых гарадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_PRINTING" Language="en_US">
+			<Text>Ад дрэва – да паперы. Ад паперы – да старонак. Ад старонак – да кнігі. Ад кнігі – да розуму. Ад розуму – да сэрца.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_CELESTIAL_NAVIGATION_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Movement] АР пагружаным на борт юнітам.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCENARIO_FUTURE_CIVIC_DESCRIPTION" Language="en_US">
+			<Text>Можна скончыць некалькі разоў і павялічыць лік [ICON_Envoy] амбасадараў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_GUILDS" Language="en_US">
+			<Text>Нашы гарады квітнеюць, і гэты росквіт збліжае аднадумцаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING" Language="en_US">
+			<Text>Пабудуйце 3 храмы.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_ENGINEERING" Language="en_US">
+			<Text>Стандартызацыя мер даўжыні вельмі важная для мірскіх спраў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_THEOLOGY" Language="en_US">
+			<Text>Стварыце 3 місіянеры.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_THEOLOGY" Language="en_US">
+			<Text>У нас з'явіліся місіянеры, а з імі – і патрэба ў рэлігійнай тэорыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_MACHINERY" Language="en_US">
+			<Text>Пабудуйце 2 акведукі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_MACHINERY" Language="en_US">
+			<Text>«Уявіце сабе вадзяное кола, - кажа наш інжынер, - ад якога можа працаваць усе, што заўгодна».</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_FEUDALISM" Language="en_US">
+			<Text>Валодайце горадам з насельніцтвам 14.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_FEUDALISM" Language="en_US">
+			<Text>Насельніцтва нашых гарадоў расце. Давайце заканадаўча замацуем абавязкі кожнага – ад уладніка да прастачыны.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_PAPERMAKING" Language="en_US">
+			<Text>Стварыце 3 [ICON_TradeRoute] гандлёвыя шляхі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_PAPERMAKING" Language="en_US">
+			<Text>А што, няма лепшага матэрыялу для ўліку караванаў, чым гліняныя чарапкі?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_CIVIL_SERVICE" Language="en_US">
+			<Text>Станьце сюзерэнам адначасна трох гарадоў-дзяржаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_CIVIL_SERVICE" Language="en_US">
+			<Text>Хочаце, каб заміж вас прыёмам дэлегацый займалася цэлае войска сакратароў?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_BANKING" Language="en_US">
+			<Text>Пабудуйце 3 рынкі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_BANKING" Language="en_US">
+			<Text>Шлях да бога важней золата, але золата – гэта таксама прыемна.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_COMPASS" Language="en_US">
+			<Text>Пабудуйце 3 маякі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_COMPASS" Language="en_US">
+			<Text>Увасабленне спрадвечнай мары марахода – весці карабель на святло нябачнага нябеснага маяка.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_DIVINE_RIGHT" Language="en_US">
+			<Text>Пашырце сваю рэлігію ў 15 гарадах.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_DIVINE_RIGHT" Language="en_US">
+			<Text>Якія яшчэ патрэбны довады праўдзівасці вашай веры, калі на вас накіравана столькі позіркаў?</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_MONARCHY_DESCRIPTION" Language="en_US">
+			<Text>Сталіца атрымае +3 [ICON_FAITH] веры, +1 [ICON_CULTURE] культуры, +1 [ICON_PRODUCTION] вытворчасці і +1 [ICON_FOOD] ежы.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_THALASSOCRACY_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_FAITH] веры за кожную рыбацкую лодку.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_THEOCRACY_DESCRIPTION" Language="en_US">
+			<Text>Усе рэлігійныя юніты атрымаюць здольнасць «Пакутнік»: калі юніт гіне ў тэалагічнай баталіі, з'яўляецца [ICON_GreatWork_Relic] рэліквія.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SCENARIO_CAMP_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам будаваць лагеры.[NEWLINE][NEWLINE]+1 [ICON_FOOD] ежы. Можна будаваць толькі на пэўных рэсурсах.[NEWLINE][NEWLINE]Пасля пабудовы на рэдкіх рэсурсах горад атрымае гэтыя рэсурсы.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SCENARIO_MINE_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам будаваць рудні.[NEWLINE][NEWLINE]+1 [ICON_Production] вытворчасці. -1 прэстыжу. Можна будаваць толькі на ўзгорках ці на пэўных рэсурсах.[NEWLINE][NEWLINE]Пасля пабудовы на рэдкіх рэсурсах горад атрымае гэтыя рэсурсы.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SCENARIO_PASTURE_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам ствараць пашы.[NEWLINE][NEWLINE]+1 [ICON_Production] вытворчасці. Можна будаваць толькі на пэўных рэсурсах.[NEWLINE][NEWLINE]Пасля пабудовы на рэдкіх рэсурсах горад атрымае гэтыя рэсурсы.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SCENARIO_PLANTATION_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам ствараць плантацыі.[NEWLINE][NEWLINE]+1 [ICON_FOOD] ежы. Можна будаваць толькі на пэўных рэсурсах.[NEWLINE][NEWLINE]Пасля пабудовы на рэдкіх рэсурсах горад атрымае гэтыя рэсурсы.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_SCENARIO_KAMPUNG_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам будаваць кампанг.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] вытворчасці і +1 [ICON_Housing] жытла. +1 [ICON_FOOD] ежы за кожнае суседняе рыбацкае судна. Можна будаваць толькі на ўзбярэжжы ці возеры поруч з марскімі рэсурсамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_URBAN_PLANNING_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_FAITH] веры ўва ўсіх гарадах.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_CARAVANSARIES_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_FAITH] веры за міжнародныя [ICON_TradeRoute] гандлёвыя шляхі.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_NOBLE_PATH_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_FAITH] веры за ўнутраныя [ICON_TradeRoute] гандлёвыя шляхі.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_CORVEE_DESCRIPTION" Language="en_US">
+			<Text>Падчас будавання дзіваў свету [ICON_Production] вытворчасць павялічваецца на 15%.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_DEVOTION_DESCRIPTION" Language="en_US">
+			<Text>Падчас стварэння рэлігійных юнітаў [ICON_Production] вытворчасць павялічваецца на 25%.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_RAJ_DESCRIPTION" Language="en_US">
+			<Text>+6 [ICON_Faith] за кожны горад-дзяржаву, сюзерэнам якога вы з'яўляецеся.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_MERITOCRACY_DESCRIPTION" Language="en_US">
+			<Text>Кожны горад атрымае +1 [ICON_FAITH] веры за кожны спецыялізаваны раён у ім.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_MERCHANT_CONFEDERATION_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_FAITH] веры за кожнага вашага [ICON_Envoy] амбасадара ў гарадах-дзяржавах.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_QUECHANG_DESCRIPTION" Language="en_US">
+			<Text>+100% [ICON_PRODUCTION] вытворчасці ад будынкаў у раёне «Цэнтр камерцыі».</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_TRADE_CONFEDERATION_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_FAITH] веры ад усіх [ICON_TradeRoute] гандлёвых шляхоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCENARIO_JUNK_DESCRIPTION" Language="en_US">
+			<Text>Падвойвае [ICON_FOOD] ежу і [ICON_PRODUCTION] вытворчасць ад будынкаў у раёне «Гавань».</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_HARBOR_DESCRIPTION" Language="en_US">
+			<Text>Унутрыраённы праект. Генеруе ачкі [ICON_CULTURE] культуры на кожным ходзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION" Language="en_US">
+			<Text>Унутрыраённы праект. Генеруе ачкі [ICON_CULTURE] культуры на кожным ходзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION" Language="en_US">
+			<Text>Унутрыраённы праект. Генеруе вялікую колькасць [ICON_FAITH] веры на кожным ходзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_GOD_OF_THE_OPEN_SKY_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_FOOD] ежы ад паш.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_STONE_CIRCLES_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Faith] веры і +2 [ICON_Production] вытворчасці ад каменяломняў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_DANA_DESCRIPTION" Language="en_US">
+			<Text>Кожны свіран дае +3 [ICON_FAITH] веры. +1 [ICON_Amenities] да здаволення ў кожным горадзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_NUSANTARA_DESCRIPTION" Language="en_US">
+			<Text>Клеткі ўзбярэжжа і азёр даюць невялікі бонус суседняму святому месцу.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_LINGA_DESCRIPTION" Language="en_US">
+			<Text>Можна купляць будынкі ў цэнтры камерцыі і ў гавані за [ICON_Faith] веру.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_VAJRAYANA_STUPA_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаваць ступы (+3 [ICON_Faith] веры, +1 [ICON_Amenities] здаволення). Даступна пасля адкрыцця друкарства.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_MAHAYANA_STUPA_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаваць ступы (+3 [ICON_Faith] веры, +1 да [ICON_Amenities] здаволенню). Даступна пасля адкрыцця друкарства.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_STEWARDSHIP_DESCRIPTION" Language="en_US">
+			<Text>Кожны цэнтр камерцыі (гавань) у горадзе з гэтай рэлігіяй дае +1 [ICON_FAITH] веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_KAMPUNG_DESCRIPTION" Language="en_US">
+			<Text>Вашы будаўнікі зараз могуць будаваць кампангі. Даступна пасля адкрыцця гільдый.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_MOSQUE_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаваць мячэці (+3 [ICON_Faith] веры). Місіянеры і манахі атрымаюць +1 да шырання рэлігіі. Даступна пасля адкрыцця друкарства.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_PAGODA_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаваць пагады (+3 [ICON_Faith] веры). Святары атрымаюць +1 дзеянне «Ачысціць ад ерасі», а гуру атрымаюць +1 зарад лячэння. Даступна пасля адкрыцця друкарства.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_WAT_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаванне ватаў (+3 [ICON_Faith] веры, +1 [ICON_Housing] жытла). Даступна пасля адкрыцця друкарства.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_HOLY_ORDER_DESCRIPTION" Language="en_US">
+			<Text>Кошт місіянераў і манахаў зніжаны на 30%.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SCENARIO_YOGA_DESCRIPTION" Language="en_US">
+			<Text>Можна купляць грамадзянскія юніты за ачкі [ICON_Faith] веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_ROUTE_SCENARIO_ANCIENT_ROAD_DESCRIPTION" Language="en_US">
+			<Text>Месціцца напачатку сцэнара. Павялічвае хуткасць [ICON_Movement] руху ўсіх юнітаў пры перасоўванні паміж клеткамі дарогі.</Text>
+		</Replace>
+		<Replace Tag="LOC_ROUTE_SCENARIO_MEDIEVAL_ROAD_DESCRIPTION" Language="en_US">
+			<Text>Месціцца напачатку сцэнара. Павялічвае хуткасць [ICON_Movement] руху ўсіх юнітаў пры перасоўванні паміж клеткамі дарогі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FOLLOWERS_NAME" Language="en_US">
+			<Text>Вернікі</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FOREIGN_CITIES_NAME" Language="en_US">
+			<Text>Замежныя гарады вернікаў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FAITH_NAME" Language="en_US">
+			<Text>Веры за ход</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_1" Language="en_US">
+			<Text>Правілы адмысловага сцэнара:</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_2" Language="en_US">
+			<Text>Няма дрэва тэхналогій, золата, дыпламатыі, турызму і навукі. Культурныя межы нязменныя. Асаблівасці няможна прыбраць.</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_3" Language="en_US">
+			<Text>Усе рэлігійныя юніты адразу атрымаюць 1 падвышэнне.</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_4" Language="en_US">
+			<Text>Ад горада-дзяржавы кожнага тыпу толькі адзін бонус сюзерэна дае дадатковы прыбытак ці [ICON_Amenities] здаволенне.</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_5" Language="en_US">
+			<Text>Гандляры не пракладаюць дарогі.</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_6" Language="en_US">
+			<Text>Ачкі налічаюцца за:</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_10" Language="en_US">
+			<Text>Калі вы адпраўляеце [ICON_ENVOY] амбасадара ў горад-дзяржаву, ён дадае ў гэтым горадзе-дзяржаве 300 адз. рэлігійнага ўплыву.</Text>
+		</Replace>
+		<Replace Tag="LOC_SLOT_SCENARIO_RELIGIOUS_NAME" Language="en_US">
+			<Text>Рэлігійны курс</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_BUILDER_DESCRIPTION" Language="en_US">
+			<Text>Будуе паляпшэнні і здабывае рэсурсы. Будаўнікоў можна скарыстаць 3 разы. Гэты паказнік можна павялічыць з дапамогай палітычнага курса.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_TRADER_DESCRIPTION" Language="en_US">
+			<Text>Пракладае і падтрымвае адзін [ICON_TradeRoute] гандлёвы шлях.</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_RELIGION_PRIEST_TT" Language="en_US">
+			<Text>Святары пазбаўляюцца ад наяўнасці чужых рэлігій на сваёй тэрыторыі і ўступаюць у тэалагічныя баталіі з юнітамі іншых рэлігій.</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_RELIGION_MONK_TT" Language="en_US">
+			<Text>Манахі навяртаюць [ICON_Citizen] гараджанаў у сваю рэлігію і ўступаюць у тэалагічныя баталіі з юнітамі іншых рэлігій.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_WALK_ON_WATER_DESCRIPTION" Language="en_US">
+			<Text>Няма штрафу да [ICON_Movement] руху падчас пераходу з мора ці ракі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_TRAVELER_DESCRIPTION" Language="en_US">
+			<Text>Паскораны [ICON_Movement] рух у лесе, трапічным лесе, на ўзгорках і ў балотах.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_PROPAGATOR_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Movement] да руху.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_PRACTITIONER_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Religion] да рэлігійнай сілы ў тэалагічнай баталіі на тэрыторыі іншай дзяржавы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_GARRISON_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Religion] да рэлігійнай сілы ў тэалагічнай баталіі, калі знаходзіцца ў раёне.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_ORATOR_DESCRIPTION" Language="en_US">
+			<Text>Можа яшчэ 2 разы ачысціць ад ерасі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_ALCHEMIST_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Religion] да рэлігійнай сілы ў тэалагічнай баталіі пры абароне ў лесе, трапічным лесе, на ўзгорках ці ў балотах.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_INTERPRETER_DESCRIPTION" Language="en_US">
+			<Text>Вы атрымаеце [ICON_FAITH] 75 веры, калі гэты юніт упершыню навяртае горад у вашу рэлігію.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_SANGHA_DESCRIPTION" Language="en_US">
+			<Text>Двухразовы бонус за атаку з фланга.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_GUIDE_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Movement] рух рэлігійным юнітам напачатку ходу ў межах дзвюх клетак.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_SAGE_DESCRIPTION" Language="en_US">
+			<Text>Рэлігійныя юніты ў межах 2 клетак атрымаюць +10 [ICON_Religion] да рэлігійнай сілы ў тэалагічнай баталіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_TEACHER_DESCRIPTION" Language="en_US">
+			<Text>Гэты юніт дзее як лекар і забяспечвае дадатковае лячэнне юнітам у межах 1 клеткі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_MASTER_DESCRIPTION" Language="en_US">
+			<Text>+1 зарад лячэння</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_SAGE_COMBAT_STRENGTH_AOE_RELIGIOUS_MODIFIER" Language="en_US">
+			<Text>+10 [ICON_Religion] да рэлігійнай сілы ў тэалагічнай баталіі за падвышэнне «Мудры» юніта гуру.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_SAGE_COMBAT_STRENGTH_AOE_RELIGIOUS" Language="en_US">
+			<Text>Рэлігійныя юніты ў межах 2 клетак атрымаюць +10 [ICON_Religion] да рэлігійнай сілы ў тэалагічнай баталіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_GUIDE_MOVEMENT_AOE_RELIGIOUS" Language="en_US">
+			<Text>+1 [ICON_Movement] рух рэлігійным юнітам напачатку ходу ў межах дзвюх клетак.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_STATES_SCENARIO_TYPE_MARITIME" Language="en_US">
+			<Text>Прыморскі</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVT_NO_MILITARY_SLOTS" Language="en_US">
+			<Text>У гэтага ўрада няма вочак рэлігійнага курса.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVT_FILTER_MILITARY" Language="en_US">
+			<Text>Рэлігія</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVT_POLICY_TYPE_MILITARY" Language="en_US">
+			<Text>Рэлігійныя курсы|рэлігійных курсаў|рэлігійным курсам|рэлігійныя курсы|рэлігійнымі курсамі|рэлігійных курсах</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_1_NAME" Language="en_US">
+			<Text>Архат</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_2_NAME" Language="en_US">
+			<Text>Анагамі</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_3_NAME" Language="en_US">
+			<Text>Сакадагамі</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_4_NAME" Language="en_US">
+			<Text>Сатапана</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_5_NAME" Language="en_US">
+			<Text>Патхаджана</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_1_QUOTE" Language="en_US">
+			<Text>Дасягнута прасвятленне</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_2_QUOTE" Language="en_US">
+			<Text>Той, хто не вернецца ў фізічны свет</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_3_QUOTE" Language="en_US">
+			<Text>Той, хто вернецца ў фізічны свет яшчэ адзін раз</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_4_QUOTE" Language="en_US">
+			<Text>Які ўвайшоў у плынь на шляху да прасвятлення</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_5_QUOTE" Language="en_US">
+			<Text>Звычайны чалавек</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_TRADE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_CULTURAL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCENARIO_INDUSTRIAL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_SCENARIO_RIVER_CULTURE" Language="en_US">
+			<Text>+{1_num} [ICON_CULTURE] культуры за суседства з ракой.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_SCENARIO_HARBOR_CULTURE" Language="en_US">
+			<Text>+{1_num} [ICON_CULTURE] культуры за суседства з гаванню.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_SCENARIO_CITY_CENTER_CULTURE" Language="en_US">
+			<Text>+{1_num} [ICON_CULTURE] культуры за суседства з цэнтрам горада.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_SCENARIO_DISTRICT_CULTURE" Language="en_US">
+			<Text>+{1_num} [ICON_CULTURE] культуры за {1_Num : plural 1?суседні раён; other?суседнія раёны;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_SCENARIO_SEARESOURCE_CULTURE" Language="en_US">
+			<Text>+{1_num} [ICON_CULTURE] культуры за суседства з {1_Num : plural 1?марскім рэсурсам; other?марскімі рэсурсамі;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_7" Language="en_US">
+			<Text>Вернікі вашай рэлігіі: {1_Followers} {1_Followers : plural 1?ачко; 2?ачкі; other?ачкоў;} за кожнага верніка гэтай рэлігіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_8" Language="en_US">
+			<Text>{2_Cities} {2_Cities : plural 1?ачко; 2?ачкі; other?ачкоў;} за ўсе замежныя гарады гэтай рэлігіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_9" Language="en_US">
+			<Text>Вера: {1_Faith} {2_Faith : plural 1?ачко; other?ачкоў;} за кожную адз. [ICON_FAITH] веры за [ICON_TURN] ход.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_PRIEST_NAME" Language="en_US">
+			<Text>Святар|святара|святару|святара|святаром|святару</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SCENARIO_MONK_NAME" Language="en_US">
+			<Text>Манах|манаха|манаху|манаха|манахам|манаху</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_SCENARIO_MISSIONARY_NAME" Language="en_US">
+			<Text>Рэлігійны місіянер|рэлігійнага місіянера|рэлігійнаму місіянеру|рэлігійнага місіянера|рэлігійным місіянерам|рэлігійным місіянеры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_SCENARIO_PRIEST_NAME" Language="en_US">
+			<Text>Рэлігійны святар|рэлігійнага святара|рэлігійнаму святару|рэлігійнага святара|рэлігійным святаром|рэлігійным святары</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_SCENARIO_MONK_NAME" Language="en_US">
+			<Text>Рэлігійны манах|рэлігійнага манаха|рэлігійнаму манаху|рэлігійнага манаха|рэлігійным манахам|рэлігійным манаху</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_CLASS_SCENARIO_GURU_NAME" Language="en_US">
+			<Text>Рэлігійны гуру|рэлігійнага гуру|рэлігійнаму гуру|рэлігійнага гуру|рэлігійным гуру|рэлігійным гуру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_WALK_ON_WATER_NAME" Language="en_US">
+			<Text>Хадня па вадзе|хадні па вадзе|хадні па вадзе|хадню па вадзе|хаднёй па вадзе|хадні па вадзе</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_TRAVELER_NAME" Language="en_US">
+			<Text>Вандроўнік|вандроўніка|вандроўніку|вандроўніка|вандроўнікам|вандроўніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_PROPAGATOR_NAME" Language="en_US">
+			<Text>Пашыраннік|пашыранніка|пашыранніку|пашыранніка|пашыраннікам|пашыранніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_PRACTITIONER_NAME" Language="en_US">
+			<Text>Вернік|верніка|верніку|верніка|вернікам|верніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_ALCHEMIST_NAME" Language="en_US">
+			<Text>Алхімік|алхіміка|алхіміку|алхіміка|алхімікам|алхіміку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_INTERPRETER_NAME" Language="en_US">
+			<Text>Перакладнік|перакладніка|перакладніку|перакладніка|перакладнікам|перакладніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_SANGHA_NAME" Language="en_US">
+			<Text>Сангха|сангхі|сангсе|сангху|сангхай|сангсе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_GUIDE_NAME" Language="en_US">
+			<Text>Правадыр|правадыра|правадыру|правадыра|правадыром|правадыру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_SAGE_NAME" Language="en_US">
+			<Text>Мудры|мудрага|мудраму|мудрага|мудрым|мудрым</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_TEACHER_NAME" Language="en_US">
+			<Text>Настаўнік|настаўніка|настаўніку|настаўніка|настаўнікам|настаўніку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SCENARIO_MASTER_NAME" Language="en_US">
+			<Text>Майстар|майстра|майстру|майстра|майстрам|майстру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+	</LocalizedText>
+</GameData>

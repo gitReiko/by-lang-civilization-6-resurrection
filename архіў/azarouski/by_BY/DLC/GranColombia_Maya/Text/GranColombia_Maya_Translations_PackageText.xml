@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE" Language="en_US">
+      <Text>Набор: «Мая і Вялікая Калумбія»</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER" Language="en_US">
+      <Text>Новыя цывілізацыі і лідары: Іш-Вак-Чан-Ахаў, царыца Мая, і Сымон Балівар, прэзідэнт Вялікай Калумбіі.</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION" Language="en_US">
+      <Text>Улучае дзве новыя цывілізацыі, дваіх уладнікаў, шэсць гарадоў-дзяржаў, два новыя рэсурсы, тры дзівы прыроды, новыя стыхійныя бедствы і гульнявы рэжым апакаліпсісу.</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

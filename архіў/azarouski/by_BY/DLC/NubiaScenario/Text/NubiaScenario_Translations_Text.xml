@@ -1,0 +1,1250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_BUILDING_OBELISK_NAME" Language="en_US">
+			<Text>Абеліск|абеліска|абеліску|абеліск|абеліскам|абеліску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NUBIAN_SHRINE_NAME" Language="en_US">
+			<Text>Свяцілішча|свяцілішча|свяцілішчу|свяцілішча|свяцілішчам|свяцілішчы</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_TEMPLE_AMUN_NAME" Language="en_US">
+			<Text>Храм Амона|Храма Амона|Храму Амона|Храм Амона|Храмам Амона|Храме Амона</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NILOMETER_NAME" Language="en_US">
+			<Text>Ніламер|ніламера|ніламеру|ніламер|ніламерам|ніламеры</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_ASHMUNEIN" Language="en_US">
+			<Text>Ашмунейн|Ашмунейна|Ашмунейну|Ашмунейн|Ашмунейнам|Ашмунейне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_BAHARIYA" Language="en_US">
+			<Text>Бахарыя|Бахарыі|Бахарыі|Бахарыю|Бахарыяй|Бахарыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_BYBLOS" Language="en_US">
+			<Text>Бібл|Бібла|Біблу|Бібл|Біблам|Бібле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_DAKHLA" Language="en_US">
+			<Text>Дахла|Дахлы|Дахле|Дахлу|Дахлай|Дахле</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_IHNASIYA" Language="en_US">
+			<Text>Іхнасія|Іхнасіі|Іхнасіі|Іхнасію|Іхнасіяй|Іхнасіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_IREM" Language="en_US">
+			<Text>Ірам|Ірама|Іраму|Ірам|Ірамам|Іраме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_KHARGA" Language="en_US">
+			<Text>Харга|Харгі|Харзе|Харгу|Харгай|Харзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_NEKHEN" Language="en_US">
+			<Text>Нехен|Нехена|Нехену|Нехен|Нехенам|Нехене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_ON" Language="en_US">
+			<Text>Он|Она|Ону|Он|Онам|Оне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_PUNT" Language="en_US">
+			<Text>Пунт|Пунта|Пунту|Пунт|Пунтам|Пунце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_SHARUHEN" Language="en_US">
+			<Text>Шарухен|Шарухена|Шарухену|Шарухен|Шарухенам|Шарухене</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_SERABIT_EL_KHADIM" Language="en_US">
+			<Text>Сарабіт-аль-Хадзім|Сарабіт-аль-Хадзіма|Сарабіт-аль-Хадзіму|Сарабіт-аль-Хадзім|Сарабіт-аль-Хадзімам|Сарабіт-аль-Хадзіме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SCENARIO_THINIS" Language="en_US">
+			<Text>Цініс|Цініса|Цінісу|Цініс|Цінісам|Цінісе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_ROYAL_DYNASTIES_NAME" Language="en_US">
+			<Text>Царскія дынастыі|царскіх дынастый|царскім дынастыям|царскія дынастыі|царскімі дынастыямі|царскіх дынастыях</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_HIEROGLYPHICS_NAME" Language="en_US">
+			<Text>Іерогліфы|іерогліфаў|іерогліфам|іерогліфы|іерогліфамі|іерогліфах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_MUMMIFICATION_NAME" Language="en_US">
+			<Text>Муміфікацыя|муміфікацыі|муміфікацыі|муміфікацыю|муміфікацыяй|муміфікацыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCRIBES_NAME" Language="en_US">
+			<Text>Пісары|пісараў|пісарам|пісараў|пісарамі|пісарах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_BOOK_OF_THE_DEAD_NAME" Language="en_US">
+			<Text>Кніга мёртвых|Кнігі мёртвых|Кнізе мёртвых|Кнігу мёртвых|Кнігай мёртвых|Кнізе мёртвых</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_INSTITUTION_OF_THE_MUSES_NAME" Language="en_US">
+			<Text>Храм Муз|Храма Муз|Храму Муз|Храм Муз|Храмам Муз|Храме Муз</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SEPATS_NAME" Language="en_US">
+			<Text>Сепаты|сепатаў|сепатам|сепатаў|сепатамі|сепатах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_BOARDGAMES_ATHLETICS_NAME" Language="en_US">
+			<Text>Настольныя гульні і спорт|настольных гульняў і спорту|настольным гульням і спорту|настольныя гульні і спорт|настольнымі гульнямі і спортам|настольных гульнях і спорце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_AMUN_LORD_OF_ALL_GODS_NAME" Language="en_US">
+			<Text>Амон: валадар багоў|Амона: валадара багоў|Амону: валадару багоў|Амона: валадара багоў|Амонам: валадаром багоў|Амону: валадару багоў</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GOVERNMENT_KANDAKE_NAME" Language="en_US">
+			<Text>Кандакія|кандакіі|кандакіі|кандакію|кандакіяй|кандакіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GOVERNMENT_PHARAOH_NAME" Language="en_US">
+			<Text>Фараон|фараона|фараону|фараона|фараонам|фараону</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_ABU_SIMBEL_NAME" Language="en_US">
+			<Text>Абу-Сімбел|Абу-Сімбела|Абу-Сімбелу|Абу-Сімбела|Абу-Сімбелам|Абу-Сімбелу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_FRONTIER_FORTRESSES_NAME" Language="en_US">
+			<Text>Памежныя ўмацаванні|памежных умацаванняў|памежным умацаванням|памежныя ўмацаванні|памежнымі ўмацаваннямі|памежных умацаваннях</Text>
+			<Gender>neuter</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_INUNDATION_CALENDAR_NAME" Language="en_US">
+			<Text>Каляндар паводак|календара паводак|календару паводак|каляндар паводак|календаром паводак|календары паводак</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_MERCENARIES_NAME" Language="en_US">
+			<Text>Найміты|наймітаў|наймітам|наймітаў|наймітамі|наймітах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_MILITARY_COMMUNICATION_NAME" Language="en_US">
+			<Text>Вайсковыя камунікацыі|вайсковых камунікацый|вайсковым камунікацыям|вайсковыя камунікацыі|вайсковымі камунікацыямі|вайсковых камунікацыях</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_MUSAEUM_NAME" Language="en_US">
+			<Text>Мусеён|мусеёна|мусеёну|мусеён|мусеёнам|мусеёне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_RECORDKEEPING_NAME" Language="en_US">
+			<Text>Хронікі|хронік|хронікам|хронікі|хронікамі|хроніках</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_ROYAL_BODYGUARDS_NAME" Language="en_US">
+			<Text>Царскія целаахоўнікі|царскіх целаахоўнікаў|царскім целаахоўнікам|царскіх целаахоўнікаў|царскімі целаахоўнікамі|царскіх целаахоўніках</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCORPION_KING_NAME" Language="en_US">
+			<Text>Цар Скарпіён|цара Скарпіёна|цару Скарпіёну|цара Скарпіёна|царом Скарпіёнам|цару Скарпіёне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_TRADE_AGREEMENT_NAME" Language="en_US">
+			<Text>Гандлёвае пагадненне|гандлёвага пагаднення|гандлёваму пагадненню|гандлёвае пагадненне|гандлёвым пагадненнем|гандлёвым пагадненні</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_POLICY_VALLEY_OF_THE_KINGS_NAME" Language="en_US">
+			<Text>Даліна Цароў|даліны Цароў|даліне Цароў|даліну Цароў|далінай Цароў|даліне Цароў</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ASHMUNEIN_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Ашмунейн|горада-дзяржавы Ашмунейн|гораду-дзяржаве Ашмунейн|горад-дзяржаву Ашмунейн|горадам-дзяржавай Ашмунейн|горадзе-дзяржаве Ашмунейн</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_BAHARIYA_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Бахарыя|горада-дзяржавы Бахарыя|гораду-дзяржаве Бахарыя|горад-дзяржаву Бахарыя|горадам-дзяржавай Бахарыя|горадзе-дзяржаве Бахарыя</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_BYBLOS_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Бібл|горада-дзяржавы Бібл|гораду-дзяржаве Бібл|горад-дзяржаву Бібл|горадам-дзяржавай Бібл|горадзе-дзяржаве Бібл</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_DAKHLA_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Дахла|горада-дзяржавы Дахла|гораду-дзяржаве Дахла|горад-дзяржаву Дахла|горадам-дзяржавай Дахла|горадзе-дзяржаве Дахла</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_IHNASIYA_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Іхнасія|горада-дзяржавы Іхнасія|гораду-дзяржаве Іхнасія|горад-дзяржаву Іхнасія|горадам-дзяржавай Іхнасія|горадзе-дзяржаве Іхнасія</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_IREM_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Ірэм|горада-дзяржавы Ірэм|гораду-дзяржаве Ірэм|горад-дзяржаву Ірэм|горадам-дзяржавай Ірэм|горадзе-дзяржаве Ірэм</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_KHARGA_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Харга|горада-дзяржавы Харга|гораду-дзяржаве Харга|горад-дзяржаву Харга|горадам-дзяржавай Харга|горадзе-дзяржаве Харга</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_NEKHEN_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Нехен|горада-дзяржавы Нехен|гораду-дзяржаве Нехен|горад-дзяржаву Нехен|горадам-дзяржавай Нехен|горадзе-дзяржаве Нехен</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ON_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Он|горада-дзяржавы Он|гораду-дзяржаве Он|горад-дзяржаву Он|горадам-дзяржавай Он|горадзе-дзяржаве Он</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PUNT_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Пунт|горада-дзяржавы Пунт|гораду-дзяржаве Пунт|горад-дзяржаву Пунт|горадам-дзяржавай Пунт|горадзе-дзяржаве Пунт</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_SHARUHEN_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Шарухен|горада-дзяржавы Шарухен|гораду-дзяржаве Шарухен|горад-дзяржаву Шарухен|горадам-дзяржавай Шарухен|горадзе-дзяржаве Шарухен</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_SERABIT_EL_KHADIM_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Сарабіт-аль-Хадзім|горада-дзяржавы Сарабіт-аль-Хадзім|гораду-дзяржаве Сарабіт-аль-Хадзім|горад-дзяржаву Сарабіт-аль-Хадзім|горадам-дзяржавай Сарабіт-аль-Хадзім|горадзе-дзяржаве Сарабіт-аль-Хадзім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_THINIS_DESCRIPTION" Language="en_US">
+			<Text>Горад-дзяржава Цініс|горада-дзяржавы Цініс|гораду-дзяржаве Цініс|горад-дзяржаву Цініс|горадам-дзяржавай Цініс|горадзе-дзяржаве Цініс</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_HYKSOS_DESCRIPTION" Language="en_US">
+			<Text>Гіксоская імперыя|Гіксоскай імперыі|Гіксоскай імперыі|Гіксоскую імперыю|Гіксоскай імперыяй|Гіксоскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_LIBYANS_DESCRIPTION" Language="en_US">
+			<Text>Лівійская імперыя|Лівійскай імперыі|Лівійскай імперыі|Лівійскую імперыю|Лівійскай імперыяй|Лівійскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ASSYRIA_DESCRIPTION" Language="en_US">
+			<Text>Асірыйская імперыя|Асірыйскай імперыі|Асірыйскай імперыі|Асірыйскую імперыю|Асірыйскай імперыяй|Асірыйскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PERSIA_DESCRIPTION" Language="en_US">
+			<Text>Персідская імперыя|Персідскай імперыі|Персідскай імперыі|Персідскую імперыю|Персідскай імперыяй|Персідскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_MACEDON_DESCRIPTION" Language="en_US">
+			<Text>Македонская імперыя|Македонскай імперыі|Македонскай імперыі|Македонскую імперыю|Македонскай імперыяй|Македонскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_HYKSOS_ADJECTIVE" Language="en_US">
+			<Text>гіксоск.|гіксоск.|гіксоск.|гіксоск.|гіксоск.|гіксоск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_LIBYANS_ADJECTIVE" Language="en_US">
+			<Text>лівійск.|лівійск.|лівійск.|лівійск.|лівійск.|лівійск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_ASSYRIA_ADJECTIVE" Language="en_US">
+			<Text>асірыйск.|асірыйск.|асірыйск.|асірыйск.|асірыйск.|асірыйск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_PERSIA_ADJECTIVE" Language="en_US">
+			<Text>персідск.|персідск.|персідск.|персідск.|персідск.|персідск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCENARIO_MACEDON_ADJECTIVE" Language="en_US">
+			<Text>македон.|македон.|македон.|македон.|македон.|македон.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ASHMUNEIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Горад Ашмунейн, што некалі быў часткай егіпецкага Старажытнага царства, зараз знаходзіцца на мяжы Верхняга і Ніжняга Егіпта».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BAHARIYA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«На захад ад дэльты Ніла ёсць аазіс Бахарыя. Калі мы атрымаем да яго доступ, то зможам весці гандаль з лівійскімі плямёнамі».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BYBLOS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Горад кедра існуе даўжэй, чым жывуць людзі ў даліне Нілу. Тут гандлююць толькі самымі лепшымі таварамі».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DAKHLA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Аазіс Дахла ляжыць углыбіні Заходняй пустэльні. Тут папаўняюць запасы ўсе гандляры, чыя дарога вядзе іх удалячынь ад Ніла».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_IHNASIYA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Горад Іхнасія («Хата царскага дзіцяці») лічыўся сталіцай Ніжняга Егіпта з моманту заняпаду Старажытнага царства».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_IREM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Далёкі горад Ірэм, які размясціўся за шостым парогам Нілу, знакаміты тым, што тут гандлююць слановай косткай».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KHARGA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Нямала золата цячэ праз Харгу. Гэты аазіс знаходзіцца на паўночны захад ад першага парога».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_NEKHEN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Фараон Хасэхемуі перабудоўваў Нехен, калі гэты горад быў часткай Старажытнага царства. Яго ўпрыгожаныя магільні ўяўляюць сабою велічнае гледзішча».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Піраміды Старажытнага царства адкідаюць цень на горад Он, які ляжыць у тым месцы, дзе пачынаецца дэльта Ніла».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PUNT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Спецыі з усяго Ўсходу праходзяць праз горад Пунт. Цэнтр гандлю на Чырвоным моры можа стаць важным партнёрам».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SHARUHEN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Хочаце весці гандаль з Палестынай? Горад Шарухен стаіць на варце гэтага гандлёвага шляху, падобна льву ў аазісе. З ім лепш мець справу, калі ён сыты».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SERABIT_EL_KHADIM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Шахцёрскае мястэчка Сарабіт-аль-Хадзім здабывае сваё багацце з-пад зямлі. Лішкі ідуць на карысць яго хаўруснікаў».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_THINIS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Першыя дынастыі фараонаў абвясцілі Цініс сталіцай Егіпта. Ён быў і застаецца брамаю да найважных аазісаў Заходняй пустэльні».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HIGH_PRIESTESS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Верховные жрицы поддерживали религиозные традиции и содержали храмы на берегах Нила. Они обладали немалой властью – порой даже большей, чем нубийские царские рода и египетские династии. Позднее правители поняли, что не стоит сосредотачивать все богатства страны в зданиях, контролируемых жрицами.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDJAY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Словом «меджаи» поначалу называли жителей нубийского региона Меджа. В XVI в. до н. э. оно уже означало элитных воинов у нубийцев и египтян. В их обязанности входила охрана памятников, дворцов и гробниц. Меджаи подчинялись только своим командирам в каждой провинции.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_OBELISK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Входы в храмы на берегах Нила украшались парой высоких каменных колонн. Во втором тысячелетии до н. э. эти храмы посвящались богу Солнца Ра (затем – Амону, наконец – Амону-Ра). Изготовление обелиска из каменного монолита, его транспортировка и установка на место – все это было настоящим чудом древней техники.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_NUBIAN_SHRINE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Окрестности Нила были застроены небольшими храмами, посвященными как богам, так и богоподобным людям - эти последние имели скорее политический, чем религиозный характер. В храмах находились религиозные артефакты, служили здесь не только жрецы, но и стражи для защиты от грабителей.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TEMPLE_AMUN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Чтобы оценить значение бога Амона для нильского региона, достаточно взглянуть на его храмы. Храм Амона в Карнаке занимает такую площадь, что в нем могли бы поместиться пять Великих пирамид. Храм Амона в Джебель-Баркале (Нубия) вполне мог бы с ним сравниться, если б не был разрушен до основания римлянами в 25 году до н.э.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_NILOMETER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Вся жизнь долины Нила зависела от его ежегодных разливов («наводнений»). Оригинальные «ниломеры» показывали уровень воды: при слишком высоком людям грозило затопление, при слишком низком - голод. Любой уровень между этими крайними точками обещал относительно благополучный сезон.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_CATARACT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Среди шести порогов Нила есть и тихие, есть и бурные. В зависимости от высоты воды их преодолевали вброд или на лодках. Египет традиционно занимал территорию к северу от первого порога, а Нубия – к югу от него.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_NILE_RIVER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Периодические разливы Нила на всем его протяжении от восточной части центральной Африки до места впадения в Средиземное море несут жизнь в негостеприимную пустыню. Без Нила никогда не существовало бы ни Египта, ни Нубии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_FISHING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>С помощью меткого копья житель долины Нила мог добыть достаточно рыбы, чтобы прокормить себя. Простейший крючок с наживкой, привязанный к шнурку, позволял прокормить семью. Но только рыболовная сеть давала улов, способный прокормить целый город.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_MEDICINE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Несмотря на примитивность методов, медицинская наука в долине Нила находилась на удивительно высоком уровне. Обширные познания в анатомии применялись в гигиенических процедурах, хирургических операциях и заклинаниях от демонов – разносчиков болезней. Один из медицинских свитков около 1550 года до н. э. определяет рак как «опухоль против бога Ксенуса». К сожалению, не было известно средства от этой болезни.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_FORTIFICATION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>По мере того, как росло богатство жителей долины Нила, росла и зависть их соседей. По крайней мере, начиная со II тыс. до н. э. египтяне и нубийцы возводили постоянные крепости. Эти укрепленные поселения были окружены стенами из глиняного кирпича и позволяли контролировать ключевые точки на реке.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_TOMB_BUILDING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Те из жителей долины Нила, кто мог себе это позволить, хоронили покойников в гробницах из ритуальных и практических соображений. И в простой подземной камере, и в огромной египетской пирамиде, и в более скромной нубийской – загробная жизнь покойного и необычный набор погребальных аксессуаров находились под защитой толстого слоя земли и камня.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_ROYAL_DYNASTIES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В принципе, в царской династии нет ничего сложного: правитель передает власть наследнику из своего рода, создавая тем самым устойчивую модель централизованной власти. В Египте эта устойчивость привела к тому, что к 343 году до н. э. здесь сменилось 30 династий, а затем Артаксеркс принудительно познакомил египтян с понятием «сатрапия».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_HIEROGLYPHICS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Если вы хотите, чтобы ваши слова остались в истории навеки, то не высечь ли их в камне? Так считали древние египтяне, и их стилизованные знаки существуют вот уже четыре тысячелетия. В Мероитском царстве была разработана более понятная разновидность письма, которое все еще можно найти на нубийских памятниках и гробницах, построенных после II века до н. э.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_MUMMIFICATION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Погребальные обряды жителей долины Нила состояли в том, чтобы с помощью мумификации сохранить тело покойного. Внутренние органы извлекали и вымачивали в пряностях, а тело на несколько месяцев погружали в соль, благодаря чему оно обезвоживалось и становилось неуязвимым для прожорливых червей.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_SCRIBES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Если в вашей цивилизации почитают богов знания, письма и математики, то люди, которым поручено читать, писать и считать, будут привилегированным сословием. Так было и в Египте, где писцы занимали высокие посты и причислялись к придворным фараона.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_BOOK_OF_THE_DEAD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Книга мертвых» была сборником похоронных инструкций с описанием процесса обработки тел умерших и ритуальных обрядов, призванных направлять покойника по пути в загробный мир. Тем, кому хватало денег, клали в гробницу экземпляр этой книги, чтобы под рукой всегда было руководство по жизни в царстве мертвых.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_INSTITUTION_OF_THE_MUSES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Александрийский мусейон («святилище муз») был основан приблизительно в третьем веке до н. э. Здесь обучали, творили и философствовали величайшие умы своей эпохи. Мусейон чем-то напоминал нынешние университеты, и в нем, возможно, обучался Архимед (до того, как воскликнул: «Эврика!»).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_SEPATS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Цивилизациям, расположенным вдоль всего течения Нила, было непросто управлять своими обширными территориями из столицы. Проблема была решена учреждением «сепатов» (или «номов», как их позднее назвали правители из греческой династии Птолемеев). Каждый их этих административных районов отвечал за определенный участок Нила или его дельты.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_BOARDGAMES_ATHLETICS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Для народов на берегах Нила спортивные и настольные игры были своего рода продолжением войны. Тот, кто быстро бегал, хорошо дрался или метко поражал цель стрелой или камнем из пращи, мог применить эти навыки и в бою. Точно так же тот, кто обыгрывал других в сенет или мехен, понимал важность военной стратегии и тактики.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_AMUN_LORD_OF_ALL_GODS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Амон, бог всех богов, занимал важное место в пантеоне жителей долины Нила. Изначально Амон был богом ветра, но позже был признан верховным богом в Египте, а затем и в Нубии. Амон был воплощением добра и справедливости; считалось, что он защищает униженных и оскорбленных от обидчиков.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_GOLD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Своим богатством долина Нила во многом обязана залежам золотой руды. Египет получил множество рудников, но фараоны и жрецы всегда жаждали большего. Золотые прииски Нубии были лакомым кусочком, и за них постоянно шла борьба. Египет жаждал их захватить, а Нубия не желала уступать.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_KANDAKE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В Нубии царь и его жена вместе правили страной. Кандакия (или царица) имела столько же власти, сколько и ее муж, а также абсолютное право вето: если царь вызывал ее неудовольствие, царица могла приказать ему покончить с собой.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_PHARAOH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Множество поколений египетских правителей носили титул фараонов, что примерно означает «великий дом». Власть фараона была практически абсолютной, однако за несколько тысячелетий ее сильным противовесом стало сословие жрецов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ABU_SIMBEL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Вялікі храм не толькі ўразіць тых, хто жыве побач: ён стане сведчаннем нашай першасці ў вачах усіх, хто яго ўбачыць. Суседзям давядзецца з гэтым прымірыцца».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FRONTIER_FORTRESSES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Наша багацце расце – а значыць, расце і лік ворагаў, што прагнуць яго. Некалькі крэпасцяў на межах дзяржавы маглі б папярэджваць нас пра надыходныя войскі».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_INUNDATION_CALENDAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Ніл даруе і жыццё, і смерць. Ведаючы, калі пачалося разводдзе сёлета, мы зможам прадказаць яго ў будучыні. Больш жыцця, менш смерцяў».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MERCENARIES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Утрыманне войска – дарагое задавальненне. Мы можам часова папоўніць войска атрадамі наймітаў. Гэта абыдзецца значна танней, а нашы ворагі не змогуць наняць тых, каго ўжо нанялі мы».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MILITARY_COMMUNICATION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Бескарысна пасылаць войскі ў бязмежныя пустэльні, не маючы магчымасці каардынаваць іх рух. Нашы хуткія калясніцы змогуць у час даставіць найважныя загады вайскаводам».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MUSAEUM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Навуковыя адкрыцці спрадвеку паляпшаюць наша жыццё. Забяспечыўшы вялікім розумам магчымасць сабрацца разам і працягваць вынаходзіць, мы будзем пажынаць плады садоў іх розуму».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_RECORDKEEPING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Нашы пісары вядуць дэталёвыя запісы, што дазваляюць асочваць месцаванне войскаў і наяўнасць запасаў. Менш хапешаў знікне з вазоў».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ROYAL_BODYGUARDS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Суровая рэальнасць такая, што хто-небудзь паспрабуе нашкодзіць царскай сям'і. Трэба паставіць на яе абарону лепшых ваяроў з ліку адданых трону».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SCORPION_KING_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Хто сказаў, што ваяваць можна толькі пасля таго, як быў сабраны ўраджай? Калі ўтрымваць і трэнераваць атрад ваяроў на сталым грунце, мы зможам падтрымваць адзінства нашых земляў у кожную пару года».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TRADE_AGREEMENT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Нашы купцы спрадвеку гандлююць з далёкімі краінамі. Фармальнае пагадненне не толькі жыватворна адаб'ецца на скарбе, але і адаб'е ў нашых суседзяў ахвоту ваяваць».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_VALLEY_OF_THE_KINGS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Калі нашы ўладнікі пераходзяць з гэтага свету ў наступны, мы напаўняем іх магільні скарбамі. Будзе разумна забяспечыць пахаванням сталую ахову».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_CREATION_ATUM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Атум, наш найстаражытны бог, стварыў сябе сам з акіянскай бездані. Паводле прароцтва, ён будзе тут напрыканцы свету».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_WATERY_ABYSS_NUN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Нун – гэта бясформавая акіянская бездань, у якой пачалося стварэнне свету».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_MUMMIFICATION_ANUBIS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Анубіс, сабакагаловы бог муміфікацыі, выпраўляе душы нябожчыкаў у замагільнае царства. Магілы і могільнікі – яго вотчына».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_THE_OASES_ASH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Аш, бог-апякун аазісаў, ахоўвае выспачкі жыцця ў суровай пустэльні. Яго малююць з галовамі жывёл, спалучаных з Сэтам».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_WAR_APEDEMAK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Апедэмак – бог вайны і апякун нубійцаў. Яго малююць з галавой ільва (часам з трыма)».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GODDESS_OF_FERTILITY_ISIS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Ісіда, багіня ўрадлівасці, не толькі дабраслаўляе нашчадкаў. Штогадовы разліў Ніла – гэта яе слёзы».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GUARDIAN_GOD_SEBIUMEKER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Себуімекер, бог-апякун старажытнага Куша, бароніць нубійскія храмы ад чужынцаў».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_HOUSE_GOD_BES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Нячысцік, апякун хатняга агменю, бароніць жыллё ад змеяў. Звонку ён падобны на льва».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGION_PAGE_BELIEFS_LORD_OF_ALL_GODS_AMUN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Значэнне Амона, валадара багоў, узрасло гэтак, што ўсе іншыя божышчы ўяўляюцца толькі яго ўвасабленнямі».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RELIGION_PAGE_BELIEFS_PROTECTOR_OF_THE_PHARAOHS_HORUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>«Гор, абаронца фараонаў, – сын Ісіды і Асірыса. З'яўляючыся богам неба, Гор мае галаву сокала».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Гиксосы вышли к Нилу откуда-то с востока. Предполагают, что они либо беспрепятственно переселились в политически раздробленный Египет, либо прибыли с намерением покорить земли, ослабленные чередой бедствий.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Известно, что в 1650 году до н. э. правившая в Египте династия пала, и гиксосы захватили власть. Они основали Пятнадцатую династию и контролировали регион целое столетие, однако коренные жители этих земель смогли постепенно выдворить гиксосов и уничтожить все следы их правления. Во всех позднейших источниках гиксосы описываются как чужаки.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Интересы Египта и Ассирии зачастую пересекались, нередко яблоком раздора служил контроль над территорией Ханаана. Ассирия считала, что Египет непрошеным лезет в ее дела. Египет же видел в Ассирии маленькое, но смертельно опасное государство с имперскими амбициями. Обе стороны были правы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Много веков эти две державы вели опосредованные войны, делали друг другу дипломатические гадости и воинственно потрясали хопешами, но лишь в 671 году до н. э. столкнулись лоб в лоб. Египет, находившийся тогда под властью нубийского царства Куш, пал; ассирийский царь Ассаргадон вышел победителем. На полвека Египет стал вассальным царством Ассирии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В 526 году до н. э. сын Кира Великого, Камбис II, попытался связать будущее Персии и Египта династическим браком. Под видом собственной дочери египетский фараон Амасис отправил к нему единственную выжившую девушку из семьи, которую он приказал перебить. Девушка, однако, сразу рассказала персидскому царю об обмане; трудно ожидать, что кто-то будет вам подыгрывать, если вы истребили всю его родню. Камбис незамедлительно вторгся в Египет и покорил его.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Больше века Египет оставался под властью Ахеменидов. После смерти Дария II в 404 году Египет взбунтовался, и Персия еще несколько десятилетий пыталась вернуть свою сатрапию. Египту удавалось отбиться до 343 года до н. э., пока явившийся с закаленным 350-тысячным войском царь Артаксеркс III не изгнал из страны последнюю исконно египетскую династию. Персы наслаждались относительным спокойствием в Египте еще десятилетие – пока не появился Александр Македонский.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>К вящей радости египтян, недовольных персидским господством, в 332 г. до н. э. Александр Македонский покорил Египет и присоединил его к своей империи. Даже самые недовольные прикусили язык, когда оракул в Сиве провозгласил его сыном бога Амона. Александр, покрывший себя славой при покорении Египта, использовал его богатства для финансирования своих восточных походов. После смерти Александра в 322 г. до н. э. управление Египтом перешло к его верному соратнику и полководцу Птолемею. Во время кризиса престолонаследия и распада империи Египет был крупным и самодостаточным ее осколком, которым правил теперь царь Птолемей I Сотер.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Египет оставался под властью Птолемеев еще три столетия, но его упадок начался раньше. Все более слабые правители принимали все менее дальновидные решения. Когда-то мощная комбинация лучших македонских кадров с тысячелетней египетской монархией превратилась в протекторат зарождающейся Римской республики, сырьевой придаток для прокорма римских легионов. Окончательно Египет Птолемеев умер вместе с Клеопатрой в 30 году до н. э.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Молодая Римская республика жаждала завоеваний, но для этого ей требовался надежный источник продовольствия как для военных походов, так и для обеспечения войска на своей территории. Когда Египет – житница Средиземноморья – потерпел особенно сокрушительное поражение от Македонии и государства Селевкидов, Рим не упустил свой шанс и предложил заключить союз. Чем дальше, тем больше Египет слабел, а Рим усиливал свое влияние. В итоге египтяне обнаружили себя марионетками в руках римских кукловодов.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Причины, побудившие Рим вторгнуться в собственный протекторат, подробно описаны в истории Клеопатры. Вследствие этих событий закончилось династическое правление в Египте, длившееся три тысячелетия. Египет, мгновенно поднявшийся в статус римской провинции, кормил Рим до его распада.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>К XIII в. до н. э. Египет устал от набегов ливийских племен и начал строить крепости на побережье. Их цепочка протянулась от устья Нила далеко на запад. Крепости могли удерживать атакующих ливийцев и своевременно послать весть в столицу… по крайней мере, таков был замысел. В действительности они не выполнили своего предназначения: в 1208 г. до н. э. ливийцы вместе с племенем либу и своими загадочными союзниками, «народами моря», совершили набег на дельту Нила. Пусть египтяне быстро отбились, вторжение в сердце египетских земель стало для выживших ливийцев значимым прецедентом.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Несколько десятилетий продолжалась вялотекущая борьба Египта и Ливии. Затем ливийское племя берберов, именуемое мешвеш, решило повторить подвиги предков. Ливийцы собрали союзников, среди которых вновь оказались «народы моря», и в 1181 г. до н. э. пошли войной на Египет. Египтяне сумели сдержать их и выставили по берегам Нила своих лучников, осыпавших «народы моря» градом стрел. Второй завоевательный поход, в котором участвовало только племя мешвеш, в 1175 г. до н. э. закончился их полным поражением, пленением и последующим подчинением Египту.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Камбис II – сын Кира Великого. В сражении при Пелузии в 525 году до н. э. он покорил Египет, но завоевать земли дальше по течению Нила, в Нубии, ему уже не удалось.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>В 668 году до н. э. власть в Ассирии унаследовал Ашшурбанапал. Египтом в это время правили нубийские правители. В серии удачных походов Ашшурбанапал со своей армией изгнал нубийцев из Египта и разграбил богатые Фивы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Александр Македонский покорил Египет в 332 году до н. э., освободив его от персидского господства. Он основал новый город – Александрию, ставшую столицей Египта Птолемеев.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Осоркон правил в Египте 35 лет, с 922 года до н. э. Он был одним из величайших ливийских фараонов Египта XXII династии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Сокархер упоминается в числе первых трех гиксосских фараонов из XV династии.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Октавиан, которого вскоре будут называть Октавианом Августом, в 31 году до н. э. разбил объединенные силы Марка Антония и Клеопатры в сражении при мысе Акций. После этого он высадил войска в Александрии и сделал Египет новой провинцией Рима.</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_RELIGION_WORKING_TOWARDS_RELIGION" Language="en_US">
+			<Text>Мая рэлігія|Маёй рэлігіі|Маёй рэлігіі|Маю рэлігію|Маёй рэлігіяй|Маёй рэлігіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_RELIGIONPANEL_NEXT_STEP_EARN_PROPHET" Language="en_US">
+			<Text>Ваша рэлігія адразу атрымае вераванне «Пантэон». Дадае ў вашу рэлігію адно вераванне пасля вывучэння сацыяльных інстытутаў «Муміфікацыя», «Кніга мёртвых» і «Амон: валадар багоў».</Text>
+		</Replace>
+		<Replace Tag="LOC_RESOURCE_SCENARIO_GOLD_NAME" Language="en_US">
+			<Text>Залатая руда|залатой руды|залатой рудзе|залатую руду|залатой рудой|залатой рудзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_NONE_NAME" Language="en_US">
+			<Text>Няма бонуса сюзерэна|Няма бонуса сюзерэна|Няма бонуса сюзерэна|Няма бонуса сюзерэна|Няма бонуса сюзерэна|Няма бонуса сюзерэна</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_CATARACT_NAME" Language="en_US">
+			<Text>Парог|парога|парогу|парог|парогам|парозе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TERRAIN_NILE_RIVER_NAME" Language="en_US">
+			<Text>Ніл|Ніла|Нілу|Ніл|Нілам|Ніле</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_MONTUHOTEP_NAME" Language="en_US">
+			<Text>Ментухатэп II|Ментухатэпа ІІ|Ментухатэпу ІІ|Ментухатэпа ІІ|Ментухатэпам ІІ|Ментухатэпу ІІ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_PIYE_NAME" Language="en_US">
+			<Text>Піянхі|Піянхі|Піянхі|Піянхі|Піянхі|Піянхі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_AMANIRENAS_NAME" Language="en_US">
+			<Text>Аманірэна</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_SHA_NABU_SHU_NAME" Language="en_US">
+			<Text>Ша-набу-шу|Ша-набу-шу|Ша-набу-шу|Ша-набу-шу|Ша-набу-шу|Ша-набу-шу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_CAMBYSES_NAME" Language="en_US">
+			<Text>Камбіс II|Камбіса ІІ|Камбісу ІІ|Камбіса ІІ|Камбісам ІІ|Камбісу ІІ</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALEXANDER_NAME" Language="en_US">
+			<Text>Аляксандр|Аляксандра|Аляксандру|Аляксандра|Аляксандрам|Аляксандру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_AMANISHAKETO_NAME" Language="en_US">
+			<Text>Аманішакетэ|Аманішакетэ|Аманішакетэ|Аманішакетэ|Аманішакетэ|Аманішакетэ</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_HOREMHEB_NAME" Language="en_US">
+			<Text>Харамхаб|Харамхаба|Харамхабу|Харамхаба|Харамхабам|Харамхабу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_NUN_NAME" Language="en_US">
+			<Text>Бог марской бездані (Нун)|Бога марской бездані (Нуна)|Богу марской бездані (Нуну)|Бога марской бездані (Нуна)|Богам марской бездані (Нунам)|Богу марской бездані (Нуну)</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_ATUM_NAME" Language="en_US">
+			<Text>Бог стварэння (Атум)|Бога стварэння (Атума)|Богу стварэння (Атуму)|Бога стварэння (Атума)|Богам стварэння (Атумам)|Богу стварэння (Атуму)</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_AMON_NAME" Language="en_US">
+			<Text>Валадар багоў (Амон)|Валадара багоў (Амона)|Валадару багоў (Амону)|Валадара багоў (Амона)|Валадаром багоў (Амонам)|Валадару багоў (Амону)</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_ISIS_NAME" Language="en_US">
+			<Text>Багіня ўрадлівасці (Ісіда)|Багіні ўрадлівасці (Ісіды)|Багіні ўрадлівасці (Ісідзе)|Багіню ўрадлівасці (Ісіду)|Багіняй урадлівасці (Ісідай)|Багіні ўрадлівасці (Ісідзе)</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_APEDEMAK_NAME" Language="en_US">
+			<Text>Бог вайны (Апедэмак)|Бога вайны (Апедэмака)|Богу вайны (Апедэмаку)|Бога вайны (Апедэмака)|Богам вайны (Апедэмакам)|Богу вайны (Апедэмаку)</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_ANUBIS_NAME" Language="en_US">
+			<Text>Бог муміфікацыі (Анубіс)|Бога муміфікацыі (Анубіса)|Богу муміфікацыі (Анубісу)|Бога муміфікацыі (Анубіса)|Богам муміфікацыі (Анубісам)|Богу муміфікацыі (Анубісу)</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_HORUS_NAME" Language="en_US">
+			<Text>Абаронца фараонаў (Гор)|Абаронцы фараонаў (Гора)|Абаронцу фараонаў (Гору)|Абаронцу фараонаў (Гора)|Абаронцам фараонаў (Горам)|Абаронцу фараонаў (Гору)</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SEBIUMEKER_NAME" Language="en_US">
+			<Text>Бог-вартавы (Себуімекер)|Бога-вартавога (Себуімекера)|Богу-вартавому (Себуімекеру)|Бога-вартавога (Себуімекера)|Богам-вартавым (Себуімекерам)|Богу-вартавым (Себуімекеру)</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_BES_NAME" Language="en_US">
+			<Text>Бог сямейнага агменю (Бэс)|Бога сямейнага агменю (Бэса)|Богу сямейнага агменю (Бэсу)|Бога сямейнага агменю (Бэса)|Богам сямейнага агменю (Бэсам)|Богу сямейнага агменю (Бэсу)</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_ASH_NAME" Language="en_US">
+			<Text>Бог аазісаў (Аш)|Бога аазісаў (Аша)|Богу аазісаў (Ашу)|Бога аазісаў (Аша)|Богам аазісаў (Ашам)|Богу аазісаў (Ашы)</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_NUBIA_SCENARIO_NUBIA_NAME" Language="en_US">
+			<Text>Нубійскія багі|нубійскіх багоў|нубійскім багам|нубійскіх багоў|нубійскімі багамі|нубійскіх багах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_NUBIA_SCENARIO_EGYPT_NAME" Language="en_US">
+			<Text>Егіпецкія багі|егіпецкіх багоў|егіпецкім багам|егіпецкіх багоў|егіпецкімі багамі|егіпецкіх багах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_WORLD_RANKINGS_SCORE_DETAILS" Language="en_US">
+			<Text>[COLOR:NeutralCS]ПЕРАМОГА ПА АЧКАХ[ENDCOLOR] у гэтым сцэнары немагчыма. Ачкі падлічваюцца вылучна для вызначэння роўня перамогі пасля завяршэння будавання 7 храмаў Амона.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_Culture] культуры для кожнага святога месца.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS" Language="en_US">
+			<Text>Яшчэ +2 [ICON_Culture] культуры для кожнага святога месца.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_Science] навукі для кожнага святога месца.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS" Language="en_US">
+			<Text>Яшчэ +2 [ICON_Science] навукі для кожнага святога месца.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_NUN_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Production] вытворчасці ад рыбацкіх суднаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_ATUM_DESCRIPTION" Language="en_US">
+			<Text>Усе будаўнікі могуць пабудаваць на 1 паляпшэнне больш.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_AMON_DESCRIPTION" Language="en_US">
+			<Text>+30% [ICON_Production] вытворчасці падчас стварэння дзіваў. Кошт у [ICON_Faith] ачках веры зніжаны на 30%.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_ISIS_DESCRIPTION" Language="en_US">
+			<Text>Горад расце на 15% хутчэй.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_APEDEMAK_DESCRIPTION" Language="en_US">
+			<Text>Перамога ў боі дае ачкі [ICON_Science] навукі, роўныя 50% [ICON_Strength] баявой моцы пераможанага юніта.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_ANUBIS_DESCRIPTION" Language="en_US">
+			<Text>Усе будынкі святых месцаў вырабляюць +2 [ICON_Faith] веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_HORUS_DESCRIPTION" Language="en_US">
+			<Text>Дадатковае ўніверсальнае вочка палітычнага курса пры кожным урадзе.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_SEBIUMEKER_DESCRIPTION" Language="en_US">
+			<Text>Вайсковыя юніты атрымаюць +10 да [ICON_Strength] баявой моцы ў межах дружалюбных гарадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_BES_DESCRIPTION" Language="en_US">
+			<Text>Усе дружалюбныя гарады атрымаюць +1 [ICON_Amenities] да здаволення.</Text>
+		</Replace>
+		<Replace Tag="LOC_BELIEF_ASH_DESCRIPTION" Language="en_US">
+			<Text>Дае +3 [ICON_Culture] культуры, +3 [ICON_Faith] веры і +2 [ICON_Production] вытворчасці на клетках аазіса.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NILOMETER_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Food] ежы і +1 [ICON_Production] вытворчасці на ўсіх клетках у абалоне ракі. Можна пабудаваць толькі ў горадзе, суседнім з клеткай Ніла.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NUBIA_SCENARIO_WALLS_DESCRIPTION" Language="en_US">
+			<Text>Стварае сцены вакол цэнтра горада і вайсковага лагера. Сцены дазваляюць [ICON_Ranged] страляць па ворагу з цэнтра горада і лагера і павінны быць знішчаны, перш чым вораг зможа штурмаваць горад.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NUBIA_SCENARIO_GREAT_LIBRARY_DESCRIPTION" Language="en_US">
+			<Text>Паскарэнне ўсіх тэхналогій Старажытнага свету і Антычнасці. Можна пабудаваць толькі на роўнай пляцоўцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NUBIA_SCENARIO_GREAT_LIGHTHOUSE_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Movement] да руху для ўсіх марскіх юнітаў[NEWLINE][NEWLINE]Можна пабудаваць толькі на ўзбярэжжы, поруч з гаванню, што змяшчае маяк.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NUBIA_SCENARIO_PYRAMIDS_DESCRIPTION" Language="en_US">
+			<Text>Да пачатку сцэнара ў Гізу піраміда ўжо існуе блізу горада-дзяржавы Он. Пасля захопу, вырабляе вялікую колькасць веры, а таксама дазваляе кожнаму новаму будаўніку пабудаваць адно дадатковае паляпшэнне.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_IREM_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Ірэма</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_BYBLOS_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Бібласа</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_SERABIT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Серабіта аль-Хадзіма</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_OASES_NAME" Language="en_US">
+			<Text>Бонус сюзерэна аазіса ў пустэльні</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_PUNT_NAME" Language="en_US">
+			<Text>Бонус сюзерэна Пунта</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TRAIT_NONE_DESCRIPTION" Language="en_US">
+			<Text>Гэты горад-дзяржава не дае адменных бонусаў свайму сюзерэну.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_ROYAL_DYNASTIES_DESCRIPTION" Language="en_US">
+			<Text>Пасля выканання атрымаеце дармовага асадніка ў [ICON_Capital] сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_HIEROGLYPHICS_DESCRIPTION" Language="en_US">
+			<Text>Дае 1 [ICON_Envoy] амбасадара.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_MUMMIFICATION_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе дадаць вераванне да сваёй рэлігіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_NUBIA_SCENARIO_STATE_WORKFORCE_DESCRIPTION" Language="en_US">
+			<Text>Пасля выканання атрымаеце дармовага асадніка ў [ICON_Capital] сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_NUBIA_SCENARIO_FOREIGN_TRADE_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе пракласці яшчэ адзін [ICON_TradeRoute] гандлёвы шлях. Дае 1 [ICON_Envoy] амбасадара.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SCRIBES_DESCRIPTION" Language="en_US">
+			<Text>Дае 1 [ICON_Envoy] амбасадара.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_BOOK_OF_THE_DEAD_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе дадаць вераванне да сваёй рэлігіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_INSTITUTION_OF_THE_MUSES_DESCRIPTION" Language="en_US">
+			<Text>Дае 1 [ICON_Envoy] амбасадара.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_SEPATS_DESCRIPTION" Language="en_US">
+			<Text>Пасля выканання атрымаеце дармовага асадніка ў [ICON_Capital] сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_BOARDGAMES_ATHLETICS_DESCRIPTION" Language="en_US">
+			<Text>Пасля выканання атрымаеце дармовага [ICON_GreatGeneral] вялікага вайскавода ў [ICON_Capital] сталіцы. Дае бонусы за атаку з фланга і падтрымку ўсім баявым юнітам.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_AMUN_LORD_OF_ALL_GODS_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе дадаць вераванне да сваёй рэлігіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVIC_NUBIA_SCENARIO_FUTURE_CIVIC_DESCRIPTION" Language="en_US">
+			<Text>Можна скончыць некалькі разоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_NUBIA_SCENARIO_HARBOR_DESCRIPTION" Language="en_US">
+			<Text>Раён, што адказвае ў вашым горадзе за марскія камунікацыі. На клетцы раёна не працуе [ICON_Movement] штраф за гружэнне на карабель і выгрузку з яго. Можна пабудаваць толькі на ўзбярэжжы, рацэ Ніл ці клетках возера, што прылягаюць да сушы.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] даступны гандлёвы шлях, калі ў горадзе няма цэнтра камерцыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVT_INHERENT_BONUS_KANDAKE" Language="en_US">
+			<Text>+1 [ICON_TradeRoute] гандлёвы шлях.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVT_INHERENT_BONUS_PHARAOH" Language="en_US">
+			<Text>[ICON_Capital] Сталіца атрымае +2 да ўсёй прадукцыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVT_ACCUMULATING_BONUS_KANDAKE" Language="en_US">
+			<Text>Зніжка 15% на ўсе набыткі за [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Tag="LOC_GOVT_ACCUMULATING_BONUS_PHARAOH" Language="en_US">
+			<Text>+2 [ICON_Housing] да жытла ў кожным горадзе са святым месцам.</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_DOUBLE_COMBAT_STRENGTH_AOE_LAND" Language="en_US">
+			<Text>+10 да [ICON_Strength] баявой моцы ўсім юнітам у межах 2 клетак.</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_DOUBLE_COMBAT_STRENGTH_AOE_LAND_MODIFIER" Language="en_US">
+			<Text>[ICON_Strength] Баявы бонус +10 [ICON_GreatGeneral] ад вялікага вайскавода.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_NUBIA_SCENARIO_SPHINX_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе вярхоўнай жрыцы пабудаваць сфінкса (унікальна для Егіпта).[NEWLINE][NEWLINE]+1 [ICON_Faith] веры і +1 [ICON_Culture] культуры. +1 прэстыжу. +2 [ICON_Faith] веры, калі пабудаваны поруч з дзівам свету ці святым месцам. Няможна пабудаваць поруч з іншым сфінксам. Можна будаваць у абалоне ракі.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_NUBIA_SCENARIO_CONSCRIPTION_DESCRIPTION" Language="en_US">
+			<Text>+50% [ICON_Production] вытворчасці падчас рыхтоўлі юнітаў блізкага і далёкага бою Старажытнага свету і Антычнасці.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_NUBIA_SCENARIO_GOD_KING_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Faith] веры ў [ICON_Capital] сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_NUBIA_SCENARIO_MANEUVER_DESCRIPTION" Language="en_US">
+			<Text>+100% [ICON_Production] вытворчасці падчас рыхтоўлі юнітаў цяжкай і лёгкай кавалерыі Старажытнага свету і Антычнасці.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_ABU_SIMBEL_DESCRIPTION" Language="en_US">
+			<Text>+100% [ICON_Culture] культуры за будынкі, пабудаваныя ў святым месцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_FRONTIER_FORTRESSES_DESCRIPTION" Language="en_US">
+			<Text>+4 [ICON_Gold] золата ад усіх [ICON_TradeRoute] гандлёвых шляхоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_INUNDATION_CALENDAR_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Science] навукі за кожны горад, змесцаваны ля берагавой лініі.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_MERCENARIES_DESCRIPTION" Language="en_US">
+			<Text>Мабілізацыя юнітаў горада-дзяржавы каштуе напалову менш.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_MILITARY_COMMUNICATION_DESCRIPTION" Language="en_US">
+			<Text>Усе наземныя юніты атрымаюць +2 да [ICON_Movement] руху.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_MUSAEUM_DESCRIPTION" Language="en_US">
+			<Text>Падвойвае [ICON_Science] ачкі навукі ўва ўсіх вашых гарадах.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_RECORDKEEPING_DESCRIPTION" Language="en_US">
+			<Text>Утрыманне юнітаў змяншаецца на 1 [ICON_Gold] адз. золата за ход на кожны юніт.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_ROYAL_BODYGUARDS_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Culture] культуры ў [ICON_Capital] сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_SCORPION_KING_DESCRIPTION" Language="en_US">
+			<Text>+4 [ICON_Strength] да баявой моцы ўсіх юнітаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_TRADE_AGREEMENT_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Gold] золата за міжнародныя [ICON_TradeRoute] гандлёвыя шляхі.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_VALLEY_OF_THE_KINGS_DESCRIPTION" Language="en_US">
+			<Text>Бонусы ад суседства са святым месцам: +100%.</Text>
+		</Replace>
+		<Replace Tag="LOC_ROUTE_NUBIA_SCENARIO_ROAD_DESCRIPTION" Language="en_US">
+			<Text>Можа быць пракладзена ў выглядзе [ICON_TradeRoute] гандлёвага шляху. Павялічвае [ICON_Movement] хуткасць руху ўсіх юнітаў пры перасоўванні паміж клеткамі дарогі.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_FISHING_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам грузіцца на караблі.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_NUBIA_SCENARIO_SAILING_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе ўсім сухапутным юнітам грузіцца на караблі.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_NUBIA_SCENARIO_MATHEMATICS_DESCRIPTION" Language="en_US">
+			<Text>Усе марскія юніты атрымаюць +2 да [ICON_Movement] руху.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_MEDICINE_DESCRIPTION" Language="en_US">
+			<Text>Пасля выканання атрымаеце 2-х дармовых асаднікаў у [ICON_Capital] сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUBIA_SCENARIO_GREAT_GENERAL_DESCRIPTION" Language="en_US">
+			<Text>У гэтым сцэнары кожны [ICON_GreatGeneral] выбітны вайскавод дае пасіўны эфект усім найблізкім юнітам.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUBIA_SCENARIO_GREAT_PROPHET_DESCRIPTION" Language="en_US">
+			<Text>У гэтым сцэнары няма [ICON_GreatProphet] выбітных прарокаў. І Егіпет, і Нубія атрымаюць рэлігію адразу пасля заснавання сталіцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUBIA_SCENARIO_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>Унікальны егіпецкі дальнабойны юніт Старажытнага свету, які замяняе цяжкую калясніцу. 6 [ICON_Movement] АР, калі рух пачынаецца на адкрытай мясцовасці.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NUBIA_SCENARIO_SETTLER_DESCRIPTION" Language="en_US">
+			<Text>Будуе новыя гарады. У гэтым сцэнары асаднікаў няможна падрыхтаваць – толькі атрымаць у выніку стварэння сацыяльных інстытутаў і даследавання медыцыны.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HIGH_PRIESTESS_DESCRIPTION" Language="en_US">
+			<Text>Унікальны будаўнік, заданне якога – пабудаваць адзін сфінкс ці нубійскую піраміду.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MEDJAY_DESCRIPTION" Language="en_US">
+			<Text>Магутны юніт блізкага бою з вялікім баявым бонусам на дружалюбнай тэрыторыі і ў межах 1 клеткі ад святога месца. Меджаі можа быць створаны толькі ў горадзе са святым месцам, дзе ёсць свяцілішча.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_DOUBLE_STRENGTH_NAME" Language="en_US">
+			<Text>Побач вялікі вайскавод</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_DOUBLE_STRENGTH_DESCRIPTION" Language="en_US">
+			<Text>Баявы бонус +10 [ICON_Strength] ад вялікага вайскавода.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MEDJAY_DESCRIPTION" Language="en_US">
+			<Text>+20 [ICON_Strength] да баявога бонуса пры абароне побач са свяцілішчам.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_STATE_WORKFORCE" Language="en_US">
+			<Text>Апрацуйце 8 клетак.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_FOREIGN_TRADE" Language="en_US">
+			<Text>Знайдзіце 6 гарадоў-дзяржаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_SCRIBES" Language="en_US">
+			<Text>Пабудуйце 2 розныя спец. раёны.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_BOOK_OF_THE_DEAD" Language="en_US">
+			<Text>Захапіце горад.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_INSTITUTION_OF_THE_MUSES" Language="en_US">
+			<Text>Даследуйце тэхналогію «Матэматыка».</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_SEPATS" Language="en_US">
+			<Text>Пабудуйце 2 вайсковыя лагеры.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_BOARDGAMES_ATHLETICS" Language="en_US">
+			<Text>Давядзіце насельніцтва сваёй цывілізацыі да 24.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_AMUN_LORD_OF_ALL_GODS" Language="en_US">
+			<Text>Пабудуйце 3 свяцілішчы.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_STATE_WORKFORCE" Language="en_US">
+			<Text>Землі вакол нашых першых гарадоў развіваюцца, і зараз мы можам заняцца паляпшэннем працэсаў вытворчасці.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_FOREIGN_TRADE" Language="en_US">
+			<Text>Кантакты з іншымі дзяржавамі адкрылі перад вамі магчымасці выгаднага гандлю.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_SCRIBES" Language="en_US">
+			<Text>Наш горад разрастаецца гэтак хутка, што нам патрэбен новы клас працаўнікоў, каб усё запісваць.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_BOOK_OF_THE_DEAD" Language="en_US">
+			<Text>Многія нашы героі загінулі падчас заваёвы горада. Палегчым жа ім пераход у царства мёртвых.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_INSTITUTION_OF_THE_MUSES" Language="en_US">
+			<Text>Нашы матэматыкі паказваюць прыклад праўдзівай вучонасці. Дапаможам жа ім – збяром усе веды свету пад адным дахам.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_SEPATS" Language="en_US">
+			<Text>Пабудаваўшы вайсковы лагер для абароны нашых земляў і аховы меж, мы ўсталявалі сваю ўладу над гэтым рэгіёнам.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_BOARDGAMES_ATHLETICS" Language="en_US">
+			<Text>Усё больш жыхароў вашых земляў маюць патрэбу ў забаўках. Можа, згуляем у сенет ці ўладкуем спаборніцтва ў стральбе з лука?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_AMUN_LORD_OF_ALL_GODS" Language="en_US">
+			<Text>Зараз наш народ прызнае аднаго вярхоўнага бога – Амона. Давайце ўзвядзём велічныя храмы ў гонар таго, хто даў нам хлеб надзённы.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_SAILING" Language="en_US">
+			<Text>Распрацуйце 2 марскія рэсурсы.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_IRRIGATION" Language="en_US">
+			<Text>Пабудуйце 4 фермы.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_THE_WHEEL" Language="en_US">
+			<Text>Стварыце пашу.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_MEDICINE" Language="en_US">
+			<Text>Стварыце 2 плантацыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_FORTIFICATION" Language="en_US">
+			<Text>Станьце мэтай абвяшчэння вайны.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_TOMB_BUILDING" Language="en_US">
+			<Text>Адкрыйце сац. інстытут «Кніга мёртвых».</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_CELESTIAL_NAVIGATION" Language="en_US">
+			<Text>Стварыце 2 галеры.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_MATHEMATICS" Language="en_US">
+			<Text>Пабудуйце 3 ніламеры.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_IRON_WORKING" Language="en_US">
+			<Text>Знішчыце варожага мечніка.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_HORSEBACK_RIDING" Language="en_US">
+			<Text>Знішчыце варожага вершніка.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_SAILING" Language="en_US">
+			<Text>Вашы рыбакі дапамагаюць нам зразумець прынцыпы пабудовы баявых караблёў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_IRRIGATION" Language="en_US">
+			<Text>Вашы шматлікія фермы дапамагаюць зразумець важнасць ірыгацыі земляў.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_THE_WHEEL" Language="en_US">
+			<Text>Прыручэнне жывёл павінна прынесці нам карысць. Можа, жывёлы павязуць нашых ваяроў на бітву?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_MEDICINE" Language="en_US">
+			<Text>На палях вырастаюць зёлкі разам з травой. Можа, некаторыя з іх можна скарыстаць у медыцыне?</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_FORTIFICATION" Language="en_US">
+			<Text>Перад пагрозай уварвання ваш народ гатовы вынаходзіць новыя метады абароны.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_TOMB_BUILDING" Language="en_US">
+			<Text>Мы запісалі ўсе належныя малітвы і можам будаваць магільні ў гонар нашых выбітных людзей.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION" Language="en_US">
+			<Text>Маракі на вашых галерах навучыліся пракладаць курс, арыентуючыся па зорным небе.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_MATHEMATICS" Language="en_US">
+			<Text>Вашы лепшыя навукоўцы дасягнулі вялікай дакладнасці ў прадказанні разводдзяў Ніла.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_IRON_WORKING" Language="en_US">
+			<Text>Мы адолелі нямала мечнікаў, і неўзабаве самі зможам уводзіць у бой такія ж юніты.</Text>
+		</Replace>
+		<Replace Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_HORSEBACK_RIDING" Language="en_US">
+			<Text>Мы адолелі нямала вершнікаў, і неўзабаве самі зможам уводзіць у бой такія ж юніты.</Text>
+		</Replace>
+		<Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_TEXT" Language="en_US">
+			<Text>Вы першым з гульцоў пабудавалі 7 храмаў у славу вялікага Амона. Вашы дзеі годныя вялікай піраміды!</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_1_NAME" Language="en_US">
+			<Text>Увасабленне Амона</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_2_NAME" Language="en_US">
+			<Text>Выбраннік Ісіды</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_3_NAME" Language="en_US">
+			<Text>Памазанец Анубіса</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_4_NAME" Language="en_US">
+			<Text>Вучань Гора</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_5_NAME" Language="en_US">
+			<Text>Забыты Нячысцікам</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_6_NAME" Language="en_US">
+			<Text>Аглушаны Ашам</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_1_QUOTE" Language="en_US">
+			<Text>Вы прыязныя валадару багоў (не дайце поспеху закруціць вам галаву).</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_2_QUOTE" Language="en_US">
+			<Text>Ісіда ліе слёзы радасці, пазіраючы на вашы поспехі.</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_3_QUOTE" Language="en_US">
+			<Text>Для вашых вантроб у яго адменныя канопы.</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_4_QUOTE" Language="en_US">
+			<Text>Ушанаваўшы працу Гора ніколі не трапіш у пясчаную буру.</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_5_QUOTE" Language="en_US">
+			<Text>Можа, ён папярэдзіць пра змеяў у наступны раз.</Text>
+		</Replace>
+		<Replace Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_6_QUOTE" Language="en_US">
+			<Text>Ні ў адной пустэльні вам не адшукаць аазіса – толькі бязмежныя пяскі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_1" Language="en_US">
+			<Text>Аднавіць Старажытнае царства</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_2" Language="en_US">
+			<Text>Нубія нацягвае цеціву</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_3" Language="en_US">
+			<Text>Пітаці вяртаюцца ў Нубію</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_4" Language="en_US">
+			<Text>Пітаці вяртаюцца да нас на службу</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_5" Language="en_US">
+			<Text>Фараон Ментухатэп II займае пасад</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_6" Language="en_US">
+			<Text>Ментухатэп II сышоў да Асірыса</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_7" Language="en_US">
+			<Text>Вярхоўная жрыца адкрывае святое месца</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_8" Language="en_US">
+			<Text>Цар Піянхі займае пасад</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_9" Language="en_US">
+			<Text>Піянхі сышоў да Асірыса</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_10" Language="en_US">
+			<Text>Царыца Аманірэна займае пасад</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_11" Language="en_US">
+			<Text>Аманірэна сышла да Асірыса</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_12" Language="en_US">
+			<Text>Уварванне гіксосаў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_13" Language="en_US">
+			<Text>Уварванне лівійцаў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_14" Language="en_US">
+			<Text>Уварванне асірыйцаў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_15" Language="en_US">
+			<Text>Уварванне персаў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_16" Language="en_US">
+			<Text>Уварванне македонцаў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_17" Language="en_US">
+			<Text>Уварванне рымлянаў</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_18" Language="en_US">
+			<Text>Таемныя баявыя сланы</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_1" Language="en_US">
+			<Text>Старажытнага царства больш няма, у краіне разгарэлася грамадзянская вайна. Але вашай сям'і прызначана, скарыстаўшыся кароткатэрміновай дапамогай нубійскіх наймітаў, захапіць гарады на берагах ракі, а потым з'яднаць Егіпет.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_2" Language="en_US">
+			<Text>Ваш род кантралюе найважную пляцоўку Ніла. Вашы паўночныя суседзі, егіпцяне, загразлі ў звадзе, а Краіна Лукаў ушчыльную падышла да таго, каб стаць імперыяй.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_3" Language="en_US">
+			<Text>Нубійскія найміты выканалі свае абавязанні па дамове. Яны вяртаюцца ў Краіну Лукаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_4" Language="en_US">
+			<Text>Наёмныя лучнікі выканалі свае абавязанні па дамове з Егіптам. Яны вяртаюцца на радзіму, атрымаўшы досвед і добрую плату.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_5" Language="en_US">
+			<Text>Запаветная мара Ментухатэпа II – уз'яднаць Верхні і Ніжні Егіпет. Калі ён гэта адолее, то атрымае ганаровы тытул «Гор, які злучыў дзве краіны».</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_6" Language="en_US">
+			<Text>Доўгае кіраванне Ментухатэпа II падышло да канца. Ён адпраўляецца ў вандраванне па замагільным свеце, дзе яго чакае суд Асірыса. Будзем спадзявацца, што сваімі дзеямі ён заслужыў вечнае жыццё.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_7" Language="en_US">
+			<Text>Рэлігійны лідар прапануе падтрымку ва ўзвядзенні культавага будынка. Яна дапаможа нам стварыць новыя знакі ўлады нашых багоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_8" Language="en_US">
+			<Text>Учынны ўладнік Піянхі прагне выратаваць егіпцянаў ад гнілаты, што пасялілася ў сэрцах іх спадароў. Тым самым ён зможа пашырыць уладу Нубіі на егіпецкую тэрыторыю.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_9" Language="en_US">
+			<Text>Доўгае кіраванне Піянхі падышло да канца. Ён адпраўляецца ў вандраванне па замагільным свеце, дзе яго чакае суд Асірыса. Будзем спадзявацца, што сваімі дзеямі ён заслужыў вечнае жыццё.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_10" Language="en_US">
+			<Text>Лютай царыцы Аманірэне не страшныя іншаземныя захопнікі. Яна асабіста павядзе войска ў бой супраць кожнага, хто асмеліцца пагражаць Нубіі, нават калі за ім стаіць наймоцнае войска ў свеце.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_11" Language="en_US">
+			<Text>Кіраванне ганарлівай Аманірэны скончылася. Яна адпраўляецца ў вандраванне па замагільным свеце, дзе яе чакае суд Асірыса. Будзем спадзявацца, што сваімі дзеямі яна заслужыла вечнае жыццё.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_12" Language="en_US">
+			<Text>З паўночнага ўсходу на нас напалі захопнікі! Гэта гіксосы – жорсткія левантыйскія ваяры на баявых калясніцах. Яны карыстаюцца нязнанай дагэтуль на берагах Ніла зброяй: коньмі.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_13" Language="en_US">
+			<Text>Захопнікі ідуць з Міжземнамор'я! Лівійцы надыходзяць з захаду. Яны рухаюцца ўздоўж марскога берага да ўтокі Ніла. З усходу насоўваюцца іх загадкавыя хаўруснікі, «народы мора».</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_14" Language="en_US">
+			<Text>З паўночнага ўсходу ідуць захопнікі! Асірыйскае войска пад камандаваннем Ша-набу-шу ўжо скарыла Міжрэчча. Бойцеся страшнага ворага!</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_15" Language="en_US">
+			<Text>З поўначы ідуць захопнікі! Персы наступаюць на пяты асірыйцам! Ці зможа адно з усходніх царстваў замацавацца на берагах Ніла?</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_16" Language="en_US">
+			<Text>З паўночнага ўсходу ідуць захопнікі! Кажуць, што Аляксандр III Македонскі мае намер заваяваць свет ад краю да краю. Зараз ён вырашыў зрабіць жыхароў даліны Ніла сваімі падданымі!</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_17" Language="en_US">
+			<Text>З поўначы рухаюцца захопнікі! Магутныя легіёны рымскага войска прыбылі з захаду, каб абвясціць Ніл сваім. Ці знойдзецца той, хто зможа спыніць наймоцнае войска гэтай эпохі?</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_18" Language="en_US">
+			<Text>Выдаткаваўшы шмат сіл і сродкаў, мы навучылі баявых сланоў у сакрэтным лагеры. Захоўвайце іх! Сланы размнажаюцца павольна; мы можам падтрымваць іх колькасць, але не чакайце павелічэння пагалоўя.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_1" Language="en_US">
+			<Text>Нубійскія лучнікі-пітаці будуць служыць вам на працягу наступных 6 хадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_2" Language="en_US">
+			<Text>Заснаваць горад і даследаваць багатыя радовішчы карысных выкапняў вакол яго.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_3" Language="en_US">
+			<Text>Вашы лучнікі-пітаці выдалены.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_4" Language="en_US">
+			<Text>Дасведчаныя лучнікі-пітаці з'явіліся каля нашай [ICON_Capital] сталіцы. Мы таксама атрымалі 100 [ICON_Gold] золата.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_5" Language="en_US">
+			<Text>Гэты [ICON_GreatGeneral] выбітны вайскавод будзе камандаваць вашым войскам на працягу наступных 15 хадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_6" Language="en_US">
+			<Text>[ICON_GreatGeneral] Выбітны вайскавод Ментухатэп II выдалены.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_7" Language="en_US">
+			<Text>Вярхоўную жрыцу можна скарыстаць для пабудовы ўнікальнага паляпшэння (сфінкса ці нубійскай піраміды). Папярэдне патрабуецца вывучыць каменны мур.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_8" Language="en_US">
+			<Text>Гэты [ICON_GreatGeneral] выбітны вайскавод будзе камандаваць вашым войскам на працягу наступных 15 хадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_9" Language="en_US">
+			<Text>[ICON_GreatGeneral] Выбітны вайскавод Піянхі выдалены.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_10" Language="en_US">
+			<Text>Гэты [ICON_GreatGeneral] выбітны вайскавод будзе камандаваць вашым войскам на працягу наступных 15 хадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_11" Language="en_US">
+			<Text>[ICON_GreatGeneral] Выбітны вайскавод Аманірэна выдалена.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_12" Language="en_US">
+			<Text>Захопнікі-гіксосы імкнуцца захапіць гарады і стварыць сваё царства на міжземнаморскім узбярэжжы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_13" Language="en_US">
+			<Text>Лівійскія захопнікі імкнуцца падначаліць сабе гарады і стварыць сваё царства на міжземнаморскім узбярэжжы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_14" Language="en_US">
+			<Text>Асірыйскія захопнікі імкнуцца падначаліць сабе гарады і стварыць сваё царства на міжземнаморскім узбярэжжы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_15" Language="en_US">
+			<Text>Персідскія захопнікі імкнуцца падначаліць сабе гарады і стварыць сваё царства на міжземнаморскім узбярэжжы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_16" Language="en_US">
+			<Text>Македонскія захопнікі імкнуцца падначаліць сабе гарады і стварыць сваё царства на міжземнаморскім узбярэжжы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_17" Language="en_US">
+			<Text>Рымскія захопнікі імкнуцца падначаліць сабе гарады і стварыць сваё царства на міжземнаморскім узбярэжжы.</Text>
+		</Replace>
+		<Replace Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_18" Language="en_US">
+			<Text>Даступны новыя юніты: баявыя сланы. Іх няможна стварыць у горадзе, толькі атрымаць у рамках гэтай падзеі.</Text>
+		</Replace>
+		<Replace Tag="LOC_TECH_FISHING_NAME" Language="en_US">
+			<Text>Рыбная лоўля|рыбнай лоўлі|рыбнай лоўлі|рыбную лоўлю|рыбнай лоўляй|рыбнай лоўлі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_MEDICINE_NAME" Language="en_US">
+			<Text>Медыцына|медыцыны|медыцыне|медыцыну|медыцынай|медыцыне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_FORTIFICATION_NAME" Language="en_US">
+			<Text>Умацаванні|умацаванняў|умацаванням|умацаванні|умацаваннямі|умацаваннях</Text>
+			<Gender>neuter</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TECH_TOMB_BUILDING_NAME" Language="en_US">
+			<Text>Будаванне магільняў|будаванні магільняў|будаванню магільняў|будаванне магільняў|будаваннем магільняў|будаванні магільняў</Text>
+			<Gender>neuter</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PROMOTION_SEBIUMEKER_DESCRIPTION" Language="en_US">
+			<Text>+{1_Value} за вераванне «Бог-вартавы (Себуімекер)»</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_NILE_RIVER_FAITH" Language="en_US">
+			<Text>+{1_num} [ICON_Faith] веры за суседства з Нілам.</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_NILE_RIVER_GOLD" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] золата за суседства з {1_Num : plural 1?клеткай; 2?клеткамі; other?клеткамі;} Ніла.</Text>
+		</Replace>
+		<Replace Tag="LOC_COMBAT_PREVIEW_SCORPION_KING_COMBAT_STRENGTH" Language="en_US">
+			<Text>+{1_Value} ад курса &quot;Цар Скарпіён&quot;</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_MEDJAY_HOLY_SITE_COMBAT_MODIFIER_DESCRIPTION" Language="en_US">
+			<Text>+{1_Value} да баявой моцы на дружалюбнай тэрыторыі каля святога месца.</Text>
+		</Replace>
+		<Replace Tag="LOC_VICTORY_TEMPLE_COUNT" Language="en_US">
+			<Text>{1_Player} – пабудавана храмаў Амона: {2_Num}</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HIGH_PRIESTESS_NAME" Language="en_US">
+			<Text>Вярхоўная жрыца|вярхоўнай жрыцы|вярхоўнай жрыцы|вярхоўную жрыцу|вярхоўнай жрыцай|вярхоўнай жрыцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MEDJAY_NAME" Language="en_US">
+			<Text>Меджаі|меджаяў|меджаям|меджаяў|меджаямі|меджаях</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+	</LocalizedText>
+</GameData>

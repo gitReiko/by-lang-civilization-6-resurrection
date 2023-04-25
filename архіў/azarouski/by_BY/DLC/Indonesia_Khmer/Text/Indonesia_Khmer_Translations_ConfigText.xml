@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_IMPROVEMENT_KAMPUNG_NAME" Language="en_US">
+			<Text>Кампанг|кампанга|кампангу|кампанг|кампангам|кампанзе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_PRASAT_NAME" Language="en_US">
+			<Text>Прасат|Прасата|Прасату|Прасат|Прасатам|Прасаце</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_INDONESIA_NAME" Language="en_US">
+			<Text>Інданезія|Інданезіі|Інданезіі|Інданезію|Інданезіяй|Інданезіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION" Language="en_US">
+			<Text>Інданезійская імперыя|Інданезійскай імперыі|Інданезійскай імперыі|Інданезійскую імперыю|Інданезійскай імперыяй|Інданезійскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KHMER_NAME" Language="en_US">
+			<Text>Кхмеры|кхмераў|кхмерам|кхмераў|кхмерамі|кхмерах</Text>
+			<Gender>masculine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION" Language="en_US">
+			<Text>Кхмерская імперыя|Кхмерскай імперыі|Кхмерскай імперыі|Кхмерскую імперыю|Кхмерскай імперыяй|Кхмерскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_GITARJA_NAME" Language="en_US">
+			<Text>Трыбхувана|Трыбхуваны|Трыбхуване|Трыбхувану|Трыбхуванай|Трыбхуване</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_JAYAVARMAN_NAME" Language="en_US">
+			<Text>Джаяварман VII|Джаявармана VII|Джаяварману VII|Джаявармана VII|Джаяварманам VII|Джаяварману VII</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_HA_LONG_BAY_NAME" Language="en_US">
+			<Text>Бухта Халонг|Бухты Халонг|Бухте Халонг|Бухту Халонг|Бухтой Халонг|Бухте Халонг</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_GITARJA" Language="en_US">
+			<Text>Адважная махарані Трыбхувана, валадарка дзесяці тысяч выспаў, у морах Інданезіі – твая сіла. Вялікая багіня трох светаў, пануй над усімі водамі, што ёсць пад сонцам. Даверся надзейнаму флот, о адважная махарані, і раскідай, як бура, усіх тых, хто прыйдзе на берагі Інданезіі з мячом.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION" Language="en_US">
+			<Text>Дазваляе будаўнікам будаваць кампанг (унікальна для Інданезіі).[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] вытворчасці і +1 [ICON_Housing] жытла. +1 [ICON_FOOD] ежы за кожнае суседняе рыбацкае судна. Дадатковая [ICON_PRODUCTION] вытворчасць, [ICON_Housing] жытло і [ICON_TOURISM] турызм па меры пасоўвання па дрэве тэхналогій і сацыяльных інстытутаў. Можна будаваць толькі на ўзбярэжжы ці возеры поруч з марскімі рэсурсамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME" Language="en_US">
+			<Text>Унікальнае паляпшэнне Інданезіі: кампанг</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME" Language="en_US">
+			<Text>Вялікая Нусантара</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION" Language="en_US">
+			<Text>Клеткі ўзбярэжжа і азёр даюць невялікі бонус за суседства святому месцу, кампусу, прамысловай зоне і тэатральнаму пляцу. +1 [ICON_AMENITIES] да здаволення ад забавак для кожнага забаўляльнага комплексу поруч з клеткай узбярэжжа ці возера.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME" Language="en_US">
+			<Text>Унікальны інданезійскі юніт: джонка</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME" Language="en_US">
+			<Text>Вялікая багіня Трох светаў</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION" Language="en_US">
+			<Text>Марскія юніты можна купляць за [ICON_FAITH] веру. Рэлігійныя юніты не марнуюць ачкі руху пры гружэнні на карабель і выгрузку з карабля. +2 [ICON_FAITH] веры для цэнтра горада за суседства з клеткамі ўзбярэжжа ці азёр.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION" Language="en_US">
+			<Text>Унікальны інданезійскі вайскова-марскі юніт Сярэднявечча, які замяняе фрэгат. Усе юніты ў шыхце атрымаюць [ICON_Movement] хуткасць руху карабля суправаджэння і +5 [ICON_Strength] да баявой моцы ў шыхце.</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN" Language="en_US">
+			<Text>Мудры Джаяварман, сёмы, хто носіць гэта імя! Клопатам пра свой народ ты заваяваў павагу кхмераў. Распараджайся крыніцамі прэснай вады, каб даць ежу галодным, – і ты наблізішся да нябёс. Смялей жа, боскі архітэктар! Пабудуй імперыю на мяжы дасканаласці, а тваіх ворагаў хай утопчуць у пыл баявыя сланы!</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_PRASAT_DESCRIPTION" Language="en_US">
+			<Text>Унікальны будынак кхмераў. Замяшчае храм. Патрэбны, каб наймаць апосталаў і інквізітараў за [ICON_Faith] веру. Місіянеры, нанятыя ў гэтым горадзе, адразу атрымаюць здольнасць «Пакутнік», якая дае [ICON_GreatWork_Relic] рэліквію, калі юніт гіне ў тэалагічнай баталіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME" Language="en_US">
+			<Text>Унікальны будынак кхмераў: прасат</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME" Language="en_US">
+			<Text>Вялікі барай</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_FAITH] веры і +1 [ICON_AMENITIES] здаволення ад забавак у кожным горадзе з акведукам. Фермы поруч з акведукам даюць +2 [ICON_FOOD] ежы.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME" Language="en_US">
+			<Text>Унікальны кхмерскі юніт: дамрэй</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME" Language="en_US">
+			<Text>Манастыры караля</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION" Language="en_US">
+			<Text>Святыя месцы даюць +2 [ICON_FOOD] ежы і +1 [ICON_HOUSING] жытла, калі знаходзяцца на рацэ. Святыя месцы актывуюць культурны захоп.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION" Language="en_US">
+			<Text>Унікальны кхмерскі аблогавы юніт Сярэднявечча. Можа рухацца і страляць у той жа ход, мае зону кантролю.</Text>
+		</Replace>
+		<Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME" Language="en_US">
+			<Text>Паліт. карта Ўсходняй Азіі</Text>
+		</Replace>
+		<Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION" Language="en_US">
+			<Text>Цывілізацыі пачынаюць гульню на месцы гістарычных сталіц на карце ўсходняй Азіі.</Text>
+		</Replace>
+		<Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME" Language="en_US">
+			<Text>Усходняя Азія</Text>
+		</Replace>
+		<Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION" Language="en_US">
+			<Text>Карта, падобная на Ўсходнюю Азію месцаваннем рэсурсаў, масіваў сушы і гістарычных месцаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_FEATURE_HA_LONG_BAY_DESCRIPTION" Language="en_US">
+			<Text>Дзіва прыроды на дзве клеткі. Сустракаецца на ўзбярэжжы, дае +3 [ICON_FOOD] ежы, +1 [ICON_PRODUCTION] вытворчасці і +1 [ICON_CULTURE] культуры. +15 [ICON_Strength] баявой моцы ў абароне на гэтай клетцы.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_INDONESIAN_JONG_NAME" Language="en_US">
+			<Text>Джонка|джонкі|джонцы|джонку|джонкай|джонцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_UNIT_KHMER_DOMREY_NAME" Language="en_US">
+			<Text>Дамрэй|дамрэя|дамрэю|дамрэя|дамрэем|дамрэі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+	</LocalizedText>
+</GameData>

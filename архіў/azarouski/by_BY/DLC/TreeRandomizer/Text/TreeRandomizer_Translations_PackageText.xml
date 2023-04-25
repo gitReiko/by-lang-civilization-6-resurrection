@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TITLE" Language="en_US">
+      <Text>Набор: «Выпадковыя тэхналогіі і сац. інстытуты»</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_TEASER" Language="en_US">
+      <Text>Гульнявы рэжым з выпадковымі тэхналогіямі і сац. інстытутамі</Text>
+    </Replace>
+    <Replace Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION" Language="en_US">
+      <Text>У склад уваходзіць гульнявы рэжым з выпадковымі тэхналогіямі і сац. інстытутамі</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

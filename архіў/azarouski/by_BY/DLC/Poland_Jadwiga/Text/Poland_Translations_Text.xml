@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CITY_NAME_KRAKOW" Language="en_US">
+			<Text>Кракаў|Кракава|Кракаву|Кракаў|Кракавам|Кракаве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WARSAW" Language="en_US">
+			<Text>Варшава|Варшавы|Варшаве|Варшаву|Варшавай|Варшаве</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WROCLAW" Language="en_US">
+			<Text>Вроцлаў|Вроцлава|Вроцлаву|Вроцлаў|Вроцлавам|Вроцлаве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_POZNAN" Language="en_US">
+			<Text>Познань|Познані|Познані|Познань|Познанню|Познані</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GDANSK" Language="en_US">
+			<Text>Гданьск|Гданьска|Гданьску|Гданьск|Гданьскам|Гданьску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BYDGOSZCZ" Language="en_US">
+			<Text>Быдгашч|Быдгашча|Быдгашчу|Быдгашч|Быдгашчам|Быдгашчы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LUBLIN" Language="en_US">
+			<Text>Люблін|Любліна|Любліну|Люблін|Люблінам|Любліне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RADOM" Language="en_US">
+			<Text>Радам|Радама|Радаму|Радам|Радамам|Радаме</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LODZ" Language="en_US">
+			<Text>Лодзь|Лодзі|Лодзі|Лодзь|Лоддзю|Лодзі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GNIEZNO" Language="en_US">
+			<Text>Гнезна|Гнезна|Гнезну|Гнезна|Гнезнам|Гнезне</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PLOCK" Language="en_US">
+			<Text>Плоцк|Плоцка|Плоцку|Плоцк|Плоцкам|Плоцку</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TARNOW" Language="en_US">
+			<Text>Тарнуў|Тарнува|Тарнуву|Тарнуў|Тарнувам|Тарнуве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KALISZ" Language="en_US">
+			<Text>Каліш|Каліша|Калішу|Каліш|Калішам|Калішы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LEGNICA" Language="en_US">
+			<Text>Легніца|Легніцы|Легніцы|Легніцу|Легніцай|Легніцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SZCZECIN" Language="en_US">
+			<Text>Шчэцін|Шчэціна|Шчэціну|Шчэцін|Шчэцінам|Шчэціне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SACZ" Language="en_US">
+			<Text>Сонч|Сонча|Сончу|Сонч|Сончам|Сончы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PIOTRKOW_TRYBUNALSKI" Language="en_US">
+			<Text>Пётркаў-Трыбунальскі|Пётркава-Трыбунальскага|Пётркаву-Трыбунальскаму|Пётркаў-Трыбунальскі|Пётркавам-Трыбунальскім|Пётркаве-Трыбунальскім</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KATOWICE" Language="en_US">
+			<Text>Катавіцы|Катавіцы|Катавіцы|Катавіцы|Катавіцы|Катавіцы</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_INOWROCLAW" Language="en_US">
+			<Text>Інаўроцлаў|Інаўроцлава|Інаўроцлаву|Інаўроцлаў|Інаўроцлавам|Інаўроцлаве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GLOGOW" Language="en_US">
+			<Text>Глогуў|Глогува|Глогуву|Глогуў|Глогувам|Глогуве</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CZESTOCHOWA" Language="en_US">
+			<Text>Чанстахова|Чанстаховы|Чанстахове|Чанстахову|Чанстаховай|Чанстахове</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ZAMOSC" Language="en_US">
+			<Text>Замасць|Замасця|Замасцю|Замасць|Замасцем|Замасці</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RACIBORZ" Language="en_US">
+			<Text>Рацібуж|Рацібужа|Рацібужу|Рацібуж|Рацібужам|Рацібужы</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SWIDNICA" Language="en_US">
+			<Text>Свідніца|Свідніцы|Свідніцы|Свідніцу|Свідніцай|Свідніцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RADOMSKO" Language="en_US">
+			<Text>Радомска|Радомска|Радомска|Радомска|Радомска|Радомска</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KONIN" Language="en_US">
+			<Text>Конін|Коніна|Коніну|Конін|Конінам|Коніне</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SLUPSK" Language="en_US">
+			<Text>Слупск|Слупска|Слупску|Слупск|Слупскам|Слупску</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WALBRZYCH" Language="en_US">
+			<Text>Валбжых|Валбжыха|Валбжыху|Валбжых|Валбжыхам|Валбжыху</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_STALOWA_WOLA" Language="en_US">
+			<Text>Сталёва-Воля|Сталёва-Волі|Сталёва-Волі|Сталёва-Волю|Сталёва-Воляй|Сталёва-Волі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LWOW" Language="en_US">
+			<Text>Львоў|Львова|Львову|Львоў|Львовам|Львове</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_POLAND_DESCRIPTION" Language="en_US">
+			<Text>Польская імперыя|Польскай імперыі|Польскай імперыі|Польскую імперыю|Польскай імперыяй|Польскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_POLAND_ADJECTIVE" Language="en_US">
+			<Text>польск.|польск.|польск.|польск.|польск.|польск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SUKIENNICE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Дзякуючы ўдаламу месцаванню паміж Еўропай і Расіяй, Польшча заўсёды вяла ажыўлены гандаль. Прыкладам, у суконных радах (sukiennice па-польску), змесцаваных у самых буйных гарадах каралеўства. Яны складаліся з намётаў, у якіх прадавалі сукно, скураныя вырабы, воск, соль, перац, спецыі і шоўк з Далёкага Ўсходу. У суконных радах тавары не толькі набывалі ў замежнікаў, але і прадавалі. Звычайна рады стаялі ў цэнтры гарадоў і з'яўляліся міжнароднымі кірмашамі. Яны былі куды большыя і ярчэйшыя, чым пасрэдныя «палатачнікі», раскіданыя па ўсёй Еўропе. У такіх радах і гандлёвых галерэях складалі ўгоды купцы з усяго свету, а забяспечаныя мясцовыя жыхары знаходзілі ўсё, што душа магла пажадаць. Самым старым і буйным суконным радам быў кракаўскі, перабудаваны ў духу Рэнесансу ў 1555 годзе пасля пажару. Да канца XVI стагоддзя гэта быў найважны цэнтр гандлю паміж Усходам і Захадам, а сёння на яго прылаўках можна знайсці заедкі і сувеніры для турыстаў. Аднак суконныя рады па-ранейшаму актыўна развіваюцца ў іншых польскіх гарадах, такіх як Познань, Вроцлаў і Торунь.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Найболей характэрнай асаблівасцю рэльефу Польшчы з'яўляецца шырокая раўніна, якая распасціраецца ад Балтыйскага мора на поўначы да Карпацкіх гор на поўдні. З-за гэтай раўніны менавіта праз Польшчу еўрапейцы адпраўляліся заваёўваць Азію, а азіяты – Еўропу. Апроч таго, Польшча, на жаль, апынулася паміж Германіяй і Расіяй. Абедзве краіны вельмі цікавіліся багатымі польскімі землямі. І ўсё ж, Польшча не здавала пазіцый, і ў свой час сама была самым галоўным задзіракай у рэгіёне.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Згодна з легендай, племем палянаў кіраваў нейкі Мешка, умацаванае селішча якога знаходзілася ў Гнезна. Калі мадзяры пачалі пагражаць кракаўскаму племю віслянаў, з якім у Мешка існавалі цесныя сувязі, ён з'яднаў палянаў з віслянамі і стаў першапачынальнікам дынастыі Пястаў. Пад уплывам рымска-каталіцкіх місіянераў з Багеміі Мешка прыняў хрысціянства і быў хрышчаны ў 966 годзе. Хоць з гэтай нагоды ідуць спрэчкі, большасць навукоўцаў лічыць годам заснавання Польшчы менавіта гэты год.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Суровым спадчыннікам Мешка паступова атрымалася звярнуць палякаў-паганцаў у хрысціянства, стварыць моцную дынастыю і сілай інтэграваць Польшчу ў еўрапейскую культуру. Сын Мешка Баляслаў стварыў нацыянальную царкоўную арганізацыю, а свецкія ўлады Польшчы былі прызнаны імператарам Святой Рымскай імперыі. У 1025 годзе Баляслаў стаў першым каралём Польшчы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Хутка Польшча распасціралася ад Балтыйскага мора да Карпат. Да 1100 года былі прыкладна вызначаны яе гістарычныя межы. Аднак пасля смерці Баляслава III у 1138 годзе каралеўства было падзелена паміж яго сынамі – традыцыі маярату тады ў Польшчы не існавала. Гэта прывяло да сталых унутраных канфліктаў і ўзмацнення вонкавага ціску, які не спадаў на працягу некалькіх наступных стагоддзяў.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Уладзіслаў, князь з роду Пястаў, прысвяціў сваё жыццё з'яднанню краіны і быў каранаваны як кароль Уладзіслаў I. Баронячы Польшчу, Уладзіславаў распачаў крыжовыя паходы супраць паганцаў-літоўцаў і манголаў, а таксама пачаў вайну, каб выгнаць тэўтонскіх рыцараў. карону Уладзіслава ўспадкаваў яго таленавіты сын, які напачатку кіравання быў Казімірам III, а ў канцы – Казімірам Вялікім. Дзякуючы майстэрскай дыпламатыі і хуткім пераможным войнам ён не толькі захаваў і прымножыў тое, што зрабіў яго бацька, але і зрабіў Польшчу цэнтрам культуры, вучонасці і гандлю. Казімір больш чым удвая павялічыў тэрыторыю каралеўства, рэарганізаваў заканадаўства і эканамічную сістэму і заснаваў у Кракаве першы польскі ўніверсітэт. Пад ліберальным кіраваннем Казіміра Польшча стала прытулкам для гаротных і пераследаваных. Немцы сяліліся ў гарадах, армянскія і славянскія ўцекачы – у сельскай мясцовасці, тысячы габрэяў – па ўсёй краіне. Аднак у Казіміра Вялікага не было спадчыннікаў, і ён памёр у 1370 годзе, застаўшыся апошнім каралём дынастыі Пястаў.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Казімір прызначыў спадчыннікам свайго пляменніка Людовіка I Вугорскага (які пражыў у Вугоршчыне вялікую частку жыцця). Пасля яго смерці ў 1382 годзе непакорлівыя польскія дваране каранавалі яго малодшую дачку Ядвігу. Яна пабралася шлюбам з вялікім князем літоўскім Ягайла, у выніку чаго той, прыняўшы каталіцтва, стаў польскім каралём Уладзіславам II. Шлюбнікі кіравалі супольна, пакуль у 1399 годзе не памерла каралева, пасля чаго нарэшце наступіла пэўнасць з польскімі ўладнікамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>Прыйдучы на дапамогу літоўцам у іх жорсткай вайне з рыцарамі Тэўтонскага ордэна, Уладзіслаў II у 1401 годзе ўцягнуў у гэту вайну і Польшчу. У бітве пры Грунвальдзе ў ліпені 1410 года, што стала адной з самых жорсткіх бітваў Сярэднявечча, з'яднаныя літоўска-польскія войскі Уладзіслава здабылі такую знішчальную перамогу, што пасля яе Тэўтонскі ордэн быў фактычна знішчаны, а яго лідары былі забіты або захоплены ў палон.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>Уладнікі дынастыі Ягелонаў правялі наступныя некалькі дзесяцігоддзяў у сталых (і, зазвычай, пераможных) войнах са сваімі прагнымі суседзямі. Яны ваявалі з адроджаным Тэўтонскім ордэнам, з Прусіяй, з Вугорскім і Багемскім каралеўствамі, з вялікім княствам Маскоўскім, а на поўдні – з туркамі-асманамі і крымскімі татарамі, якія паміж 1474 і 1569 гадамі здзейснілі не менш 75 набегаў на Польшчу – здаецца, жыццё іх нічому не вучыла. Увогуле падчас кіравання дынастыі Ягелонаў польскім князям атрымалася захаваць межы і ўплыў Польшчы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>Значна больш значнымі апынуліся не вайсковыя перамогі, а сацыяльныя і навуковыя дасягненні Польшчы пры Ягелонах. У 1505 годзе быў прыняты закон «Nihil Novi», які абмяжоўваў заканадаўчую ўладу караля на карысць сойму – парламенту, што складалася з польскай шляхты. Гэта стала важным крокам на шляху дэмакратычнага развіцця. Рэфармацыя – асабліва дзейнасць Яна Гуса ў Багеміі – спрыяла шыранню пратэстантызму ў Польшчы і пацягнула прыняцце шэрага законаў пра рэлігійную памяркоўнасць. Ідэалы Рэнесансу падштурхнулі Жыгімонта I і Жыгімонта II на развіццё польскага мастацтва і культуры. А ў 1543 годзе польскі астраном Мікалай Капернік апублікаваў эпахальную працу, у якой даводзіў праўдзівасць геліяцэнтрычнай мадэлі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>Падагнаныя набіраючымі сілу нацыяналістычнымі ідэямі, імкненнем да дэмакратыі і лёгкай турботай з-за намераў суседзяў, у чэрвені 1569 года прадстаўнікі сойма падпісалі Люблінскую ўнію, што замацавала польска-літоўскі звяз і паклала пачатак адной федэрацыйнай дзяржаве з абіраным манархам, але кіраваную ў першую чаргу шляхтай праз сходы і цэнтральны парламент. Бяздзетны Жыгімонт II, апошні з дынастыі Ягелонаў, зацвердзіў і падпісаў гэты акт. Хоць пасля гэтага ў Польшчы наступіў перыяд стабільнасці і дабрабыту, і пад уплыў Польшчы трапілі заходняя Украіна і заходняя Расія, неўзабаве краіна пагрузілася ў вір канфліктаў з Расіяй, Швецыяй, Турцыяй, казакамі і іншымі шумнымі суседзямі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>Гэтыя войны (асабліва ўцягненне Польшчы ў Паўночную вайну), а таксама кіраванне шэрага слабых каралёў прывялі да таго, што краіне шалёна запатрабаваліся ўнутраныя рэформы. У сярэдзіне XVIII стагоддзя сойм праводзіў эканамічныя, вайсковыя, сацыяльныя і адукацыйныя рэформы, і ў прыватнасці заснаваў у 1773 годзе камісію нацыянальнай адукацыі – першую фундаваную дзяржавай адукацыйную сістэму ў Еўропе, якая нарэшце навучыла сялян чытаць Пісьмо самастойна. Неўзабаве пасля гэтага яны пачалі патрабаваць больш правоў і нават захацелі спазнаць крыху дэмакратыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_12" Language="en_US">
+			<Text>З гэтага часу палякі чытаюць ужо не толькі Біблію. У папярэднія стагоддзі пад уладай высокадухоўных манархаў польская культура развівалася і квітнела. Польскія аўтары – прыкладам, Ігнацы Красіцкі і Ян Патоцкі – пачалі пісаць творы самых розных жанраў на роднай мове. Хоць польская культура падпала пад сур'ёзны ўплыў германцаў, славянаў, лацінянаў і візантыйцаў, у архітэктуры, мастацтве і танцы выразна прасочваўся нацыянальны характар. Але асабліва палякі атрымалі поспех у музыцы, узрушальна працуючы з тэмбрам і тонам, тэмпам і тэкстурай. Пазней сусветна вядомыя польскія кампазітары, такія як Шапэн, скарысталіся напрацоўкамі сваіх вялікіх папярэднікаў – Мяльчэўскага, Агінскага і Шыманоўскай.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_13" Language="en_US">
+			<Text>Польшча рабілася ўсе багацейшай за кошт экспарту сельскагаспадарчай прадукцыі. Рэч Паспалітая была найбуйным у Еўропе вытворцам пшанічнага збожжа. Па меры развіцця сельскай гаспадаркі Польшча павялічвала экспарт садавіны, спецый, селядца, тканіны, драўніны, піва і віна. Усе гэтыя прадукты дастаўляліся на баржах па Вісле, Бугу і Нёмане ў парты Балтыйскага мора, такія як Гданьск, для адгрузкі ў Фландрыю і Нідэрланды. Наземныя гандлёвыя шляхі пралягалі ўглыб Святой Рымскай Імперыі. Каб не выпускаць прыбытак, у 1496 годзе Сойм зацвердзіў злоты ў якасці нацыянальнай валюты. Апошні польскі кароль Станіслаў Аўгуст Панятоўскі ў рамках фінансавай рэформы правёў стандартызацыю злотага... і ў гэты момант Рэч Паспалітая спыніла сваё існаванне.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_14" Language="en_US">
+			<Text>Выдаткі на рэформы спустошылі скарб і, такім чынам, паслабілі войска Польшчы, а дваране не жадалі рызыкаваць жыццямі і грашамі, таму суседзяў ужо нішто не ўтрымвала ад нападу. У 1772 годзе, калі Расія, Аўстрыя і Прусія акупавалі асобныя часткі краіны, адбыўся Першы падзел Рэчы Паспалітай. Пасля кароткай польска-рускай вайны Прусія і Расія ўжыццявілі Другі падзел, у выніку якога Польшча пазбавілася столькіх тэрыторый, што больш не магла забяспечваць сябе ў эканамічным і вайсковым дачыненні. У 1795 годзе Аўстрыя, Расія і Прусія падзялілі паміж сабой астатнюю тэрыторыю, і незалежная Польшча перастала існаваць.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_15" Language="en_US">
+			<Text>У выніку апошняга падзелу Польшча знікла з карты свету... амаль. Вялікае герцагства Варшаўскае было адроджана Напалеонам у якасці французскага пратэктарату. Пасля паразы Банапарта землі герцагства зноў падзялілі паміж Прусіяй, Аўстрыяй і Расіяй. Пасля Першай сусветнай вайны Польшча зноў знайшла незалежнасць, але змушана была два гады ваяваць з нованароджанай Савецкай Расіяй, каб захаваць гэту волю. Надышоў 1939 год, і краіну падзялілі фашысцкая Германія і Савецкі Саюз. Па сканчэнні Другой Сусветнай адроджаная Польшча апынулася за жалезнай заслонай. Аднак у 90-я гады XX стагоддзя палякі аднымі з першых наважна рассунулі ладна праржавелую заслону і вярнулі сабе волю. Польскі народ вылучна настойлівы ў сваім імкненні да самакіравання.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_TITLE" Language="en_US">
+			<Text>Ядвіга</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_SUBTITLE" Language="en_US">
+			<Text>Ядвіга – каралева Польшчы і святая</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_QUOTE" Language="en_US">
+			<Text>«Служкам Бога пашцасціла з панам».</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Напрыканцы XIV стагоддзя ў Польшчы мала хто верыў, што трэцяя дачка караля здольная на нешта большае, чым засцерагчы будучыню сваёй краіны з дапамогай удалага шлюбу. Але Ядвіга за свой кароткі век падначаліла ўсю Польшчу. Гэта самаадданая і праніклівая ўладніца імкнулася з'яднаць розныя народы ў адно цэлае з дапамогай агульнай (і агульназразумелай) веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Ядвіга нарадзілася ў 1373 годзе. Яе бацькамі былі Лізавета Баснійская і кароль Вугоршчыны і Польшчы Людовік I. Яна выхоўвалася пры двары ў Будзе і Вішэградзе, атрымала добрую адукацыю, вольна гаварыла на пяці мовах і была неверагодна набожнай. Пасля смерці Людовіка ў 1382 годзе пачаўся крызіс атрымання пасада ў спадчыну – і, каб пакласці яму канец, Лізавета адправіла юную Ядвігу ў Кракаў. Польскі народ пакахаў яе за дабрыню, каталіцкая царква ацаніла яе набожнасць, а ўпартыя польскія дваране былі заваяваны яе пачцівасцю. Так 11-гадовая князёўна Ядвіга ў 1384 годзе стала каралевай Вялікай Польшчы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Новая польская ўладарка прыйшла да ўлады ў небяспечны час. На трон прэтэндавала жменька слабых спадчыннікаў Казіміра. Яшчэ горш было тое, што Польшчы пагражалі германскія дзяржавы і ўладнікі Масковіі, а таксама ўвесь час вісела пагроза ўварвання манголаў і татар. Каб знайсці хаўруснікаў і засцерагчы будучыню Польшчы, Ядвіга пагадзілася скласці шлюб з вялікім князем літоўскім Ягайла – пры ўмове, што ён і яго падданыя пяройдуць з паганства ў каталіцтва.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>У 1386 годзе Ядвіга заручылася з навахрышчаным Ягайла, які пазней узяў імя Уладзіславаў II, каб залагодзіць патрыятычна настроеных палякаў. Уладзіслава спехам каранавалі jure uxoris (лат. «па праве жонкі») за два дні да нападу на Літву Ордэна братоў нямецкага дому Святой Марыі Тэўтонскай у Ерусаліме (а калі карацей, то Тэўтонскага ордэна). Яны заявілі, што хочуць вярнуць згубленыя Казімірам землі. Але насамрэч ім было ўсе роўна, каго захопліваць.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Юная каралева-ўладар мела важную ролю ў выкараненні паганства ў Літве. Яна шмат разоў сустракалася з «князямі царквы», каб абмеркаваць з імі пераход літоўцаў у новую веру і вытлумачыць яе асновы. Уладзіслаў, вядома ж, таксама меў сваю ролю, ён нават уласнаруч высек дрэвы ў «святым» гаі ў сябе на радзіме. Ядвіга прызначыла штогадовую стыпендыю дваццаці літоўцам, каб тыя навучаліся ў Карлавым універсітэце ў Празе і потым дапамаглі ўмацаваць веру ў сябе дома. Апроч таго, яна арганізавала епархію ў Вільнюсе, які быў сапраўдным гняздом заганы.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Ядвіга і Уладзіслаў на здзіўленне суладна кіравалі. Кажуць, што падчас перамоў з магістрам Тэўтонскага ордэна набожнасць Ядвігі гэтак засароміла гэтага камандзіра прагных і крыважэрных бандытаў, што ён на час спыніў набегі. Ядвіга памірыла Уладзіслава са стрыечнікам Вітольдам, які імкнуўся атрымаць літоўскую карону. У 1387 годзе яна ўзначаліла два вайсковыя паходы, каб вярнуць землі Рутэніі, захопленыя Вугоршчынай. І хоць бітваў практычна не было, Ядвізе пашчасціла вярнуць гэту правінцыю Польшчы, а малдаўскі цар Петру I стаў плаціць даніну польскім манархам.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>Ядвіга была адукаванейшай за большасць яе падданых, і імкнулася адукоўваць іх у галіне вытанчаных мастацтваў. Яна апекавала многіх польскіх мастакоў і пісьменнікоў. Адзін з найважных яе ўнёскаў у культуру Польшчы – аднаўленне Кракаўскай акадэміі. Яна ахвяравала свае асабістыя каштоўнасці, каб прафінансаваць гэту навучальную ўстанову, дзе вывучалі астраномію, юрыспрудэнцыю і тэалогію. Ядвіга заклікала да шырэйшага разумення веры і загадала перавесці Біблію на народную польскую мову.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>Але кіраванне Ядвігі хутка скончылася. У 1399 годзе яна нарадзіла дачку, але ўжо праз месяц і маці, і дзіцё памерлі ад ускладненняў пасля цяжкіх родаў. Ядвіга пражыла ўсяго 25 гадоў, і больш за палову гэтага тэрміну яна правяла на троне. Яна ўмацавала сувязі з Літвой, што забяспечыла годную будучыню абодвум народам. Яе суўладца Уладзіслаў кіраваў Польшчай і Літвой яшчэ 35 гадоў.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Польшча пры каралеве Ядвізе – гэта дынамічная дзяржава, што валодае як вайсковай, гэтак і рэлігійнай моцай. Нічога не будуйце заблізка да яе гарадоў – яна можа правесці культурны захоп тэрыторыі, пабудаваўшы форт ці вайсковы лагер.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>Польшча – шматгранная цывілізацыя з вялікім вайсковым патэнцыялам, які можна перанакіраваць на іншыя мэты. Адно з вочак вайсковага палітычнага курса ператворана ва ўніверсальнае, што дазваляе Польшчы наняць выбітнага прарока і заснаваць рэлігію раней за іншыя цывілізацыі. Апроч таго, будаванне форта ці вайсковага лагера дае магчымасць зрабіць культурны захоп вольных клетак. Гарады, што страцілі тэрыторыю на карысць Ядвізе, навяртаюцца ў яе рэлігію. Таму нават у тым выпадку, калі Ядвіга робіць стаўку на вайсковую сілу, абірае формы кіравання з вайсковымі вочкамі і ўмацоўвае свае межы, Польшча ўсе роўна застаецца вельмі моцнай у рэлігійным і эканамічным сэнсах дзяржавай.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>Не паспелі Ядвігу пахаваць у саборы Вавеля, як да саркафага пачалі з'язджацца яе падданыя, наслухаўшыся пра яе святасць. Чуткі пра нягрэшнасць Ядвігі і створаныя ёю дзівы разышліся па ўсёй краіне. Расказвалі, што падчас малітвы з Ядвігай загаварыла фігура Хрыста з чорнага ўкрыжавання. Казалі, што яна аддала беднаму муляру сваё ўпрыгожанне; калі яна пайшла, яе след застаўся захаваны ў застыглай гіпсавай падлозе. Яшчэ адна гісторыя кажа пра патанулага сына медніка. Ядвіга праходзіла побач у складзе працэсіі ў гонар свята Цела Хрыстова. Яна накінула свой шаль на цела хлопчыка, і той ажыў. На грунце гэтых трох паведамленняў пра дзівы каталіцкая царква ў 1997 годзе прылічыла яе да сонму святых.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_POLISH_HUSSAR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Вайсковыя рэформы ў Польшчы канца 1570-х гадоў спарадзілі «крылатых гусар» – грозную цяжкую кавалерыю, што ўсяляла жах у ворагаў на працягу двух наступных стагоддзяў. Заміж таго, каб запрашаць у кавалерыю іншаземных наймітаў, князь Трансільваніі Стэфан Баторый (вялікі князь літоўскі, кароль польскі па праве жонкі і ўладальнік многіх іншых пышных тытулаў) мабілізаваў атрады крылатых гусар з ліку польскай шляхты і яе дружын. Знакамітыя «крылы» – гэта драўляныя рамы, упрыгожаныя пёрамі, прымацаваныя да спіны вершніка ў якасці знака адрознення. Расказвалі, што пёры выдаюць гук, які палохае коней і дэмаралізуе салдат суперніка «пякельным свістам» – так сцвярджалі пасля пісьменнікі-рамантыкі. Але бясспрэчна тое, што пікі, шаблі і пістолі гусараў сапраўды палохалі коней і дэмаралізавалі салдатаў суперніка.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MALE_1" Language="en_US">
+			<Text>Алаіз|Алаіза|Алаізу|Алаіза|Алаізам|Алаізу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MALE_2" Language="en_US">
+			<Text>Блажэй|Блажэя|Блажэю|Блажэя|Блажэем|Блажэі</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MALE_3" Language="en_US">
+			<Text>Часлаў|Часлава|Чаславу|Часлава|Чаславам|Чаславу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MALE_4" Language="en_US">
+			<Text>Дабрагост|Дабрагоста|Дабрагосту|Дабрагоста|Дабрагостам|Дабрагосту</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MALE_5" Language="en_US">
+			<Text>Гжэгаш|Гжэгаша|Гжэгашу|Гжэгаша|Гжэгашам|Гжэгашу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MALE_6" Language="en_US">
+			<Text>Януш|Януша|Янушу|Януша|Янушам|Янушу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MALE_7" Language="en_US">
+			<Text>Яраслаў|Яраслава|Яраславу|Яраслава|Яраславам|Яраславе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MALE_8" Language="en_US">
+			<Text>Лех|Леха|Леху|Леха|Лехам|Леху</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MALE_9" Language="en_US">
+			<Text>Славамір|Славаміра|Славаміру|Славаміра|Славамірам|Славаміру</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MALE_10" Language="en_US">
+			<Text>Збігнеў|Збігнева|Збігневу|Збігнева|Збігневам|Збігневу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_FEMALE_1" Language="en_US">
+			<Text>Адэлайда|Адэлайды|Адэлайдзе|Адэлайду|Адэлайдай|Адэлайдзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_FEMALE_2" Language="en_US">
+			<Text>Альдона|Альдоны|Альдоне|Альдону|Альдонай|Альдоне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_FEMALE_3" Language="en_US">
+			<Text>Берта|Берты|Берце|Берту|Бертай|Берце</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_FEMALE_4" Language="en_US">
+			<Text>Францішка|Францішкі|Францішцы|Францішку|Францішкай|Францішцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_FEMALE_5" Language="en_US">
+			<Text>Ягода|Ягоды|Ягодзе|Ягодзе|Ягодай|Ягодзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_FEMALE_6" Language="en_US">
+			<Text>Катажына|Катажыны|Катажыне|Катажыну|Катажынай|Катажыне</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_FEMALE_7" Language="en_US">
+			<Text>Мілена|Мілены|Мілене|Мілену|Міленай|Мілене</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_FEMALE_8" Language="en_US">
+			<Text>Патка|Паткі|Патцы|Патку|Паткай|Патцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_FEMALE_9" Language="en_US">
+			<Text>Радаміла|Радамілы|Радаміле|Радамілу|Радамілай|Радаміле</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_FEMALE_10" Language="en_US">
+			<Text>Валерыя|Валерыі|Валерыі|Валерыю|Валерыяй|Валерыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_MALE_1" Language="en_US">
+			<Text>Барташ|Барташа|Барташу|Барташа|Барташам|Барташу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_MALE_2" Language="en_US">
+			<Text>Сірыл|Сірыла|Сірылу|Сірыла|Сірылам|Сірылу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_MALE_3" Language="en_US">
+			<Text>Феодар|Феодара|Феодару|Феодара|Феодарам|Феодару</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_MALE_4" Language="en_US">
+			<Text>Флавіюш|Флавіюша|Флавіюшу|Флавіюша|Флавіюшам|Флавіюшу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_MALE_5" Language="en_US">
+			<Text>Яніуш|Яніуша|Яніушу|Яніуша|Яніушам|Яніушу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_MALE_6" Language="en_US">
+			<Text>Кацпер|Кацпера|Кацперу|Кацпера|Кацперам|Кацперу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_MALE_7" Language="en_US">
+			<Text>Мацей|Мацея|Мацею|Мацея|Мацеем|Мацею</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_MALE_8" Language="en_US">
+			<Text>Шымон|Шымона|Шымону|Шымона|Шымонам|Шымону</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_MALE_9" Language="en_US">
+			<Text>Тадэвуш|Тадэвуша|Тадэвушу|Тадэвуша|Тадэвушам|Тадэвушу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_MALE_10" Language="en_US">
+			<Text>Вілюс|Вілюса|Вілюсу|Вілюса|Вілюсам|Вілюсу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_1" Language="en_US">
+			<Text>Ангеліка|Ангелікі|Ангеліцы|Ангеліку|Ангелікай|Ангеліцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_2" Language="en_US">
+			<Text>Брыгіда|Брыгіды|Брыгідзе|Брыгіду|Брыгідай|Брыгідзе</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_3" Language="en_US">
+			<Text>Даніка|Данікі|Даніцы|Даніку|Данікай|Даніцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_4" Language="en_US">
+			<Text>Эва|Эвы|Эве|Эву|Эвай|Эве</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_5" Language="en_US">
+			<Text>Кая|Каі|Каі|Каю|Каей|Каі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_6" Language="en_US">
+			<Text>Люцыя|Люцыі|Люцыі|Люцыю|Люцыяй|Люцыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_7" Language="en_US">
+			<Text>Магдалена|Магдалены|Магдалене|Магдалену|Магдаленай|Магдалене</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_8" Language="en_US">
+			<Text>Поля|Полі|Полі|Полю|Поляй|Полі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_9" Language="en_US">
+			<Text>Вікторыя|Вікторыі|Вікторыі|Вікторыю|Вікторыяй|Вікторыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CITIZEN_POLAND_MODERN_FEMALE_10" Language="en_US">
+			<Text>Зофія|Зофіі|Зофіі|Зофію|Зофіяй|Зофіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_POLISH_HUSSAR_NAME" Language="en_US">
+			<Text>Унікальны юніт Польшчы: крылатыя гусары</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_BUILDING_SUKIENNICE_NAME" Language="en_US">
+			<Text>Унікальны будынак Польшчы: суконныя рады</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAINT_NAME" Language="en_US">
+			<Text>Святая</Text>
+		</Replace>
+		<Replace Tag="LOC_AGENDA_SAINT_DESCRIPTION" Language="en_US">
+			<Text>Імкнецца развіваць [ICON_Faith] веру і сімпатызуе цывілізацыям, што таксама надаюць вялікую ўвагу [ICON_Faith] веры.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_POLAND_LOCATION" Language="en_US">
+			<Text>Еўропа</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_POLAND_SIZE" Language="en_US">
+			<Text>Прыкладна 312,6 кв.км</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_POLAND_POPULATION" Language="en_US">
+			<Text>38,5 млн. (прагноз на 2016 г.)</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVINFO_POLAND_CAPITAL" Language="en_US">
+			<Text>Розныя (Плоцк, Познань, Кракаў, Варшава)</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JADWIGA" Language="en_US">
+			<Text>Набожная Ядвіга, вы ўславіце Бога і Польшчу! Вам наканавана навярнуць сваіх падданых у праўдзівую веру, каб яны панеслі яе далей у свет. Вялікія крылатыя ваяры абароняць вас у цяжкую гадзіну, які вы сустрэнеце з неперасягненай годнасцю.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Вядома, мы прымаем вашу прапанову сяброўства. У гэтым свеце вы паказваеце сабой бліскучы прыклад учыннасці.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Пакорліва адхіляю вашу прапанову сяброўства. У гэты час яна не пажадана Богу.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Нашы народы – братэрскія. Давайце афіцыйна абвесцім пра наша сяброўства.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Вельмі добра.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Я праігнарую гэту абразу.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Дык вось якое ваша сапраўднае аблічча! Змяя, якая стаілася ў траве... якую лёгка растаптаць.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Мой абавязак – бараніць інтарэсы Польшчы. Здавайцеся зараз жа – так мы ўнікнем кровапраліцця.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Мы прынялі вашых пасланцоў-гандляроў. Ім будзе аддадзена адменная пашана.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Мы ветліва адмаўляемся прыняць вашу дэлегацыю.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Да вас адправілася гандлёвая дэлегацыя з дарункамі – пісанкамі. Яны былі асвячоны і больш не прыналежаць да паганскай традыцыі.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Я шчыра і пакорліва служу Богу. Маё сумленне чыстае. Мне няма чаго хаваць.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Зло не можа хавацца доўга. Бог усё таемнае робіць выяўным. (Асуджае вас)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Гэту сустрэчу блаславіў Бог. Я – Ядвіга, кароль Вялікай Польшчы. Так, кароль.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Пакорліва прашу вас ушанаваць нас і наведаць блізкі горад. Мы можам разам палюбавацца святочнымі народнымі танцамі.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Я прымаю вашу прапанову.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Раскажыце мне пра сваю сталіцу. Я, вядома, з задавальненнем раскажу вам пра сталіцу Польшчы, калі пажадаеце.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_GREETING_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Вельмі прыемна.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Бачу, вы знайшлі мудрасць Пана і несяце яе ў свет. Гэта добра.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_KUDO_LEADER_JADWIGA_REASON_ANY" Language="en_US">
+			<Text>(Вы вырабляеце шмат [ICON_Faith] веры)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Я штодня малю Бога пра тое, каб вы знайшлі мудрасць Пана.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_LEADER_JADWIGA_REASON_ANY" Language="en_US">
+			<Text>(Вы вырабляеце мала веры)</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Хочаце скласці звяз?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Мы ніколі не жадалі гэтай вайны. Мы хочам толькі міру.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Вядома, не.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Богу дагодна спыніць гэта кровапраліцце. Ці згодны вы?</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Сардэчна запрашаем у Польшчу. Жадаем прыемнага вандравання па нашай цудоўнай зямлі.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Гэтыя межы святыя, Бог ахоўвае іх. Я не магу пайсці на гэта.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Маім людзям трэба прайсці па вашай зямлі. Яны будуць выконваць вашы законы, калі вы дасце свой дазвол.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Мы заўважылі перасоўванне вашых войскаў. Калі ласка, адвядзіце іх.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Не, я не спыню служэнне Богу. Я ў самым пачатку хвалебных справаў!</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Гэта немагчыма.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JADWIGA_ANY" Language="en_US">
+			<Text>Вялікае вам дзякуй.</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_SAINT_HIGH_FAITH" Language="en_US">
+			<Text>Ядвіга рада таму, што вы атрымваеце шмат веры</Text>
+		</Replace>
+		<Replace Tag="LOC_DIPLO_MODIFIER_SAINT_LOW_FAITH" Language="en_US">
+			<Text>Ядвіга расчаравана тым, што вы атрымваеце мала веры</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_PUSHBACK_DESCRIPTION" Language="en_US">
+			<Text>Адкідае варожых юнітаў-абаронцаў з занятых імі клетак, калі створыць больш шкоды, чым атрымае.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_NAME" Language="en_US">
+			<Text>Францыя|Францыі|Францыі|Францыю|Францыяй|Францыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_DESCRIPTION" Language="en_US">
+			<Text>Трэцяя Рэспубліка|Трэцяй Рэспублікі|Трэцяй Рэспубліцы|Трэцюю Рэспубліку|Трэцяй Рэспублікай|Трэцяй Рэспубліцы</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_ADJECTIVE" Language="en_US">
+			<Text>французск.|французск.|французск.|французск.|французск.|французск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_NAME" Language="en_US">
+			<Text>Германская імперыя|Германскай імперыі|Германскай імперыі|Германскую імперыю|Германскай імперыяй|Германскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_DESCRIPTION" Language="en_US">
+			<Text>Германская імперыя|Германскай імперыі|Германскай імперыі|Германскую імперыю|Германскай імперыяй|Германскай імперыі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_ADJECTIVE" Language="en_US">
+			<Text>германск.|германск.|германск.|германск.|германск.|германск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="en_US">
+			<Text>Брытанія|Брытаніі|Брытаніі|Брытанію|Брытаніяй|Брытаніі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_DESCRIPTION" Language="en_US">
+			<Text>Злучанае Каралеўства|Злучанага Каралеўства|Злучанаму Каралеўству|Злучанае Каралеўства|Злучаным Каралеўствам|Злучаным Каралеўстве</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_ADJECTIVE" Language="en_US">
+			<Text>брытанск.|брытанск.|брытанск.|брытанск.|брытанск.|брытанск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="en_US">
+			<Text>Бельгія|Бельгіі|Бельгіі|Бельгію|Бельгіяй|Бельгіі</Text>
+			<Gender>feminine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_DESCRIPTION" Language="en_US">
+			<Text>Каралеўства Бельгія|каралеўства Бельгія|каралеўству Бельгія|каралеўства Бельгія|каралеўствам Бельгія|каралеўстве Бельгія</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_ADJECTIVE" Language="en_US">
+			<Text>бельгійск.|бельгійск.|бельгійск.|бельгійск.|бельгійск.|бельгійск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="en_US">
+			<Text>Люксембург|Люксембурга|Люксембургу|Люксембург|Люксембургам|Люксембургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_DESCRIPTION" Language="en_US">
+			<Text>Вялікае Герцагства Люксембург|Вялікага Герцагства Люксембург|Вялікаму Герцагству Люксембург|Вялікае Герцагства Люксембург|Вялікім Герцагствам Люксембург|Вялікім Герцагстве Люксембург</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_ADJECTIVE" Language="en_US">
+			<Text>люксембургск.|люксембургск.|люксембургск.|люксембургск.|люксембургск.|люксембургск.</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_FRANCE_NAME" Language="en_US">
+			<Text>Камандаванне Францыяй|камандаванні Францыяй|камандаванню Францыяй|камандаванне Францыяй|камандаваннем Францыяй|камандаванні Францыяй</Text>
+			<Gender>neuter</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_GERMANY_NAME" Language="en_US">
+			<Text>Германскі генштаб|Германскага генштаба|Германскаму генштабу|Германскі генштаб|Германскім генштабам|Германскім генштабе</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="en_US">
+			<Text>БЭС|БЭС|БЭС|БЭС|БЭС|БЭС</Text>
+			<Gender>feminine</Gender>
+			<Plurality>2</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="en_US">
+			<Text>Кароль Альберт I|Караля Альберта І|Каралю Альберту І|Караля Альберта І|Каралём Альбертам І|Каралю Альберту І</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="en_US">
+			<Text>Люксембург|Люксембурга|Люксембургу|Люксембург|Люксембургам|Люксембургу</Text>
+			<Gender>masculine</Gender>
+			<Plurality>1</Plurality>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_ERA_INDUSTRIAL_DESCRIPTION" Language="en_US">
+			<Text>У гэтым сцэнары вы камандуеце войскам Францыі ці Германіі напачатку Першай сусветнай вайны. У вашым веданні велізарнае войска, гатовае здзейсніць удар, надзейны тыл з развітай прамысловасцю – і ўсяго 40 хадоў, каб захапіць ці абараніць Парыж. Ці зможаце вы перамагчы ў гэтым грандыёзным сутыкненні вайсковых машын? Ці маштабная вайна вам не пад сілу?</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_NAME" Language="en_US">
+			<Text>Вайсковая машына</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_NAME" Language="en_US">
+			<Text>Перамога ў «Вайсковай машыне»</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_TT" Language="en_US">
+			<Text>Гуляючы за Германію, вы павінны захапіць Парыж за абмежаваны лік хадоў. Гуляючы за Францыю, вы павінны ўтрымаць Парыж і не дапусціць яго захопу.</Text>
+		</Replace>
+		<Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_NAME" Language="en_US">
+			<Text>Перамога ў «Вайсковай машыне»</Text>
+		</Replace>
+		<Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TEXT" Language="en_US">
+			<Text>Гэта кампанія прынесла вам перамогу!</Text>
+		</Replace>
+		<Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TT" Language="en_US">
+			<Text>Перамога за Германію: за пэўны час захапіць Парыж. Перамога за Францыю: утрымаць Парыж і не дапусціць яго захопу.</Text>
+		</Replace>
+		<Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_NAME" Language="en_US">
+			<Text>Заходні фронт ПСВ</Text>
+		</Replace>
+		<Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_DESCRIPTION" Language="en_US">
+			<Text>Стандартная карта, што паказвае рэгіёны, што прылягаюць да франка-германскай мяжы, у 1914 г.</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_NAME" Language="en_US">
+			<Text>Масіраваны наступ</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>+4 [ICON_Strength] да баявой моцы пяхоты падчас атакі.</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_NAME" Language="en_US">
+			<Text>Інавацыі Крупа</Text>
+		</Replace>
+		<Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_DESCRIPTION" Language="en_US">
+			<Text>+4 [ICON_Strength] да баявой моцы артылерыі падчас атакі.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

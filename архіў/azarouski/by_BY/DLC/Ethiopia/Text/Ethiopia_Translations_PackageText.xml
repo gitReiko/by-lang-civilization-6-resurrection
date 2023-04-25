@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TITLE" Language="en_US">
+      <Text>Набор: «Эфіёпія»</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_TEASER" Language="en_US">
+      <Text>Новая цывілізацыя і лідар — Менелік II, негус Эфіёпіі</Text>
+    </Replace>
+    <Replace Tag="LOC_ETHIOPIA_MOD_DESCRIPTION" Language="en_US">
+      <Text>Змяшчае новую цывілізацыю з лідарам, новы раён, два новыя будынкі і рэжым гульні «Таемная суполка».</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>
