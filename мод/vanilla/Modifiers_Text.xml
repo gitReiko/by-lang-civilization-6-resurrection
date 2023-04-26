@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <BaseGameText>
+    <!-- Modifier Object Text - Used in GameCore -->
+    <Row Tag="LOC_MODIFIER_OBJECT_BUILDING">
+      <Text>Будынак|Будынкі</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_CITY">
+      <Text>Горад|Гарады</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_DISTRICT">
+      <Text>Мястэчка|Мястэчкі</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_GOVERNMENT">
+      <Text>Урад|Урады</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_PLAYER">
+      <Text>Гулец|Гульцы</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_PLAYER_CAPTURED_UNIT">
+      <Text>Адзінка Захопленая гульцом|Адзінкі Захопленыя гульцом</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_POLICY">
+      <Text>Палітыка|Палітыкі</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_TEAM">
+      <Text>Каманда|Каманды</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_TECHNOLOGY">
+      <Text>Тэхналогія|Тэхналогіі</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_UNIT">
+      <Text>Адзінка|Адзінкі</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+    <Row Tag="LOC_MODIFIER_OBJECT_UNIT_PROMOTION">
+      <Text>Прасоўваньне Адзінкі|Прасоўваньні Адзінак</Text>
+      <Plurality>1|2</Plurality>
+    </Row>
+  </BaseGameText>
+</GameData>

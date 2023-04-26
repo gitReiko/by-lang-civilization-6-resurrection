@@ -1,15 +1,17 @@
 amenities - дабрабыт
 appeal = прывабнасьць
 belief - звычай
+building - будынак
 charges - дзеяньні
 citizen - жыхар
 city - горад 
 city-state = горад-дзяржава
-civic - палітыка
+civic -  цывік
 custom = уласны
 district - мястэчка
 faith - вера
 formation - шыхт
+government - урад
 great admiral - выбітны адмірал
 great artist - выбітны мастак
 great general - выбітны генерал
@@ -24,6 +26,7 @@ housing - жытло
 melee - блізкі бой
 natural wonder = дзіва прыроды
 plot - пяцікутнік
+policy = палітыкі
 production - вытворчасьць
 range - далёкі бой
 room - пакой
@@ -33,6 +36,7 @@ terrain - пляцоўка
 terrain feature - забудова
 unique - асаблівы
 unit - адзінка
+unit promotion = прасоўваньне адзінкі
 wonder = цуда сьвету
 yield - прыбытак
 ок - добра
