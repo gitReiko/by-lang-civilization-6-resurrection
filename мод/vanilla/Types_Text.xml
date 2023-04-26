@@ -58,10 +58,10 @@
 			<Text>Адзінка (замяняе {1_UnitName[4]})</Text>
 		</Row>
 		<Row Tag="LOC_WONDER_NAME">
-			<Text>Цуда Сьвету</Text>
+			<Text>Цуда</Text>
 		</Row>
 		<Row Tag="LOC_WONDER_NAME_REPLACES">
-			<Text>Цуда Сьвету (замяняе {1_WonderName[4]})</Text>
+			<Text>Цуда (замяняе {1_WonderName[4]})</Text>
 		</Row>
 		<Row Tag="LOC_NATURAL_WONDER_NAME">
 			<Text>Дзіва Прыроды</Text>
