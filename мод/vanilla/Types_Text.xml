@@ -4,67 +4,67 @@
 	<BaseGameText>
 		<!-- Types -->
 		<Row Tag="LOC_BELIEF_NAME">
-			<Text>Belief</Text>
+			<Text>Звычай</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_NAME">
-			<Text>Building</Text>
+			<Text>Будынак</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_NAME_REPLACES">
-			<Text>Building (replaces {1_BuildingName})</Text>
+			<Text>Будынак (замяняе {1_BuildingName[4]})</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_NAME">
-			<Text>Civic</Text>
+			<Text>Цывік</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_NAME">
-			<Text>District</Text>
+			<Text>Мястэчка</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_NAME_REPLACES">
-			<Text>District (replaces {1_DistrictName})</Text>
+			<Text>Мястэчка (замяняе {1_DistrictName[4]})</Text>
 		</Row>
 		<Row Tag="LOC_ENVOY_NAME">
-			<Text>Envoy</Text>
+			<Text>Амбасадар</Text>
 		</Row>
 		<Row Tag="LOC_ERA_NAME">
-			<Text>Era</Text>
+			<Text>Эра</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_NAME">
-			<Text>Government</Text>
+			<Text>Урад</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_NAME">
-			<Text>Improvement</Text>
+			<Text>Забудова</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_NAME">
-			<Text>Policy</Text>
+			<Text>Палітыка</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_NAME">
-			<Text>Project</Text>
+			<Text>Праект</Text>
 		</Row>
 		<Row Tag="LOC_RESOURCE_NAME">
-			<Text>Resource</Text>
+			<Text>Рэсурс</Text>
 		</Row>
 		<Row Tag="LOC_ROUTE_NAME">
-			<Text>Route</Text>
+			<Text>Шлях</Text>
 		</Row>
 		<Row Tag="LOC_SPY_NAME">
-			<Text>Spy</Text>
+			<Text>Шпіён</Text>
 		</Row>
 		<Row Tag="LOC_TECHNOLOGY_NAME">
-			<Text>Technology</Text>
+			<Text>Тэхналогія</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_NAME">
-			<Text>Unit</Text>
+			<Text>Адзінка</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_NAME_REPLACES">
-			<Text>Unit (replaces {1_UnitName})</Text>
+			<Text>Адзінка (замяняе {1_UnitName[4]})</Text>
 		</Row>
 		<Row Tag="LOC_WONDER_NAME">
-			<Text>Wonder</Text>
+			<Text>Цуда Сьвету</Text>
 		</Row>
 		<Row Tag="LOC_WONDER_NAME_REPLACES">
-			<Text>Wonder (replaces {1_WonderName})</Text>
+			<Text>Цуда Сьвету (замяняе {1_WonderName[4]})</Text>
 		</Row>
 		<Row Tag="LOC_NATURAL_WONDER_NAME">
-			<Text>Natural Wonder</Text>
+			<Text>Дзіва Прыроды</Text>
 		</Row>
 		<!-- Buildings -->
 		<Row Tag="LOC_BUILDING_AIRPORT_NAME">

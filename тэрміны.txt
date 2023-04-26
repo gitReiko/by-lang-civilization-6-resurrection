@@ -9,6 +9,8 @@ city-state = горад-дзяржава
 civic -  цывік
 custom = уласны
 district - мястэчка
+Envoy = Амбасадар
+Era = Эра
 faith - вера
 formation - шыхт
 government - урад
@@ -23,17 +25,23 @@ great writer - выбітны пісьменьнік
 greatwork writing - літаратурны твор
 host - майстар гульні
 housing - жытло
+Improvement = забудова
 melee - блізкі бой
 natural wonder = дзіва прыроды
+Resource = Рэсурс
+Route = Шлях
 plot - пяцікутнік
+Technology = тэхналогія
+Spy = Шпіён
 policy = палітыкі
 production - вытворчасьць
+Project = Праект
 range - далёкі бой
 room - пакой
 specialist = адмысловец
 spreads - распаўсюды
 terrain - пляцоўка
-terrain feature - забудова
+terrain feature =
 unique - асаблівы
 unit - адзінка
 unit promotion = прасоўваньне адзінкі
